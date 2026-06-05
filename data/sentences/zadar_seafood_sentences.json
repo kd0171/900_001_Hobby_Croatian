@@ -1,0 +1,572 @@
+[
+  {
+    "id": "zadar_fish_sentence_01",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "このブランジーノは新鮮ですか？",
+    "hr": "Je li ovaj brancin svjež?",
+    "pronunciation_ja": "イェ リ オヴァイ ブランツィン スヴィェジュ",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "cutting"
+    ],
+    "tokens": [],
+    "grammar": {
+      "title": "魚市場の確認表現",
+      "explanation_ja": "brancin は男性名詞として扱い、ovaj/svjež を使う。",
+      "tables": [
+        {
+          "title_ja": "使い方",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Je li...?",
+              "meaning_ja": "〜ですか？",
+              "example": "Je li ova orada svježa?"
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li je filetirati?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "生食可否は魚種名だけで判断せず、必ず店員に確認する。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Je li ovaj brancin svjež?",
+      "Je li ovaj brancin svjež"
+    ],
+    "accepted_answers_ja": [
+      "このブランジーノは新鮮ですか？",
+      "このブランジーノは新鮮ですか"
+    ]
+  },
+  {
+    "id": "zadar_fish_sentence_02",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "このオラダはグリルに向いていますか？",
+    "hr": "Je li ova orada dobra za roštilj?",
+    "pronunciation_ja": "イェ リ オヴァ オラダ ドブラ ザ ロシュティリ",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "cutting"
+    ],
+    "tokens": [],
+    "grammar": {
+      "title": "魚市場の確認表現",
+      "explanation_ja": "orada は女性名詞なので ova/dobra。",
+      "tables": [
+        {
+          "title_ja": "使い方",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Je li...?",
+              "meaning_ja": "〜ですか？",
+              "example": "Je li ova orada svježa?"
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li je filetirati?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "生食可否は魚種名だけで判断せず、必ず店員に確認する。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Je li ova orada dobra za roštilj?",
+      "Je li ova orada dobra za roštilj"
+    ],
+    "accepted_answers_ja": [
+      "このオラダはグリルに向いていますか？",
+      "このオラダはグリルに向いていますか"
+    ]
+  },
+  {
+    "id": "zadar_fish_sentence_03",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "この魚を三枚おろしにできますか？",
+    "hr": "Možete li ovu ribu filetirati?",
+    "pronunciation_ja": "モジェテ リ オヴ リブ フィレティラティ",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "cutting"
+    ],
+    "tokens": [],
+    "grammar": {
+      "title": "魚市場の確認表現",
+      "explanation_ja": "ovu ribu は『この魚を』。",
+      "tables": [
+        {
+          "title_ja": "使い方",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Je li...?",
+              "meaning_ja": "〜ですか？",
+              "example": "Je li ova orada svježa?"
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li je filetirati?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "生食可否は魚種名だけで判断せず、必ず店員に確認する。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Možete li ovu ribu filetirati?",
+      "Možete li ovu ribu filetirati"
+    ],
+    "accepted_answers_ja": [
+      "この魚を三枚おろしにできますか？",
+      "この魚を三枚おろしにできますか"
+    ]
+  },
+  {
+    "id": "zadar_fish_sentence_04",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "このオラダを皮なしにできますか？",
+    "hr": "Možete li ovoj oradi skinuti kožu?",
+    "pronunciation_ja": "モジェテ リ オヴォイ オラディ スキヌティ コジュ",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "cutting"
+    ],
+    "tokens": [],
+    "grammar": {
+      "title": "魚市場の確認表現",
+      "explanation_ja": "skinuti kožu = 皮を取る。",
+      "tables": [
+        {
+          "title_ja": "使い方",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Je li...?",
+              "meaning_ja": "〜ですか？",
+              "example": "Je li ova orada svježa?"
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li je filetirati?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "生食可否は魚種名だけで判断せず、必ず店員に確認する。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Možete li ovoj oradi skinuti kožu?",
+      "Možete li ovoj oradi skinuti kožu"
+    ],
+    "accepted_answers_ja": [
+      "このオラダを皮なしにできますか？",
+      "このオラダを皮なしにできますか"
+    ]
+  },
+  {
+    "id": "zadar_fish_sentence_05",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "骨をできるだけ取ってもらえますか？",
+    "hr": "Možete li izvaditi što više kostiju?",
+    "pronunciation_ja": "モジェテ リ イズヴァディティ シュト ヴィシェ コスティユ",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "cutting"
+    ],
+    "tokens": [],
+    "grammar": {
+      "title": "魚市場の確認表現",
+      "explanation_ja": "što više = できるだけ多く。",
+      "tables": [
+        {
+          "title_ja": "使い方",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Je li...?",
+              "meaning_ja": "〜ですか？",
+              "example": "Je li ova orada svježa?"
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li je filetirati?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "生食可否は魚種名だけで判断せず、必ず店員に確認する。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Možete li izvaditi što više kostiju?",
+      "Možete li izvaditi što više kostiju"
+    ],
+    "accepted_answers_ja": [
+      "骨をできるだけ取ってもらえますか？",
+      "骨をできるだけ取ってもらえますか"
+    ]
+  },
+  {
+    "id": "zadar_fish_sentence_06",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "刺身のように薄く切れますか？",
+    "hr": "Možete li narezati na tanke komade, kao za sashimi?",
+    "pronunciation_ja": "モジェテ リ ナレザティ ナ タンケ コマデ カオ ザ サシミ",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "cutting"
+    ],
+    "tokens": [],
+    "grammar": {
+      "title": "魚市場の確認表現",
+      "explanation_ja": "kao za sashimi = 刺身用のように。",
+      "tables": [
+        {
+          "title_ja": "使い方",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Je li...?",
+              "meaning_ja": "〜ですか？",
+              "example": "Je li ova orada svježa?"
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li je filetirati?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "生食可否は魚種名だけで判断せず、必ず店員に確認する。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Možete li narezati na tanke komade, kao za sashimi?",
+      "Možete li narezati na tanke komade, kao za sashimi"
+    ],
+    "accepted_answers_ja": [
+      "刺身のように薄く切れますか？",
+      "刺身のように薄く切れますか"
+    ]
+  },
+  {
+    "id": "zadar_fish_sentence_07",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "この魚は生で食べても安全ですか？",
+    "hr": "Je li sigurno jesti ovu ribu sirovu?",
+    "pronunciation_ja": "イェ リ シグルノ イェスティ オヴ リブ シロヴ",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "cutting"
+    ],
+    "tokens": [],
+    "grammar": {
+      "title": "魚市場の確認表現",
+      "explanation_ja": "sigurno = 安全。sirovu は女性名詞 ribu に合わせた形。",
+      "tables": [
+        {
+          "title_ja": "使い方",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Je li...?",
+              "meaning_ja": "〜ですか？",
+              "example": "Je li ova orada svježa?"
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li je filetirati?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "生食可否は魚種名だけで判断せず、必ず店員に確認する。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Je li sigurno jesti ovu ribu sirovu?",
+      "Je li sigurno jesti ovu ribu sirovu"
+    ],
+    "accepted_answers_ja": [
+      "この魚は生で食べても安全ですか？",
+      "この魚は生で食べても安全ですか"
+    ]
+  },
+  {
+    "id": "zadar_fish_sentence_08",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "加熱した方がいいですか？",
+    "hr": "Je li bolje skuhati ili ispeći?",
+    "pronunciation_ja": "イェ リ ボリェ スクハティ イリ イスペチ",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "cutting"
+    ],
+    "tokens": [],
+    "grammar": {
+      "title": "魚市場の確認表現",
+      "explanation_ja": "skuhati = 煮る、ispeći = 焼く。",
+      "tables": [
+        {
+          "title_ja": "使い方",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Je li...?",
+              "meaning_ja": "〜ですか？",
+              "example": "Je li ova orada svježa?"
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li je filetirati?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "生食可否は魚種名だけで判断せず、必ず店員に確認する。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Je li bolje skuhati ili ispeći?",
+      "Je li bolje skuhati ili ispeći"
+    ],
+    "accepted_answers_ja": [
+      "加熱した方がいいですか？",
+      "加熱した方がいいですか"
+    ]
+  },
+  {
+    "id": "zadar_fish_sentence_09",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "このイカは掃除してもらえますか？",
+    "hr": "Možete li očistiti ovu lignju?",
+    "pronunciation_ja": "モジェテ リ オチスティティ オヴ リグニュ",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "cutting"
+    ],
+    "tokens": [],
+    "grammar": {
+      "title": "魚市場の確認表現",
+      "explanation_ja": "lignja は女性名詞。目的語は ovu lignju。",
+      "tables": [
+        {
+          "title_ja": "使い方",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Je li...?",
+              "meaning_ja": "〜ですか？",
+              "example": "Je li ova orada svježa?"
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li je filetirati?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "生食可否は魚種名だけで判断せず、必ず店員に確認する。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Možete li očistiti ovu lignju?",
+      "Možete li očistiti ovu lignju"
+    ],
+    "accepted_answers_ja": [
+      "このイカは掃除してもらえますか？",
+      "このイカは掃除してもらえますか"
+    ]
+  },
+  {
+    "id": "zadar_fish_sentence_10",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "このタコはすでに茹でてありますか？",
+    "hr": "Je li ova hobotnica već kuhana?",
+    "pronunciation_ja": "イェ リ オヴァ ホボトニツァ ヴェチ クハナ",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "cutting"
+    ],
+    "tokens": [],
+    "grammar": {
+      "title": "魚市場の確認表現",
+      "explanation_ja": "već = すでに、kuhana = 茹でられた。",
+      "tables": [
+        {
+          "title_ja": "使い方",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Je li...?",
+              "meaning_ja": "〜ですか？",
+              "example": "Je li ova orada svježa?"
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li je filetirati?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "生食可否は魚種名だけで判断せず、必ず店員に確認する。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Je li ova hobotnica već kuhana?",
+      "Je li ova hobotnica već kuhana"
+    ],
+    "accepted_answers_ja": [
+      "このタコはすでに茹でてありますか？",
+      "このタコはすでに茹でてありますか"
+    ]
+  }
+]

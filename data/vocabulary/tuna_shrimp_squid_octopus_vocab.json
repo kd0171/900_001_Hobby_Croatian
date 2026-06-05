@@ -1,0 +1,712 @@
+[
+  {
+    "id": "seafood_tuna_001",
+    "scene": "fish_market",
+    "level": 2,
+    "hr": "tuna",
+    "ja": "マグロ。クロアチアではクロマグロ系を含め tuna と呼ぶことが多い。",
+    "pronunciation_ja": "トゥナ",
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market",
+      "tuna_squid_shrimp_octopus",
+      "tuna"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li tunu?",
+        "pronunciation_ja": "イマテ リ トゥヌ",
+        "ja": "マグロはありますか？"
+      },
+      {
+        "hr": "Koliko košta tuna?",
+        "pronunciation_ja": "コリコ コシュタ トゥナ",
+        "ja": "マグロはいくらですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "tuna は女性名詞として扱いやすい語です。目的語では tunu になります。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "od tune",
+          "pronunciation_ja": "オド トゥネ",
+          "meaning_ja": "マグロの／マグロから作った",
+          "note_ja": "salata od tune = ツナサラダのように使う。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "seafood_tuna_002",
+    "scene": "fish_market",
+    "level": 2,
+    "hr": "plavoperajna tuna",
+    "ja": "クロマグロ／大西洋クロマグロ系。直訳は「青いひれのマグロ」。",
+    "pronunciation_ja": "プラヴォペライナ トゥナ",
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market",
+      "tuna_squid_shrimp_octopus",
+      "tuna"
+    ],
+    "examples": [
+      {
+        "hr": "Je li ovo plavoperajna tuna?",
+        "pronunciation_ja": "イェ リ オヴォ プラヴォペライナ トゥナ",
+        "ja": "これはクロマグロ系ですか？"
+      },
+      {
+        "hr": "Imate li svježu plavoperajnu tunu?",
+        "pronunciation_ja": "イマテ リ スヴィェジュ プラヴォペライヌ トゥヌ",
+        "ja": "新鮮なクロマグロ系はありますか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "plavoperajna は「青いひれの」という形容詞。旅行会話では魚種確認用として覚えれば十分です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "od plavoperajne tune",
+          "pronunciation_ja": "オド プラヴォペライネ トゥネ",
+          "meaning_ja": "クロマグロ系の／クロマグロ系から作った",
+          "note_ja": "メニュー説明で見かける可能性がある形。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "seafood_tuna_003",
+    "scene": "fish_market",
+    "level": 2,
+    "hr": "odrezak tune",
+    "ja": "マグロの切り身／マグロステーキ用の厚切り。",
+    "pronunciation_ja": "オドレザク トゥネ",
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market",
+      "tuna_squid_shrimp_octopus",
+      "tuna",
+      "cutting"
+    ],
+    "examples": [
+      {
+        "hr": "Jedan odrezak tune, molim.",
+        "pronunciation_ja": "イェダン オドレザク トゥネ モリム",
+        "ja": "マグロの切り身を一つください。"
+      },
+      {
+        "hr": "Možete li narezati odrezak tune?",
+        "pronunciation_ja": "モジェテ リ ナレザティ オドレザク トゥネ",
+        "ja": "マグロの切り身に切ってもらえますか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "odrezak はステーキ状の切り身。魚市場で「厚めに切る」文脈で使えます。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "za odrezak",
+          "pronunciation_ja": "ザ オドレザク",
+          "meaning_ja": "切り身／ステーキ用に",
+          "note_ja": "za は「〜用に」。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "seafood_tuna_004",
+    "scene": "fish_market",
+    "level": 2,
+    "hr": "trbušni dio tune",
+    "ja": "マグロの腹側の部分。脂が多い部位＝トロに近い説明。",
+    "pronunciation_ja": "トルブシュニ ディオ トゥネ",
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market",
+      "tuna_squid_shrimp_octopus",
+      "tuna",
+      "cut"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li trbušni dio tune?",
+        "pronunciation_ja": "イマテ リ トルブシュニ ディオ トゥネ",
+        "ja": "マグロの腹側の部分はありますか？"
+      },
+      {
+        "hr": "Želim masniji trbušni dio tune.",
+        "pronunciation_ja": "ジェリム マスニイ トルブシュニ ディオ トゥネ",
+        "ja": "脂の多いマグロの腹側が欲しいです。"
+      }
+    ],
+    "grammar": {
+      "note_ja": "日本語の「トロ」に完全対応する一般的な市場語彙が通じない場合は、trbušni dio tune（マグロの腹側）や masniji dio（脂の多い部分）で説明します。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "bliže trbuhu",
+          "pronunciation_ja": "ブリジェ トルブフ",
+          "meaning_ja": "腹に近いところ",
+          "note_ja": "部位を説明する時に便利。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "seafood_tuna_005",
+    "scene": "fish_market",
+    "level": 2,
+    "hr": "masniji dio",
+    "ja": "脂の多い部分。トロに近い部分を説明する表現。",
+    "pronunciation_ja": "マスニイ ディオ",
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market",
+      "tuna_squid_shrimp_octopus",
+      "tuna",
+      "cut"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li masniji dio tune?",
+        "pronunciation_ja": "イマテ リ マスニイ ディオ トゥネ",
+        "ja": "マグロの脂の多い部分はありますか？"
+      },
+      {
+        "hr": "Želim masniji, svjetliji dio.",
+        "pronunciation_ja": "ジェリム マスニイ スヴィェトリイ ディオ",
+        "ja": "脂が多くて白っぽい部分が欲しいです。"
+      }
+    ],
+    "grammar": {
+      "note_ja": "masniji は「より脂の多い」。比較級として、普通の赤身より脂が多い部位を希望する時に使います。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "s masnijim dijelom",
+          "pronunciation_ja": "ス マスニイム ディイェロム",
+          "meaning_ja": "脂の多い部分付きで",
+          "note_ja": "s + instrumental の例。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "seafood_tuna_006",
+    "scene": "fish_market",
+    "level": 2,
+    "hr": "tamni dio",
+    "ja": "暗い部分。マグロでは血合い・血合い周りの説明に使える。",
+    "pronunciation_ja": "タムニ ディオ",
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market",
+      "tuna_squid_shrimp_octopus",
+      "tuna",
+      "cut"
+    ],
+    "examples": [
+      {
+        "hr": "Ne želim tamni dio.",
+        "pronunciation_ja": "ネ ジェリム タムニ ディオ",
+        "ja": "暗い部分／血合い周りはいりません。"
+      },
+      {
+        "hr": "Možete li izbjeći tamni dio uz krvnu liniju?",
+        "pronunciation_ja": "モジェテ リ イズビェチ タムニ ディオ ウズ クルヴヌ リニユ",
+        "ja": "血合いの線の近くの暗い部分を避けてもらえますか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "血合いに完全対応する語が不安な場合は、tamni dio（暗い部分）や dio uz krvnu liniju（血の線の近くの部分）と説明します。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "uz krvnu liniju",
+          "pronunciation_ja": "ウズ クルヴヌ リニユ",
+          "meaning_ja": "血合いの線の近く",
+          "note_ja": "uz は「〜沿い／〜の近く」。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "seafood_tuna_007",
+    "scene": "fish_market",
+    "level": 2,
+    "hr": "krvna linija",
+    "ja": "血合いの線／血のライン。魚の身の暗赤色部分を説明する表現。",
+    "pronunciation_ja": "クルヴナ リニヤ",
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market",
+      "tuna_squid_shrimp_octopus",
+      "tuna",
+      "cut"
+    ],
+    "examples": [
+      {
+        "hr": "Bez dijela uz krvnu liniju, molim.",
+        "pronunciation_ja": "ベズ ディイェラ ウズ クルヴヌ リニユ モリム",
+        "ja": "血合いの線の近くの部分なしでお願いします。"
+      },
+      {
+        "hr": "Ne želim dio oko krvne linije.",
+        "pronunciation_ja": "ネ ジェリム ディオ オコ クルヴネ リニイェ",
+        "ja": "血合い周りの部分はいりません。"
+      }
+    ],
+    "grammar": {
+      "note_ja": "専門用語として常に自然に通じるとは限らないため、tamni dio（暗い部分）と併用すると安全です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "oko krvne linije",
+          "pronunciation_ja": "オコ クルヴネ リニイェ",
+          "meaning_ja": "血合いの線の周り",
+          "note_ja": "oko は「〜の周り」。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "seafood_shrimp_001",
+    "scene": "fish_market",
+    "level": 2,
+    "hr": "kozica / kozice",
+    "ja": "小エビ／エビ。市場や料理では複数形 kozice をよく見る。",
+    "pronunciation_ja": "コジツァ / コジツェ",
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market",
+      "tuna_squid_shrimp_octopus",
+      "shrimp"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li svježe kozice?",
+        "pronunciation_ja": "イマテ リ スヴィェジェ コジツェ",
+        "ja": "新鮮なエビはありますか？"
+      },
+      {
+        "hr": "Pola kilograma kozica, molim.",
+        "pronunciation_ja": "ポラ キログラマ コジツァ モリム",
+        "ja": "エビを半キロください。"
+      }
+    ],
+    "grammar": {
+      "note_ja": "kozica は小エビ、複数形 kozice。量り売りでは複数形で使われやすいです。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "s kozicama",
+          "pronunciation_ja": "ス コジツァマ",
+          "meaning_ja": "エビ入りで／エビと一緒に",
+          "note_ja": "パスタやリゾットの説明で便利。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "seafood_shrimp_002",
+    "scene": "fish_market",
+    "level": 2,
+    "hr": "škamp / škampi",
+    "ja": "手長エビ・スカンピ／ラングスティーヌ系。",
+    "pronunciation_ja": "シュカンプ / シュカンピ",
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market",
+      "tuna_squid_shrimp_octopus",
+      "shrimp"
+    ],
+    "examples": [
+      {
+        "hr": "Koliko koštaju škampi?",
+        "pronunciation_ja": "コリコ コシュタユ シュカンピ",
+        "ja": "スカンピはいくらですか？"
+      },
+      {
+        "hr": "Jesu li škampi iz Jadrana?",
+        "pronunciation_ja": "イェス リ シュカンピ イズ ヤドラナ",
+        "ja": "このスカンピはアドリア海産ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "škampi は高級寄りの甲殻類として出ることがあります。日本語の「エビ」よりラングスティーヌに近いです。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "rižoto sa škampima",
+          "pronunciation_ja": "リジョト サ シュカンピマ",
+          "meaning_ja": "スカンピのリゾット",
+          "note_ja": "sa/s + instrumental の例。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "seafood_squid_001",
+    "scene": "fish_market",
+    "level": 2,
+    "hr": "lignja / lignje",
+    "ja": "イカ。市場では複数形 lignje で見ることが多い。",
+    "pronunciation_ja": "リグニャ / リグニェ",
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market",
+      "tuna_squid_shrimp_octopus",
+      "squid"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li lignje?",
+        "pronunciation_ja": "イマテ リ リグニェ",
+        "ja": "イカはありますか？"
+      },
+      {
+        "hr": "Jesu li lignje male?",
+        "pronunciation_ja": "イェス リ リグニェ マレ",
+        "ja": "そのイカは小さいですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "lignja はイカ。複数形 lignje。グリル・フライ・詰め物料理に出ます。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "lignje na žaru",
+          "pronunciation_ja": "リグニェ ナ ジャル",
+          "meaning_ja": "焼きイカ／グリルイカ",
+          "note_ja": "na žaru は「グリルで」。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "seafood_squid_002",
+    "scene": "fish_market",
+    "level": 2,
+    "hr": "lignjica / male lignje",
+    "ja": "小さいイカ。lignjica は小イカの言い方。",
+    "pronunciation_ja": "リグニツァ / マレ リグニェ",
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market",
+      "tuna_squid_shrimp_octopus",
+      "squid",
+      "small"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li male lignje?",
+        "pronunciation_ja": "イマテ リ マレ リグニェ",
+        "ja": "小さいイカはありますか？"
+      },
+      {
+        "hr": "Jesu li ove lignjice za prženje?",
+        "pronunciation_ja": "イェス リ オヴェ リグニツェ ザ プルジェニェ",
+        "ja": "この小イカは揚げ物向きですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "小さなイカは male lignje と言えば伝わりやすいです。lignjica は小イカを指す言い方です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "za prženje",
+          "pronunciation_ja": "ザ プルジェニェ",
+          "meaning_ja": "揚げ物用に",
+          "note_ja": "用途を聞く時の za + 名詞。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "seafood_squid_003",
+    "scene": "fish_market",
+    "level": 2,
+    "hr": "lignjun",
+    "ja": "小型イカ・ヤリイカ類に近いものとして扱われることがある魚市場名。",
+    "pronunciation_ja": "リグニュン",
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market",
+      "tuna_squid_shrimp_octopus",
+      "squid",
+      "small"
+    ],
+    "examples": [
+      {
+        "hr": "Što je lignjun?",
+        "pronunciation_ja": "シュト イェ リグニュン",
+        "ja": "リグニュンとは何ですか？"
+      },
+      {
+        "hr": "Je li lignjun sličan lignji?",
+        "pronunciation_ja": "イェ リ リグニュン スリチャン リグニ",
+        "ja": "リグニュンはイカに似ていますか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "日本語で一語対応しにくい場合があります。旅行者向けには「イカに似た小型の頭足類」と理解して、調理法を確認します。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "sličan lignji",
+          "pronunciation_ja": "スリチャン リグニ",
+          "meaning_ja": "イカに似た",
+          "note_ja": "sličan + 与格。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "seafood_squid_004",
+    "scene": "fish_market",
+    "level": 2,
+    "hr": "sipa",
+    "ja": "コウイカ。イカに似るが別の頭足類。",
+    "pronunciation_ja": "シパ",
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market",
+      "tuna_squid_shrimp_octopus",
+      "squid",
+      "cuttlefish"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li sipu?",
+        "pronunciation_ja": "イマテ リ シプ",
+        "ja": "コウイカはありますか？"
+      },
+      {
+        "hr": "Je li sipa dobra za rižoto?",
+        "pronunciation_ja": "イェ リ シパ ドブラ ザ リジョト",
+        "ja": "コウイカはリゾットに向いていますか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "sipa はコウイカ。黒いリゾット crni rižot などで使われることがあります。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "crni rižot od sipe",
+          "pronunciation_ja": "ツルニ リジョト オド シペ",
+          "meaning_ja": "コウイカの黒リゾット",
+          "note_ja": "od + genitive の例。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "seafood_octopus_001",
+    "scene": "fish_market",
+    "level": 2,
+    "hr": "hobotnica",
+    "ja": "タコ。",
+    "pronunciation_ja": "ホボトニツァ",
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market",
+      "tuna_squid_shrimp_octopus",
+      "octopus"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li hobotnicu?",
+        "pronunciation_ja": "イマテ リ ホボトニツ",
+        "ja": "タコはありますか？"
+      },
+      {
+        "hr": "Je li hobotnica već očišćena?",
+        "pronunciation_ja": "イェ リ ホボトニツァ ヴェチ オチシュチェナ",
+        "ja": "タコはもう下処理されていますか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "hobotnica はタコ。サラダ、煮込み、グリルに使われます。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "salata od hobotnice",
+          "pronunciation_ja": "サラタ オド ホボトニツェ",
+          "meaning_ja": "タコのサラダ",
+          "note_ja": "レストランでもよく見る表現。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "seafood_octopus_002",
+    "scene": "fish_market",
+    "level": 2,
+    "hr": "muzgavac",
+    "ja": "小さめのタコ／小型のタコ類。ムスクオクトパス系。",
+    "pronunciation_ja": "ムズガヴァツ",
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market",
+      "tuna_squid_shrimp_octopus",
+      "octopus",
+      "small"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li muzgavac?",
+        "pronunciation_ja": "イマテ リ ムズガヴァツ",
+        "ja": "小さめのタコはありますか？"
+      },
+      {
+        "hr": "Je li muzgavac dobar za brudet?",
+        "pronunciation_ja": "イェ リ ムズガヴァツ ドバル ザ ブルデット",
+        "ja": "ムズガヴァツは魚介煮込みに向いていますか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "muzgavac は日本語で一語対応しにくい小型タコ類。市場では「小さめのタコ」として理解すると実用的です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "za brudet",
+          "pronunciation_ja": "ザ ブルデット",
+          "meaning_ja": "魚介煮込み用に",
+          "note_ja": "brudet はダルマチア系の魚介煮込み。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fishmarket_phrase_tuna_001",
+    "scene": "fish_market",
+    "level": 2,
+    "hr": "Imate li masniji dio tune?",
+    "ja": "マグロの脂の多い部分はありますか？",
+    "pronunciation_ja": "イマテ リ マスニイ ディオ トゥネ",
+    "part_of_speech": "phrase",
+    "tags": [
+      "fish_market",
+      "cutting",
+      "tuna"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li masniji dio tune, bliže trbuhu?",
+        "pronunciation_ja": "イマテ リ マスニイ ディオ トゥネ ブリジェ トルブフ",
+        "ja": "腹に近い、脂の多いマグロの部分はありますか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "日本語の「トロ」が通じない場合の説明表現。masniji dio（より脂の多い部分）と trbuh（腹）を組み合わせます。"
+    }
+  },
+  {
+    "id": "fishmarket_phrase_tuna_002",
+    "scene": "fish_market",
+    "level": 2,
+    "hr": "Ne želim tamni dio uz krvnu liniju.",
+    "ja": "血合いの線の近くの暗い部分はいりません。",
+    "pronunciation_ja": "ネ ジェリム タムニ ディオ ウズ クルヴヌ リニユ",
+    "part_of_speech": "phrase",
+    "tags": [
+      "fish_market",
+      "cutting",
+      "tuna"
+    ],
+    "examples": [
+      {
+        "hr": "Bez tamnog dijela, molim.",
+        "pronunciation_ja": "ベズ タムノグ ディイェラ モリム",
+        "ja": "暗い部分なしでお願いします。"
+      },
+      {
+        "hr": "Ne želim dio oko krvne linije.",
+        "pronunciation_ja": "ネ ジェリム ディオ オコ クルヴネ リニイェ",
+        "ja": "血合い周りの部分はいりません。"
+      }
+    ],
+    "grammar": {
+      "note_ja": "血合いを避けたい時の表現。専門語よりも tamni dio（暗い部分）と指差しを併用すると伝わりやすいです。"
+    }
+  },
+  {
+    "id": "fishmarket_phrase_tuna_003",
+    "scene": "fish_market",
+    "level": 2,
+    "hr": "Možete li mi dati ovaj svjetliji dio?",
+    "ja": "この白っぽい部分をください。",
+    "pronunciation_ja": "モジェテ リ ミ ダティ オヴァイ スヴィェトリイ ディオ",
+    "part_of_speech": "phrase",
+    "tags": [
+      "fish_market",
+      "cutting",
+      "tuna"
+    ],
+    "examples": [
+      {
+        "hr": "Želim ovaj svjetliji, masniji dio.",
+        "pronunciation_ja": "ジェリム オヴァイ スヴィェトリイ マスニイ ディオ",
+        "ja": "この白っぽくて脂の多い部分が欲しいです。"
+      }
+    ],
+    "grammar": {
+      "note_ja": "脂の多い部分が白っぽく見える時に指差しで使える表現です。"
+    }
+  },
+  {
+    "id": "fishmarket_phrase_squid_001",
+    "scene": "fish_market",
+    "level": 2,
+    "hr": "Jesu li ove lignjice očišćene?",
+    "ja": "この小イカは下処理済みですか？",
+    "pronunciation_ja": "イェス リ オヴェ リグニツェ オチシュチェネ",
+    "part_of_speech": "phrase",
+    "tags": [
+      "fish_market",
+      "cutting",
+      "tuna"
+    ],
+    "examples": [
+      {
+        "hr": "Možete li očistiti lignje?",
+        "pronunciation_ja": "モジェテ リ オチスティティ リグニェ",
+        "ja": "イカを下処理してもらえますか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "イカは内臓や皮などの処理が必要なことがあるため、očišćene（下処理済み）を確認すると便利です。"
+    }
+  }
+]

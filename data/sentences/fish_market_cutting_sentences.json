@@ -1,21 +1,506 @@
 {
   "items": [
     {
-      "id": "fish_cut_s_001",
+      "id": "fish_cut_001",
       "scene": "fish_market",
       "level": 2,
-      "ja": "内臓を取ってもらえますか？",
-      "hr": "Možete li izvaditi utrobu?",
-      "pronunciation_ja": "モジェテ リ イズヴァディティ ウトロブ",
+      "ja": "この魚は生で食べても安全ですか？",
+      "hr": "Je li sigurno jesti ovu ribu sirovu?",
+      "pronunciation_ja": "イェ リ シグルノ イェスティ オヴ リブ シロヴ",
       "tags": [
         "fish_market",
-        "cutting"
+        "raw",
+        "safety"
+      ],
+      "tokens": [
+        {
+          "hr": "Je li",
+          "pronunciation_ja": "イェ リ",
+          "meaning_ja": "〜ですか"
+        },
+        {
+          "hr": "sigurno",
+          "pronunciation_ja": "シグルノ",
+          "meaning_ja": "安全な"
+        },
+        {
+          "hr": "jesti",
+          "pronunciation_ja": "イェスティ",
+          "meaning_ja": "食べる"
+        },
+        {
+          "hr": "ovu ribu",
+          "pronunciation_ja": "オヴ リブ",
+          "meaning_ja": "この魚を"
+        },
+        {
+          "hr": "sirovu",
+          "pronunciation_ja": "シロヴ",
+          "meaning_ja": "生で"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Je li sigurno jesti ovu ribu sirovu?",
+        "Je li sigurno jesti ovu ribu sirovu"
+      ],
+      "accepted_answers_ja": [
+        "この魚は生で食べても安全ですか？",
+        "この魚は生で食べても安全ですか"
+      ],
+      "grammar": {
+        "title": "生食確認の文",
+        "explanation_ja": "魚市場では Možete li...? を使うと丁寧に依頼できます。魚をどう処理してほしいかは動詞の不定形で続けます。",
+        "tables": [
+          {
+            "title_ja": "依頼の型",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "丁寧な依頼",
+                "hr": "Možete li + 動詞?",
+                "ja": "〜していただけますか？"
+              },
+              {
+                "part": "対象",
+                "hr": "je / ribu",
+                "ja": "それを / 魚を"
+              },
+              {
+                "part": "目的",
+                "hr": "za sashimi / za roštilj",
+                "ja": "刺身用に / グリル用に"
+              }
+            ]
+          },
+          {
+            "title_ja": "捌き方の動詞",
+            "headers": [
+              "hr",
+              "pronunciation_ja",
+              "ja"
+            ],
+            "header_labels": {
+              "hr": "動詞",
+              "pronunciation_ja": "カタカナ",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "hr": "očistiti",
+                "pronunciation_ja": "オチスティティ",
+                "ja": "内臓などを取って処理する"
+              },
+              {
+                "hr": "filetirati",
+                "pronunciation_ja": "フィレティラティ",
+                "ja": "フィレにする"
+              },
+              {
+                "hr": "skinuti kožu",
+                "pronunciation_ja": "スキヌティ コジュ",
+                "ja": "皮を取る"
+              },
+              {
+                "hr": "izvaditi kosti",
+                "pronunciation_ja": "イズヴァディティ コスティ",
+                "ja": "骨を取る"
+              },
+              {
+                "hr": "narezati",
+                "pronunciation_ja": "ナレザティ",
+                "ja": "切る、スライスする"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "生食できるかは必ず店で確認する前提の表現にしています。",
+          "地域・店・魚種によって対応できる処理が違うため、確認表現を中心にします。"
+        ]
+      }
+    },
+    {
+      "id": "fish_cut_002",
+      "scene": "fish_market",
+      "level": 2,
+      "ja": "刺身用にできますか？",
+      "hr": "Možete li je pripremiti za sashimi?",
+      "pronunciation_ja": "モジェテ リ イェ プリプレミティ ザ サシミ",
+      "tags": [
+        "fish_market",
+        "sashimi"
       ],
       "tokens": [
         {
           "hr": "Možete li",
           "pronunciation_ja": "モジェテ リ",
-          "meaning_ja": "〜してもらえますか"
+          "meaning_ja": "〜できますか"
+        },
+        {
+          "hr": "je",
+          "pronunciation_ja": "イェ",
+          "meaning_ja": "それを"
+        },
+        {
+          "hr": "pripremiti",
+          "pronunciation_ja": "プリプレミティ",
+          "meaning_ja": "準備する"
+        },
+        {
+          "hr": "za sashimi",
+          "pronunciation_ja": "ザ サシミ",
+          "meaning_ja": "刺身用に"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Možete li je pripremiti za sashimi?",
+        "Možete li je pripremiti za sashimi"
+      ],
+      "accepted_answers_ja": [
+        "刺身用にできますか？",
+        "刺身用にできますか"
+      ],
+      "grammar": {
+        "title": "za + 目的",
+        "explanation_ja": "魚市場では Možete li...? を使うと丁寧に依頼できます。魚をどう処理してほしいかは動詞の不定形で続けます。",
+        "tables": [
+          {
+            "title_ja": "依頼の型",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "丁寧な依頼",
+                "hr": "Možete li + 動詞?",
+                "ja": "〜していただけますか？"
+              },
+              {
+                "part": "対象",
+                "hr": "je / ribu",
+                "ja": "それを / 魚を"
+              },
+              {
+                "part": "目的",
+                "hr": "za sashimi / za roštilj",
+                "ja": "刺身用に / グリル用に"
+              }
+            ]
+          },
+          {
+            "title_ja": "捌き方の動詞",
+            "headers": [
+              "hr",
+              "pronunciation_ja",
+              "ja"
+            ],
+            "header_labels": {
+              "hr": "動詞",
+              "pronunciation_ja": "カタカナ",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "hr": "očistiti",
+                "pronunciation_ja": "オチスティティ",
+                "ja": "内臓などを取って処理する"
+              },
+              {
+                "hr": "filetirati",
+                "pronunciation_ja": "フィレティラティ",
+                "ja": "フィレにする"
+              },
+              {
+                "hr": "skinuti kožu",
+                "pronunciation_ja": "スキヌティ コジュ",
+                "ja": "皮を取る"
+              },
+              {
+                "hr": "izvaditi kosti",
+                "pronunciation_ja": "イズヴァディティ コスティ",
+                "ja": "骨を取る"
+              },
+              {
+                "hr": "narezati",
+                "pronunciation_ja": "ナレザティ",
+                "ja": "切る、スライスする"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "生食できるかは必ず店で確認する前提の表現にしています。",
+          "地域・店・魚種によって対応できる処理が違うため、確認表現を中心にします。"
+        ]
+      }
+    },
+    {
+      "id": "fish_cut_003",
+      "scene": "fish_market",
+      "level": 2,
+      "ja": "三枚おろしにできますか？",
+      "hr": "Možete li je filetirati?",
+      "pronunciation_ja": "モジェテ リ イェ フィレティラティ",
+      "tags": [
+        "fish_market",
+        "fillet"
+      ],
+      "tokens": [
+        {
+          "hr": "Možete li",
+          "pronunciation_ja": "モジェテ リ",
+          "meaning_ja": "〜できますか"
+        },
+        {
+          "hr": "je",
+          "pronunciation_ja": "イェ",
+          "meaning_ja": "それを"
+        },
+        {
+          "hr": "filetirati",
+          "pronunciation_ja": "フィレティラティ",
+          "meaning_ja": "フィレにする"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Možete li je filetirati?",
+        "Možete li je filetirati"
+      ],
+      "accepted_answers_ja": [
+        "三枚おろしにできますか？",
+        "三枚おろしにできますか"
+      ],
+      "grammar": {
+        "title": "filetirati の依頼",
+        "explanation_ja": "魚市場では Možete li...? を使うと丁寧に依頼できます。魚をどう処理してほしいかは動詞の不定形で続けます。",
+        "tables": [
+          {
+            "title_ja": "依頼の型",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "丁寧な依頼",
+                "hr": "Možete li + 動詞?",
+                "ja": "〜していただけますか？"
+              },
+              {
+                "part": "対象",
+                "hr": "je / ribu",
+                "ja": "それを / 魚を"
+              },
+              {
+                "part": "目的",
+                "hr": "za sashimi / za roštilj",
+                "ja": "刺身用に / グリル用に"
+              }
+            ]
+          },
+          {
+            "title_ja": "捌き方の動詞",
+            "headers": [
+              "hr",
+              "pronunciation_ja",
+              "ja"
+            ],
+            "header_labels": {
+              "hr": "動詞",
+              "pronunciation_ja": "カタカナ",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "hr": "očistiti",
+                "pronunciation_ja": "オチスティティ",
+                "ja": "内臓などを取って処理する"
+              },
+              {
+                "hr": "filetirati",
+                "pronunciation_ja": "フィレティラティ",
+                "ja": "フィレにする"
+              },
+              {
+                "hr": "skinuti kožu",
+                "pronunciation_ja": "スキヌティ コジュ",
+                "ja": "皮を取る"
+              },
+              {
+                "hr": "izvaditi kosti",
+                "pronunciation_ja": "イズヴァディティ コスティ",
+                "ja": "骨を取る"
+              },
+              {
+                "hr": "narezati",
+                "pronunciation_ja": "ナレザティ",
+                "ja": "切る、スライスする"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "生食できるかは必ず店で確認する前提の表現にしています。",
+          "地域・店・魚種によって対応できる処理が違うため、確認表現を中心にします。"
+        ]
+      }
+    },
+    {
+      "id": "fish_cut_004",
+      "scene": "fish_market",
+      "level": 2,
+      "ja": "皮を取ってもらえますか？",
+      "hr": "Možete li skinuti kožu?",
+      "pronunciation_ja": "モジェテ リ スキヌティ コジュ",
+      "tags": [
+        "fish_market",
+        "skin"
+      ],
+      "tokens": [
+        {
+          "hr": "Možete li",
+          "pronunciation_ja": "モジェテ リ",
+          "meaning_ja": "〜できますか"
+        },
+        {
+          "hr": "skinuti",
+          "pronunciation_ja": "スキヌティ",
+          "meaning_ja": "取る"
+        },
+        {
+          "hr": "kožu",
+          "pronunciation_ja": "コジュ",
+          "meaning_ja": "皮を"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Možete li skinuti kožu?",
+        "Možete li skinuti kozu",
+        "Možete li skinuti kožu"
+      ],
+      "accepted_answers_ja": [
+        "皮を取ってもらえますか？",
+        "皮を取ってもらえますか"
+      ],
+      "grammar": {
+        "title": "skinuti kožu",
+        "explanation_ja": "魚市場では Možete li...? を使うと丁寧に依頼できます。魚をどう処理してほしいかは動詞の不定形で続けます。",
+        "tables": [
+          {
+            "title_ja": "依頼の型",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "丁寧な依頼",
+                "hr": "Možete li + 動詞?",
+                "ja": "〜していただけますか？"
+              },
+              {
+                "part": "対象",
+                "hr": "je / ribu",
+                "ja": "それを / 魚を"
+              },
+              {
+                "part": "目的",
+                "hr": "za sashimi / za roštilj",
+                "ja": "刺身用に / グリル用に"
+              }
+            ]
+          },
+          {
+            "title_ja": "捌き方の動詞",
+            "headers": [
+              "hr",
+              "pronunciation_ja",
+              "ja"
+            ],
+            "header_labels": {
+              "hr": "動詞",
+              "pronunciation_ja": "カタカナ",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "hr": "očistiti",
+                "pronunciation_ja": "オチスティティ",
+                "ja": "内臓などを取って処理する"
+              },
+              {
+                "hr": "filetirati",
+                "pronunciation_ja": "フィレティラティ",
+                "ja": "フィレにする"
+              },
+              {
+                "hr": "skinuti kožu",
+                "pronunciation_ja": "スキヌティ コジュ",
+                "ja": "皮を取る"
+              },
+              {
+                "hr": "izvaditi kosti",
+                "pronunciation_ja": "イズヴァディティ コスティ",
+                "ja": "骨を取る"
+              },
+              {
+                "hr": "narezati",
+                "pronunciation_ja": "ナレザティ",
+                "ja": "切る、スライスする"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "生食できるかは必ず店で確認する前提の表現にしています。",
+          "地域・店・魚種によって対応できる処理が違うため、確認表現を中心にします。"
+        ]
+      }
+    },
+    {
+      "id": "fish_cut_005",
+      "scene": "fish_market",
+      "level": 2,
+      "ja": "骨を取ってもらえますか？",
+      "hr": "Možete li izvaditi kosti?",
+      "pronunciation_ja": "モジェテ リ イズヴァディティ コスティ",
+      "tags": [
+        "fish_market",
+        "bone"
+      ],
+      "tokens": [
+        {
+          "hr": "Možete li",
+          "pronunciation_ja": "モジェテ リ",
+          "meaning_ja": "〜できますか"
         },
         {
           "hr": "izvaditi",
@@ -23,124 +508,464 @@
           "meaning_ja": "取り出す"
         },
         {
-          "hr": "utrobu",
-          "pronunciation_ja": "ウトロブ",
-          "meaning_ja": "内臓を"
+          "hr": "kosti",
+          "pronunciation_ja": "コスティ",
+          "meaning_ja": "骨を"
         }
       ],
+      "accepted_answers_hr": [
+        "Možete li izvaditi kosti?",
+        "Možete li izvaditi kosti"
+      ],
+      "accepted_answers_ja": [
+        "骨を取ってもらえますか？",
+        "骨を取ってもらえますか"
+      ],
       "grammar": {
-        "title": "Možete li + 不定詞",
-        "explanation_ja": "丁寧な依頼表現です。izvaditi は「取り出す」。utrobu は utroba の対格です。",
+        "title": "izvaditi kosti",
+        "explanation_ja": "魚市場では Možete li...? を使うと丁寧に依頼できます。魚をどう処理してほしいかは動詞の不定形で続けます。",
         "tables": [
           {
-            "title_ja": "依頼の形",
+            "title_ja": "依頼の型",
             "headers": [
-              "pattern",
-              "meaning_ja",
-              "example_hr"
+              "part",
+              "hr",
+              "ja"
             ],
             "header_labels": {
-              "pattern": "形",
-              "meaning_ja": "意味",
-              "example_hr": "例"
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
             },
             "rows": [
               {
-                "pattern": "Možete li + 不定詞?",
-                "meaning_ja": "〜してもらえますか",
-                "example_hr": "Možete li izvaditi utrobu?"
+                "part": "丁寧な依頼",
+                "hr": "Možete li + 動詞?",
+                "ja": "〜していただけますか？"
+              },
+              {
+                "part": "対象",
+                "hr": "je / ribu",
+                "ja": "それを / 魚を"
+              },
+              {
+                "part": "目的",
+                "hr": "za sashimi / za roštilj",
+                "ja": "刺身用に / グリル用に"
+              }
+            ]
+          },
+          {
+            "title_ja": "捌き方の動詞",
+            "headers": [
+              "hr",
+              "pronunciation_ja",
+              "ja"
+            ],
+            "header_labels": {
+              "hr": "動詞",
+              "pronunciation_ja": "カタカナ",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "hr": "očistiti",
+                "pronunciation_ja": "オチスティティ",
+                "ja": "内臓などを取って処理する"
+              },
+              {
+                "hr": "filetirati",
+                "pronunciation_ja": "フィレティラティ",
+                "ja": "フィレにする"
+              },
+              {
+                "hr": "skinuti kožu",
+                "pronunciation_ja": "スキヌティ コジュ",
+                "ja": "皮を取る"
+              },
+              {
+                "hr": "izvaditi kosti",
+                "pronunciation_ja": "イズヴァディティ コスティ",
+                "ja": "骨を取る"
+              },
+              {
+                "hr": "narezati",
+                "pronunciation_ja": "ナレザティ",
+                "ja": "切る、スライスする"
               }
             ]
           }
+        ],
+        "notes": [
+          "生食できるかは必ず店で確認する前提の表現にしています。",
+          "地域・店・魚種によって対応できる処理が違うため、確認表現を中心にします。"
         ]
       }
     },
     {
-      "id": "fish_cut_s_002",
+      "id": "fish_cut_006",
       "scene": "fish_market",
       "level": 2,
-      "ja": "うろこを取ってもらえますか？",
-      "hr": "Možete li skinuti ljuske?",
-      "pronunciation_ja": "モジェテ リ スキヌティ リュスケ",
+      "ja": "薄く切ってもらえますか？",
+      "hr": "Možete li je narezati na tanke komade?",
+      "pronunciation_ja": "モジェテ リ イェ ナレザティ ナ タンケ コマデ",
       "tags": [
         "fish_market",
-        "cutting"
+        "slice"
       ],
       "tokens": [
         {
-          "hr": "skinuti",
-          "pronunciation_ja": "スキヌティ",
-          "meaning_ja": "取り除く"
+          "hr": "Možete li",
+          "pronunciation_ja": "モジェテ リ",
+          "meaning_ja": "〜できますか"
         },
         {
-          "hr": "ljuske",
-          "pronunciation_ja": "リュスケ",
-          "meaning_ja": "うろこ"
+          "hr": "je",
+          "pronunciation_ja": "イェ",
+          "meaning_ja": "それを"
+        },
+        {
+          "hr": "narezati",
+          "pronunciation_ja": "ナレザティ",
+          "meaning_ja": "切る"
+        },
+        {
+          "hr": "na tanke komade",
+          "pronunciation_ja": "ナ タンケ コマデ",
+          "meaning_ja": "薄い切り身に"
         }
       ],
+      "accepted_answers_hr": [
+        "Možete li je narezati na tanke komade?",
+        "Možete li je narezati na tanke komade"
+      ],
+      "accepted_answers_ja": [
+        "薄く切ってもらえますか？",
+        "薄く切ってもらえますか"
+      ],
       "grammar": {
-        "title": "skinuti",
-        "explanation_ja": "skinuti は表面についているものを「取る」という意味で使えます。"
+        "title": "narezati na ...",
+        "explanation_ja": "魚市場では Možete li...? を使うと丁寧に依頼できます。魚をどう処理してほしいかは動詞の不定形で続けます。",
+        "tables": [
+          {
+            "title_ja": "依頼の型",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "丁寧な依頼",
+                "hr": "Možete li + 動詞?",
+                "ja": "〜していただけますか？"
+              },
+              {
+                "part": "対象",
+                "hr": "je / ribu",
+                "ja": "それを / 魚を"
+              },
+              {
+                "part": "目的",
+                "hr": "za sashimi / za roštilj",
+                "ja": "刺身用に / グリル用に"
+              }
+            ]
+          },
+          {
+            "title_ja": "捌き方の動詞",
+            "headers": [
+              "hr",
+              "pronunciation_ja",
+              "ja"
+            ],
+            "header_labels": {
+              "hr": "動詞",
+              "pronunciation_ja": "カタカナ",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "hr": "očistiti",
+                "pronunciation_ja": "オチスティティ",
+                "ja": "内臓などを取って処理する"
+              },
+              {
+                "hr": "filetirati",
+                "pronunciation_ja": "フィレティラティ",
+                "ja": "フィレにする"
+              },
+              {
+                "hr": "skinuti kožu",
+                "pronunciation_ja": "スキヌティ コジュ",
+                "ja": "皮を取る"
+              },
+              {
+                "hr": "izvaditi kosti",
+                "pronunciation_ja": "イズヴァディティ コスティ",
+                "ja": "骨を取る"
+              },
+              {
+                "hr": "narezati",
+                "pronunciation_ja": "ナレザティ",
+                "ja": "切る、スライスする"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "生食できるかは必ず店で確認する前提の表現にしています。",
+          "地域・店・魚種によって対応できる処理が違うため、確認表現を中心にします。"
+        ]
       }
     },
     {
-      "id": "fish_cut_s_003",
+      "id": "fish_cut_007",
       "scene": "fish_market",
       "level": 2,
-      "ja": "えらを取ってもらえますか？",
-      "hr": "Možete li ukloniti škrge?",
-      "pronunciation_ja": "モジェテ リ ウクロニティ シュクルゲ",
+      "ja": "グリル用に大きめに切ってください。",
+      "hr": "Narežite je na veće komade za roštilj, molim.",
+      "pronunciation_ja": "ナレジテ イェ ナ ヴェチェ コマデ ザ ロシュティリ モリム",
       "tags": [
         "fish_market",
-        "cutting"
+        "grill"
       ],
       "tokens": [
         {
-          "hr": "ukloniti",
-          "pronunciation_ja": "ウクロニティ",
-          "meaning_ja": "取り除く"
+          "hr": "Narežite",
+          "pronunciation_ja": "ナレジテ",
+          "meaning_ja": "切ってください"
         },
         {
-          "hr": "škrge",
-          "pronunciation_ja": "シュクルゲ",
-          "meaning_ja": "えら"
+          "hr": "je",
+          "pronunciation_ja": "イェ",
+          "meaning_ja": "それを"
+        },
+        {
+          "hr": "na veće komade",
+          "pronunciation_ja": "ナ ヴェチェ コマデ",
+          "meaning_ja": "大きめの切り身に"
+        },
+        {
+          "hr": "za roštilj",
+          "pronunciation_ja": "ザ ロシュティリ",
+          "meaning_ja": "グリル用に"
         }
       ],
+      "accepted_answers_hr": [
+        "Narežite je na veće komade za roštilj, molim.",
+        "Narežite je na vece komade za rostilj molim"
+      ],
+      "accepted_answers_ja": [
+        "グリル用に大きめに切ってください。",
+        "グリル用に大きめに切ってください"
+      ],
       "grammar": {
-        "title": "ukloniti",
-        "explanation_ja": "ukloniti は「取り除く」。škrge は魚のえらです。"
+        "title": "命令形 Narežite",
+        "explanation_ja": "魚市場では Možete li...? を使うと丁寧に依頼できます。魚をどう処理してほしいかは動詞の不定形で続けます。",
+        "tables": [
+          {
+            "title_ja": "依頼の型",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "丁寧な依頼",
+                "hr": "Možete li + 動詞?",
+                "ja": "〜していただけますか？"
+              },
+              {
+                "part": "対象",
+                "hr": "je / ribu",
+                "ja": "それを / 魚を"
+              },
+              {
+                "part": "目的",
+                "hr": "za sashimi / za roštilj",
+                "ja": "刺身用に / グリル用に"
+              }
+            ]
+          },
+          {
+            "title_ja": "捌き方の動詞",
+            "headers": [
+              "hr",
+              "pronunciation_ja",
+              "ja"
+            ],
+            "header_labels": {
+              "hr": "動詞",
+              "pronunciation_ja": "カタカナ",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "hr": "očistiti",
+                "pronunciation_ja": "オチスティティ",
+                "ja": "内臓などを取って処理する"
+              },
+              {
+                "hr": "filetirati",
+                "pronunciation_ja": "フィレティラティ",
+                "ja": "フィレにする"
+              },
+              {
+                "hr": "skinuti kožu",
+                "pronunciation_ja": "スキヌティ コジュ",
+                "ja": "皮を取る"
+              },
+              {
+                "hr": "izvaditi kosti",
+                "pronunciation_ja": "イズヴァディティ コスティ",
+                "ja": "骨を取る"
+              },
+              {
+                "hr": "narezati",
+                "pronunciation_ja": "ナレザティ",
+                "ja": "切る、スライスする"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "生食できるかは必ず店で確認する前提の表現にしています。",
+          "地域・店・魚種によって対応できる処理が違うため、確認表現を中心にします。"
+        ]
       }
     },
     {
-      "id": "fish_cut_s_004",
+      "id": "fish_cut_008",
       "scene": "fish_market",
-      "level": 2,
-      "ja": "頭を落としてください。",
-      "hr": "Odrežite glavu, molim.",
-      "pronunciation_ja": "オドレジテ グラヴ モリム",
+      "level": 1,
+      "ja": "内臓を取ってください。",
+      "hr": "Očistite je, molim.",
+      "pronunciation_ja": "オチスティテ イェ モリム",
       "tags": [
         "fish_market",
-        "cutting"
+        "clean"
       ],
       "tokens": [
         {
-          "hr": "Odrežite",
-          "pronunciation_ja": "オドレジテ",
-          "meaning_ja": "切り落としてください"
+          "hr": "Očistite",
+          "pronunciation_ja": "オチスティテ",
+          "meaning_ja": "処理してください"
         },
         {
-          "hr": "glavu",
-          "pronunciation_ja": "グラヴ",
-          "meaning_ja": "頭を"
+          "hr": "je",
+          "pronunciation_ja": "イェ",
+          "meaning_ja": "それを"
+        },
+        {
+          "hr": "molim",
+          "pronunciation_ja": "モリム",
+          "meaning_ja": "お願いします"
         }
       ],
+      "accepted_answers_hr": [
+        "Očistite je, molim.",
+        "Ocistite je molim",
+        "Očistite je molim"
+      ],
+      "accepted_answers_ja": [
+        "内臓を取ってください。",
+        "内臓を取ってください"
+      ],
       "grammar": {
-        "title": "命令形",
-        "explanation_ja": "Odrežite は丁寧な命令・依頼で「切ってください」。glavu は glava の対格です。"
+        "title": "Očistite je",
+        "explanation_ja": "魚市場では Možete li...? を使うと丁寧に依頼できます。魚をどう処理してほしいかは動詞の不定形で続けます。",
+        "tables": [
+          {
+            "title_ja": "依頼の型",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "丁寧な依頼",
+                "hr": "Možete li + 動詞?",
+                "ja": "〜していただけますか？"
+              },
+              {
+                "part": "対象",
+                "hr": "je / ribu",
+                "ja": "それを / 魚を"
+              },
+              {
+                "part": "目的",
+                "hr": "za sashimi / za roštilj",
+                "ja": "刺身用に / グリル用に"
+              }
+            ]
+          },
+          {
+            "title_ja": "捌き方の動詞",
+            "headers": [
+              "hr",
+              "pronunciation_ja",
+              "ja"
+            ],
+            "header_labels": {
+              "hr": "動詞",
+              "pronunciation_ja": "カタカナ",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "hr": "očistiti",
+                "pronunciation_ja": "オチスティティ",
+                "ja": "内臓などを取って処理する"
+              },
+              {
+                "hr": "filetirati",
+                "pronunciation_ja": "フィレティラティ",
+                "ja": "フィレにする"
+              },
+              {
+                "hr": "skinuti kožu",
+                "pronunciation_ja": "スキヌティ コジュ",
+                "ja": "皮を取る"
+              },
+              {
+                "hr": "izvaditi kosti",
+                "pronunciation_ja": "イズヴァディティ コスティ",
+                "ja": "骨を取る"
+              },
+              {
+                "hr": "narezati",
+                "pronunciation_ja": "ナレザティ",
+                "ja": "切る、スライスする"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "生食できるかは必ず店で確認する前提の表現にしています。",
+          "地域・店・魚種によって対応できる処理が違うため、確認表現を中心にします。"
+        ]
       }
     },
     {
-      "id": "fish_cut_s_005",
+      "id": "fish_cut_009",
       "scene": "fish_market",
       "level": 2,
       "ja": "頭は残してください。",
@@ -148,7 +973,7 @@
       "pronunciation_ja": "オスタヴィテ グラヴ モリム",
       "tags": [
         "fish_market",
-        "cutting"
+        "head"
       ],
       "tokens": [
         {
@@ -160,39 +985,223 @@
           "hr": "glavu",
           "pronunciation_ja": "グラヴ",
           "meaning_ja": "頭を"
+        },
+        {
+          "hr": "molim",
+          "pronunciation_ja": "モリム",
+          "meaning_ja": "お願いします"
         }
       ],
+      "accepted_answers_hr": [
+        "Ostavite glavu, molim.",
+        "Ostavite glavu molim"
+      ],
+      "accepted_answers_ja": [
+        "頭は残してください。",
+        "頭は残してください"
+      ],
       "grammar": {
-        "title": "ostaviti",
-        "explanation_ja": "ostaviti は「残す」。魚の頭を残したい時に使えます。"
+        "title": "Ostavite",
+        "explanation_ja": "魚市場では Možete li...? を使うと丁寧に依頼できます。魚をどう処理してほしいかは動詞の不定形で続けます。",
+        "tables": [
+          {
+            "title_ja": "依頼の型",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "丁寧な依頼",
+                "hr": "Možete li + 動詞?",
+                "ja": "〜していただけますか？"
+              },
+              {
+                "part": "対象",
+                "hr": "je / ribu",
+                "ja": "それを / 魚を"
+              },
+              {
+                "part": "目的",
+                "hr": "za sashimi / za roštilj",
+                "ja": "刺身用に / グリル用に"
+              }
+            ]
+          },
+          {
+            "title_ja": "捌き方の動詞",
+            "headers": [
+              "hr",
+              "pronunciation_ja",
+              "ja"
+            ],
+            "header_labels": {
+              "hr": "動詞",
+              "pronunciation_ja": "カタカナ",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "hr": "očistiti",
+                "pronunciation_ja": "オチスティティ",
+                "ja": "内臓などを取って処理する"
+              },
+              {
+                "hr": "filetirati",
+                "pronunciation_ja": "フィレティラティ",
+                "ja": "フィレにする"
+              },
+              {
+                "hr": "skinuti kožu",
+                "pronunciation_ja": "スキヌティ コジュ",
+                "ja": "皮を取る"
+              },
+              {
+                "hr": "izvaditi kosti",
+                "pronunciation_ja": "イズヴァディティ コスティ",
+                "ja": "骨を取る"
+              },
+              {
+                "hr": "narezati",
+                "pronunciation_ja": "ナレザティ",
+                "ja": "切る、スライスする"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "生食できるかは必ず店で確認する前提の表現にしています。",
+          "地域・店・魚種によって対応できる処理が違うため、確認表現を中心にします。"
+        ]
       }
     },
     {
-      "id": "fish_cut_s_006",
+      "id": "fish_cut_010",
       "scene": "fish_market",
-      "level": 3,
-      "ja": "切り身にしてもらえますか？",
-      "hr": "Možete li je filetirati?",
-      "pronunciation_ja": "モジェテ リ イェ フィレティラティ",
+      "level": 2,
+      "ja": "今日中に食べた方がいいですか？",
+      "hr": "Je li bolje pojesti je danas?",
+      "pronunciation_ja": "イェ リ ボリェ ポイェスティ イェ ダナス",
       "tags": [
         "fish_market",
-        "cutting"
+        "safety",
+        "time"
       ],
       "tokens": [
+        {
+          "hr": "Je li bolje",
+          "pronunciation_ja": "イェ リ ボリェ",
+          "meaning_ja": "〜した方がよいですか"
+        },
+        {
+          "hr": "pojesti",
+          "pronunciation_ja": "ポイェスティ",
+          "meaning_ja": "食べきる"
+        },
         {
           "hr": "je",
           "pronunciation_ja": "イェ",
           "meaning_ja": "それを"
         },
         {
-          "hr": "filetirati",
-          "pronunciation_ja": "フィレティラティ",
-          "meaning_ja": "切り身にする"
+          "hr": "danas",
+          "pronunciation_ja": "ダナス",
+          "meaning_ja": "今日"
         }
       ],
+      "accepted_answers_hr": [
+        "Je li bolje pojesti je danas?",
+        "Je li bolje pojesti je danas"
+      ],
+      "accepted_answers_ja": [
+        "今日中に食べた方がいいですか？",
+        "今日中に食べた方がいいですか"
+      ],
       "grammar": {
-        "title": "代名詞 je",
-        "explanation_ja": "je は女性名詞 riba を受ける「それを」です。"
+        "title": "Je li bolje + 不定詞",
+        "explanation_ja": "魚市場では Možete li...? を使うと丁寧に依頼できます。魚をどう処理してほしいかは動詞の不定形で続けます。",
+        "tables": [
+          {
+            "title_ja": "依頼の型",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "丁寧な依頼",
+                "hr": "Možete li + 動詞?",
+                "ja": "〜していただけますか？"
+              },
+              {
+                "part": "対象",
+                "hr": "je / ribu",
+                "ja": "それを / 魚を"
+              },
+              {
+                "part": "目的",
+                "hr": "za sashimi / za roštilj",
+                "ja": "刺身用に / グリル用に"
+              }
+            ]
+          },
+          {
+            "title_ja": "捌き方の動詞",
+            "headers": [
+              "hr",
+              "pronunciation_ja",
+              "ja"
+            ],
+            "header_labels": {
+              "hr": "動詞",
+              "pronunciation_ja": "カタカナ",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "hr": "očistiti",
+                "pronunciation_ja": "オチスティティ",
+                "ja": "内臓などを取って処理する"
+              },
+              {
+                "hr": "filetirati",
+                "pronunciation_ja": "フィレティラティ",
+                "ja": "フィレにする"
+              },
+              {
+                "hr": "skinuti kožu",
+                "pronunciation_ja": "スキヌティ コジュ",
+                "ja": "皮を取る"
+              },
+              {
+                "hr": "izvaditi kosti",
+                "pronunciation_ja": "イズヴァディティ コスティ",
+                "ja": "骨を取る"
+              },
+              {
+                "hr": "narezati",
+                "pronunciation_ja": "ナレザティ",
+                "ja": "切る、スライスする"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "生食できるかは必ず店で確認する前提の表現にしています。",
+          "地域・店・魚種によって対応できる処理が違うため、確認表現を中心にします。"
+        ]
       }
     }
   ]

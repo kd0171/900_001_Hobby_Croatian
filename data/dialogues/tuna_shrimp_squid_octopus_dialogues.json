@@ -1,0 +1,476 @@
+{
+  "items": [
+    {
+      "id": "fish_story_tuna_fatty_part",
+      "scene": "fish_market",
+      "level": 2,
+      "title_ja": "魚市場-トロ相談",
+      "title_hr": "",
+      "related_vocab_ids": [],
+      "related_sentence_ids": [],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "hr": "Dobar dan. Imate li tunu?",
+          "pronunciation_ja": "ドバル ダン イマテ リ トゥヌ",
+          "ja": "こんにちは。マグロはありますか？"
+        },
+        {
+          "speaker": "B",
+          "hr": "Da, imamo svježu tunu.",
+          "pronunciation_ja": "ダ イマモ スヴィェジュ トゥヌ",
+          "ja": "はい、新鮮なマグロがあります。"
+        },
+        {
+          "speaker": "A",
+          "hr": "Imate li masniji dio tune, bliže trbuhu?",
+          "pronunciation_ja": "イマテ リ マスニイ ディオ トゥネ ブリジェ トルブフ",
+          "ja": "腹に近い、脂の多い部分はありますか？"
+        },
+        {
+          "speaker": "B",
+          "hr": "Da, ovaj dio je masniji i svjetliji.",
+          "pronunciation_ja": "ダ オヴァイ ディオ イェ マスニイ イ スヴィェトリイ",
+          "ja": "はい、この部分は脂が多く、白っぽいです。"
+        },
+        {
+          "speaker": "A",
+          "hr": "Dobro. Tristo grama, molim.",
+          "pronunciation_ja": "ドブロ トリスト グラマ モリム",
+          "ja": "いいですね。300グラムお願いします。"
+        }
+      ],
+      "questions": [
+        {
+          "id": "tuna_fat_q1",
+          "type": "multiple_choice",
+          "question_ja": "Aさんはマグロのどの部分を探していますか？",
+          "choices_ja": [
+            "脂の多い腹側",
+            "骨の多い尾側",
+            "冷凍の魚",
+            "皮だけ"
+          ],
+          "answer": "脂の多い腹側"
+        },
+        {
+          "id": "tuna_fat_q2",
+          "type": "input",
+          "question_ja": "「脂の多い部分」に近いクロアチア語を書いてください。",
+          "answer_hr": "masniji dio",
+          "accepted_answers_hr": [
+            "masniji dio",
+            "masniji dio tune"
+          ]
+        }
+      ],
+      "grammar_notes": [
+        {
+          "title_ja": "魚市場での部位指定",
+          "explanation_ja": "日本語の「トロ」「血合い」がそのまま通じない場合は、masniji dio（脂の多い部分）、trbušni dio tune（マグロの腹側）、tamni dio（暗い部分）など、見た目と位置で説明します。"
+        },
+        {
+          "title_ja": "丁寧な依頼",
+          "explanation_ja": "Možete li...? は「〜してもらえますか？」です。切り方、下処理、避けたい部分の確認に使えます。"
+        }
+      ],
+      "vocabulary_notes": [
+        {
+          "hr": "tuna",
+          "pronunciation_ja": "トゥナ",
+          "meaning_ja": "マグロ",
+          "note_ja": "目的語では tunu になる。"
+        },
+        {
+          "hr": "masniji dio",
+          "pronunciation_ja": "マスニイ ディオ",
+          "meaning_ja": "脂の多い部分",
+          "note_ja": "トロに近い部位を説明する時。"
+        },
+        {
+          "hr": "trbušni dio tune",
+          "pronunciation_ja": "トルブシュニ ディオ トゥネ",
+          "meaning_ja": "マグロの腹側",
+          "note_ja": "脂が多い部分を説明しやすい。"
+        },
+        {
+          "hr": "svjetliji dio",
+          "pronunciation_ja": "スヴィェトリイ ディオ",
+          "meaning_ja": "白っぽい部分",
+          "note_ja": "指差しと一緒に使うと便利。"
+        },
+        {
+          "hr": "tamni dio",
+          "pronunciation_ja": "タムニ ディオ",
+          "meaning_ja": "暗い部分／血合い周り",
+          "note_ja": "欲しくない部分を伝える表現。"
+        },
+        {
+          "hr": "krvna linija",
+          "pronunciation_ja": "クルヴナ リニヤ",
+          "meaning_ja": "血合いの線／血のライン",
+          "note_ja": "専門語として通じにくい場合は tamni dio と併用。"
+        },
+        {
+          "hr": "narezati",
+          "pronunciation_ja": "ナレザティ",
+          "meaning_ja": "切る",
+          "note_ja": "薄く・厚く切る依頼に使う。"
+        }
+      ],
+      "seafood_table": [
+        {
+          "hr": "tuna",
+          "pronunciation_ja": "トゥナ",
+          "meaning_ja": "マグロ",
+          "note_ja": "赤身・脂の多い部分の確認に使う。"
+        },
+        {
+          "hr": "masniji dio tune",
+          "pronunciation_ja": "マスニイ ディオ トゥネ",
+          "meaning_ja": "マグロの脂の多い部分。トロに近い説明。",
+          "note_ja": "「トロ」が通じない時の実用表現。"
+        },
+        {
+          "hr": "tamni dio / krvna linija",
+          "pronunciation_ja": "タムニ ディオ / クルヴナ リニヤ",
+          "meaning_ja": "暗い部分／血合いの線",
+          "note_ja": "血合い周りを避けたい時。"
+        },
+        {
+          "hr": "kozice",
+          "pronunciation_ja": "コジツェ",
+          "meaning_ja": "エビ／小エビ",
+          "note_ja": "量り売りでは複数形がよく出る。"
+        },
+        {
+          "hr": "škampi",
+          "pronunciation_ja": "シュカンピ",
+          "meaning_ja": "スカンピ／手長エビ系",
+          "note_ja": "高級寄り。"
+        },
+        {
+          "hr": "lignje / lignjice",
+          "pronunciation_ja": "リグニェ / リグニツェ",
+          "meaning_ja": "イカ／小イカ",
+          "note_ja": "下処理済みか確認すると便利。"
+        },
+        {
+          "hr": "hobotnica / muzgavac",
+          "pronunciation_ja": "ホボトニツァ / ムズガヴァツ",
+          "meaning_ja": "タコ／小型タコ類",
+          "note_ja": "サラダ・煮込み向き。"
+        }
+      ]
+    },
+    {
+      "id": "fish_story_tuna_no_bloodline",
+      "scene": "fish_market",
+      "level": 2,
+      "title_ja": "魚市場-血合い避け",
+      "title_hr": "",
+      "related_vocab_ids": [],
+      "related_sentence_ids": [],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "hr": "Želim ovaj svjetliji dio tune.",
+          "pronunciation_ja": "ジェリム オヴァイ スヴィェトリイ ディオ トゥネ",
+          "ja": "この白っぽいマグロの部分が欲しいです。"
+        },
+        {
+          "speaker": "B",
+          "hr": "Koliko želite?",
+          "pronunciation_ja": "コリコ ジェリテ",
+          "ja": "どれくらい欲しいですか？"
+        },
+        {
+          "speaker": "A",
+          "hr": "Pola kilograma, molim. Ne želim tamni dio uz krvnu liniju.",
+          "pronunciation_ja": "ポラ キログラマ モリム ネ ジェリム タムニ ディオ ウズ クルヴヌ リニユ",
+          "ja": "半キロお願いします。血合いの線の近くの暗い部分はいりません。"
+        },
+        {
+          "speaker": "B",
+          "hr": "Razumijem. Narezat ću bez tamnog dijela.",
+          "pronunciation_ja": "ラズミイェム ナレザト チュ ベズ タムノグ ディイェラ",
+          "ja": "わかりました。暗い部分なしで切ります。"
+        }
+      ],
+      "questions": [
+        {
+          "id": "tuna_blood_q1",
+          "type": "multiple_choice",
+          "question_ja": "Aさんが避けたい部分はどれですか？",
+          "choices_ja": [
+            "血合い周りの暗い部分",
+            "白っぽい脂の部分",
+            "腹側の部分",
+            "マグロの切り身全部"
+          ],
+          "answer": "血合い周りの暗い部分"
+        },
+        {
+          "id": "tuna_blood_q2",
+          "type": "input",
+          "question_ja": "「暗い部分なしで」にあたる語句を書いてください。",
+          "answer_hr": "bez tamnog dijela",
+          "accepted_answers_hr": [
+            "bez tamnog dijela",
+            "Bez tamnog dijela"
+          ]
+        }
+      ],
+      "grammar_notes": [
+        {
+          "title_ja": "魚市場での部位指定",
+          "explanation_ja": "日本語の「トロ」「血合い」がそのまま通じない場合は、masniji dio（脂の多い部分）、trbušni dio tune（マグロの腹側）、tamni dio（暗い部分）など、見た目と位置で説明します。"
+        },
+        {
+          "title_ja": "丁寧な依頼",
+          "explanation_ja": "Možete li...? は「〜してもらえますか？」です。切り方、下処理、避けたい部分の確認に使えます。"
+        }
+      ],
+      "vocabulary_notes": [
+        {
+          "hr": "tuna",
+          "pronunciation_ja": "トゥナ",
+          "meaning_ja": "マグロ",
+          "note_ja": "目的語では tunu になる。"
+        },
+        {
+          "hr": "masniji dio",
+          "pronunciation_ja": "マスニイ ディオ",
+          "meaning_ja": "脂の多い部分",
+          "note_ja": "トロに近い部位を説明する時。"
+        },
+        {
+          "hr": "trbušni dio tune",
+          "pronunciation_ja": "トルブシュニ ディオ トゥネ",
+          "meaning_ja": "マグロの腹側",
+          "note_ja": "脂が多い部分を説明しやすい。"
+        },
+        {
+          "hr": "svjetliji dio",
+          "pronunciation_ja": "スヴィェトリイ ディオ",
+          "meaning_ja": "白っぽい部分",
+          "note_ja": "指差しと一緒に使うと便利。"
+        },
+        {
+          "hr": "tamni dio",
+          "pronunciation_ja": "タムニ ディオ",
+          "meaning_ja": "暗い部分／血合い周り",
+          "note_ja": "欲しくない部分を伝える表現。"
+        },
+        {
+          "hr": "krvna linija",
+          "pronunciation_ja": "クルヴナ リニヤ",
+          "meaning_ja": "血合いの線／血のライン",
+          "note_ja": "専門語として通じにくい場合は tamni dio と併用。"
+        },
+        {
+          "hr": "narezati",
+          "pronunciation_ja": "ナレザティ",
+          "meaning_ja": "切る",
+          "note_ja": "薄く・厚く切る依頼に使う。"
+        }
+      ],
+      "seafood_table": [
+        {
+          "hr": "tuna",
+          "pronunciation_ja": "トゥナ",
+          "meaning_ja": "マグロ",
+          "note_ja": "赤身・脂の多い部分の確認に使う。"
+        },
+        {
+          "hr": "masniji dio tune",
+          "pronunciation_ja": "マスニイ ディオ トゥネ",
+          "meaning_ja": "マグロの脂の多い部分。トロに近い説明。",
+          "note_ja": "「トロ」が通じない時の実用表現。"
+        },
+        {
+          "hr": "tamni dio / krvna linija",
+          "pronunciation_ja": "タムニ ディオ / クルヴナ リニヤ",
+          "meaning_ja": "暗い部分／血合いの線",
+          "note_ja": "血合い周りを避けたい時。"
+        },
+        {
+          "hr": "kozice",
+          "pronunciation_ja": "コジツェ",
+          "meaning_ja": "エビ／小エビ",
+          "note_ja": "量り売りでは複数形がよく出る。"
+        },
+        {
+          "hr": "škampi",
+          "pronunciation_ja": "シュカンピ",
+          "meaning_ja": "スカンピ／手長エビ系",
+          "note_ja": "高級寄り。"
+        },
+        {
+          "hr": "lignje / lignjice",
+          "pronunciation_ja": "リグニェ / リグニツェ",
+          "meaning_ja": "イカ／小イカ",
+          "note_ja": "下処理済みか確認すると便利。"
+        },
+        {
+          "hr": "hobotnica / muzgavac",
+          "pronunciation_ja": "ホボトニツァ / ムズガヴァツ",
+          "meaning_ja": "タコ／小型タコ類",
+          "note_ja": "サラダ・煮込み向き。"
+        }
+      ]
+    },
+    {
+      "id": "fish_story_squid_shrimp_octopus",
+      "scene": "fish_market",
+      "level": 2,
+      "title_ja": "魚市場-イカエビタコ",
+      "title_hr": "",
+      "related_vocab_ids": [],
+      "related_sentence_ids": [],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "hr": "Imate li male lignje i kozice?",
+          "pronunciation_ja": "イマテ リ マレ リグニェ イ コジツェ",
+          "ja": "小さいイカとエビはありますか？"
+        },
+        {
+          "speaker": "B",
+          "hr": "Da, imamo lignjice, kozice i hobotnicu.",
+          "pronunciation_ja": "ダ イマモ リグニツェ コジツェ イ ホボトニツ",
+          "ja": "はい、小イカ、エビ、タコがあります。"
+        },
+        {
+          "speaker": "A",
+          "hr": "Jesu li lignjice očišćene?",
+          "pronunciation_ja": "イェス リ リグニツェ オチシュチェネ",
+          "ja": "小イカは下処理済みですか？"
+        },
+        {
+          "speaker": "B",
+          "hr": "Nisu, ali možemo ih očistiti.",
+          "pronunciation_ja": "ニス アリ モジェモ イフ オチスティティ",
+          "ja": "まだですが、下処理できます。"
+        },
+        {
+          "speaker": "A",
+          "hr": "Dobro. Pola kilograma kozica i malo lignjica, molim.",
+          "pronunciation_ja": "ドブロ ポラ キログラマ コジツァ イ マロ リグニツァ モリム",
+          "ja": "では、エビを半キロと小イカを少しお願いします。"
+        }
+      ],
+      "questions": [
+        {
+          "id": "squid_shrimp_q1",
+          "type": "multiple_choice",
+          "question_ja": "店には何がありますか？",
+          "choices_ja": [
+            "小イカ・エビ・タコ",
+            "パンと水",
+            "船のチケット",
+            "果物だけ"
+          ],
+          "answer": "小イカ・エビ・タコ"
+        },
+        {
+          "id": "squid_shrimp_q2",
+          "type": "input",
+          "question_ja": "「小さいイカ」に近いクロアチア語を書いてください。",
+          "answer_hr": "male lignje",
+          "accepted_answers_hr": [
+            "male lignje",
+            "lignjice",
+            "lignjica"
+          ]
+        }
+      ],
+      "grammar_notes": [
+        {
+          "title_ja": "魚市場での部位指定",
+          "explanation_ja": "日本語の「トロ」「血合い」がそのまま通じない場合は、masniji dio（脂の多い部分）、trbušni dio tune（マグロの腹側）、tamni dio（暗い部分）など、見た目と位置で説明します。"
+        },
+        {
+          "title_ja": "丁寧な依頼",
+          "explanation_ja": "Možete li...? は「〜してもらえますか？」です。切り方、下処理、避けたい部分の確認に使えます。"
+        }
+      ],
+      "vocabulary_notes": [
+        {
+          "hr": "male lignje / lignjice",
+          "pronunciation_ja": "マレ リグニェ / リグニツェ",
+          "meaning_ja": "小さいイカ／小イカ",
+          "note_ja": "小さいものを指定したい時。"
+        },
+        {
+          "hr": "kozice",
+          "pronunciation_ja": "コジツェ",
+          "meaning_ja": "エビ／小エビ",
+          "note_ja": "量り売りで便利。"
+        },
+        {
+          "hr": "hobotnica",
+          "pronunciation_ja": "ホボトニツァ",
+          "meaning_ja": "タコ",
+          "note_ja": "サラダ・煮込み・グリルに。"
+        },
+        {
+          "hr": "očišćene",
+          "pronunciation_ja": "オチシュチェネ",
+          "meaning_ja": "下処理済み",
+          "note_ja": "複数女性形。lignjice に合わせている。"
+        },
+        {
+          "hr": "Pola kilograma",
+          "pronunciation_ja": "ポラ キログラマ",
+          "meaning_ja": "半キロ",
+          "note_ja": "魚市場で非常に使いやすい数量表現。"
+        }
+      ],
+      "seafood_table": [
+        {
+          "hr": "tuna",
+          "pronunciation_ja": "トゥナ",
+          "meaning_ja": "マグロ",
+          "note_ja": "赤身・脂の多い部分の確認に使う。"
+        },
+        {
+          "hr": "masniji dio tune",
+          "pronunciation_ja": "マスニイ ディオ トゥネ",
+          "meaning_ja": "マグロの脂の多い部分。トロに近い説明。",
+          "note_ja": "「トロ」が通じない時の実用表現。"
+        },
+        {
+          "hr": "tamni dio / krvna linija",
+          "pronunciation_ja": "タムニ ディオ / クルヴナ リニヤ",
+          "meaning_ja": "暗い部分／血合いの線",
+          "note_ja": "血合い周りを避けたい時。"
+        },
+        {
+          "hr": "kozice",
+          "pronunciation_ja": "コジツェ",
+          "meaning_ja": "エビ／小エビ",
+          "note_ja": "量り売りでは複数形がよく出る。"
+        },
+        {
+          "hr": "škampi",
+          "pronunciation_ja": "シュカンピ",
+          "meaning_ja": "スカンピ／手長エビ系",
+          "note_ja": "高級寄り。"
+        },
+        {
+          "hr": "lignje / lignjice",
+          "pronunciation_ja": "リグニェ / リグニツェ",
+          "meaning_ja": "イカ／小イカ",
+          "note_ja": "下処理済みか確認すると便利。"
+        },
+        {
+          "hr": "hobotnica / muzgavac",
+          "pronunciation_ja": "ホボトニツァ / ムズガヴァツ",
+          "meaning_ja": "タコ／小型タコ類",
+          "note_ja": "サラダ・煮込み向き。"
+        }
+      ]
+    }
+  ]
+}

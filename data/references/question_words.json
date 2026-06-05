@@ -1,88 +1,86 @@
 {
   "id": "question_words",
-  "title_ja": "基本疑問詞",
+  "title_ja": "疑問詞",
   "title_hr": "Upitne riječi",
   "sections": [
     {
       "id": "question_words",
       "title_ja": "基本疑問詞",
-      "note_ja": "語順の基本：疑問詞は文頭に置くことが多いです。名詞を聞くときは「疑問詞 + je/su + 名詞」、動作を聞くときは「疑問詞 + 動詞」の形がよく出ます。例：Gdje je plaža?（ビーチはどこですか）、Kada polazi brod?（船はいつ出発しますか）。",
+      "note_ja": "基本の語順は「疑問詞 + 動詞 + 主語/名詞」です。例：Gdje je plaža? = どこ + です + ビーチ。主語が短い場合は動詞の後ろに来る形がよく出ます。",
       "items": [
         {
           "ja": "どこ",
           "hr": "gdje",
           "pronunciation_ja": "グデ",
-          "note_ja": "場所。Gdje je...? = 〜はどこですか。"
+          "note_ja": "場所を聞く。Gdje je...?"
         },
         {
           "ja": "どこへ",
           "hr": "kamo",
           "pronunciation_ja": "カモ",
-          "note_ja": "移動先。Kamo ide...? = どこへ行きますか。"
+          "note_ja": "移動先を聞く。Kamo ide...?"
         },
         {
           "ja": "いつ",
           "hr": "kada",
           "pronunciation_ja": "カダ",
-          "note_ja": "時間。Kada polazi...? = いつ出発しますか。"
+          "note_ja": "時間を聞く。Kada polazi...?"
         },
         {
-          "ja": "いくら／どれくらい",
+          "ja": "いくら/どれくらい",
           "hr": "koliko",
           "pronunciation_ja": "コリコ",
-          "note_ja": "値段・量・数。"
+          "note_ja": "値段・量・時間に使う。"
         },
         {
           "ja": "何",
           "hr": "što",
           "pronunciation_ja": "シュト",
-          "note_ja": "物事。"
+          "note_ja": "もの・内容を聞く。"
         },
         {
           "ja": "誰",
           "hr": "tko",
           "pronunciation_ja": "トコ",
-          "note_ja": "人。"
+          "note_ja": "人を聞く。"
         },
         {
-          "ja": "どの／何の",
+          "ja": "どの/どれ",
           "hr": "koji / koja / koje",
           "pronunciation_ja": "コイ / コヤ / コイェ",
-          "note_ja": "名詞の性に合わせる。"
-        },
-        {
-          "ja": "なぜ",
-          "hr": "zašto",
-          "pronunciation_ja": "ザシュト",
-          "note_ja": "理由。"
-        },
-        {
-          "ja": "どうやって",
-          "hr": "kako",
-          "pronunciation_ja": "カコ",
-          "note_ja": "方法・状態。"
+          "note_ja": "名詞の性に合わせて変わる。"
         }
       ],
       "examples": [
         {
-          "hr": "Gdje je ribarnica?",
-          "pronunciation_ja": "グデ イェ リバルニツァ",
-          "ja": "魚市場はどこですか？"
+          "ja": "ビーチはどこですか？",
+          "hr": "Gdje je plaža?",
+          "pronunciation_ja": "グデ イェ プラジャ",
+          "note_ja": "疑問詞 + je + 名詞"
         },
         {
+          "ja": "船はいつ出発しますか？",
           "hr": "Kada polazi brod?",
           "pronunciation_ja": "カダ ポラジ ブロド",
-          "ja": "船はいつ出発しますか？"
+          "note_ja": "疑問詞 + 動詞 + 主語"
         },
         {
-          "hr": "Koliko košta ova riba?",
-          "pronunciation_ja": "コリコ コシュタ オヴァ リバ",
-          "ja": "この魚はいくらですか？"
+          "ja": "これはいくらですか？",
+          "hr": "Koliko ovo košta?",
+          "pronunciation_ja": "コリコ オヴォ コシュタ",
+          "note_ja": "koliko + 主語 + 動詞"
         },
         {
-          "hr": "Koja je plaža mirna?",
-          "pronunciation_ja": "コヤ イェ プラジャ ミルナ",
-          "ja": "どのビーチが静かですか？"
+          "ja": "何をおすすめしますか？",
+          "hr": "Što preporučujete?",
+          "pronunciation_ja": "シュト プレポルチュイェテ",
+          "note_ja": "što + 動詞"
+        },
+        {
+          "ja": "どの魚が新鮮ですか？",
+          "hr": "Koja je riba svježa?",
+          "pronunciation_ja": "コヤ イェ リバ スヴィェジャ",
+          "note_ja": "riba は女性名詞なので koja"
         }
       ]
     }

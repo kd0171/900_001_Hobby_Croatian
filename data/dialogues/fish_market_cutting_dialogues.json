@@ -1,259 +1,970 @@
 {
   "items": [
     {
-      "id": "fish_cut_guts_scales",
+      "id": "fish_story_sashimi",
       "scene": "fish_market",
       "level": 2,
-      "title_ja": "魚市場-内臓確認",
-      "title_hr": "Čišćenje ribe: utroba i ljuske",
+      "title_ja": "魚市場-生食確認",
+      "title_hr": "",
       "related_vocab_ids": [],
-      "related_sentence_ids": [],
+      "related_sentence_ids": [
+        "fish_cut_001",
+        "fish_cut_002",
+        "fish_cut_003"
+      ],
       "dialogue": [
         {
           "speaker": "A",
-          "hr": "Dobar dan. Je li ova riba dobra za pečenje?",
-          "pronunciation_ja": "ドバル ダン イェ リ オヴァ リバ ドブラ ザ ペチェニェ",
-          "ja": "こんにちは。この魚は焼くのに良いですか？"
+          "hr": "Dobar dan. Je li ova riba svježa?",
+          "pronunciation_ja": "ドバル ダン イェ リ オヴァ リバ スヴィェジャ",
+          "ja": "こんにちは。この魚は新鮮ですか？"
         },
         {
           "speaker": "B",
-          "hr": "Da, vrlo je svježa.",
-          "pronunciation_ja": "ダ ヴルロ イェ スヴィェジャ",
-          "ja": "はい、とても新鮮です。"
+          "hr": "Da, stigla je jutros.",
+          "pronunciation_ja": "ダ スティグラ イェ ユトロス",
+          "ja": "はい、今朝入った魚です。"
         },
         {
           "speaker": "A",
-          "hr": "Možete li izvaditi utrobu i skinuti ljuske?",
-          "pronunciation_ja": "モジェテ リ イズヴァディティ ウトロブ イ スキヌティ リュスケ",
-          "ja": "内臓を取って、うろこも取ってもらえますか？"
+          "hr": "Je li sigurno jesti je sirovu?",
+          "pronunciation_ja": "イェ リ シグルノ イェスティ イェ シロヴ",
+          "ja": "生で食べても安全ですか？"
         },
         {
           "speaker": "B",
-          "hr": "Naravno. Želite li da ostavim glavu?",
-          "pronunciation_ja": "ナラヴノ ジェリテ リ ダ オスタヴィム グラヴ",
-          "ja": "もちろんです。頭は残しますか？"
-        },
-        {
-          "speaker": "A",
-          "hr": "Da, ostavite glavu, molim.",
-          "pronunciation_ja": "ダ オスタヴィテ グラヴ モリム",
-          "ja": "はい、頭は残してください。"
+          "hr": "Bolje je pitati i pojesti je danas.",
+          "pronunciation_ja": "ボリェ イェ ピタティ イ ポイェスティ イェ ダナス",
+          "ja": "確認して、今日中に食べる方がよいです。"
         }
       ],
       "questions": [
         {
-          "id": "q1",
+          "id": "fish_story_sashimi_q1",
           "type": "multiple_choice",
-          "question_ja": "Aさんは何を頼みましたか？",
+          "question_ja": "Aさんは何を確認していますか？",
           "choices_ja": [
-            "内臓取りとうろこ取り",
+            "生食の安全性",
+            "船の出発時間",
+            "ビーチの場所",
+            "袋の有無"
+          ],
+          "answer": "生食の安全性"
+        },
+        {
+          "id": "fish_story_sashimi_q2",
+          "type": "input",
+          "question_ja": "「生で」を含む語を入力してください。",
+          "answer_hr": "sirovu",
+          "accepted_answers_hr": [
+            "sirovu",
+            "sirovo"
+          ]
+        }
+      ],
+      "grammar_notes": [
+        {
+          "title_ja": "捌き方の確認",
+          "explanation_ja": "魚市場では Možete li...? と動詞を組み合わせると、捌き方を丁寧に確認できます。生食については安全確認の文を入れる設計にしています。"
+        },
+        {
+          "title_ja": "魚名の考え方",
+          "explanation_ja": "brancin はヨーロピアンシーバス、orada はヨーロッパヘダイのように、日本の魚名と完全対応しないことがあります。アプリでは『〜に似た魚』として理解し、買う時は見た目・調理法・生食可否を確認します。"
+        }
+      ],
+      "vocabulary_notes": [
+        {
+          "hr": "brancin / lubin",
+          "pronunciation_ja": "ブランツィン / ルビン",
+          "meaning_ja": "ヨーロピアンシーバス。スズキに似た白身魚。",
+          "note_ja": "丸焼き・グリルでよく見る。"
+        },
+        {
+          "hr": "orada / komarča / podlanica",
+          "pronunciation_ja": "オラダ / コマルチャ / ポドゥラニツァ",
+          "meaning_ja": "ヨーロッパヘダイ。タイに近い白身魚。",
+          "note_ja": "日本のマダイとは別種。"
+        },
+        {
+          "hr": "riba",
+          "pronunciation_ja": "リバ",
+          "meaning_ja": "魚",
+          "note_ja": "女性名詞。目的語では ribu になる。"
+        },
+        {
+          "hr": "svjež / svježa",
+          "pronunciation_ja": "スヴィェジュ / スヴィェジャ",
+          "meaning_ja": "新鮮な",
+          "note_ja": "名詞の性に合わせる。"
+        },
+        {
+          "hr": "očistiti",
+          "pronunciation_ja": "オチスティティ",
+          "meaning_ja": "下処理する／捌く",
+          "note_ja": "内臓・ウロコなどを処理する意味で使える。"
+        },
+        {
+          "hr": "filetirati",
+          "pronunciation_ja": "フィレティラティ",
+          "meaning_ja": "三枚おろし・フィレにする",
+          "note_ja": "刺身用の完全な処理とは限らない。"
+        },
+        {
+          "hr": "skinuti kožu",
+          "pronunciation_ja": "スキヌティ コジュ",
+          "meaning_ja": "皮を取る",
+          "note_ja": "koža = 皮。"
+        },
+        {
+          "hr": "izvaditi kosti",
+          "pronunciation_ja": "イズヴァディティ コスティ",
+          "meaning_ja": "骨を取る",
+          "note_ja": "小骨が残る場合もある。"
+        },
+        {
+          "hr": "sirovo / sirovu",
+          "pronunciation_ja": "シロヴォ / シロヴ",
+          "meaning_ja": "生で／生の",
+          "note_ja": "ribu に合わせると sirovu。"
+        }
+      ],
+      "seafood_table": [
+        {
+          "hr": "brancin / lubin",
+          "pronunciation_ja": "ブランツィン / ルビン",
+          "meaning_ja": "ヨーロピアンシーバス（スズキに似た白身魚）",
+          "note_ja": "グリルや丸焼きでよく見る高級寄りの白身魚。Dalmatiaではlubinとも言う。"
+        },
+        {
+          "hr": "orada / komarča / podlanica",
+          "pronunciation_ja": "オラダ / コマルチャ / ポドゥラニツァ",
+          "meaning_ja": "ヨーロッパヘダイ（タイに近い白身魚）",
+          "note_ja": "日本のマダイとは別種だが、旅行者には『タイに近い魚』として理解しやすい。ザダル周辺ではpodlanicaも聞くことがある。"
+        },
+        {
+          "hr": "srdela",
+          "pronunciation_ja": "スルデラ",
+          "meaning_ja": "イワシ（欧州マイワシ）",
+          "note_ja": "安価でよく食べる青魚。焼き・揚げに向く。"
+        },
+        {
+          "hr": "inćun",
+          "pronunciation_ja": "インチュン",
+          "meaning_ja": "アンチョビ／カタクチイワシ系",
+          "note_ja": "小型の青魚。塩漬け・揚げ物にも出る。"
+        },
+        {
+          "hr": "oslić",
+          "pronunciation_ja": "オスリチ",
+          "meaning_ja": "メルルーサ／ヘイク",
+          "note_ja": "白身魚。比較的あっさりしていて加熱向き。"
+        },
+        {
+          "hr": "grdobina",
+          "pronunciation_ja": "グルドビナ",
+          "meaning_ja": "アンコウ",
+          "note_ja": "身がしっかりした白身。スープや煮込みにも使われる。"
+        },
+        {
+          "hr": "kovač",
+          "pronunciation_ja": "コヴァチ",
+          "meaning_ja": "マトウダイ",
+          "note_ja": "英語ではJohn Dory。白身の高級魚として扱われることがある。"
+        },
+        {
+          "hr": "kokot",
+          "pronunciation_ja": "ココト",
+          "meaning_ja": "ホウボウに似た魚",
+          "note_ja": "英語ではgurnard系。見た目に特徴があり、スープにも向く。"
+        },
+        {
+          "hr": "arbun",
+          "pronunciation_ja": "アルブン",
+          "meaning_ja": "パンドラ／タイ科の小型白身魚",
+          "note_ja": "英語ではcommon pandora。タイやイトヨリダイに近い感覚の白身魚。"
+        },
+        {
+          "hr": "gavun",
+          "pronunciation_ja": "ガヴン",
+          "meaning_ja": "キビナゴに似た小魚",
+          "note_ja": "小魚。揚げ物として出ることがある。"
+        },
+        {
+          "hr": "škarpina",
+          "pronunciation_ja": "シュカルピナ",
+          "meaning_ja": "カサゴ・フサカサゴ系",
+          "note_ja": "岩礁系の魚。骨が多いことがあるが出汁がよい。"
+        },
+        {
+          "hr": "zubatac",
+          "pronunciation_ja": "ズバタツ",
+          "meaning_ja": "デンテックス／タイ科の高級白身魚",
+          "note_ja": "名前は『歯』に由来。高級魚として扱われることがある。"
+        },
+        {
+          "hr": "list",
+          "pronunciation_ja": "リスト",
+          "meaning_ja": "シタビラメ系",
+          "note_ja": "平たい白身魚。"
+        },
+        {
+          "hr": "cipal",
+          "pronunciation_ja": "ツィパル",
+          "meaning_ja": "ボラ系",
+          "note_ja": "場所や鮮度によって印象が変わる魚。"
+        },
+        {
+          "hr": "ugor",
+          "pronunciation_ja": "ウゴル",
+          "meaning_ja": "アナゴ／コンガーウナギ系",
+          "note_ja": "英語ではconger eel。煮込みやスープにも。"
+        },
+        {
+          "hr": "palamida",
+          "pronunciation_ja": "パラミダ",
+          "meaning_ja": "カツオに似た魚",
+          "note_ja": "青魚寄り。焼き・グリル向き。"
+        },
+        {
+          "hr": "tuna",
+          "pronunciation_ja": "トゥナ",
+          "meaning_ja": "マグロ",
+          "note_ja": "日本語のマグロに対応。生食可否は必ず確認。"
+        },
+        {
+          "hr": "lignja",
+          "pronunciation_ja": "リグニャ",
+          "meaning_ja": "ヨーロッパヤリイカ／イカ",
+          "note_ja": "グリルやフライで定番。"
+        }
+      ]
+    },
+    {
+      "id": "fish_story_fillet",
+      "scene": "fish_market",
+      "level": 2,
+      "title_ja": "魚市場-三枚おろし",
+      "title_hr": "",
+      "related_vocab_ids": [],
+      "related_sentence_ids": [
+        "fish_cut_001",
+        "fish_cut_002",
+        "fish_cut_003"
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "hr": "Petsto grama ove ribe, molim.",
+          "pronunciation_ja": "ペトスト グラマ オヴェ リベ モリム",
+          "ja": "この魚を500グラムください。"
+        },
+        {
+          "speaker": "B",
+          "hr": "Želite li da je očistim?",
+          "pronunciation_ja": "ジェリテ リ ダ イェ オチスティム",
+          "ja": "処理しましょうか？"
+        },
+        {
+          "speaker": "A",
+          "hr": "Da. Možete li je filetirati?",
+          "pronunciation_ja": "ダ モジェテ リ イェ フィレティラティ",
+          "ja": "はい。三枚おろしにできますか？"
+        },
+        {
+          "speaker": "B",
+          "hr": "Naravno, filetirat ću je.",
+          "pronunciation_ja": "ナラヴノ フィレティラト チュ イェ",
+          "ja": "もちろんです。フィレにします。"
+        }
+      ],
+      "questions": [
+        {
+          "id": "fish_story_fillet_q1",
+          "type": "multiple_choice",
+          "question_ja": "Aさんはどんな処理を頼みましたか？",
+          "choices_ja": [
+            "三枚おろし",
+            "袋を追加",
             "船の予約",
-            "水を買う",
-            "博物館の時間確認"
+            "水を買う"
           ],
-          "answer": "内臓取りとうろこ取り"
+          "answer": "三枚おろし"
         },
         {
-          "id": "q2",
+          "id": "fish_story_fillet_q2",
           "type": "input",
-          "question_ja": "「頭は残してください」にあたるクロアチア語を書いてください。",
-          "answer_hr": "Ostavite glavu, molim.",
+          "question_ja": "「三枚おろしにする」に近い動詞を書いてください。",
+          "answer_hr": "filetirati",
           "accepted_answers_hr": [
-            "Ostavite glavu, molim.",
-            "Ostavite glavu molim",
-            "ostavite glavu molim"
+            "filetirati"
           ]
         }
       ],
       "grammar_notes": [
         {
-          "title_ja": "Možete li + 不定詞",
-          "explanation_ja": "Možete li izvaditi...? は「取り出してもらえますか」という丁寧な依頼です。"
+          "title_ja": "捌き方の確認",
+          "explanation_ja": "魚市場では Možete li...? と動詞を組み合わせると、捌き方を丁寧に確認できます。生食については安全確認の文を入れる設計にしています。"
         },
         {
-          "title_ja": "ostaviti glavu",
-          "explanation_ja": "ostaviti は「残す」、glavu は glava の対格で「頭を」という意味です。"
+          "title_ja": "魚名の考え方",
+          "explanation_ja": "brancin はヨーロピアンシーバス、orada はヨーロッパヘダイのように、日本の魚名と完全対応しないことがあります。アプリでは『〜に似た魚』として理解し、買う時は見た目・調理法・生食可否を確認します。"
+        }
+      ],
+      "vocabulary_notes": [
+        {
+          "hr": "brancin / lubin",
+          "pronunciation_ja": "ブランツィン / ルビン",
+          "meaning_ja": "ヨーロピアンシーバス。スズキに似た白身魚。",
+          "note_ja": "丸焼き・グリルでよく見る。"
+        },
+        {
+          "hr": "orada / komarča / podlanica",
+          "pronunciation_ja": "オラダ / コマルチャ / ポドゥラニツァ",
+          "meaning_ja": "ヨーロッパヘダイ。タイに近い白身魚。",
+          "note_ja": "日本のマダイとは別種。"
+        },
+        {
+          "hr": "riba",
+          "pronunciation_ja": "リバ",
+          "meaning_ja": "魚",
+          "note_ja": "女性名詞。目的語では ribu になる。"
+        },
+        {
+          "hr": "svjež / svježa",
+          "pronunciation_ja": "スヴィェジュ / スヴィェジャ",
+          "meaning_ja": "新鮮な",
+          "note_ja": "名詞の性に合わせる。"
+        },
+        {
+          "hr": "očistiti",
+          "pronunciation_ja": "オチスティティ",
+          "meaning_ja": "下処理する／捌く",
+          "note_ja": "内臓・ウロコなどを処理する意味で使える。"
+        },
+        {
+          "hr": "filetirati",
+          "pronunciation_ja": "フィレティラティ",
+          "meaning_ja": "三枚おろし・フィレにする",
+          "note_ja": "刺身用の完全な処理とは限らない。"
+        },
+        {
+          "hr": "skinuti kožu",
+          "pronunciation_ja": "スキヌティ コジュ",
+          "meaning_ja": "皮を取る",
+          "note_ja": "koža = 皮。"
+        },
+        {
+          "hr": "izvaditi kosti",
+          "pronunciation_ja": "イズヴァディティ コスティ",
+          "meaning_ja": "骨を取る",
+          "note_ja": "小骨が残る場合もある。"
+        },
+        {
+          "hr": "sirovo / sirovu",
+          "pronunciation_ja": "シロヴォ / シロヴ",
+          "meaning_ja": "生で／生の",
+          "note_ja": "ribu に合わせると sirovu。"
+        }
+      ],
+      "seafood_table": [
+        {
+          "hr": "brancin / lubin",
+          "pronunciation_ja": "ブランツィン / ルビン",
+          "meaning_ja": "ヨーロピアンシーバス（スズキに似た白身魚）",
+          "note_ja": "グリルや丸焼きでよく見る高級寄りの白身魚。Dalmatiaではlubinとも言う。"
+        },
+        {
+          "hr": "orada / komarča / podlanica",
+          "pronunciation_ja": "オラダ / コマルチャ / ポドゥラニツァ",
+          "meaning_ja": "ヨーロッパヘダイ（タイに近い白身魚）",
+          "note_ja": "日本のマダイとは別種だが、旅行者には『タイに近い魚』として理解しやすい。ザダル周辺ではpodlanicaも聞くことがある。"
+        },
+        {
+          "hr": "srdela",
+          "pronunciation_ja": "スルデラ",
+          "meaning_ja": "イワシ（欧州マイワシ）",
+          "note_ja": "安価でよく食べる青魚。焼き・揚げに向く。"
+        },
+        {
+          "hr": "inćun",
+          "pronunciation_ja": "インチュン",
+          "meaning_ja": "アンチョビ／カタクチイワシ系",
+          "note_ja": "小型の青魚。塩漬け・揚げ物にも出る。"
+        },
+        {
+          "hr": "oslić",
+          "pronunciation_ja": "オスリチ",
+          "meaning_ja": "メルルーサ／ヘイク",
+          "note_ja": "白身魚。比較的あっさりしていて加熱向き。"
+        },
+        {
+          "hr": "grdobina",
+          "pronunciation_ja": "グルドビナ",
+          "meaning_ja": "アンコウ",
+          "note_ja": "身がしっかりした白身。スープや煮込みにも使われる。"
+        },
+        {
+          "hr": "kovač",
+          "pronunciation_ja": "コヴァチ",
+          "meaning_ja": "マトウダイ",
+          "note_ja": "英語ではJohn Dory。白身の高級魚として扱われることがある。"
+        },
+        {
+          "hr": "kokot",
+          "pronunciation_ja": "ココト",
+          "meaning_ja": "ホウボウに似た魚",
+          "note_ja": "英語ではgurnard系。見た目に特徴があり、スープにも向く。"
+        },
+        {
+          "hr": "arbun",
+          "pronunciation_ja": "アルブン",
+          "meaning_ja": "パンドラ／タイ科の小型白身魚",
+          "note_ja": "英語ではcommon pandora。タイやイトヨリダイに近い感覚の白身魚。"
+        },
+        {
+          "hr": "gavun",
+          "pronunciation_ja": "ガヴン",
+          "meaning_ja": "キビナゴに似た小魚",
+          "note_ja": "小魚。揚げ物として出ることがある。"
+        },
+        {
+          "hr": "škarpina",
+          "pronunciation_ja": "シュカルピナ",
+          "meaning_ja": "カサゴ・フサカサゴ系",
+          "note_ja": "岩礁系の魚。骨が多いことがあるが出汁がよい。"
+        },
+        {
+          "hr": "zubatac",
+          "pronunciation_ja": "ズバタツ",
+          "meaning_ja": "デンテックス／タイ科の高級白身魚",
+          "note_ja": "名前は『歯』に由来。高級魚として扱われることがある。"
+        },
+        {
+          "hr": "list",
+          "pronunciation_ja": "リスト",
+          "meaning_ja": "シタビラメ系",
+          "note_ja": "平たい白身魚。"
+        },
+        {
+          "hr": "cipal",
+          "pronunciation_ja": "ツィパル",
+          "meaning_ja": "ボラ系",
+          "note_ja": "場所や鮮度によって印象が変わる魚。"
+        },
+        {
+          "hr": "ugor",
+          "pronunciation_ja": "ウゴル",
+          "meaning_ja": "アナゴ／コンガーウナギ系",
+          "note_ja": "英語ではconger eel。煮込みやスープにも。"
+        },
+        {
+          "hr": "palamida",
+          "pronunciation_ja": "パラミダ",
+          "meaning_ja": "カツオに似た魚",
+          "note_ja": "青魚寄り。焼き・グリル向き。"
+        },
+        {
+          "hr": "tuna",
+          "pronunciation_ja": "トゥナ",
+          "meaning_ja": "マグロ",
+          "note_ja": "日本語のマグロに対応。生食可否は必ず確認。"
+        },
+        {
+          "hr": "lignja",
+          "pronunciation_ja": "リグニャ",
+          "meaning_ja": "ヨーロッパヤリイカ／イカ",
+          "note_ja": "グリルやフライで定番。"
         }
       ]
     },
     {
-      "id": "fish_cut_gills_head_off",
+      "id": "fish_story_skin",
       "scene": "fish_market",
       "level": 2,
-      "title_ja": "魚市場-えら頭",
-      "title_hr": "Škrge i glava",
+      "title_ja": "魚市場-皮を引く",
+      "title_hr": "",
       "related_vocab_ids": [],
-      "related_sentence_ids": [],
+      "related_sentence_ids": [
+        "fish_cut_001",
+        "fish_cut_002",
+        "fish_cut_003"
+      ],
       "dialogue": [
         {
           "speaker": "A",
-          "hr": "Ovu ribu bih uzeo.",
-          "pronunciation_ja": "オヴ リブ ビフ ウゼオ",
-          "ja": "この魚をいただきたいです。"
+          "hr": "Možete li skinuti kožu?",
+          "pronunciation_ja": "モジェテ リ スキヌティ コジュ",
+          "ja": "皮を取ってもらえますか？"
         },
         {
           "speaker": "B",
-          "hr": "Koliko želite?",
-          "pronunciation_ja": "コリコ ジェリテ",
-          "ja": "どれくらい欲しいですか？"
+          "hr": "Da, mogu.",
+          "pronunciation_ja": "ダ モグ",
+          "ja": "はい、できます。"
         },
         {
           "speaker": "A",
-          "hr": "Jedan kilogram, molim. Možete li ukloniti škrge?",
-          "pronunciation_ja": "イェダン キログラム モリム モジェテ リ ウクロニティ シュクルゲ",
-          "ja": "1キロください。えらを取ってもらえますか？"
+          "hr": "I možete li izvaditi kosti?",
+          "pronunciation_ja": "イ モジェテ リ イズヴァディティ コスティ",
+          "ja": "それから骨も取ってもらえますか？"
         },
         {
           "speaker": "B",
-          "hr": "Da. Želite li da odrežem glavu?",
-          "pronunciation_ja": "ダ ジェリテ リ ダ オドレジェム グラヴ",
-          "ja": "はい。頭を落としますか？"
-        },
-        {
-          "speaker": "A",
-          "hr": "Da, odrežite glavu, molim.",
-          "pronunciation_ja": "ダ オドレジテ グラヴ モリム",
-          "ja": "はい、頭を落としてください。"
+          "hr": "Da, ali treba malo vremena.",
+          "pronunciation_ja": "ダ アリ トレバ マロ ヴレメナ",
+          "ja": "はい、ただ少し時間がかかります。"
         }
       ],
       "questions": [
         {
-          "id": "q1",
+          "id": "fish_story_skin_q1",
           "type": "multiple_choice",
-          "question_ja": "Aさんは頭をどうしてほしいですか？",
+          "question_ja": "店員は何と言っていますか？",
           "choices_ja": [
-            "落としてほしい",
-            "残してほしい",
-            "半分だけほしい",
-            "氷を入れてほしい"
+            "少し時間が必要",
+            "船は欠航",
+            "魚はない",
+            "カード不可"
           ],
-          "answer": "落としてほしい"
-        },
-        {
-          "id": "q2",
-          "type": "input",
-          "question_ja": "「えらを取ってもらえますか？」にあたる文を書いてください。",
-          "answer_hr": "Možete li ukloniti škrge?",
-          "accepted_answers_hr": [
-            "Možete li ukloniti škrge?",
-            "Mozete li ukloniti skrge",
-            "Možete li ukloniti škrge"
-          ]
+          "answer": "少し時間が必要"
         }
       ],
       "grammar_notes": [
         {
-          "title_ja": "ukloniti",
-          "explanation_ja": "ukloniti は「取り除く」。škrge は「えら」です。"
+          "title_ja": "捌き方の確認",
+          "explanation_ja": "魚市場では Možete li...? と動詞を組み合わせると、捌き方を丁寧に確認できます。生食については安全確認の文を入れる設計にしています。"
         },
         {
-          "title_ja": "odrezati glavu",
-          "explanation_ja": "odrezati は「切り落とす」。市場で頭を落としてほしい時に使えます。"
+          "title_ja": "魚名の考え方",
+          "explanation_ja": "brancin はヨーロピアンシーバス、orada はヨーロッパヘダイのように、日本の魚名と完全対応しないことがあります。アプリでは『〜に似た魚』として理解し、買う時は見た目・調理法・生食可否を確認します。"
+        }
+      ],
+      "vocabulary_notes": [
+        {
+          "hr": "brancin / lubin",
+          "pronunciation_ja": "ブランツィン / ルビン",
+          "meaning_ja": "ヨーロピアンシーバス。スズキに似た白身魚。",
+          "note_ja": "丸焼き・グリルでよく見る。"
+        },
+        {
+          "hr": "orada / komarča / podlanica",
+          "pronunciation_ja": "オラダ / コマルチャ / ポドゥラニツァ",
+          "meaning_ja": "ヨーロッパヘダイ。タイに近い白身魚。",
+          "note_ja": "日本のマダイとは別種。"
+        },
+        {
+          "hr": "riba",
+          "pronunciation_ja": "リバ",
+          "meaning_ja": "魚",
+          "note_ja": "女性名詞。目的語では ribu になる。"
+        },
+        {
+          "hr": "svjež / svježa",
+          "pronunciation_ja": "スヴィェジュ / スヴィェジャ",
+          "meaning_ja": "新鮮な",
+          "note_ja": "名詞の性に合わせる。"
+        },
+        {
+          "hr": "očistiti",
+          "pronunciation_ja": "オチスティティ",
+          "meaning_ja": "下処理する／捌く",
+          "note_ja": "内臓・ウロコなどを処理する意味で使える。"
+        },
+        {
+          "hr": "filetirati",
+          "pronunciation_ja": "フィレティラティ",
+          "meaning_ja": "三枚おろし・フィレにする",
+          "note_ja": "刺身用の完全な処理とは限らない。"
+        },
+        {
+          "hr": "skinuti kožu",
+          "pronunciation_ja": "スキヌティ コジュ",
+          "meaning_ja": "皮を取る",
+          "note_ja": "koža = 皮。"
+        },
+        {
+          "hr": "izvaditi kosti",
+          "pronunciation_ja": "イズヴァディティ コスティ",
+          "meaning_ja": "骨を取る",
+          "note_ja": "小骨が残る場合もある。"
+        },
+        {
+          "hr": "sirovo / sirovu",
+          "pronunciation_ja": "シロヴォ / シロヴ",
+          "meaning_ja": "生で／生の",
+          "note_ja": "ribu に合わせると sirovu。"
+        }
+      ],
+      "seafood_table": [
+        {
+          "hr": "brancin / lubin",
+          "pronunciation_ja": "ブランツィン / ルビン",
+          "meaning_ja": "ヨーロピアンシーバス（スズキに似た白身魚）",
+          "note_ja": "グリルや丸焼きでよく見る高級寄りの白身魚。Dalmatiaではlubinとも言う。"
+        },
+        {
+          "hr": "orada / komarča / podlanica",
+          "pronunciation_ja": "オラダ / コマルチャ / ポドゥラニツァ",
+          "meaning_ja": "ヨーロッパヘダイ（タイに近い白身魚）",
+          "note_ja": "日本のマダイとは別種だが、旅行者には『タイに近い魚』として理解しやすい。ザダル周辺ではpodlanicaも聞くことがある。"
+        },
+        {
+          "hr": "srdela",
+          "pronunciation_ja": "スルデラ",
+          "meaning_ja": "イワシ（欧州マイワシ）",
+          "note_ja": "安価でよく食べる青魚。焼き・揚げに向く。"
+        },
+        {
+          "hr": "inćun",
+          "pronunciation_ja": "インチュン",
+          "meaning_ja": "アンチョビ／カタクチイワシ系",
+          "note_ja": "小型の青魚。塩漬け・揚げ物にも出る。"
+        },
+        {
+          "hr": "oslić",
+          "pronunciation_ja": "オスリチ",
+          "meaning_ja": "メルルーサ／ヘイク",
+          "note_ja": "白身魚。比較的あっさりしていて加熱向き。"
+        },
+        {
+          "hr": "grdobina",
+          "pronunciation_ja": "グルドビナ",
+          "meaning_ja": "アンコウ",
+          "note_ja": "身がしっかりした白身。スープや煮込みにも使われる。"
+        },
+        {
+          "hr": "kovač",
+          "pronunciation_ja": "コヴァチ",
+          "meaning_ja": "マトウダイ",
+          "note_ja": "英語ではJohn Dory。白身の高級魚として扱われることがある。"
+        },
+        {
+          "hr": "kokot",
+          "pronunciation_ja": "ココト",
+          "meaning_ja": "ホウボウに似た魚",
+          "note_ja": "英語ではgurnard系。見た目に特徴があり、スープにも向く。"
+        },
+        {
+          "hr": "arbun",
+          "pronunciation_ja": "アルブン",
+          "meaning_ja": "パンドラ／タイ科の小型白身魚",
+          "note_ja": "英語ではcommon pandora。タイやイトヨリダイに近い感覚の白身魚。"
+        },
+        {
+          "hr": "gavun",
+          "pronunciation_ja": "ガヴン",
+          "meaning_ja": "キビナゴに似た小魚",
+          "note_ja": "小魚。揚げ物として出ることがある。"
+        },
+        {
+          "hr": "škarpina",
+          "pronunciation_ja": "シュカルピナ",
+          "meaning_ja": "カサゴ・フサカサゴ系",
+          "note_ja": "岩礁系の魚。骨が多いことがあるが出汁がよい。"
+        },
+        {
+          "hr": "zubatac",
+          "pronunciation_ja": "ズバタツ",
+          "meaning_ja": "デンテックス／タイ科の高級白身魚",
+          "note_ja": "名前は『歯』に由来。高級魚として扱われることがある。"
+        },
+        {
+          "hr": "list",
+          "pronunciation_ja": "リスト",
+          "meaning_ja": "シタビラメ系",
+          "note_ja": "平たい白身魚。"
+        },
+        {
+          "hr": "cipal",
+          "pronunciation_ja": "ツィパル",
+          "meaning_ja": "ボラ系",
+          "note_ja": "場所や鮮度によって印象が変わる魚。"
+        },
+        {
+          "hr": "ugor",
+          "pronunciation_ja": "ウゴル",
+          "meaning_ja": "アナゴ／コンガーウナギ系",
+          "note_ja": "英語ではconger eel。煮込みやスープにも。"
+        },
+        {
+          "hr": "palamida",
+          "pronunciation_ja": "パラミダ",
+          "meaning_ja": "カツオに似た魚",
+          "note_ja": "青魚寄り。焼き・グリル向き。"
+        },
+        {
+          "hr": "tuna",
+          "pronunciation_ja": "トゥナ",
+          "meaning_ja": "マグロ",
+          "note_ja": "日本語のマグロに対応。生食可否は必ず確認。"
+        },
+        {
+          "hr": "lignja",
+          "pronunciation_ja": "リグニャ",
+          "meaning_ja": "ヨーロッパヤリイカ／イカ",
+          "note_ja": "グリルやフライで定番。"
         }
       ]
     },
     {
-      "id": "fish_cut_fillet_slices",
+      "id": "fish_story_slice",
       "scene": "fish_market",
-      "level": 3,
-      "title_ja": "魚市場-切り身",
-      "title_hr": "Filetiranje i rezanje",
+      "level": 2,
+      "title_ja": "魚市場-切り方相談",
+      "title_hr": "",
       "related_vocab_ids": [],
-      "related_sentence_ids": [],
+      "related_sentence_ids": [
+        "fish_cut_001",
+        "fish_cut_002",
+        "fish_cut_003"
+      ],
       "dialogue": [
         {
           "speaker": "A",
-          "hr": "Imate li bijelu ribu za večeru?",
-          "pronunciation_ja": "イマテ リ ビイェル リブ ザ ヴェチェル",
-          "ja": "夕食用の白身魚はありますか？"
+          "hr": "Možete li je narezati na tanke komade?",
+          "pronunciation_ja": "モジェテ リ イェ ナレザティ ナ タンケ コマデ",
+          "ja": "薄く切ってもらえますか？"
         },
         {
           "speaker": "B",
-          "hr": "Da, preporučujem ovu.",
-          "pronunciation_ja": "ダ プレポルチュイェム オヴ",
-          "ja": "はい、こちらがおすすめです。"
+          "hr": "Za sashimi?",
+          "pronunciation_ja": "ザ サシミ",
+          "ja": "刺身用ですか？"
         },
         {
           "speaker": "A",
-          "hr": "Možete li je filetirati?",
-          "pronunciation_ja": "モジェテ リ イェ フィレティラティ",
-          "ja": "切り身にしてもらえますか？"
+          "hr": "Da, ako je sigurno.",
+          "pronunciation_ja": "ダ アコ イェ シグルノ",
+          "ja": "はい、安全なら。"
         },
         {
           "speaker": "B",
-          "hr": "Mogu. Želite li tanke kriške?",
-          "pronunciation_ja": "モグ ジェリテ リ タンケ クリシュケ",
-          "ja": "できます。薄い切り身がよいですか？"
-        },
-        {
-          "speaker": "A",
-          "hr": "Da, tanke kriške, molim.",
-          "pronunciation_ja": "ダ タンケ クリシュケ モリム",
-          "ja": "はい、薄い切り身でお願いします。"
+          "hr": "Razumijem. Narezat ću je tanko.",
+          "pronunciation_ja": "ラズミイェム ナレザト チュ イェ タンコ",
+          "ja": "わかりました。薄く切ります。"
         }
       ],
       "questions": [
         {
-          "id": "q1",
+          "id": "fish_story_slice_q1",
           "type": "multiple_choice",
-          "question_ja": "filetirati は何を意味しますか？",
+          "question_ja": "Aさんはどの切り方を頼みましたか？",
           "choices_ja": [
-            "切り身にする",
-            "焼く",
-            "凍らせる",
-            "量る"
+            "薄く切る",
+            "大きく焼く",
+            "袋に入れる",
+            "冷凍する"
           ],
-          "answer": "切り身にする"
-        },
-        {
-          "id": "q2",
-          "type": "input",
-          "question_ja": "「薄い切り身でお願いします」をクロアチア語で書いてください。",
-          "answer_hr": "Tanke kriške, molim.",
-          "accepted_answers_hr": [
-            "Tanke kriške, molim.",
-            "Tanke kriske molim",
-            "tanke kriške molim"
-          ]
+          "answer": "薄く切る"
         }
       ],
       "grammar_notes": [
         {
-          "title_ja": "je",
-          "explanation_ja": "je は女性名詞 riba を受ける代名詞で「それを」という意味になります。"
+          "title_ja": "捌き方の確認",
+          "explanation_ja": "魚市場では Možete li...? と動詞を組み合わせると、捌き方を丁寧に確認できます。生食については安全確認の文を入れる設計にしています。"
         },
         {
-          "title_ja": "tanke kriške",
-          "explanation_ja": "tanke は「薄い」、kriške は「切片・スライス」です。"
+          "title_ja": "魚名の考え方",
+          "explanation_ja": "brancin はヨーロピアンシーバス、orada はヨーロッパヘダイのように、日本の魚名と完全対応しないことがあります。アプリでは『〜に似た魚』として理解し、買う時は見た目・調理法・生食可否を確認します。"
+        }
+      ],
+      "vocabulary_notes": [
+        {
+          "hr": "brancin / lubin",
+          "pronunciation_ja": "ブランツィン / ルビン",
+          "meaning_ja": "ヨーロピアンシーバス。スズキに似た白身魚。",
+          "note_ja": "丸焼き・グリルでよく見る。"
+        },
+        {
+          "hr": "orada / komarča / podlanica",
+          "pronunciation_ja": "オラダ / コマルチャ / ポドゥラニツァ",
+          "meaning_ja": "ヨーロッパヘダイ。タイに近い白身魚。",
+          "note_ja": "日本のマダイとは別種。"
+        },
+        {
+          "hr": "riba",
+          "pronunciation_ja": "リバ",
+          "meaning_ja": "魚",
+          "note_ja": "女性名詞。目的語では ribu になる。"
+        },
+        {
+          "hr": "svjež / svježa",
+          "pronunciation_ja": "スヴィェジュ / スヴィェジャ",
+          "meaning_ja": "新鮮な",
+          "note_ja": "名詞の性に合わせる。"
+        },
+        {
+          "hr": "očistiti",
+          "pronunciation_ja": "オチスティティ",
+          "meaning_ja": "下処理する／捌く",
+          "note_ja": "内臓・ウロコなどを処理する意味で使える。"
+        },
+        {
+          "hr": "filetirati",
+          "pronunciation_ja": "フィレティラティ",
+          "meaning_ja": "三枚おろし・フィレにする",
+          "note_ja": "刺身用の完全な処理とは限らない。"
+        },
+        {
+          "hr": "skinuti kožu",
+          "pronunciation_ja": "スキヌティ コジュ",
+          "meaning_ja": "皮を取る",
+          "note_ja": "koža = 皮。"
+        },
+        {
+          "hr": "izvaditi kosti",
+          "pronunciation_ja": "イズヴァディティ コスティ",
+          "meaning_ja": "骨を取る",
+          "note_ja": "小骨が残る場合もある。"
+        },
+        {
+          "hr": "sirovo / sirovu",
+          "pronunciation_ja": "シロヴォ / シロヴ",
+          "meaning_ja": "生で／生の",
+          "note_ja": "ribu に合わせると sirovu。"
+        }
+      ],
+      "seafood_table": [
+        {
+          "hr": "brancin / lubin",
+          "pronunciation_ja": "ブランツィン / ルビン",
+          "meaning_ja": "ヨーロピアンシーバス（スズキに似た白身魚）",
+          "note_ja": "グリルや丸焼きでよく見る高級寄りの白身魚。Dalmatiaではlubinとも言う。"
+        },
+        {
+          "hr": "orada / komarča / podlanica",
+          "pronunciation_ja": "オラダ / コマルチャ / ポドゥラニツァ",
+          "meaning_ja": "ヨーロッパヘダイ（タイに近い白身魚）",
+          "note_ja": "日本のマダイとは別種だが、旅行者には『タイに近い魚』として理解しやすい。ザダル周辺ではpodlanicaも聞くことがある。"
+        },
+        {
+          "hr": "srdela",
+          "pronunciation_ja": "スルデラ",
+          "meaning_ja": "イワシ（欧州マイワシ）",
+          "note_ja": "安価でよく食べる青魚。焼き・揚げに向く。"
+        },
+        {
+          "hr": "inćun",
+          "pronunciation_ja": "インチュン",
+          "meaning_ja": "アンチョビ／カタクチイワシ系",
+          "note_ja": "小型の青魚。塩漬け・揚げ物にも出る。"
+        },
+        {
+          "hr": "oslić",
+          "pronunciation_ja": "オスリチ",
+          "meaning_ja": "メルルーサ／ヘイク",
+          "note_ja": "白身魚。比較的あっさりしていて加熱向き。"
+        },
+        {
+          "hr": "grdobina",
+          "pronunciation_ja": "グルドビナ",
+          "meaning_ja": "アンコウ",
+          "note_ja": "身がしっかりした白身。スープや煮込みにも使われる。"
+        },
+        {
+          "hr": "kovač",
+          "pronunciation_ja": "コヴァチ",
+          "meaning_ja": "マトウダイ",
+          "note_ja": "英語ではJohn Dory。白身の高級魚として扱われることがある。"
+        },
+        {
+          "hr": "kokot",
+          "pronunciation_ja": "ココト",
+          "meaning_ja": "ホウボウに似た魚",
+          "note_ja": "英語ではgurnard系。見た目に特徴があり、スープにも向く。"
+        },
+        {
+          "hr": "arbun",
+          "pronunciation_ja": "アルブン",
+          "meaning_ja": "パンドラ／タイ科の小型白身魚",
+          "note_ja": "英語ではcommon pandora。タイやイトヨリダイに近い感覚の白身魚。"
+        },
+        {
+          "hr": "gavun",
+          "pronunciation_ja": "ガヴン",
+          "meaning_ja": "キビナゴに似た小魚",
+          "note_ja": "小魚。揚げ物として出ることがある。"
+        },
+        {
+          "hr": "škarpina",
+          "pronunciation_ja": "シュカルピナ",
+          "meaning_ja": "カサゴ・フサカサゴ系",
+          "note_ja": "岩礁系の魚。骨が多いことがあるが出汁がよい。"
+        },
+        {
+          "hr": "zubatac",
+          "pronunciation_ja": "ズバタツ",
+          "meaning_ja": "デンテックス／タイ科の高級白身魚",
+          "note_ja": "名前は『歯』に由来。高級魚として扱われることがある。"
+        },
+        {
+          "hr": "list",
+          "pronunciation_ja": "リスト",
+          "meaning_ja": "シタビラメ系",
+          "note_ja": "平たい白身魚。"
+        },
+        {
+          "hr": "cipal",
+          "pronunciation_ja": "ツィパル",
+          "meaning_ja": "ボラ系",
+          "note_ja": "場所や鮮度によって印象が変わる魚。"
+        },
+        {
+          "hr": "ugor",
+          "pronunciation_ja": "ウゴル",
+          "meaning_ja": "アナゴ／コンガーウナギ系",
+          "note_ja": "英語ではconger eel。煮込みやスープにも。"
+        },
+        {
+          "hr": "palamida",
+          "pronunciation_ja": "パラミダ",
+          "meaning_ja": "カツオに似た魚",
+          "note_ja": "青魚寄り。焼き・グリル向き。"
+        },
+        {
+          "hr": "tuna",
+          "pronunciation_ja": "トゥナ",
+          "meaning_ja": "マグロ",
+          "note_ja": "日本語のマグロに対応。生食可否は必ず確認。"
+        },
+        {
+          "hr": "lignja",
+          "pronunciation_ja": "リグニャ",
+          "meaning_ja": "ヨーロッパヤリイカ／イカ",
+          "note_ja": "グリルやフライで定番。"
         }
       ]
     },
     {
-      "id": "fish_cut_keep_head_soup",
+      "id": "fish_story_grill",
       "scene": "fish_market",
       "level": 2,
-      "title_ja": "魚市場-頭残す",
-      "title_hr": "Ostaviti glavu za juhu",
+      "title_ja": "魚市場-グリル用",
+      "title_hr": "",
       "related_vocab_ids": [],
-      "related_sentence_ids": [],
+      "related_sentence_ids": [
+        "fish_cut_001",
+        "fish_cut_002",
+        "fish_cut_003"
+      ],
       "dialogue": [
         {
           "speaker": "A",
-          "hr": "Molim vas, očistite ribu, ali ostavite glavu.",
-          "pronunciation_ja": "モリム ヴァス オチスティテ リブ アリ オスタヴィテ グラヴ",
-          "ja": "魚を処理してください、でも頭は残してください。"
+          "hr": "Ovu ribu želim za roštilj.",
+          "pronunciation_ja": "オヴ リブ ジェリム ザ ロシュティリ",
+          "ja": "この魚をグリル用にしたいです。"
         },
         {
           "speaker": "B",
-          "hr": "Želite glavu za juhu?",
-          "pronunciation_ja": "ジェリテ グラヴ ザ ユフ",
-          "ja": "スープ用に頭が欲しいですか？"
+          "hr": "Želite li veće komade?",
+          "pronunciation_ja": "ジェリテ リ ヴェチェ コマデ",
+          "ja": "大きめの切り身がよいですか？"
         },
         {
           "speaker": "A",
-          "hr": "Da, za juhu. Uklonite samo utrobu i škrge.",
-          "pronunciation_ja": "ダ ザ ユフ ウクロニテ サモ ウトロブ イ シュクルゲ",
-          "ja": "はい、スープ用です。内臓とえらだけ取ってください。"
+          "hr": "Da, veće komade, molim. Ostavite glavu.",
+          "pronunciation_ja": "ダ ヴェチェ コマデ モリム オスタヴィテ グラヴ",
+          "ja": "はい、大きめでお願いします。頭は残してください。"
         },
         {
           "speaker": "B",
@@ -264,37 +975,192 @@
       ],
       "questions": [
         {
-          "id": "q1",
+          "id": "fish_story_grill_q1",
           "type": "multiple_choice",
-          "question_ja": "Aさんは頭を何に使いますか？",
+          "question_ja": "魚は何用ですか？",
           "choices_ja": [
-            "スープ",
-            "刺身",
-            "チケット",
-            "袋"
+            "グリル用",
+            "船内で食べる用",
+            "お土産用",
+            "朝食のパン用"
           ],
-          "answer": "スープ"
-        },
-        {
-          "id": "q2",
-          "type": "input",
-          "question_ja": "「内臓とえらだけ取ってください」を書いてください。",
-          "answer_hr": "Uklonite samo utrobu i škrge.",
-          "accepted_answers_hr": [
-            "Uklonite samo utrobu i škrge.",
-            "Uklonite samo utrobu i skrge",
-            "uklonite samo utrobu i škrge"
-          ]
+          "answer": "グリル用"
         }
       ],
       "grammar_notes": [
         {
-          "title_ja": "samo",
-          "explanation_ja": "samo は「だけ」。samo utrobu i škrge = 内臓とえらだけ。"
+          "title_ja": "捌き方の確認",
+          "explanation_ja": "魚市場では Možete li...? と動詞を組み合わせると、捌き方を丁寧に確認できます。生食については安全確認の文を入れる設計にしています。"
         },
         {
-          "title_ja": "ali",
-          "explanation_ja": "ali は「しかし／でも」。依頼を細かく分ける時に便利です。"
+          "title_ja": "魚名の考え方",
+          "explanation_ja": "brancin はヨーロピアンシーバス、orada はヨーロッパヘダイのように、日本の魚名と完全対応しないことがあります。アプリでは『〜に似た魚』として理解し、買う時は見た目・調理法・生食可否を確認します。"
+        }
+      ],
+      "vocabulary_notes": [
+        {
+          "hr": "brancin / lubin",
+          "pronunciation_ja": "ブランツィン / ルビン",
+          "meaning_ja": "ヨーロピアンシーバス。スズキに似た白身魚。",
+          "note_ja": "丸焼き・グリルでよく見る。"
+        },
+        {
+          "hr": "orada / komarča / podlanica",
+          "pronunciation_ja": "オラダ / コマルチャ / ポドゥラニツァ",
+          "meaning_ja": "ヨーロッパヘダイ。タイに近い白身魚。",
+          "note_ja": "日本のマダイとは別種。"
+        },
+        {
+          "hr": "riba",
+          "pronunciation_ja": "リバ",
+          "meaning_ja": "魚",
+          "note_ja": "女性名詞。目的語では ribu になる。"
+        },
+        {
+          "hr": "svjež / svježa",
+          "pronunciation_ja": "スヴィェジュ / スヴィェジャ",
+          "meaning_ja": "新鮮な",
+          "note_ja": "名詞の性に合わせる。"
+        },
+        {
+          "hr": "očistiti",
+          "pronunciation_ja": "オチスティティ",
+          "meaning_ja": "下処理する／捌く",
+          "note_ja": "内臓・ウロコなどを処理する意味で使える。"
+        },
+        {
+          "hr": "filetirati",
+          "pronunciation_ja": "フィレティラティ",
+          "meaning_ja": "三枚おろし・フィレにする",
+          "note_ja": "刺身用の完全な処理とは限らない。"
+        },
+        {
+          "hr": "skinuti kožu",
+          "pronunciation_ja": "スキヌティ コジュ",
+          "meaning_ja": "皮を取る",
+          "note_ja": "koža = 皮。"
+        },
+        {
+          "hr": "izvaditi kosti",
+          "pronunciation_ja": "イズヴァディティ コスティ",
+          "meaning_ja": "骨を取る",
+          "note_ja": "小骨が残る場合もある。"
+        },
+        {
+          "hr": "sirovo / sirovu",
+          "pronunciation_ja": "シロヴォ / シロヴ",
+          "meaning_ja": "生で／生の",
+          "note_ja": "ribu に合わせると sirovu。"
+        }
+      ],
+      "seafood_table": [
+        {
+          "hr": "brancin / lubin",
+          "pronunciation_ja": "ブランツィン / ルビン",
+          "meaning_ja": "ヨーロピアンシーバス（スズキに似た白身魚）",
+          "note_ja": "グリルや丸焼きでよく見る高級寄りの白身魚。Dalmatiaではlubinとも言う。"
+        },
+        {
+          "hr": "orada / komarča / podlanica",
+          "pronunciation_ja": "オラダ / コマルチャ / ポドゥラニツァ",
+          "meaning_ja": "ヨーロッパヘダイ（タイに近い白身魚）",
+          "note_ja": "日本のマダイとは別種だが、旅行者には『タイに近い魚』として理解しやすい。ザダル周辺ではpodlanicaも聞くことがある。"
+        },
+        {
+          "hr": "srdela",
+          "pronunciation_ja": "スルデラ",
+          "meaning_ja": "イワシ（欧州マイワシ）",
+          "note_ja": "安価でよく食べる青魚。焼き・揚げに向く。"
+        },
+        {
+          "hr": "inćun",
+          "pronunciation_ja": "インチュン",
+          "meaning_ja": "アンチョビ／カタクチイワシ系",
+          "note_ja": "小型の青魚。塩漬け・揚げ物にも出る。"
+        },
+        {
+          "hr": "oslić",
+          "pronunciation_ja": "オスリチ",
+          "meaning_ja": "メルルーサ／ヘイク",
+          "note_ja": "白身魚。比較的あっさりしていて加熱向き。"
+        },
+        {
+          "hr": "grdobina",
+          "pronunciation_ja": "グルドビナ",
+          "meaning_ja": "アンコウ",
+          "note_ja": "身がしっかりした白身。スープや煮込みにも使われる。"
+        },
+        {
+          "hr": "kovač",
+          "pronunciation_ja": "コヴァチ",
+          "meaning_ja": "マトウダイ",
+          "note_ja": "英語ではJohn Dory。白身の高級魚として扱われることがある。"
+        },
+        {
+          "hr": "kokot",
+          "pronunciation_ja": "ココト",
+          "meaning_ja": "ホウボウに似た魚",
+          "note_ja": "英語ではgurnard系。見た目に特徴があり、スープにも向く。"
+        },
+        {
+          "hr": "arbun",
+          "pronunciation_ja": "アルブン",
+          "meaning_ja": "パンドラ／タイ科の小型白身魚",
+          "note_ja": "英語ではcommon pandora。タイやイトヨリダイに近い感覚の白身魚。"
+        },
+        {
+          "hr": "gavun",
+          "pronunciation_ja": "ガヴン",
+          "meaning_ja": "キビナゴに似た小魚",
+          "note_ja": "小魚。揚げ物として出ることがある。"
+        },
+        {
+          "hr": "škarpina",
+          "pronunciation_ja": "シュカルピナ",
+          "meaning_ja": "カサゴ・フサカサゴ系",
+          "note_ja": "岩礁系の魚。骨が多いことがあるが出汁がよい。"
+        },
+        {
+          "hr": "zubatac",
+          "pronunciation_ja": "ズバタツ",
+          "meaning_ja": "デンテックス／タイ科の高級白身魚",
+          "note_ja": "名前は『歯』に由来。高級魚として扱われることがある。"
+        },
+        {
+          "hr": "list",
+          "pronunciation_ja": "リスト",
+          "meaning_ja": "シタビラメ系",
+          "note_ja": "平たい白身魚。"
+        },
+        {
+          "hr": "cipal",
+          "pronunciation_ja": "ツィパル",
+          "meaning_ja": "ボラ系",
+          "note_ja": "場所や鮮度によって印象が変わる魚。"
+        },
+        {
+          "hr": "ugor",
+          "pronunciation_ja": "ウゴル",
+          "meaning_ja": "アナゴ／コンガーウナギ系",
+          "note_ja": "英語ではconger eel。煮込みやスープにも。"
+        },
+        {
+          "hr": "palamida",
+          "pronunciation_ja": "パラミダ",
+          "meaning_ja": "カツオに似た魚",
+          "note_ja": "青魚寄り。焼き・グリル向き。"
+        },
+        {
+          "hr": "tuna",
+          "pronunciation_ja": "トゥナ",
+          "meaning_ja": "マグロ",
+          "note_ja": "日本語のマグロに対応。生食可否は必ず確認。"
+        },
+        {
+          "hr": "lignja",
+          "pronunciation_ja": "リグニャ",
+          "meaning_ja": "ヨーロッパヤリイカ／イカ",
+          "note_ja": "グリルやフライで定番。"
         }
       ]
     }

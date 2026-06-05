@@ -1,0 +1,1066 @@
+[
+  {
+    "id": "zadar_seafood_01",
+    "scene": "fish_market",
+    "level": 1,
+    "hr": "brancin",
+    "ja": "ヨーロピアンシーバス（スズキに似た白身魚）",
+    "pronunciation_ja": "ブランツィン",
+    "part_of_speech": "noun",
+    "gender": "要確認（魚介名ごとに異なる）",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li brancin?",
+        "pronunciation_ja": "イマテ リ ブランツィン",
+        "ja": "ヨーロピアンシーバス（スズキに似た白身魚）はありますか？"
+      },
+      {
+        "hr": "Je li brancin svjež?",
+        "pronunciation_ja": "イェ リ ブランツィン スヴィェジュ",
+        "ja": "ヨーロピアンシーバス（スズキに似た白身魚）は新鮮ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "魚介名は市場でそのまま名詞として使えます。性や格変化は語によって異なるため、旅行会話ではまず Imate li...? / Je li ... svjež? の定型文で覚えるのが安全です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "s brancin",
+          "pronunciation_ja": "ス ブランツィン",
+          "meaning_ja": "ヨーロピアンシーバス（スズキに似た白身魚）付きで／ヨーロピアンシーバス（スズキに似た白身魚）を使って",
+          "note_ja": "料理・パスタなどの説明で見かける形。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zadar_seafood_02",
+    "scene": "fish_market",
+    "level": 1,
+    "hr": "orada",
+    "ja": "ヨーロッパヘダイ（タイに近い白身魚）",
+    "pronunciation_ja": "オラダ",
+    "part_of_speech": "noun",
+    "gender": "要確認（魚介名ごとに異なる）",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li orada?",
+        "pronunciation_ja": "イマテ リ オラダ",
+        "ja": "ヨーロッパヘダイ（タイに近い白身魚）はありますか？"
+      },
+      {
+        "hr": "Je li orada svjež?",
+        "pronunciation_ja": "イェ リ オラダ スヴィェジュ",
+        "ja": "ヨーロッパヘダイ（タイに近い白身魚）は新鮮ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "魚介名は市場でそのまま名詞として使えます。性や格変化は語によって異なるため、旅行会話ではまず Imate li...? / Je li ... svjež? の定型文で覚えるのが安全です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "s orada",
+          "pronunciation_ja": "ス オラダ",
+          "meaning_ja": "ヨーロッパヘダイ（タイに近い白身魚）付きで／ヨーロッパヘダイ（タイに近い白身魚）を使って",
+          "note_ja": "料理・パスタなどの説明で見かける形。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zadar_seafood_03",
+    "scene": "fish_market",
+    "level": 1,
+    "hr": "srdela",
+    "ja": "イワシ（欧州マイワシ）",
+    "pronunciation_ja": "スルデラ",
+    "part_of_speech": "noun",
+    "gender": "要確認（魚介名ごとに異なる）",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li srdela?",
+        "pronunciation_ja": "イマテ リ スルデラ",
+        "ja": "イワシ（欧州マイワシ）はありますか？"
+      },
+      {
+        "hr": "Je li srdela svjež?",
+        "pronunciation_ja": "イェ リ スルデラ スヴィェジュ",
+        "ja": "イワシ（欧州マイワシ）は新鮮ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "魚介名は市場でそのまま名詞として使えます。性や格変化は語によって異なるため、旅行会話ではまず Imate li...? / Je li ... svjež? の定型文で覚えるのが安全です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "s srdela",
+          "pronunciation_ja": "ス スルデラ",
+          "meaning_ja": "イワシ（欧州マイワシ）付きで／イワシ（欧州マイワシ）を使って",
+          "note_ja": "料理・パスタなどの説明で見かける形。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zadar_seafood_04",
+    "scene": "fish_market",
+    "level": 1,
+    "hr": "inćun",
+    "ja": "アンチョビ／カタクチイワシ系",
+    "pronunciation_ja": "インチュン",
+    "part_of_speech": "noun",
+    "gender": "要確認（魚介名ごとに異なる）",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li inćun?",
+        "pronunciation_ja": "イマテ リ インチュン",
+        "ja": "アンチョビ／カタクチイワシ系はありますか？"
+      },
+      {
+        "hr": "Je li inćun svjež?",
+        "pronunciation_ja": "イェ リ インチュン スヴィェジュ",
+        "ja": "アンチョビ／カタクチイワシ系は新鮮ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "魚介名は市場でそのまま名詞として使えます。性や格変化は語によって異なるため、旅行会話ではまず Imate li...? / Je li ... svjež? の定型文で覚えるのが安全です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "s inćun",
+          "pronunciation_ja": "ス インチュン",
+          "meaning_ja": "アンチョビ／カタクチイワシ系付きで／アンチョビ／カタクチイワシ系を使って",
+          "note_ja": "料理・パスタなどの説明で見かける形。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zadar_seafood_05",
+    "scene": "fish_market",
+    "level": 1,
+    "hr": "oslić",
+    "ja": "メルルーサ／ヘイク",
+    "pronunciation_ja": "オスリチ",
+    "part_of_speech": "noun",
+    "gender": "要確認（魚介名ごとに異なる）",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li oslić?",
+        "pronunciation_ja": "イマテ リ オスリチ",
+        "ja": "メルルーサ／ヘイクはありますか？"
+      },
+      {
+        "hr": "Je li oslić svjež?",
+        "pronunciation_ja": "イェ リ オスリチ スヴィェジュ",
+        "ja": "メルルーサ／ヘイクは新鮮ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "魚介名は市場でそのまま名詞として使えます。性や格変化は語によって異なるため、旅行会話ではまず Imate li...? / Je li ... svjež? の定型文で覚えるのが安全です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "s oslić",
+          "pronunciation_ja": "ス オスリチ",
+          "meaning_ja": "メルルーサ／ヘイク付きで／メルルーサ／ヘイクを使って",
+          "note_ja": "料理・パスタなどの説明で見かける形。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zadar_seafood_06",
+    "scene": "fish_market",
+    "level": 1,
+    "hr": "grdobina",
+    "ja": "アンコウ",
+    "pronunciation_ja": "グルドビナ",
+    "part_of_speech": "noun",
+    "gender": "要確認（魚介名ごとに異なる）",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li grdobina?",
+        "pronunciation_ja": "イマテ リ グルドビナ",
+        "ja": "アンコウはありますか？"
+      },
+      {
+        "hr": "Je li grdobina svjež?",
+        "pronunciation_ja": "イェ リ グルドビナ スヴィェジュ",
+        "ja": "アンコウは新鮮ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "魚介名は市場でそのまま名詞として使えます。性や格変化は語によって異なるため、旅行会話ではまず Imate li...? / Je li ... svjež? の定型文で覚えるのが安全です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "s grdobina",
+          "pronunciation_ja": "ス グルドビナ",
+          "meaning_ja": "アンコウ付きで／アンコウを使って",
+          "note_ja": "料理・パスタなどの説明で見かける形。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zadar_seafood_07",
+    "scene": "fish_market",
+    "level": 1,
+    "hr": "kovač",
+    "ja": "マトウダイ",
+    "pronunciation_ja": "コヴァチ",
+    "part_of_speech": "noun",
+    "gender": "要確認（魚介名ごとに異なる）",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li kovač?",
+        "pronunciation_ja": "イマテ リ コヴァチ",
+        "ja": "マトウダイはありますか？"
+      },
+      {
+        "hr": "Je li kovač svjež?",
+        "pronunciation_ja": "イェ リ コヴァチ スヴィェジュ",
+        "ja": "マトウダイは新鮮ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "魚介名は市場でそのまま名詞として使えます。性や格変化は語によって異なるため、旅行会話ではまず Imate li...? / Je li ... svjež? の定型文で覚えるのが安全です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "s kovač",
+          "pronunciation_ja": "ス コヴァチ",
+          "meaning_ja": "マトウダイ付きで／マトウダイを使って",
+          "note_ja": "料理・パスタなどの説明で見かける形。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zadar_seafood_08",
+    "scene": "fish_market",
+    "level": 1,
+    "hr": "kokot",
+    "ja": "ホウボウに似た魚",
+    "pronunciation_ja": "ココト",
+    "part_of_speech": "noun",
+    "gender": "要確認（魚介名ごとに異なる）",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li kokot?",
+        "pronunciation_ja": "イマテ リ ココト",
+        "ja": "ホウボウに似た魚はありますか？"
+      },
+      {
+        "hr": "Je li kokot svjež?",
+        "pronunciation_ja": "イェ リ ココト スヴィェジュ",
+        "ja": "ホウボウに似た魚は新鮮ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "魚介名は市場でそのまま名詞として使えます。性や格変化は語によって異なるため、旅行会話ではまず Imate li...? / Je li ... svjež? の定型文で覚えるのが安全です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "s kokot",
+          "pronunciation_ja": "ス ココト",
+          "meaning_ja": "ホウボウに似た魚付きで／ホウボウに似た魚を使って",
+          "note_ja": "料理・パスタなどの説明で見かける形。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zadar_seafood_09",
+    "scene": "fish_market",
+    "level": 1,
+    "hr": "arbun",
+    "ja": "パンドラ／タイ科の小型白身魚",
+    "pronunciation_ja": "アルブン",
+    "part_of_speech": "noun",
+    "gender": "要確認（魚介名ごとに異なる）",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li arbun?",
+        "pronunciation_ja": "イマテ リ アルブン",
+        "ja": "パンドラ／タイ科の小型白身魚はありますか？"
+      },
+      {
+        "hr": "Je li arbun svjež?",
+        "pronunciation_ja": "イェ リ アルブン スヴィェジュ",
+        "ja": "パンドラ／タイ科の小型白身魚は新鮮ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "魚介名は市場でそのまま名詞として使えます。性や格変化は語によって異なるため、旅行会話ではまず Imate li...? / Je li ... svjež? の定型文で覚えるのが安全です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "s arbun",
+          "pronunciation_ja": "ス アルブン",
+          "meaning_ja": "パンドラ／タイ科の小型白身魚付きで／パンドラ／タイ科の小型白身魚を使って",
+          "note_ja": "料理・パスタなどの説明で見かける形。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zadar_seafood_10",
+    "scene": "fish_market",
+    "level": 1,
+    "hr": "gavun",
+    "ja": "キビナゴに似た小魚",
+    "pronunciation_ja": "ガヴン",
+    "part_of_speech": "noun",
+    "gender": "要確認（魚介名ごとに異なる）",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li gavun?",
+        "pronunciation_ja": "イマテ リ ガヴン",
+        "ja": "キビナゴに似た小魚はありますか？"
+      },
+      {
+        "hr": "Je li gavun svjež?",
+        "pronunciation_ja": "イェ リ ガヴン スヴィェジュ",
+        "ja": "キビナゴに似た小魚は新鮮ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "魚介名は市場でそのまま名詞として使えます。性や格変化は語によって異なるため、旅行会話ではまず Imate li...? / Je li ... svjež? の定型文で覚えるのが安全です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "s gavun",
+          "pronunciation_ja": "ス ガヴン",
+          "meaning_ja": "キビナゴに似た小魚付きで／キビナゴに似た小魚を使って",
+          "note_ja": "料理・パスタなどの説明で見かける形。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zadar_seafood_11",
+    "scene": "fish_market",
+    "level": 1,
+    "hr": "škarpina",
+    "ja": "カサゴ・フサカサゴ系",
+    "pronunciation_ja": "シュカルピナ",
+    "part_of_speech": "noun",
+    "gender": "要確認（魚介名ごとに異なる）",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li škarpina?",
+        "pronunciation_ja": "イマテ リ シュカルピナ",
+        "ja": "カサゴ・フサカサゴ系はありますか？"
+      },
+      {
+        "hr": "Je li škarpina svjež?",
+        "pronunciation_ja": "イェ リ シュカルピナ スヴィェジュ",
+        "ja": "カサゴ・フサカサゴ系は新鮮ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "魚介名は市場でそのまま名詞として使えます。性や格変化は語によって異なるため、旅行会話ではまず Imate li...? / Je li ... svjež? の定型文で覚えるのが安全です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "s škarpina",
+          "pronunciation_ja": "ス シュカルピナ",
+          "meaning_ja": "カサゴ・フサカサゴ系付きで／カサゴ・フサカサゴ系を使って",
+          "note_ja": "料理・パスタなどの説明で見かける形。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zadar_seafood_12",
+    "scene": "fish_market",
+    "level": 1,
+    "hr": "zubatac",
+    "ja": "デンテックス／タイ科の高級白身魚",
+    "pronunciation_ja": "ズバタツ",
+    "part_of_speech": "noun",
+    "gender": "要確認（魚介名ごとに異なる）",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li zubatac?",
+        "pronunciation_ja": "イマテ リ ズバタツ",
+        "ja": "デンテックス／タイ科の高級白身魚はありますか？"
+      },
+      {
+        "hr": "Je li zubatac svjež?",
+        "pronunciation_ja": "イェ リ ズバタツ スヴィェジュ",
+        "ja": "デンテックス／タイ科の高級白身魚は新鮮ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "魚介名は市場でそのまま名詞として使えます。性や格変化は語によって異なるため、旅行会話ではまず Imate li...? / Je li ... svjež? の定型文で覚えるのが安全です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "s zubatac",
+          "pronunciation_ja": "ス ズバタツ",
+          "meaning_ja": "デンテックス／タイ科の高級白身魚付きで／デンテックス／タイ科の高級白身魚を使って",
+          "note_ja": "料理・パスタなどの説明で見かける形。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zadar_seafood_13",
+    "scene": "fish_market",
+    "level": 1,
+    "hr": "list",
+    "ja": "シタビラメ系",
+    "pronunciation_ja": "リスト",
+    "part_of_speech": "noun",
+    "gender": "要確認（魚介名ごとに異なる）",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li list?",
+        "pronunciation_ja": "イマテ リ リスト",
+        "ja": "シタビラメ系はありますか？"
+      },
+      {
+        "hr": "Je li list svjež?",
+        "pronunciation_ja": "イェ リ リスト スヴィェジュ",
+        "ja": "シタビラメ系は新鮮ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "魚介名は市場でそのまま名詞として使えます。性や格変化は語によって異なるため、旅行会話ではまず Imate li...? / Je li ... svjež? の定型文で覚えるのが安全です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "s list",
+          "pronunciation_ja": "ス リスト",
+          "meaning_ja": "シタビラメ系付きで／シタビラメ系を使って",
+          "note_ja": "料理・パスタなどの説明で見かける形。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zadar_seafood_14",
+    "scene": "fish_market",
+    "level": 1,
+    "hr": "cipal",
+    "ja": "ボラ系",
+    "pronunciation_ja": "ツィパル",
+    "part_of_speech": "noun",
+    "gender": "要確認（魚介名ごとに異なる）",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li cipal?",
+        "pronunciation_ja": "イマテ リ ツィパル",
+        "ja": "ボラ系はありますか？"
+      },
+      {
+        "hr": "Je li cipal svjež?",
+        "pronunciation_ja": "イェ リ ツィパル スヴィェジュ",
+        "ja": "ボラ系は新鮮ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "魚介名は市場でそのまま名詞として使えます。性や格変化は語によって異なるため、旅行会話ではまず Imate li...? / Je li ... svjež? の定型文で覚えるのが安全です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "s cipal",
+          "pronunciation_ja": "ス ツィパル",
+          "meaning_ja": "ボラ系付きで／ボラ系を使って",
+          "note_ja": "料理・パスタなどの説明で見かける形。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zadar_seafood_15",
+    "scene": "fish_market",
+    "level": 1,
+    "hr": "ugor",
+    "ja": "アナゴ／コンガーウナギ系",
+    "pronunciation_ja": "ウゴル",
+    "part_of_speech": "noun",
+    "gender": "要確認（魚介名ごとに異なる）",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li ugor?",
+        "pronunciation_ja": "イマテ リ ウゴル",
+        "ja": "アナゴ／コンガーウナギ系はありますか？"
+      },
+      {
+        "hr": "Je li ugor svjež?",
+        "pronunciation_ja": "イェ リ ウゴル スヴィェジュ",
+        "ja": "アナゴ／コンガーウナギ系は新鮮ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "魚介名は市場でそのまま名詞として使えます。性や格変化は語によって異なるため、旅行会話ではまず Imate li...? / Je li ... svjež? の定型文で覚えるのが安全です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "s ugor",
+          "pronunciation_ja": "ス ウゴル",
+          "meaning_ja": "アナゴ／コンガーウナギ系付きで／アナゴ／コンガーウナギ系を使って",
+          "note_ja": "料理・パスタなどの説明で見かける形。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zadar_seafood_16",
+    "scene": "fish_market",
+    "level": 1,
+    "hr": "palamida",
+    "ja": "カツオに似た魚",
+    "pronunciation_ja": "パラミダ",
+    "part_of_speech": "noun",
+    "gender": "要確認（魚介名ごとに異なる）",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li palamida?",
+        "pronunciation_ja": "イマテ リ パラミダ",
+        "ja": "カツオに似た魚はありますか？"
+      },
+      {
+        "hr": "Je li palamida svjež?",
+        "pronunciation_ja": "イェ リ パラミダ スヴィェジュ",
+        "ja": "カツオに似た魚は新鮮ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "魚介名は市場でそのまま名詞として使えます。性や格変化は語によって異なるため、旅行会話ではまず Imate li...? / Je li ... svjež? の定型文で覚えるのが安全です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "s palamida",
+          "pronunciation_ja": "ス パラミダ",
+          "meaning_ja": "カツオに似た魚付きで／カツオに似た魚を使って",
+          "note_ja": "料理・パスタなどの説明で見かける形。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zadar_seafood_17",
+    "scene": "fish_market",
+    "level": 1,
+    "hr": "tuna",
+    "ja": "マグロ",
+    "pronunciation_ja": "トゥナ",
+    "part_of_speech": "noun",
+    "gender": "要確認（魚介名ごとに異なる）",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li tuna?",
+        "pronunciation_ja": "イマテ リ トゥナ",
+        "ja": "マグロはありますか？"
+      },
+      {
+        "hr": "Je li tuna svjež?",
+        "pronunciation_ja": "イェ リ トゥナ スヴィェジュ",
+        "ja": "マグロは新鮮ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "魚介名は市場でそのまま名詞として使えます。性や格変化は語によって異なるため、旅行会話ではまず Imate li...? / Je li ... svjež? の定型文で覚えるのが安全です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "s tuna",
+          "pronunciation_ja": "ス トゥナ",
+          "meaning_ja": "マグロ付きで／マグロを使って",
+          "note_ja": "料理・パスタなどの説明で見かける形。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zadar_seafood_18",
+    "scene": "fish_market",
+    "level": 1,
+    "hr": "lignja",
+    "ja": "ヨーロッパヤリイカ／イカ",
+    "pronunciation_ja": "リグニャ",
+    "part_of_speech": "noun",
+    "gender": "要確認（魚介名ごとに異なる）",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li lignja?",
+        "pronunciation_ja": "イマテ リ リグニャ",
+        "ja": "ヨーロッパヤリイカ／イカはありますか？"
+      },
+      {
+        "hr": "Je li lignja svjež?",
+        "pronunciation_ja": "イェ リ リグニャ スヴィェジュ",
+        "ja": "ヨーロッパヤリイカ／イカは新鮮ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "魚介名は市場でそのまま名詞として使えます。性や格変化は語によって異なるため、旅行会話ではまず Imate li...? / Je li ... svjež? の定型文で覚えるのが安全です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "s lignja",
+          "pronunciation_ja": "ス リグニャ",
+          "meaning_ja": "ヨーロッパヤリイカ／イカ付きで／ヨーロッパヤリイカ／イカを使って",
+          "note_ja": "料理・パスタなどの説明で見かける形。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zadar_seafood_19",
+    "scene": "fish_market",
+    "level": 1,
+    "hr": "lignjun",
+    "ja": "大型のスルメイカに似たイカ",
+    "pronunciation_ja": "リグニュン",
+    "part_of_speech": "noun",
+    "gender": "要確認（魚介名ごとに異なる）",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li lignjun?",
+        "pronunciation_ja": "イマテ リ リグニュン",
+        "ja": "大型のスルメイカに似たイカはありますか？"
+      },
+      {
+        "hr": "Je li lignjun svjež?",
+        "pronunciation_ja": "イェ リ リグニュン スヴィェジュ",
+        "ja": "大型のスルメイカに似たイカは新鮮ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "魚介名は市場でそのまま名詞として使えます。性や格変化は語によって異なるため、旅行会話ではまず Imate li...? / Je li ... svjež? の定型文で覚えるのが安全です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "s lignjun",
+          "pronunciation_ja": "ス リグニュン",
+          "meaning_ja": "大型のスルメイカに似たイカ付きで／大型のスルメイカに似たイカを使って",
+          "note_ja": "料理・パスタなどの説明で見かける形。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zadar_seafood_20",
+    "scene": "fish_market",
+    "level": 1,
+    "hr": "sipa",
+    "ja": "コウイカ",
+    "pronunciation_ja": "シパ",
+    "part_of_speech": "noun",
+    "gender": "要確認（魚介名ごとに異なる）",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li sipa?",
+        "pronunciation_ja": "イマテ リ シパ",
+        "ja": "コウイカはありますか？"
+      },
+      {
+        "hr": "Je li sipa svjež?",
+        "pronunciation_ja": "イェ リ シパ スヴィェジュ",
+        "ja": "コウイカは新鮮ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "魚介名は市場でそのまま名詞として使えます。性や格変化は語によって異なるため、旅行会話ではまず Imate li...? / Je li ... svjež? の定型文で覚えるのが安全です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "s sipa",
+          "pronunciation_ja": "ス シパ",
+          "meaning_ja": "コウイカ付きで／コウイカを使って",
+          "note_ja": "料理・パスタなどの説明で見かける形。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zadar_seafood_21",
+    "scene": "fish_market",
+    "level": 2,
+    "hr": "hobotnica",
+    "ja": "タコ",
+    "pronunciation_ja": "ホボトニツァ",
+    "part_of_speech": "noun",
+    "gender": "要確認（魚介名ごとに異なる）",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li hobotnica?",
+        "pronunciation_ja": "イマテ リ ホボトニツァ",
+        "ja": "タコはありますか？"
+      },
+      {
+        "hr": "Je li hobotnica svjež?",
+        "pronunciation_ja": "イェ リ ホボトニツァ スヴィェジュ",
+        "ja": "タコは新鮮ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "魚介名は市場でそのまま名詞として使えます。性や格変化は語によって異なるため、旅行会話ではまず Imate li...? / Je li ... svjež? の定型文で覚えるのが安全です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "s hobotnica",
+          "pronunciation_ja": "ス ホボトニツァ",
+          "meaning_ja": "タコ付きで／タコを使って",
+          "note_ja": "料理・パスタなどの説明で見かける形。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zadar_seafood_22",
+    "scene": "fish_market",
+    "level": 2,
+    "hr": "muzgavac",
+    "ja": "小型タコ／ジャコウダコ系",
+    "pronunciation_ja": "ムズガヴァツ",
+    "part_of_speech": "noun",
+    "gender": "要確認（魚介名ごとに異なる）",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li muzgavac?",
+        "pronunciation_ja": "イマテ リ ムズガヴァツ",
+        "ja": "小型タコ／ジャコウダコ系はありますか？"
+      },
+      {
+        "hr": "Je li muzgavac svjež?",
+        "pronunciation_ja": "イェ リ ムズガヴァツ スヴィェジュ",
+        "ja": "小型タコ／ジャコウダコ系は新鮮ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "魚介名は市場でそのまま名詞として使えます。性や格変化は語によって異なるため、旅行会話ではまず Imate li...? / Je li ... svjež? の定型文で覚えるのが安全です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "s muzgavac",
+          "pronunciation_ja": "ス ムズガヴァツ",
+          "meaning_ja": "小型タコ／ジャコウダコ系付きで／小型タコ／ジャコウダコ系を使って",
+          "note_ja": "料理・パスタなどの説明で見かける形。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zadar_seafood_23",
+    "scene": "fish_market",
+    "level": 2,
+    "hr": "škampi",
+    "ja": "スカンピ／アカザエビ系",
+    "pronunciation_ja": "シュカンピ",
+    "part_of_speech": "noun",
+    "gender": "要確認（魚介名ごとに異なる）",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li škampi?",
+        "pronunciation_ja": "イマテ リ シュカンピ",
+        "ja": "スカンピ／アカザエビ系はありますか？"
+      },
+      {
+        "hr": "Je li škampi svjež?",
+        "pronunciation_ja": "イェ リ シュカンピ スヴィェジュ",
+        "ja": "スカンピ／アカザエビ系は新鮮ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "魚介名は市場でそのまま名詞として使えます。性や格変化は語によって異なるため、旅行会話ではまず Imate li...? / Je li ... svjež? の定型文で覚えるのが安全です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "s škampi",
+          "pronunciation_ja": "ス シュカンピ",
+          "meaning_ja": "スカンピ／アカザエビ系付きで／スカンピ／アカザエビ系を使って",
+          "note_ja": "料理・パスタなどの説明で見かける形。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zadar_seafood_24",
+    "scene": "fish_market",
+    "level": 2,
+    "hr": "kozica",
+    "ja": "小エビ",
+    "pronunciation_ja": "コジツァ",
+    "part_of_speech": "noun",
+    "gender": "要確認（魚介名ごとに異なる）",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li kozica?",
+        "pronunciation_ja": "イマテ リ コジツァ",
+        "ja": "小エビはありますか？"
+      },
+      {
+        "hr": "Je li kozica svjež?",
+        "pronunciation_ja": "イェ リ コジツァ スヴィェジュ",
+        "ja": "小エビは新鮮ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "魚介名は市場でそのまま名詞として使えます。性や格変化は語によって異なるため、旅行会話ではまず Imate li...? / Je li ... svjež? の定型文で覚えるのが安全です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "s kozica",
+          "pronunciation_ja": "ス コジツァ",
+          "meaning_ja": "小エビ付きで／小エビを使って",
+          "note_ja": "料理・パスタなどの説明で見かける形。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zadar_seafood_25",
+    "scene": "fish_market",
+    "level": 2,
+    "hr": "dagnja",
+    "ja": "ムール貝",
+    "pronunciation_ja": "ダグニャ",
+    "part_of_speech": "noun",
+    "gender": "要確認（魚介名ごとに異なる）",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li dagnja?",
+        "pronunciation_ja": "イマテ リ ダグニャ",
+        "ja": "ムール貝はありますか？"
+      },
+      {
+        "hr": "Je li dagnja svjež?",
+        "pronunciation_ja": "イェ リ ダグニャ スヴィェジュ",
+        "ja": "ムール貝は新鮮ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "魚介名は市場でそのまま名詞として使えます。性や格変化は語によって異なるため、旅行会話ではまず Imate li...? / Je li ... svjež? の定型文で覚えるのが安全です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "s dagnja",
+          "pronunciation_ja": "ス ダグニャ",
+          "meaning_ja": "ムール貝付きで／ムール貝を使って",
+          "note_ja": "料理・パスタなどの説明で見かける形。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zadar_seafood_26",
+    "scene": "fish_market",
+    "level": 2,
+    "hr": "kamenica",
+    "ja": "牡蠣",
+    "pronunciation_ja": "カメニツァ",
+    "part_of_speech": "noun",
+    "gender": "要確認（魚介名ごとに異なる）",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li kamenica?",
+        "pronunciation_ja": "イマテ リ カメニツァ",
+        "ja": "牡蠣はありますか？"
+      },
+      {
+        "hr": "Je li kamenica svjež?",
+        "pronunciation_ja": "イェ リ カメニツァ スヴィェジュ",
+        "ja": "牡蠣は新鮮ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "魚介名は市場でそのまま名詞として使えます。性や格変化は語によって異なるため、旅行会話ではまず Imate li...? / Je li ... svjež? の定型文で覚えるのが安全です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "s kamenica",
+          "pronunciation_ja": "ス カメニツァ",
+          "meaning_ja": "牡蠣付きで／牡蠣を使って",
+          "note_ja": "料理・パスタなどの説明で見かける形。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zadar_seafood_27",
+    "scene": "fish_market",
+    "level": 2,
+    "hr": "školjke",
+    "ja": "アサリ・ハマグリ系の二枚貝",
+    "pronunciation_ja": "シュコリケ",
+    "part_of_speech": "noun",
+    "gender": "要確認（魚介名ごとに異なる）",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li školjke?",
+        "pronunciation_ja": "イマテ リ シュコリケ",
+        "ja": "アサリ・ハマグリ系の二枚貝はありますか？"
+      },
+      {
+        "hr": "Je li školjke svjež?",
+        "pronunciation_ja": "イェ リ シュコリケ スヴィェジュ",
+        "ja": "アサリ・ハマグリ系の二枚貝は新鮮ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "魚介名は市場でそのまま名詞として使えます。性や格変化は語によって異なるため、旅行会話ではまず Imate li...? / Je li ... svjež? の定型文で覚えるのが安全です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "s školjke",
+          "pronunciation_ja": "ス シュコリケ",
+          "meaning_ja": "アサリ・ハマグリ系の二枚貝付きで／アサリ・ハマグリ系の二枚貝を使って",
+          "note_ja": "料理・パスタなどの説明で見かける形。"
+        }
+      ]
+    }
+  },
+  {
+    "id": "zadar_seafood_28",
+    "scene": "fish_market",
+    "level": 2,
+    "hr": "morski ježinac",
+    "ja": "ウニ",
+    "pronunciation_ja": "モルスキ イェジナツ",
+    "part_of_speech": "noun",
+    "gender": "要確認（魚介名ごとに異なる）",
+    "tags": [
+      "seafood",
+      "zadar",
+      "fish_market"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li morski ježinac?",
+        "pronunciation_ja": "イマテ リ モルスキ イェジナツ",
+        "ja": "ウニはありますか？"
+      },
+      {
+        "hr": "Je li morski ježinac svjež?",
+        "pronunciation_ja": "イェ リ モルスキ イェジナツ スヴィェジュ",
+        "ja": "ウニは新鮮ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "魚介名は市場でそのまま名詞として使えます。性や格変化は語によって異なるため、旅行会話ではまず Imate li...? / Je li ... svjež? の定型文で覚えるのが安全です。",
+      "prepositional_examples": [
+        {
+          "phrase_hr": "s morski ježinac",
+          "pronunciation_ja": "ス モルスキ イェジナツ",
+          "meaning_ja": "ウニ付きで／ウニを使って",
+          "note_ja": "料理・パスタなどの説明で見かける形。"
+        }
+      ]
+    }
+  }
+]

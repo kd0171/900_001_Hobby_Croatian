@@ -69,3 +69,14 @@ data/dialogues.json
 例文: 113件
 対話: 19件
 ```
+
+
+## 開発ドキュメント
+
+- `docs/DESIGN_PRINCIPLES.md`：設計思想
+- `docs/CONTENT_SCHEMA.md`：教材JSONスキーマ
+- `docs/PROMPTS_FOR_CONTENT_EXPANSION.md`：教材追加用プロンプト例
+
+## 魚介類データ
+
+ザダル周辺の魚市場で見やすい魚介類は `data/references/seafood_zadar.json` に参考ページとして追加しています。魚市場の対話読解では、単語解説と魚介類表も表示されます。

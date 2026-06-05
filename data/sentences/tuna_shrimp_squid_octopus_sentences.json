@@ -1,0 +1,1990 @@
+[
+  {
+    "id": "tuna_market_sentence_001",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "マグロはありますか？",
+    "hr": "Imate li tunu?",
+    "pronunciation_ja": "イマテ リ トゥヌ",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "tuna",
+      "squid",
+      "shrimp",
+      "octopus"
+    ],
+    "tokens": [
+      {
+        "hr": "Imate li",
+        "pronunciation_ja": "イマテ リ",
+        "meaning_ja": "ありますか？"
+      },
+      {
+        "hr": "tunu",
+        "pronunciation_ja": "トゥヌ",
+        "meaning_ja": "マグロを／マグロ"
+      }
+    ],
+    "grammar": {
+      "title": "魚市場の実用表現",
+      "explanation_ja": "魚市場では、魚介名・部位・調理法を短い確認文で伝えるのが実用的です。",
+      "tables": [
+        {
+          "title_ja": "使う型",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Imate li...?",
+              "meaning_ja": "〜はありますか？",
+              "example": "Imate li tunu?"
+            },
+            {
+              "pattern": "Želim...",
+              "meaning_ja": "〜が欲しいです",
+              "example": "Želim masniji dio tune."
+            },
+            {
+              "pattern": "Ne želim...",
+              "meaning_ja": "〜はいりません",
+              "example": "Ne želim tamni dio."
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li očistiti lignje?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "部位名が不安な時は、指差し + ovaj dio（この部分）を使うと伝わりやすいです。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Imate li tunu?",
+      "Imate li tunu"
+    ],
+    "accepted_answers_ja": [
+      "マグロはありますか？",
+      "マグロはありますか"
+    ]
+  },
+  {
+    "id": "tuna_market_sentence_002",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "このマグロは新鮮ですか？",
+    "hr": "Je li ova tuna svježa?",
+    "pronunciation_ja": "イェ リ オヴァ トゥナ スヴィェジャ",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "tuna",
+      "squid",
+      "shrimp",
+      "octopus"
+    ],
+    "tokens": [
+      {
+        "hr": "Je li",
+        "pronunciation_ja": "イェ リ",
+        "meaning_ja": "〜ですか？"
+      },
+      {
+        "hr": "ova",
+        "pronunciation_ja": "オヴァ",
+        "meaning_ja": "この・女性形"
+      },
+      {
+        "hr": "tuna",
+        "pronunciation_ja": "トゥナ",
+        "meaning_ja": "マグロ"
+      },
+      {
+        "hr": "svježa",
+        "pronunciation_ja": "スヴィェジャ",
+        "meaning_ja": "新鮮な・女性形"
+      }
+    ],
+    "grammar": {
+      "title": "魚市場の実用表現",
+      "explanation_ja": "魚市場では、魚介名・部位・調理法を短い確認文で伝えるのが実用的です。",
+      "tables": [
+        {
+          "title_ja": "使う型",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Imate li...?",
+              "meaning_ja": "〜はありますか？",
+              "example": "Imate li tunu?"
+            },
+            {
+              "pattern": "Želim...",
+              "meaning_ja": "〜が欲しいです",
+              "example": "Želim masniji dio tune."
+            },
+            {
+              "pattern": "Ne želim...",
+              "meaning_ja": "〜はいりません",
+              "example": "Ne želim tamni dio."
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li očistiti lignje?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "部位名が不安な時は、指差し + ovaj dio（この部分）を使うと伝わりやすいです。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Je li ova tuna svježa?",
+      "Je li ova tuna svježa"
+    ],
+    "accepted_answers_ja": [
+      "このマグロは新鮮ですか？",
+      "このマグロは新鮮ですか"
+    ]
+  },
+  {
+    "id": "tuna_market_sentence_003",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "マグロを300グラムください。",
+    "hr": "Tristo grama tune, molim.",
+    "pronunciation_ja": "トリスト グラマ トゥネ モリム",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "tuna",
+      "squid",
+      "shrimp",
+      "octopus"
+    ],
+    "tokens": [
+      {
+        "hr": "Tristo grama",
+        "pronunciation_ja": "トリスト グラマ",
+        "meaning_ja": "300グラム"
+      },
+      {
+        "hr": "tune",
+        "pronunciation_ja": "トゥネ",
+        "meaning_ja": "マグロの"
+      },
+      {
+        "hr": "molim",
+        "pronunciation_ja": "モリム",
+        "meaning_ja": "お願いします"
+      }
+    ],
+    "grammar": {
+      "title": "魚市場の実用表現",
+      "explanation_ja": "魚市場では、魚介名・部位・調理法を短い確認文で伝えるのが実用的です。",
+      "tables": [
+        {
+          "title_ja": "使う型",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Imate li...?",
+              "meaning_ja": "〜はありますか？",
+              "example": "Imate li tunu?"
+            },
+            {
+              "pattern": "Želim...",
+              "meaning_ja": "〜が欲しいです",
+              "example": "Želim masniji dio tune."
+            },
+            {
+              "pattern": "Ne želim...",
+              "meaning_ja": "〜はいりません",
+              "example": "Ne želim tamni dio."
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li očistiti lignje?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "部位名が不安な時は、指差し + ovaj dio（この部分）を使うと伝わりやすいです。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Tristo grama tune, molim.",
+      "Tristo grama tune, molim"
+    ],
+    "accepted_answers_ja": [
+      "マグロを300グラムください。",
+      "マグロを300グラムください"
+    ]
+  },
+  {
+    "id": "tuna_market_sentence_004",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "マグロの切り身を一つください。",
+    "hr": "Jedan odrezak tune, molim.",
+    "pronunciation_ja": "イェダン オドレザク トゥネ モリム",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "tuna",
+      "squid",
+      "shrimp",
+      "octopus"
+    ],
+    "tokens": [
+      {
+        "hr": "Jedan",
+        "pronunciation_ja": "イェダン",
+        "meaning_ja": "一つ"
+      },
+      {
+        "hr": "odrezak",
+        "pronunciation_ja": "オドレザク",
+        "meaning_ja": "切り身"
+      },
+      {
+        "hr": "tune",
+        "pronunciation_ja": "トゥネ",
+        "meaning_ja": "マグロの"
+      },
+      {
+        "hr": "molim",
+        "pronunciation_ja": "モリム",
+        "meaning_ja": "お願いします"
+      }
+    ],
+    "grammar": {
+      "title": "魚市場の実用表現",
+      "explanation_ja": "魚市場では、魚介名・部位・調理法を短い確認文で伝えるのが実用的です。",
+      "tables": [
+        {
+          "title_ja": "使う型",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Imate li...?",
+              "meaning_ja": "〜はありますか？",
+              "example": "Imate li tunu?"
+            },
+            {
+              "pattern": "Želim...",
+              "meaning_ja": "〜が欲しいです",
+              "example": "Želim masniji dio tune."
+            },
+            {
+              "pattern": "Ne želim...",
+              "meaning_ja": "〜はいりません",
+              "example": "Ne želim tamni dio."
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li očistiti lignje?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "部位名が不安な時は、指差し + ovaj dio（この部分）を使うと伝わりやすいです。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Jedan odrezak tune, molim.",
+      "Jedan odrezak tune, molim"
+    ],
+    "accepted_answers_ja": [
+      "マグロの切り身を一つください。",
+      "マグロの切り身を一つください"
+    ]
+  },
+  {
+    "id": "tuna_market_sentence_005",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "脂の多いマグロの部分はありますか？",
+    "hr": "Imate li masniji dio tune?",
+    "pronunciation_ja": "イマテ リ マスニイ ディオ トゥネ",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "tuna",
+      "squid",
+      "shrimp",
+      "octopus"
+    ],
+    "tokens": [
+      {
+        "hr": "Imate li",
+        "pronunciation_ja": "イマテ リ",
+        "meaning_ja": "ありますか？"
+      },
+      {
+        "hr": "masniji",
+        "pronunciation_ja": "マスニイ",
+        "meaning_ja": "より脂の多い"
+      },
+      {
+        "hr": "dio",
+        "pronunciation_ja": "ディオ",
+        "meaning_ja": "部分"
+      },
+      {
+        "hr": "tune",
+        "pronunciation_ja": "トゥネ",
+        "meaning_ja": "マグロの"
+      }
+    ],
+    "grammar": {
+      "title": "魚市場の実用表現",
+      "explanation_ja": "魚市場では、魚介名・部位・調理法を短い確認文で伝えるのが実用的です。",
+      "tables": [
+        {
+          "title_ja": "使う型",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Imate li...?",
+              "meaning_ja": "〜はありますか？",
+              "example": "Imate li tunu?"
+            },
+            {
+              "pattern": "Želim...",
+              "meaning_ja": "〜が欲しいです",
+              "example": "Želim masniji dio tune."
+            },
+            {
+              "pattern": "Ne želim...",
+              "meaning_ja": "〜はいりません",
+              "example": "Ne želim tamni dio."
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li očistiti lignje?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "部位名が不安な時は、指差し + ovaj dio（この部分）を使うと伝わりやすいです。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Imate li masniji dio tune?",
+      "Imate li masniji dio tune"
+    ],
+    "accepted_answers_ja": [
+      "脂の多いマグロの部分はありますか？",
+      "脂の多いマグロの部分はありますか"
+    ]
+  },
+  {
+    "id": "tuna_market_sentence_006",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "腹に近い部分はありますか？",
+    "hr": "Imate li dio bliže trbuhu?",
+    "pronunciation_ja": "イマテ リ ディオ ブリジェ トルブフ",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "tuna",
+      "squid",
+      "shrimp",
+      "octopus"
+    ],
+    "tokens": [
+      {
+        "hr": "dio",
+        "pronunciation_ja": "ディオ",
+        "meaning_ja": "部分"
+      },
+      {
+        "hr": "bliže",
+        "pronunciation_ja": "ブリジェ",
+        "meaning_ja": "より近い"
+      },
+      {
+        "hr": "trbuhu",
+        "pronunciation_ja": "トルブフ",
+        "meaning_ja": "腹に"
+      }
+    ],
+    "grammar": {
+      "title": "魚市場の実用表現",
+      "explanation_ja": "魚市場では、魚介名・部位・調理法を短い確認文で伝えるのが実用的です。",
+      "tables": [
+        {
+          "title_ja": "使う型",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Imate li...?",
+              "meaning_ja": "〜はありますか？",
+              "example": "Imate li tunu?"
+            },
+            {
+              "pattern": "Želim...",
+              "meaning_ja": "〜が欲しいです",
+              "example": "Želim masniji dio tune."
+            },
+            {
+              "pattern": "Ne želim...",
+              "meaning_ja": "〜はいりません",
+              "example": "Ne želim tamni dio."
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li očistiti lignje?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "部位名が不安な時は、指差し + ovaj dio（この部分）を使うと伝わりやすいです。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Imate li dio bliže trbuhu?",
+      "Imate li dio bliže trbuhu"
+    ],
+    "accepted_answers_ja": [
+      "腹に近い部分はありますか？",
+      "腹に近い部分はありますか"
+    ]
+  },
+  {
+    "id": "tuna_market_sentence_007",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "白っぽくて脂の多い部分が欲しいです。",
+    "hr": "Želim svjetliji i masniji dio.",
+    "pronunciation_ja": "ジェリム スヴィェトリイ イ マスニイ ディオ",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "tuna",
+      "squid",
+      "shrimp",
+      "octopus"
+    ],
+    "tokens": [
+      {
+        "hr": "Želim",
+        "pronunciation_ja": "ジェリム",
+        "meaning_ja": "欲しいです"
+      },
+      {
+        "hr": "svjetliji",
+        "pronunciation_ja": "スヴィェトリイ",
+        "meaning_ja": "より明るい・白っぽい"
+      },
+      {
+        "hr": "i",
+        "pronunciation_ja": "イ",
+        "meaning_ja": "そして"
+      },
+      {
+        "hr": "masniji",
+        "pronunciation_ja": "マスニイ",
+        "meaning_ja": "脂の多い"
+      },
+      {
+        "hr": "dio",
+        "pronunciation_ja": "ディオ",
+        "meaning_ja": "部分"
+      }
+    ],
+    "grammar": {
+      "title": "魚市場の実用表現",
+      "explanation_ja": "魚市場では、魚介名・部位・調理法を短い確認文で伝えるのが実用的です。",
+      "tables": [
+        {
+          "title_ja": "使う型",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Imate li...?",
+              "meaning_ja": "〜はありますか？",
+              "example": "Imate li tunu?"
+            },
+            {
+              "pattern": "Želim...",
+              "meaning_ja": "〜が欲しいです",
+              "example": "Želim masniji dio tune."
+            },
+            {
+              "pattern": "Ne želim...",
+              "meaning_ja": "〜はいりません",
+              "example": "Ne želim tamni dio."
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li očistiti lignje?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "部位名が不安な時は、指差し + ovaj dio（この部分）を使うと伝わりやすいです。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Želim svjetliji i masniji dio.",
+      "Želim svjetliji i masniji dio"
+    ],
+    "accepted_answers_ja": [
+      "白っぽくて脂の多い部分が欲しいです。",
+      "白っぽくて脂の多い部分が欲しいです"
+    ]
+  },
+  {
+    "id": "tuna_market_sentence_008",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "血合いの近くの暗い部分はいりません。",
+    "hr": "Ne želim tamni dio uz krvnu liniju.",
+    "pronunciation_ja": "ネ ジェリム タムニ ディオ ウズ クルヴヌ リニユ",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "tuna",
+      "squid",
+      "shrimp",
+      "octopus"
+    ],
+    "tokens": [
+      {
+        "hr": "Ne želim",
+        "pronunciation_ja": "ネ ジェリム",
+        "meaning_ja": "欲しくありません"
+      },
+      {
+        "hr": "tamni dio",
+        "pronunciation_ja": "タムニ ディオ",
+        "meaning_ja": "暗い部分"
+      },
+      {
+        "hr": "uz",
+        "pronunciation_ja": "ウズ",
+        "meaning_ja": "〜の近く"
+      },
+      {
+        "hr": "krvnu liniju",
+        "pronunciation_ja": "クルヴヌ リニユ",
+        "meaning_ja": "血のライン／血合いの線"
+      }
+    ],
+    "grammar": {
+      "title": "魚市場の実用表現",
+      "explanation_ja": "魚市場では、魚介名・部位・調理法を短い確認文で伝えるのが実用的です。",
+      "tables": [
+        {
+          "title_ja": "使う型",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Imate li...?",
+              "meaning_ja": "〜はありますか？",
+              "example": "Imate li tunu?"
+            },
+            {
+              "pattern": "Želim...",
+              "meaning_ja": "〜が欲しいです",
+              "example": "Želim masniji dio tune."
+            },
+            {
+              "pattern": "Ne želim...",
+              "meaning_ja": "〜はいりません",
+              "example": "Ne želim tamni dio."
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li očistiti lignje?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "部位名が不安な時は、指差し + ovaj dio（この部分）を使うと伝わりやすいです。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Ne želim tamni dio uz krvnu liniju.",
+      "Ne želim tamni dio uz krvnu liniju"
+    ],
+    "accepted_answers_ja": [
+      "血合いの近くの暗い部分はいりません。",
+      "血合いの近くの暗い部分はいりません"
+    ]
+  },
+  {
+    "id": "tuna_market_sentence_009",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "暗い部分なしでお願いします。",
+    "hr": "Bez tamnog dijela, molim.",
+    "pronunciation_ja": "ベズ タムノグ ディイェラ モリム",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "tuna",
+      "squid",
+      "shrimp",
+      "octopus"
+    ],
+    "tokens": [
+      {
+        "hr": "Bez",
+        "pronunciation_ja": "ベズ",
+        "meaning_ja": "〜なしで"
+      },
+      {
+        "hr": "tamnog dijela",
+        "pronunciation_ja": "タムノグ ディイェラ",
+        "meaning_ja": "暗い部分"
+      },
+      {
+        "hr": "molim",
+        "pronunciation_ja": "モリム",
+        "meaning_ja": "お願いします"
+      }
+    ],
+    "grammar": {
+      "title": "魚市場の実用表現",
+      "explanation_ja": "魚市場では、魚介名・部位・調理法を短い確認文で伝えるのが実用的です。",
+      "tables": [
+        {
+          "title_ja": "使う型",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Imate li...?",
+              "meaning_ja": "〜はありますか？",
+              "example": "Imate li tunu?"
+            },
+            {
+              "pattern": "Želim...",
+              "meaning_ja": "〜が欲しいです",
+              "example": "Želim masniji dio tune."
+            },
+            {
+              "pattern": "Ne želim...",
+              "meaning_ja": "〜はいりません",
+              "example": "Ne želim tamni dio."
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li očistiti lignje?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "部位名が不安な時は、指差し + ovaj dio（この部分）を使うと伝わりやすいです。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Bez tamnog dijela, molim.",
+      "Bez tamnog dijela, molim"
+    ],
+    "accepted_answers_ja": [
+      "暗い部分なしでお願いします。",
+      "暗い部分なしでお願いします"
+    ]
+  },
+  {
+    "id": "tuna_market_sentence_010",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "この部分を少し厚めに切ってもらえますか？",
+    "hr": "Možete li ovaj dio narezati malo deblje?",
+    "pronunciation_ja": "モジェテ リ オヴァイ ディオ ナレザティ マロ デブリェ",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "tuna",
+      "squid",
+      "shrimp",
+      "octopus"
+    ],
+    "tokens": [
+      {
+        "hr": "Možete li",
+        "pronunciation_ja": "モジェテ リ",
+        "meaning_ja": "〜してもらえますか？"
+      },
+      {
+        "hr": "ovaj dio",
+        "pronunciation_ja": "オヴァイ ディオ",
+        "meaning_ja": "この部分"
+      },
+      {
+        "hr": "narezati",
+        "pronunciation_ja": "ナレザティ",
+        "meaning_ja": "切る"
+      },
+      {
+        "hr": "malo deblje",
+        "pronunciation_ja": "マロ デブリェ",
+        "meaning_ja": "少し厚めに"
+      }
+    ],
+    "grammar": {
+      "title": "魚市場の実用表現",
+      "explanation_ja": "魚市場では、魚介名・部位・調理法を短い確認文で伝えるのが実用的です。",
+      "tables": [
+        {
+          "title_ja": "使う型",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Imate li...?",
+              "meaning_ja": "〜はありますか？",
+              "example": "Imate li tunu?"
+            },
+            {
+              "pattern": "Želim...",
+              "meaning_ja": "〜が欲しいです",
+              "example": "Želim masniji dio tune."
+            },
+            {
+              "pattern": "Ne želim...",
+              "meaning_ja": "〜はいりません",
+              "example": "Ne želim tamni dio."
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li očistiti lignje?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "部位名が不安な時は、指差し + ovaj dio（この部分）を使うと伝わりやすいです。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Možete li ovaj dio narezati malo deblje?",
+      "Možete li ovaj dio narezati malo deblje"
+    ],
+    "accepted_answers_ja": [
+      "この部分を少し厚めに切ってもらえますか？",
+      "この部分を少し厚めに切ってもらえますか"
+    ]
+  },
+  {
+    "id": "tuna_market_sentence_011",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "刺身用に薄く切ってもらえますか？",
+    "hr": "Možete li narezati na tanke komade za sashimi?",
+    "pronunciation_ja": "モジェテ リ ナレザティ ナ タンケ コマデ ザ サシミ",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "tuna",
+      "squid",
+      "shrimp",
+      "octopus"
+    ],
+    "tokens": [
+      {
+        "hr": "narezati",
+        "pronunciation_ja": "ナレザティ",
+        "meaning_ja": "切る"
+      },
+      {
+        "hr": "na tanke komade",
+        "pronunciation_ja": "ナ タンケ コマデ",
+        "meaning_ja": "薄い切り身に"
+      },
+      {
+        "hr": "za sashimi",
+        "pronunciation_ja": "ザ サシミ",
+        "meaning_ja": "刺身用に"
+      }
+    ],
+    "grammar": {
+      "title": "魚市場の実用表現",
+      "explanation_ja": "魚市場では、魚介名・部位・調理法を短い確認文で伝えるのが実用的です。",
+      "tables": [
+        {
+          "title_ja": "使う型",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Imate li...?",
+              "meaning_ja": "〜はありますか？",
+              "example": "Imate li tunu?"
+            },
+            {
+              "pattern": "Želim...",
+              "meaning_ja": "〜が欲しいです",
+              "example": "Želim masniji dio tune."
+            },
+            {
+              "pattern": "Ne želim...",
+              "meaning_ja": "〜はいりません",
+              "example": "Ne želim tamni dio."
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li očistiti lignje?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "部位名が不安な時は、指差し + ovaj dio（この部分）を使うと伝わりやすいです。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Možete li narezati na tanke komade za sashimi?",
+      "Možete li narezati na tanke komade za sashimi"
+    ],
+    "accepted_answers_ja": [
+      "刺身用に薄く切ってもらえますか？",
+      "刺身用に薄く切ってもらえますか"
+    ]
+  },
+  {
+    "id": "tuna_market_sentence_012",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "生で食べても安全ですか？",
+    "hr": "Je li sigurno jesti ovu tunu sirovu?",
+    "pronunciation_ja": "イェ リ シグルノ イェスティ オヴ トゥヌ シロヴ",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "tuna",
+      "squid",
+      "shrimp",
+      "octopus"
+    ],
+    "tokens": [
+      {
+        "hr": "Je li sigurno",
+        "pronunciation_ja": "イェ リ シグルノ",
+        "meaning_ja": "安全ですか？"
+      },
+      {
+        "hr": "jesti",
+        "pronunciation_ja": "イェスティ",
+        "meaning_ja": "食べる"
+      },
+      {
+        "hr": "ovu tunu",
+        "pronunciation_ja": "オヴ トゥヌ",
+        "meaning_ja": "このマグロを"
+      },
+      {
+        "hr": "sirovu",
+        "pronunciation_ja": "シロヴ",
+        "meaning_ja": "生で・女性目的語に合わせた形"
+      }
+    ],
+    "grammar": {
+      "title": "魚市場の実用表現",
+      "explanation_ja": "魚市場では、魚介名・部位・調理法を短い確認文で伝えるのが実用的です。",
+      "tables": [
+        {
+          "title_ja": "使う型",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Imate li...?",
+              "meaning_ja": "〜はありますか？",
+              "example": "Imate li tunu?"
+            },
+            {
+              "pattern": "Želim...",
+              "meaning_ja": "〜が欲しいです",
+              "example": "Želim masniji dio tune."
+            },
+            {
+              "pattern": "Ne želim...",
+              "meaning_ja": "〜はいりません",
+              "example": "Ne želim tamni dio."
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li očistiti lignje?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "部位名が不安な時は、指差し + ovaj dio（この部分）を使うと伝わりやすいです。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Je li sigurno jesti ovu tunu sirovu?",
+      "Je li sigurno jesti ovu tunu sirovu"
+    ],
+    "accepted_answers_ja": [
+      "生で食べても安全ですか？",
+      "生で食べても安全ですか"
+    ]
+  },
+  {
+    "id": "shrimp_market_sentence_001",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "新鮮なエビはありますか？",
+    "hr": "Imate li svježe kozice?",
+    "pronunciation_ja": "イマテ リ スヴィェジェ コジツェ",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "tuna",
+      "squid",
+      "shrimp",
+      "octopus"
+    ],
+    "tokens": [
+      {
+        "hr": "svježe",
+        "pronunciation_ja": "スヴィェジェ",
+        "meaning_ja": "新鮮な・複数形"
+      },
+      {
+        "hr": "kozice",
+        "pronunciation_ja": "コジツェ",
+        "meaning_ja": "小エビ・エビ"
+      }
+    ],
+    "grammar": {
+      "title": "魚市場の実用表現",
+      "explanation_ja": "魚市場では、魚介名・部位・調理法を短い確認文で伝えるのが実用的です。",
+      "tables": [
+        {
+          "title_ja": "使う型",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Imate li...?",
+              "meaning_ja": "〜はありますか？",
+              "example": "Imate li tunu?"
+            },
+            {
+              "pattern": "Želim...",
+              "meaning_ja": "〜が欲しいです",
+              "example": "Želim masniji dio tune."
+            },
+            {
+              "pattern": "Ne želim...",
+              "meaning_ja": "〜はいりません",
+              "example": "Ne želim tamni dio."
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li očistiti lignje?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "部位名が不安な時は、指差し + ovaj dio（この部分）を使うと伝わりやすいです。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Imate li svježe kozice?",
+      "Imate li svježe kozice"
+    ],
+    "accepted_answers_ja": [
+      "新鮮なエビはありますか？",
+      "新鮮なエビはありますか"
+    ]
+  },
+  {
+    "id": "shrimp_market_sentence_002",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "エビを半キロください。",
+    "hr": "Pola kilograma kozica, molim.",
+    "pronunciation_ja": "ポラ キログラマ コジツァ モリム",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "tuna",
+      "squid",
+      "shrimp",
+      "octopus"
+    ],
+    "tokens": [
+      {
+        "hr": "Pola kilograma",
+        "pronunciation_ja": "ポラ キログラマ",
+        "meaning_ja": "半キロ"
+      },
+      {
+        "hr": "kozica",
+        "pronunciation_ja": "コジツァ",
+        "meaning_ja": "エビの"
+      },
+      {
+        "hr": "molim",
+        "pronunciation_ja": "モリム",
+        "meaning_ja": "お願いします"
+      }
+    ],
+    "grammar": {
+      "title": "魚市場の実用表現",
+      "explanation_ja": "魚市場では、魚介名・部位・調理法を短い確認文で伝えるのが実用的です。",
+      "tables": [
+        {
+          "title_ja": "使う型",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Imate li...?",
+              "meaning_ja": "〜はありますか？",
+              "example": "Imate li tunu?"
+            },
+            {
+              "pattern": "Želim...",
+              "meaning_ja": "〜が欲しいです",
+              "example": "Želim masniji dio tune."
+            },
+            {
+              "pattern": "Ne želim...",
+              "meaning_ja": "〜はいりません",
+              "example": "Ne želim tamni dio."
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li očistiti lignje?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "部位名が不安な時は、指差し + ovaj dio（この部分）を使うと伝わりやすいです。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Pola kilograma kozica, molim.",
+      "Pola kilograma kozica, molim"
+    ],
+    "accepted_answers_ja": [
+      "エビを半キロください。",
+      "エビを半キロください"
+    ]
+  },
+  {
+    "id": "shrimp_market_sentence_003",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "このスカンピはアドリア海産ですか？",
+    "hr": "Jesu li škampi iz Jadrana?",
+    "pronunciation_ja": "イェス リ シュカンピ イズ ヤドラナ",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "tuna",
+      "squid",
+      "shrimp",
+      "octopus"
+    ],
+    "tokens": [
+      {
+        "hr": "Jesu li",
+        "pronunciation_ja": "イェス リ",
+        "meaning_ja": "〜ですか？・複数"
+      },
+      {
+        "hr": "škampi",
+        "pronunciation_ja": "シュカンピ",
+        "meaning_ja": "スカンピ"
+      },
+      {
+        "hr": "iz Jadrana",
+        "pronunciation_ja": "イズ ヤドラナ",
+        "meaning_ja": "アドリア海からの"
+      }
+    ],
+    "grammar": {
+      "title": "魚市場の実用表現",
+      "explanation_ja": "魚市場では、魚介名・部位・調理法を短い確認文で伝えるのが実用的です。",
+      "tables": [
+        {
+          "title_ja": "使う型",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Imate li...?",
+              "meaning_ja": "〜はありますか？",
+              "example": "Imate li tunu?"
+            },
+            {
+              "pattern": "Želim...",
+              "meaning_ja": "〜が欲しいです",
+              "example": "Želim masniji dio tune."
+            },
+            {
+              "pattern": "Ne želim...",
+              "meaning_ja": "〜はいりません",
+              "example": "Ne želim tamni dio."
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li očistiti lignje?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "部位名が不安な時は、指差し + ovaj dio（この部分）を使うと伝わりやすいです。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Jesu li škampi iz Jadrana?",
+      "Jesu li škampi iz Jadrana"
+    ],
+    "accepted_answers_ja": [
+      "このスカンピはアドリア海産ですか？",
+      "このスカンピはアドリア海産ですか"
+    ]
+  },
+  {
+    "id": "squid_market_sentence_001",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "小さいイカはありますか？",
+    "hr": "Imate li male lignje?",
+    "pronunciation_ja": "イマテ リ マレ リグニェ",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "tuna",
+      "squid",
+      "shrimp",
+      "octopus"
+    ],
+    "tokens": [
+      {
+        "hr": "male",
+        "pronunciation_ja": "マレ",
+        "meaning_ja": "小さい・複数女性形"
+      },
+      {
+        "hr": "lignje",
+        "pronunciation_ja": "リグニェ",
+        "meaning_ja": "イカ"
+      }
+    ],
+    "grammar": {
+      "title": "魚市場の実用表現",
+      "explanation_ja": "魚市場では、魚介名・部位・調理法を短い確認文で伝えるのが実用的です。",
+      "tables": [
+        {
+          "title_ja": "使う型",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Imate li...?",
+              "meaning_ja": "〜はありますか？",
+              "example": "Imate li tunu?"
+            },
+            {
+              "pattern": "Želim...",
+              "meaning_ja": "〜が欲しいです",
+              "example": "Želim masniji dio tune."
+            },
+            {
+              "pattern": "Ne želim...",
+              "meaning_ja": "〜はいりません",
+              "example": "Ne želim tamni dio."
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li očistiti lignje?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "部位名が不安な時は、指差し + ovaj dio（この部分）を使うと伝わりやすいです。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Imate li male lignje?",
+      "Imate li male lignje"
+    ],
+    "accepted_answers_ja": [
+      "小さいイカはありますか？",
+      "小さいイカはありますか"
+    ]
+  },
+  {
+    "id": "squid_market_sentence_002",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "この小イカは下処理済みですか？",
+    "hr": "Jesu li ove lignjice očišćene?",
+    "pronunciation_ja": "イェス リ オヴェ リグニツェ オチシュチェネ",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "tuna",
+      "squid",
+      "shrimp",
+      "octopus"
+    ],
+    "tokens": [
+      {
+        "hr": "Jesu li",
+        "pronunciation_ja": "イェス リ",
+        "meaning_ja": "〜ですか？・複数"
+      },
+      {
+        "hr": "ove lignjice",
+        "pronunciation_ja": "オヴェ リグニツェ",
+        "meaning_ja": "この小イカたち"
+      },
+      {
+        "hr": "očišćene",
+        "pronunciation_ja": "オチシュチェネ",
+        "meaning_ja": "下処理済み"
+      }
+    ],
+    "grammar": {
+      "title": "魚市場の実用表現",
+      "explanation_ja": "魚市場では、魚介名・部位・調理法を短い確認文で伝えるのが実用的です。",
+      "tables": [
+        {
+          "title_ja": "使う型",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Imate li...?",
+              "meaning_ja": "〜はありますか？",
+              "example": "Imate li tunu?"
+            },
+            {
+              "pattern": "Želim...",
+              "meaning_ja": "〜が欲しいです",
+              "example": "Želim masniji dio tune."
+            },
+            {
+              "pattern": "Ne želim...",
+              "meaning_ja": "〜はいりません",
+              "example": "Ne želim tamni dio."
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li očistiti lignje?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "部位名が不安な時は、指差し + ovaj dio（この部分）を使うと伝わりやすいです。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Jesu li ove lignjice očišćene?",
+      "Jesu li ove lignjice očišćene"
+    ],
+    "accepted_answers_ja": [
+      "この小イカは下処理済みですか？",
+      "この小イカは下処理済みですか"
+    ]
+  },
+  {
+    "id": "squid_market_sentence_003",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "イカを下処理してもらえますか？",
+    "hr": "Možete li očistiti lignje?",
+    "pronunciation_ja": "モジェテ リ オチスティティ リグニェ",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "tuna",
+      "squid",
+      "shrimp",
+      "octopus"
+    ],
+    "tokens": [
+      {
+        "hr": "Možete li",
+        "pronunciation_ja": "モジェテ リ",
+        "meaning_ja": "〜してもらえますか？"
+      },
+      {
+        "hr": "očistiti",
+        "pronunciation_ja": "オチスティティ",
+        "meaning_ja": "下処理する"
+      },
+      {
+        "hr": "lignje",
+        "pronunciation_ja": "リグニェ",
+        "meaning_ja": "イカ"
+      }
+    ],
+    "grammar": {
+      "title": "魚市場の実用表現",
+      "explanation_ja": "魚市場では、魚介名・部位・調理法を短い確認文で伝えるのが実用的です。",
+      "tables": [
+        {
+          "title_ja": "使う型",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Imate li...?",
+              "meaning_ja": "〜はありますか？",
+              "example": "Imate li tunu?"
+            },
+            {
+              "pattern": "Želim...",
+              "meaning_ja": "〜が欲しいです",
+              "example": "Želim masniji dio tune."
+            },
+            {
+              "pattern": "Ne želim...",
+              "meaning_ja": "〜はいりません",
+              "example": "Ne želim tamni dio."
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li očistiti lignje?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "部位名が不安な時は、指差し + ovaj dio（この部分）を使うと伝わりやすいです。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Možete li očistiti lignje?",
+      "Možete li očistiti lignje"
+    ],
+    "accepted_answers_ja": [
+      "イカを下処理してもらえますか？",
+      "イカを下処理してもらえますか"
+    ]
+  },
+  {
+    "id": "squid_market_sentence_004",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "小イカは揚げ物に向いていますか？",
+    "hr": "Jesu li male lignje dobre za prženje?",
+    "pronunciation_ja": "イェス リ マレ リグニェ ドブレ ザ プルジェニェ",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "tuna",
+      "squid",
+      "shrimp",
+      "octopus"
+    ],
+    "tokens": [
+      {
+        "hr": "male lignje",
+        "pronunciation_ja": "マレ リグニェ",
+        "meaning_ja": "小さいイカ"
+      },
+      {
+        "hr": "dobre",
+        "pronunciation_ja": "ドブレ",
+        "meaning_ja": "良い・向いている"
+      },
+      {
+        "hr": "za prženje",
+        "pronunciation_ja": "ザ プルジェニェ",
+        "meaning_ja": "揚げ物用に"
+      }
+    ],
+    "grammar": {
+      "title": "魚市場の実用表現",
+      "explanation_ja": "魚市場では、魚介名・部位・調理法を短い確認文で伝えるのが実用的です。",
+      "tables": [
+        {
+          "title_ja": "使う型",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Imate li...?",
+              "meaning_ja": "〜はありますか？",
+              "example": "Imate li tunu?"
+            },
+            {
+              "pattern": "Želim...",
+              "meaning_ja": "〜が欲しいです",
+              "example": "Želim masniji dio tune."
+            },
+            {
+              "pattern": "Ne želim...",
+              "meaning_ja": "〜はいりません",
+              "example": "Ne želim tamni dio."
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li očistiti lignje?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "部位名が不安な時は、指差し + ovaj dio（この部分）を使うと伝わりやすいです。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Jesu li male lignje dobre za prženje?",
+      "Jesu li male lignje dobre za prženje"
+    ],
+    "accepted_answers_ja": [
+      "小イカは揚げ物に向いていますか？",
+      "小イカは揚げ物に向いていますか"
+    ]
+  },
+  {
+    "id": "octopus_market_sentence_001",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "タコはありますか？",
+    "hr": "Imate li hobotnicu?",
+    "pronunciation_ja": "イマテ リ ホボトニツ",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "tuna",
+      "squid",
+      "shrimp",
+      "octopus"
+    ],
+    "tokens": [
+      {
+        "hr": "Imate li",
+        "pronunciation_ja": "イマテ リ",
+        "meaning_ja": "ありますか？"
+      },
+      {
+        "hr": "hobotnicu",
+        "pronunciation_ja": "ホボトニツ",
+        "meaning_ja": "タコを／タコ"
+      }
+    ],
+    "grammar": {
+      "title": "魚市場の実用表現",
+      "explanation_ja": "魚市場では、魚介名・部位・調理法を短い確認文で伝えるのが実用的です。",
+      "tables": [
+        {
+          "title_ja": "使う型",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Imate li...?",
+              "meaning_ja": "〜はありますか？",
+              "example": "Imate li tunu?"
+            },
+            {
+              "pattern": "Želim...",
+              "meaning_ja": "〜が欲しいです",
+              "example": "Želim masniji dio tune."
+            },
+            {
+              "pattern": "Ne želim...",
+              "meaning_ja": "〜はいりません",
+              "example": "Ne želim tamni dio."
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li očistiti lignje?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "部位名が不安な時は、指差し + ovaj dio（この部分）を使うと伝わりやすいです。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Imate li hobotnicu?",
+      "Imate li hobotnicu"
+    ],
+    "accepted_answers_ja": [
+      "タコはありますか？",
+      "タコはありますか"
+    ]
+  },
+  {
+    "id": "octopus_market_sentence_002",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "このタコはもう下処理されていますか？",
+    "hr": "Je li hobotnica već očišćena?",
+    "pronunciation_ja": "イェ リ ホボトニツァ ヴェチ オチシュチェナ",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "tuna",
+      "squid",
+      "shrimp",
+      "octopus"
+    ],
+    "tokens": [
+      {
+        "hr": "hobotnica",
+        "pronunciation_ja": "ホボトニツァ",
+        "meaning_ja": "タコ"
+      },
+      {
+        "hr": "već",
+        "pronunciation_ja": "ヴェチ",
+        "meaning_ja": "もう"
+      },
+      {
+        "hr": "očišćena",
+        "pronunciation_ja": "オチシュチェナ",
+        "meaning_ja": "下処理済み"
+      }
+    ],
+    "grammar": {
+      "title": "魚市場の実用表現",
+      "explanation_ja": "魚市場では、魚介名・部位・調理法を短い確認文で伝えるのが実用的です。",
+      "tables": [
+        {
+          "title_ja": "使う型",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Imate li...?",
+              "meaning_ja": "〜はありますか？",
+              "example": "Imate li tunu?"
+            },
+            {
+              "pattern": "Želim...",
+              "meaning_ja": "〜が欲しいです",
+              "example": "Želim masniji dio tune."
+            },
+            {
+              "pattern": "Ne želim...",
+              "meaning_ja": "〜はいりません",
+              "example": "Ne želim tamni dio."
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li očistiti lignje?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "部位名が不安な時は、指差し + ovaj dio（この部分）を使うと伝わりやすいです。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Je li hobotnica već očišćena?",
+      "Je li hobotnica već očišćena"
+    ],
+    "accepted_answers_ja": [
+      "このタコはもう下処理されていますか？",
+      "このタコはもう下処理されていますか"
+    ]
+  },
+  {
+    "id": "octopus_market_sentence_003",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "小さめのタコはありますか？",
+    "hr": "Imate li muzgavac?",
+    "pronunciation_ja": "イマテ リ ムズガヴァツ",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "tuna",
+      "squid",
+      "shrimp",
+      "octopus"
+    ],
+    "tokens": [
+      {
+        "hr": "muzgavac",
+        "pronunciation_ja": "ムズガヴァツ",
+        "meaning_ja": "小さめのタコ類"
+      }
+    ],
+    "grammar": {
+      "title": "魚市場の実用表現",
+      "explanation_ja": "魚市場では、魚介名・部位・調理法を短い確認文で伝えるのが実用的です。",
+      "tables": [
+        {
+          "title_ja": "使う型",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Imate li...?",
+              "meaning_ja": "〜はありますか？",
+              "example": "Imate li tunu?"
+            },
+            {
+              "pattern": "Želim...",
+              "meaning_ja": "〜が欲しいです",
+              "example": "Želim masniji dio tune."
+            },
+            {
+              "pattern": "Ne želim...",
+              "meaning_ja": "〜はいりません",
+              "example": "Ne želim tamni dio."
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li očistiti lignje?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "部位名が不安な時は、指差し + ovaj dio（この部分）を使うと伝わりやすいです。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Imate li muzgavac?",
+      "Imate li muzgavac"
+    ],
+    "accepted_answers_ja": [
+      "小さめのタコはありますか？",
+      "小さめのタコはありますか"
+    ]
+  },
+  {
+    "id": "octopus_market_sentence_004",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "タコのサラダ用に向いていますか？",
+    "hr": "Je li dobra za salatu od hobotnice?",
+    "pronunciation_ja": "イェ リ ドブラ ザ サラトゥ オド ホボトニツェ",
+    "type": "sentence",
+    "tags": [
+      "fish_market",
+      "seafood",
+      "tuna",
+      "squid",
+      "shrimp",
+      "octopus"
+    ],
+    "tokens": [
+      {
+        "hr": "dobra",
+        "pronunciation_ja": "ドブラ",
+        "meaning_ja": "良い・向いている"
+      },
+      {
+        "hr": "za salatu",
+        "pronunciation_ja": "ザ サラトゥ",
+        "meaning_ja": "サラダ用に"
+      },
+      {
+        "hr": "od hobotnice",
+        "pronunciation_ja": "オド ホボトニツェ",
+        "meaning_ja": "タコの"
+      }
+    ],
+    "grammar": {
+      "title": "魚市場の実用表現",
+      "explanation_ja": "魚市場では、魚介名・部位・調理法を短い確認文で伝えるのが実用的です。",
+      "tables": [
+        {
+          "title_ja": "使う型",
+          "headers": [
+            "pattern",
+            "meaning_ja",
+            "example"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "meaning_ja": "意味",
+            "example": "例"
+          },
+          "rows": [
+            {
+              "pattern": "Imate li...?",
+              "meaning_ja": "〜はありますか？",
+              "example": "Imate li tunu?"
+            },
+            {
+              "pattern": "Želim...",
+              "meaning_ja": "〜が欲しいです",
+              "example": "Želim masniji dio tune."
+            },
+            {
+              "pattern": "Ne želim...",
+              "meaning_ja": "〜はいりません",
+              "example": "Ne želim tamni dio."
+            },
+            {
+              "pattern": "Možete li...?",
+              "meaning_ja": "〜してもらえますか？",
+              "example": "Možete li očistiti lignje?"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "部位名が不安な時は、指差し + ovaj dio（この部分）を使うと伝わりやすいです。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Je li dobra za salatu od hobotnice?",
+      "Je li dobra za salatu od hobotnice"
+    ],
+    "accepted_answers_ja": [
+      "タコのサラダ用に向いていますか？",
+      "タコのサラダ用に向いていますか"
+    ]
+  }
+]
