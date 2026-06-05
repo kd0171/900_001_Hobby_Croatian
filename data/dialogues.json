@@ -3,7 +3,7 @@
     "id": "d_fish_001",
     "scene": "fish_market",
     "level": 2,
-    "title_ja": "魚市場で魚を買う",
+    "title_ja": "魚市場-新鮮確認",
     "title_hr": "Na ribarnici",
     "related_vocab_ids": [
       "v_fish_fish",
@@ -80,7 +80,7 @@
     "id": "d_boat_001",
     "scene": "boat",
     "level": 1,
-    "title_ja": "船のチケットを買う",
+    "title_ja": "船-チケット",
     "title_hr": "Kupnja karte za brod",
     "related_vocab_ids": [
       "v_boat_boat",
@@ -232,7 +232,7 @@
     "id": "d_boat_002",
     "scene": "boat",
     "level": 2,
-    "title_ja": "島へ行く船の時間を確認する",
+    "title_ja": "船-島へ行く",
     "title_hr": "Brod za otok",
     "dialogue": [
       {
@@ -301,7 +301,7 @@
     "id": "d_supermarket_002",
     "scene": "supermarket",
     "level": 2,
-    "title_ja": "スーパーで水と袋を買う",
+    "title_ja": "スーパー-水と袋",
     "title_hr": "U supermarketu",
     "dialogue": [
       {
@@ -370,7 +370,7 @@
     "id": "d_sea_002",
     "scene": "sea",
     "level": 2,
-    "title_ja": "ビーチへ行く予定を話す",
+    "title_ja": "海-予定確認",
     "title_hr": "Plan za plažu",
     "dialogue": [
       {
@@ -440,7 +440,7 @@
     "id": "d_tourism_002",
     "scene": "tourism",
     "level": 2,
-    "title_ja": "博物館の開館日を聞く",
+    "title_ja": "観光-博物館",
     "title_hr": "Muzej i radno vrijeme",
     "dialogue": [
       {
@@ -509,7 +509,7 @@
     "id": "d_urchin_002",
     "scene": "sea_urchin",
     "level": 3,
-    "title_ja": "ウニ採りが可能か確認する",
+    "title_ja": "ウニ-可能確認",
     "title_hr": "Morski ježinci",
     "dialogue": [
       {
@@ -578,7 +578,7 @@
     "id": "d_fish_002",
     "scene": "fish_market",
     "level": 2,
-    "title_ja": "量り売りで魚を買う",
+    "title_ja": "魚市場-量り売り",
     "title_hr": "Kupnja ribe na grame",
     "dialogue": [
       {

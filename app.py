@@ -38,8 +38,9 @@ DIRECTIONS = [
 ]
 
 REFERENCE_OPTIONS = [
-    {"label": f"{v['title_ja']} / {v.get('title_hr', '')}", "value": k}
+    {"label": v.get("title_ja", k), "value": k}
     for k, v in DATA["references"].items()
+    if k != "weekdays"
 ]
 
 POS_LABELS = {
@@ -99,6 +100,18 @@ def pos_badge(item: Dict[str, Any]):
     pos = item.get("part_of_speech", "other")
     label = POS_LABELS.get(pos, pos)
     return dbc.Badge(label, color="secondary", className="me-1")
+
+
+def settings_section(title: str, children, open_by_default: bool = False):
+    return html.Details([
+        html.Summary(title, className="settings-summary"),
+        html.Div(children, className="settings-section-body"),
+    ], open=open_by_default, className="settings-details")
+
+
+def compact_title(text: str, limit: int = 14) -> str:
+    text = (text or "").replace(" ", "")
+    return text if len(text) <= limit else text[:limit-1] + "…"
 
 
 def render_inflection_block(item: Dict[str, Any]):
@@ -316,7 +329,7 @@ def render_dialogue_card(item: Dict[str, Any]):
     grammar_notes = [html.Div([html.H5(n.get("title_ja", "")), html.P(n.get("explanation_ja", ""))]) for n in item.get("grammar_notes", [])]
 
     return dbc.Card(dbc.CardBody([
-        card_header(item.get("title_ja", "対話読解"), item.get("title_hr", "")),
+        card_header(compact_title(item.get("title_ja", "対話読解")), None),
         html.Div(lines, className="dialogue-box"),
         html.Details([
             html.Summary("日本語訳を表示"),
@@ -344,12 +357,24 @@ def render_reference(ref_id: str):
                 html.Td(item.get("pronunciation_ja", "")),
                 html.Td(item.get("note_ja", "")),
             ]))
+        extra_blocks = []
+        if section.get("note_ja"):
+            extra_blocks.append(html.Div(section.get("note_ja"), className="reference-note"))
+        if section.get("examples"):
+            extra_blocks.append(html.H5("例文"))
+            for ex in section.get("examples", []):
+                extra_blocks.append(html.Div([
+                    html.Div(ex.get("hr", ""), className="example-hr"),
+                    html.Div(ex.get("pronunciation_ja", ""), className="example-pronunciation"),
+                    html.Div(ex.get("ja", ""), className="example-ja"),
+                ], className="example-block"))
         section_cards.append(html.Div([
             html.H4(section.get("title_ja", "")),
             dbc.Table(rows, bordered=True, hover=True, responsive=True, className="reference-table"),
+            html.Div(extra_blocks),
         ], className="reference-section"))
     return dbc.Card(dbc.CardBody([
-        card_header(f"参考ページ：{ref.get('title_ja', '')}", ref.get("title_hr", "")),
+        card_header(f"参考：{ref.get('title_ja', '')}", None),
         html.Div(section_cards, className="reference-scroll")
     ]), className="main-card")
 
@@ -359,40 +384,41 @@ app.layout = dbc.Container([
     dcc.Store(id="current-item", data=None),
     dcc.Store(id="input-hint-visible", data=False),
     html.Div([
-        html.H1("Croatian Travel Phrase Trainer", className="app-title"),
-        html.P("夏の旅行で使うクロアチア語を、シーン別に学ぶ初級向けDashアプリ", className="app-subtitle"),
+        html.H1("クロアチア旅行語", className="app-title"),
+        html.P("夏の旅行で使う表現", className="app-subtitle"),
     ], className="header"),
     dbc.Row([
         dbc.Col([
             dbc.Card(dbc.CardBody([
-                html.H4("設定"),
-                dbc.Label("モード"),
-                dcc.RadioItems(id="mode", options=MODES, value="vocab", className="radio-list", inputClassName="me-2"),
-                html.Hr(),
-                dbc.Label("シーン"),
-                dcc.Checklist(id="scene-checklist", options=SCENES, value=[s["value"] for s in SCENES], className="check-list", inputClassName="me-2"),
-                html.Hr(),
+                html.H4("設定", className="settings-title"),
+                settings_section("モード", [
+                    dcc.RadioItems(id="mode", options=MODES, value="vocab", className="radio-list", inputClassName="me-2"),
+                ], True),
+                settings_section("シーン", [
+                    dcc.Checklist(id="scene-checklist", options=SCENES, value=[s["value"] for s in SCENES], className="check-list", inputClassName="me-2"),
+                ], False),
                 html.Div(id="pos-filter-wrap", children=[
-                    dbc.Label("単語の役割"),
-                    dcc.Checklist(id="pos-filter", options=POS_OPTIONS, value=[o["value"] for o in POS_OPTIONS], className="check-list", inputClassName="me-2"),
-                    html.Hr(),
+                    settings_section("単語の役割", [
+                        dcc.Checklist(id="pos-filter", options=POS_OPTIONS, value=[o["value"] for o in POS_OPTIONS], className="check-list", inputClassName="me-2"),
+                    ], False),
                 ]),
-                dbc.Label("難易度"),
-                dcc.Dropdown(id="level", options=[{"label":f"Level {i}まで", "value":i} for i in [1,2,3]], value=2, clearable=False),
-                html.Hr(),
-                dbc.Label("翻訳方向"),
-                dcc.RadioItems(id="direction", options=DIRECTIONS, value="ja_to_hr", className="radio-list", inputClassName="me-2"),
-                html.Hr(),
+                settings_section("難易度", [
+                    dcc.Dropdown(id="level", options=[{"label":f"Level {i}まで", "value":i} for i in [1,2,3]], value=2, clearable=False),
+                ], False),
+                settings_section("翻訳方向", [
+                    dcc.RadioItems(id="direction", options=DIRECTIONS, value="ja_to_hr", className="radio-list", inputClassName="me-2"),
+                ], False),
                 html.Div(id="reference-selector-wrap", children=[
-                    dbc.Label("参考カテゴリ"),
-                    dcc.Dropdown(id="reference-select", options=REFERENCE_OPTIONS, value="numbers", clearable=False),
+                    settings_section("参考カテゴリ", [
+                        dcc.Dropdown(id="reference-select", options=REFERENCE_OPTIONS, value="numbers", clearable=False),
+                    ], True),
                 ]),
                 html.Div(id="dialogue-selector-wrap", children=[
-                    html.Hr(),
-                    dbc.Label("対話タイトル"),
-                    dcc.Dropdown(id="dialogue-select", options=[], value=None, clearable=False),
+                    settings_section("対話タイトル", [
+                        dcc.Dropdown(id="dialogue-select", options=[], value=None, clearable=False),
+                    ], True),
                 ]),
-                dbc.Button("次の問題 / 次の対話", id="next-button", color="success", className="mt-3 w-100"),
+                dbc.Button("次へ", id="next-button", color="success", className="mt-3 w-100"),
             ]), className="sidebar")
         ], md=4, lg=3),
         dbc.Col([
@@ -452,7 +478,7 @@ def change_index(next_clicks, page_next_clicks, page_prev_clicks, current):
 )
 def update_dialogue_selector(scenes, level, current_value):
     pool = filter_by_scene_and_level(DATA["dialogues"], scenes, level)
-    options = [{"label": f"{d.get('title_ja', '')} / {d.get('title_hr', '')}", "value": d.get("id")} for d in pool]
+    options = [{"label": compact_title(d.get("title_ja", "")), "value": d.get("id")} for d in pool]
     values = {o["value"] for o in options}
     value = current_value if current_value in values else (options[0]["value"] if options else None)
     return options, value

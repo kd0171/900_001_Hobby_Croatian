@@ -314,3 +314,65 @@ body {
   gap: 0.25rem;
   margin-bottom: 0.6rem;
 }
+
+/* Mobile-first refinements */
+.settings-title {
+  font-size: 1.05rem;
+  margin-bottom: 8px;
+}
+.settings-details {
+  border: 1px solid #e6eaf0;
+  border-radius: 12px;
+  background: #fff;
+  margin-bottom: 8px;
+  overflow: hidden;
+}
+.settings-summary {
+  cursor: pointer;
+  padding: 10px 12px;
+  font-weight: 700;
+  color: #174ea6;
+  user-select: none;
+  background: #f8fafc;
+}
+.settings-section-body {
+  padding: 10px 12px 12px;
+}
+.reference-note {
+  background: #fff7ed;
+  border: 1px solid #fed7aa;
+  border-radius: 10px;
+  padding: 10px 12px;
+  margin: 8px 0 12px;
+  line-height: 1.55;
+}
+.card-title-main,
+.list-target-text,
+.quiz-prompt,
+.dialogue-hr,
+.choice-label,
+.reference-table td,
+.reference-table th,
+.small-table td,
+.small-table th {
+  overflow-wrap: anywhere;
+  word-break: normal;
+}
+.sidebar .card-body {
+  padding: 14px;
+}
+@media (max-width: 768px) {
+  .header { padding: 14px 16px; margin-bottom: 12px; }
+  .app-title { font-size: 1.35rem; }
+  .app-subtitle { font-size: 0.9rem; margin-bottom: 0; }
+  .sidebar { margin-bottom: 12px; }
+  .radio-list label, .check-list label { margin: 4px 0; }
+  .choice-list label { padding: 9px 10px; }
+  .dialogue-line { margin-bottom: 12px; }
+  .dialogue-hr { font-size: 1rem; }
+  .dialogue-pronunciation { margin-left: 0; font-size: 0.92rem; }
+  .reference-table, .small-table { font-size: 0.86rem; }
+  .reference-table td, .reference-table th, .small-table td, .small-table th { padding: 0.38rem; }
+  .scrollable-list { max-height: 62vh; }
+  .reference-scroll { max-height: 66vh; }
+}

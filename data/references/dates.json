@@ -4,62 +4,200 @@
   "title_hr": "Datumi",
   "sections": [
     {
+      "id": "weekdays",
+      "title_ja": "曜日",
+      "items": [
+        {
+          "ja": "月曜日",
+          "hr": "ponedjeljak",
+          "pronunciation_ja": "ポネジェリャク",
+          "note_ja": "曜日の基本形"
+        },
+        {
+          "ja": "火曜日",
+          "hr": "utorak",
+          "pronunciation_ja": "ウトラク",
+          "note_ja": "曜日の基本形"
+        },
+        {
+          "ja": "水曜日",
+          "hr": "srijeda",
+          "pronunciation_ja": "スリイェダ",
+          "note_ja": "曜日の基本形"
+        },
+        {
+          "ja": "木曜日",
+          "hr": "četvrtak",
+          "pronunciation_ja": "チェトヴルタク",
+          "note_ja": "曜日の基本形"
+        },
+        {
+          "ja": "金曜日",
+          "hr": "petak",
+          "pronunciation_ja": "ペタク",
+          "note_ja": "曜日の基本形"
+        },
+        {
+          "ja": "土曜日",
+          "hr": "subota",
+          "pronunciation_ja": "スボタ",
+          "note_ja": "曜日の基本形"
+        },
+        {
+          "ja": "日曜日",
+          "hr": "nedjelja",
+          "pronunciation_ja": "ネジェリャ",
+          "note_ja": "曜日の基本形"
+        }
+      ],
+      "examples": [
+        {
+          "hr": "Danas je ponedjeljak.",
+          "pronunciation_ja": "ダナス イェ ポネジェリャク",
+          "ja": "今日は月曜日です。"
+        },
+        {
+          "hr": "Sutra je subota.",
+          "pronunciation_ja": "ストラ イェ スボタ",
+          "ja": "明日は土曜日です。"
+        }
+      ]
+    },
+    {
+      "id": "weekday_prepositions",
+      "title_ja": "前置詞＋曜日",
+      "items": [
+        {
+          "ja": "月曜日に",
+          "hr": "u ponedjeljak",
+          "pronunciation_ja": "ウ ポネジェリャク",
+          "note_ja": "u + 曜日の形。予定や出発日で使う。"
+        },
+        {
+          "ja": "火曜日に",
+          "hr": "u utorak",
+          "pronunciation_ja": "ウ ウトラク",
+          "note_ja": "u + 曜日の形。予定や出発日で使う。"
+        },
+        {
+          "ja": "水曜日に",
+          "hr": "u srijedu",
+          "pronunciation_ja": "ウ スリイェドゥ",
+          "note_ja": "u + 曜日の形。予定や出発日で使う。"
+        },
+        {
+          "ja": "木曜日に",
+          "hr": "u četvrtak",
+          "pronunciation_ja": "ウ チェトヴルタク",
+          "note_ja": "u + 曜日の形。予定や出発日で使う。"
+        },
+        {
+          "ja": "金曜日に",
+          "hr": "u petak",
+          "pronunciation_ja": "ウ ペタク",
+          "note_ja": "u + 曜日の形。予定や出発日で使う。"
+        },
+        {
+          "ja": "土曜日に",
+          "hr": "u subotu",
+          "pronunciation_ja": "ウ スボトゥ",
+          "note_ja": "u + 曜日の形。予定や出発日で使う。"
+        },
+        {
+          "ja": "日曜日に",
+          "hr": "u nedjelju",
+          "pronunciation_ja": "ウ ネジェリュ",
+          "note_ja": "u + 曜日の形。予定や出発日で使う。"
+        },
+        {
+          "ja": "月曜日から",
+          "hr": "od ponedjeljka",
+          "pronunciation_ja": "オド ポネジェリャカ",
+          "note_ja": "od + 属格。「〜から」。"
+        },
+        {
+          "ja": "金曜日まで",
+          "hr": "do petka",
+          "pronunciation_ja": "ド ペトカ",
+          "note_ja": "do + 属格。「〜まで」。"
+        },
+        {
+          "ja": "週末に",
+          "hr": "za vikend",
+          "pronunciation_ja": "ザ ヴィケンド",
+          "note_ja": "会話でよく使う「週末に」。"
+        }
+      ],
+      "examples": [
+        {
+          "hr": "Idemo na plažu u subotu.",
+          "pronunciation_ja": "イデモ ナ プラジュ ウ スボトゥ",
+          "ja": "土曜日にビーチへ行きます。"
+        },
+        {
+          "hr": "Brod vozi od ponedjeljka do petka.",
+          "pronunciation_ja": "ブロド ヴォジ オド ポネジェリャカ ド ペトカ",
+          "ja": "船は月曜日から金曜日まで運航します。"
+        }
+      ]
+    },
+    {
       "id": "date_basic",
       "title_ja": "日付の基本",
       "items": [
         {
-          "ja": "今日は何日ですか？",
-          "hr": "Koji je danas datum?",
-          "pronunciation_ja": "コイ イェ ダナス ダトゥム",
-          "note_ja": "日付を聞く表現"
-        },
-        {
-          "ja": "今日は6月5日です。",
-          "hr": "Danas je peti lipnja.",
-          "pronunciation_ja": "ダナス イェ ペティ リプニャ",
-          "note_ja": "「5番目の6月」= 6月5日。月は属格形になる"
+          "ja": "今日",
+          "hr": "danas",
+          "pronunciation_ja": "ダナス",
+          "note_ja": "今日"
         },
         {
           "ja": "明日",
           "hr": "sutra",
           "pronunciation_ja": "ストラ",
-          "note_ja": "日にちではなく相対表現"
+          "note_ja": "明日"
+        },
+        {
+          "ja": "昨日",
+          "hr": "jučer",
+          "pronunciation_ja": "ユチェル",
+          "note_ja": "昨日"
+        },
+        {
+          "ja": "今週",
+          "hr": "ovaj tjedan",
+          "pronunciation_ja": "オヴァイ ティエダン",
+          "note_ja": "この週"
         },
         {
           "ja": "来週",
           "hr": "sljedeći tjedan",
           "pronunciation_ja": "スリェデチ ティエダン",
-          "note_ja": "旅行予定で便利"
+          "note_ja": "次の週"
         },
         {
-          "ja": "今週末",
-          "hr": "ovaj vikend",
-          "pronunciation_ja": "オヴァイ ヴィケンド",
-          "note_ja": "週末の予定"
+          "ja": "何日ですか？",
+          "hr": "Koji je datum?",
+          "pronunciation_ja": "コイ イェ ダトゥム",
+          "note_ja": "日付を聞く。"
+        },
+        {
+          "ja": "何曜日ですか？",
+          "hr": "Koji je dan?",
+          "pronunciation_ja": "コイ イェ ダン",
+          "note_ja": "曜日を聞く。"
         }
-      ]
-    },
-    {
-      "id": "date_examples",
-      "title_ja": "日付を含む例文",
-      "items": [
+      ],
+      "examples": [
         {
-          "ja": "土曜日に海へ行きます。",
-          "hr": "Idemo na more u subotu.",
-          "pronunciation_ja": "イデモ ナ モレ ウ スボトゥ",
-          "note_ja": "u + 曜日の対格"
+          "hr": "Koji je datum danas?",
+          "pronunciation_ja": "コイ イェ ダトゥム ダナス",
+          "ja": "今日は何日ですか？"
         },
         {
-          "ja": "7月に旅行します。",
-          "hr": "Putujem u srpnju.",
-          "pronunciation_ja": "プトゥイェム ウ スルプニュ",
-          "note_ja": "u + 月の処格"
-        },
-        {
-          "ja": "船は6月5日に出発します。",
-          "hr": "Brod polazi petog lipnja.",
-          "pronunciation_ja": "ブロド ポラジ ペトグ リプニャ",
-          "note_ja": "日付では序数＋月の属格を使う"
+          "hr": "Rezervacija je za petnaesti srpnja.",
+          "pronunciation_ja": "レゼルヴァツィヤ イェ ザ ペトナエスティ スルプニャ",
+          "ja": "予約は7月15日です。"
         }
       ]
     }

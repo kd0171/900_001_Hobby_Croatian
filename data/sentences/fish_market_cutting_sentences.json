@@ -1,0 +1,199 @@
+{
+  "items": [
+    {
+      "id": "fish_cut_s_001",
+      "scene": "fish_market",
+      "level": 2,
+      "ja": "内臓を取ってもらえますか？",
+      "hr": "Možete li izvaditi utrobu?",
+      "pronunciation_ja": "モジェテ リ イズヴァディティ ウトロブ",
+      "tags": [
+        "fish_market",
+        "cutting"
+      ],
+      "tokens": [
+        {
+          "hr": "Možete li",
+          "pronunciation_ja": "モジェテ リ",
+          "meaning_ja": "〜してもらえますか"
+        },
+        {
+          "hr": "izvaditi",
+          "pronunciation_ja": "イズヴァディティ",
+          "meaning_ja": "取り出す"
+        },
+        {
+          "hr": "utrobu",
+          "pronunciation_ja": "ウトロブ",
+          "meaning_ja": "内臓を"
+        }
+      ],
+      "grammar": {
+        "title": "Možete li + 不定詞",
+        "explanation_ja": "丁寧な依頼表現です。izvaditi は「取り出す」。utrobu は utroba の対格です。",
+        "tables": [
+          {
+            "title_ja": "依頼の形",
+            "headers": [
+              "pattern",
+              "meaning_ja",
+              "example_hr"
+            ],
+            "header_labels": {
+              "pattern": "形",
+              "meaning_ja": "意味",
+              "example_hr": "例"
+            },
+            "rows": [
+              {
+                "pattern": "Možete li + 不定詞?",
+                "meaning_ja": "〜してもらえますか",
+                "example_hr": "Možete li izvaditi utrobu?"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "fish_cut_s_002",
+      "scene": "fish_market",
+      "level": 2,
+      "ja": "うろこを取ってもらえますか？",
+      "hr": "Možete li skinuti ljuske?",
+      "pronunciation_ja": "モジェテ リ スキヌティ リュスケ",
+      "tags": [
+        "fish_market",
+        "cutting"
+      ],
+      "tokens": [
+        {
+          "hr": "skinuti",
+          "pronunciation_ja": "スキヌティ",
+          "meaning_ja": "取り除く"
+        },
+        {
+          "hr": "ljuske",
+          "pronunciation_ja": "リュスケ",
+          "meaning_ja": "うろこ"
+        }
+      ],
+      "grammar": {
+        "title": "skinuti",
+        "explanation_ja": "skinuti は表面についているものを「取る」という意味で使えます。"
+      }
+    },
+    {
+      "id": "fish_cut_s_003",
+      "scene": "fish_market",
+      "level": 2,
+      "ja": "えらを取ってもらえますか？",
+      "hr": "Možete li ukloniti škrge?",
+      "pronunciation_ja": "モジェテ リ ウクロニティ シュクルゲ",
+      "tags": [
+        "fish_market",
+        "cutting"
+      ],
+      "tokens": [
+        {
+          "hr": "ukloniti",
+          "pronunciation_ja": "ウクロニティ",
+          "meaning_ja": "取り除く"
+        },
+        {
+          "hr": "škrge",
+          "pronunciation_ja": "シュクルゲ",
+          "meaning_ja": "えら"
+        }
+      ],
+      "grammar": {
+        "title": "ukloniti",
+        "explanation_ja": "ukloniti は「取り除く」。škrge は魚のえらです。"
+      }
+    },
+    {
+      "id": "fish_cut_s_004",
+      "scene": "fish_market",
+      "level": 2,
+      "ja": "頭を落としてください。",
+      "hr": "Odrežite glavu, molim.",
+      "pronunciation_ja": "オドレジテ グラヴ モリム",
+      "tags": [
+        "fish_market",
+        "cutting"
+      ],
+      "tokens": [
+        {
+          "hr": "Odrežite",
+          "pronunciation_ja": "オドレジテ",
+          "meaning_ja": "切り落としてください"
+        },
+        {
+          "hr": "glavu",
+          "pronunciation_ja": "グラヴ",
+          "meaning_ja": "頭を"
+        }
+      ],
+      "grammar": {
+        "title": "命令形",
+        "explanation_ja": "Odrežite は丁寧な命令・依頼で「切ってください」。glavu は glava の対格です。"
+      }
+    },
+    {
+      "id": "fish_cut_s_005",
+      "scene": "fish_market",
+      "level": 2,
+      "ja": "頭は残してください。",
+      "hr": "Ostavite glavu, molim.",
+      "pronunciation_ja": "オスタヴィテ グラヴ モリム",
+      "tags": [
+        "fish_market",
+        "cutting"
+      ],
+      "tokens": [
+        {
+          "hr": "Ostavite",
+          "pronunciation_ja": "オスタヴィテ",
+          "meaning_ja": "残してください"
+        },
+        {
+          "hr": "glavu",
+          "pronunciation_ja": "グラヴ",
+          "meaning_ja": "頭を"
+        }
+      ],
+      "grammar": {
+        "title": "ostaviti",
+        "explanation_ja": "ostaviti は「残す」。魚の頭を残したい時に使えます。"
+      }
+    },
+    {
+      "id": "fish_cut_s_006",
+      "scene": "fish_market",
+      "level": 3,
+      "ja": "切り身にしてもらえますか？",
+      "hr": "Možete li je filetirati?",
+      "pronunciation_ja": "モジェテ リ イェ フィレティラティ",
+      "tags": [
+        "fish_market",
+        "cutting"
+      ],
+      "tokens": [
+        {
+          "hr": "je",
+          "pronunciation_ja": "イェ",
+          "meaning_ja": "それを"
+        },
+        {
+          "hr": "filetirati",
+          "pronunciation_ja": "フィレティラティ",
+          "meaning_ja": "切り身にする"
+        }
+      ],
+      "grammar": {
+        "title": "代名詞 je",
+        "explanation_ja": "je は女性名詞 riba を受ける「それを」です。"
+      }
+    }
+  ]
+}

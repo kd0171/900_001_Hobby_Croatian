@@ -5,37 +5,71 @@
   "sections": [
     {
       "id": "units",
-      "title_ja": "買い物で使う単位",
+      "title_ja": "買い物で使う量",
       "items": [
         {
           "ja": "グラム",
-          "hr": "gram",
-          "pronunciation_ja": "グラム"
+          "hr": "gram / grama",
+          "pronunciation_ja": "グラム / グラマ",
+          "note_ja": "100 grama, 500 grama のように使う。"
         },
         {
           "ja": "キログラム",
-          "hr": "kilogram",
-          "pronunciation_ja": "キログラム"
+          "hr": "kilogram / kilograma",
+          "pronunciation_ja": "キログラム / キログラマ",
+          "note_ja": "1 kilogram, 2 kilograma。"
+        },
+        {
+          "ja": "半キロ",
+          "hr": "pola kilograma",
+          "pronunciation_ja": "ポラ キログラマ",
+          "note_ja": "魚市場で便利。"
         },
         {
           "ja": "リットル",
-          "hr": "litra",
-          "pronunciation_ja": "リトラ"
+          "hr": "litra / litre",
+          "pronunciation_ja": "リトラ / リトレ",
+          "note_ja": "1 litra, 2 litre。"
         },
         {
-          "ja": "半分",
-          "hr": "pola",
-          "pronunciation_ja": "ポラ"
+          "ja": "一本／一個",
+          "hr": "komad",
+          "pronunciation_ja": "コマド",
+          "note_ja": "一つの品物。"
         },
         {
           "ja": "少し",
           "hr": "malo",
-          "pronunciation_ja": "マロ"
+          "pronunciation_ja": "マロ",
+          "note_ja": "少し。"
         },
         {
           "ja": "たくさん",
           "hr": "puno",
-          "pronunciation_ja": "プノ"
+          "pronunciation_ja": "プノ",
+          "note_ja": "たくさん。"
+        }
+      ],
+      "examples": [
+        {
+          "hr": "Petsto grama, molim.",
+          "pronunciation_ja": "ペトスト グラマ モリム",
+          "ja": "500グラムください。"
+        },
+        {
+          "hr": "Pola kilograma ove ribe, molim.",
+          "pronunciation_ja": "ポラ キログラマ オヴェ リベ モリム",
+          "ja": "この魚を半キロください。"
+        },
+        {
+          "hr": "Dva kilograma krumpira, molim.",
+          "pronunciation_ja": "ドヴァ キログラマ クルンピラ モリム",
+          "ja": "じゃがいもを2キロください。"
+        },
+        {
+          "hr": "Jednu litru vode, molim.",
+          "pronunciation_ja": "イェドヌ リトル ヴォデ モリム",
+          "ja": "水を1リットルください。"
         }
       ]
     }
