@@ -3159,5 +3159,809 @@
       "2キロください。",
       "2キロください"
     ]
+  },
+  {
+    "id": "s_boat_010",
+    "scene": "boat",
+    "level": 1,
+    "ja": "船は10時に出発します。",
+    "hr": "Brod polazi u deset sati.",
+    "pronunciation_ja": "ブロド ポラジ ウ デセット サティ",
+    "tags": [
+      "boat",
+      "time"
+    ],
+    "tokens": [
+      {
+        "hr": "Brod",
+        "pronunciation_ja": "ブロド",
+        "meaning_ja": "船"
+      },
+      {
+        "hr": "polazi",
+        "pronunciation_ja": "ポラジ",
+        "meaning_ja": "出発します"
+      },
+      {
+        "hr": "u",
+        "pronunciation_ja": "ウ",
+        "meaning_ja": "〜に"
+      },
+      {
+        "hr": "deset sati",
+        "pronunciation_ja": "デセット サティ",
+        "meaning_ja": "10時"
+      }
+    ],
+    "grammar": {
+      "title": "u + 時刻",
+      "explanation_ja": "時刻を言うときは u deset sati のように u を使います。",
+      "tables": [
+        {
+          "title_ja": "文の構造",
+          "headers": [
+            "part",
+            "hr",
+            "pronunciation_ja",
+            "meaning_ja",
+            "grammar_ja"
+          ],
+          "header_labels": {
+            "part": "部分",
+            "hr": "クロアチア語",
+            "pronunciation_ja": "カタカナ",
+            "meaning_ja": "意味",
+            "grammar_ja": "文法"
+          },
+          "rows": [
+            {
+              "part": "主語",
+              "hr": "Brod",
+              "pronunciation_ja": "ブロド",
+              "meaning_ja": "船",
+              "grammar_ja": "男性名詞・主格"
+            },
+            {
+              "part": "動詞",
+              "hr": "polazi",
+              "pronunciation_ja": "ポラジ",
+              "meaning_ja": "出発する",
+              "grammar_ja": "polaziti の三人称単数"
+            },
+            {
+              "part": "時刻",
+              "hr": "u deset sati",
+              "pronunciation_ja": "ウ デセット サティ",
+              "meaning_ja": "10時に",
+              "grammar_ja": "u + 数字 + sati"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    "accepted_answers_hr": [
+      "Brod polazi u deset sati.",
+      "Brod polazi u deset sati"
+    ],
+    "accepted_answers_ja": [
+      "船は10時に出発します。",
+      "船は10時に出発します"
+    ]
+  },
+  {
+    "id": "s_boat_011",
+    "scene": "boat",
+    "level": 1,
+    "ja": "帰りの船は18時です。",
+    "hr": "Povratni brod je u osamnaest sati.",
+    "pronunciation_ja": "ポヴラトニ ブロド イェ ウ オサムナエスト サティ",
+    "tags": [
+      "boat",
+      "time"
+    ],
+    "tokens": [
+      {
+        "hr": "Povratni",
+        "pronunciation_ja": "ポヴラトニ",
+        "meaning_ja": "帰りの"
+      },
+      {
+        "hr": "brod",
+        "pronunciation_ja": "ブロド",
+        "meaning_ja": "船"
+      },
+      {
+        "hr": "je",
+        "pronunciation_ja": "イェ",
+        "meaning_ja": "です"
+      },
+      {
+        "hr": "u osamnaest sati",
+        "pronunciation_ja": "ウ オサムナエスト サティ",
+        "meaning_ja": "18時に"
+      }
+    ],
+    "grammar": {
+      "title": "povratni brod",
+      "explanation_ja": "povratni は「帰りの」という形容詞で、brod に合わせて男性形になっています。",
+      "tables": [
+        {
+          "title_ja": "文の構造",
+          "headers": [
+            "part",
+            "hr",
+            "pronunciation_ja",
+            "meaning_ja",
+            "grammar_ja"
+          ],
+          "header_labels": {
+            "part": "部分",
+            "hr": "クロアチア語",
+            "pronunciation_ja": "カタカナ",
+            "meaning_ja": "意味",
+            "grammar_ja": "文法"
+          },
+          "rows": [
+            {
+              "part": "名詞句",
+              "hr": "povratni brod",
+              "pronunciation_ja": "ポヴラトニ ブロド",
+              "meaning_ja": "帰りの船",
+              "grammar_ja": "形容詞 + 男性名詞"
+            },
+            {
+              "part": "時刻",
+              "hr": "u osamnaest sati",
+              "pronunciation_ja": "ウ オサムナエスト サティ",
+              "meaning_ja": "18時に",
+              "grammar_ja": "u + 時刻"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    "accepted_answers_hr": [
+      "Povratni brod je u osamnaest sati.",
+      "Povratni brod je u osamnaest sati"
+    ],
+    "accepted_answers_ja": [
+      "帰りの船は18時です。",
+      "帰りの船は18時です"
+    ]
+  },
+  {
+    "id": "s_super_010",
+    "scene": "supermarket",
+    "level": 1,
+    "ja": "今日は日曜日です。",
+    "hr": "Danas je nedjelja.",
+    "pronunciation_ja": "ダナス イェ ネジェリャ",
+    "tags": [
+      "weekday"
+    ],
+    "tokens": [
+      {
+        "hr": "Danas",
+        "pronunciation_ja": "ダナス",
+        "meaning_ja": "今日"
+      },
+      {
+        "hr": "je",
+        "pronunciation_ja": "イェ",
+        "meaning_ja": "です"
+      },
+      {
+        "hr": "nedjelja",
+        "pronunciation_ja": "ネジェリャ",
+        "meaning_ja": "日曜日"
+      }
+    ],
+    "grammar": {
+      "title": "曜日の言い方",
+      "explanation_ja": "「今日は〜曜日です」は Danas je + 曜日 で言えます。",
+      "tables": [
+        {
+          "title_ja": "文の構造",
+          "headers": [
+            "part",
+            "hr",
+            "pronunciation_ja",
+            "meaning_ja",
+            "grammar_ja"
+          ],
+          "header_labels": {
+            "part": "部分",
+            "hr": "クロアチア語",
+            "pronunciation_ja": "カタカナ",
+            "meaning_ja": "意味",
+            "grammar_ja": "文法"
+          },
+          "rows": [
+            {
+              "part": "時間語",
+              "hr": "Danas",
+              "pronunciation_ja": "ダナス",
+              "meaning_ja": "今日",
+              "grammar_ja": "文頭に置ける副詞"
+            },
+            {
+              "part": "曜日",
+              "hr": "nedjelja",
+              "pronunciation_ja": "ネジェリャ",
+              "meaning_ja": "日曜日",
+              "grammar_ja": "女性名詞"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    "accepted_answers_hr": [
+      "Danas je nedjelja.",
+      "Danas je nedjelja"
+    ],
+    "accepted_answers_ja": [
+      "今日は日曜日です。",
+      "今日は日曜日です"
+    ]
+  },
+  {
+    "id": "s_sea_010",
+    "scene": "sea",
+    "level": 1,
+    "ja": "土曜日にビーチへ行きます。",
+    "hr": "Idemo na plažu u subotu.",
+    "pronunciation_ja": "イデモ ナ プラジュ ウ スボトゥ",
+    "tags": [
+      "sea",
+      "weekday",
+      "movement"
+    ],
+    "tokens": [
+      {
+        "hr": "Idemo",
+        "pronunciation_ja": "イデモ",
+        "meaning_ja": "私たちは行きます"
+      },
+      {
+        "hr": "na plažu",
+        "pronunciation_ja": "ナ プラジュ",
+        "meaning_ja": "ビーチへ"
+      },
+      {
+        "hr": "u subotu",
+        "pronunciation_ja": "ウ スボトゥ",
+        "meaning_ja": "土曜日に"
+      }
+    ],
+    "grammar": {
+      "title": "方向の na + 対格",
+      "explanation_ja": "「ビーチへ」は na plažu です。場所「ビーチで」は na plaži になります。",
+      "tables": [
+        {
+          "title_ja": "文の構造",
+          "headers": [
+            "part",
+            "hr",
+            "pronunciation_ja",
+            "meaning_ja",
+            "grammar_ja"
+          ],
+          "header_labels": {
+            "part": "部分",
+            "hr": "クロアチア語",
+            "pronunciation_ja": "カタカナ",
+            "meaning_ja": "意味",
+            "grammar_ja": "文法"
+          },
+          "rows": [
+            {
+              "part": "動詞",
+              "hr": "Idemo",
+              "pronunciation_ja": "イデモ",
+              "meaning_ja": "行きます",
+              "grammar_ja": "ići の一人称複数"
+            },
+            {
+              "part": "方向",
+              "hr": "na plažu",
+              "pronunciation_ja": "ナ プラジュ",
+              "meaning_ja": "ビーチへ",
+              "grammar_ja": "na + 対格"
+            },
+            {
+              "part": "曜日",
+              "hr": "u subotu",
+              "pronunciation_ja": "ウ スボトゥ",
+              "meaning_ja": "土曜日に",
+              "grammar_ja": "u + 対格"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    "accepted_answers_hr": [
+      "Idemo na plažu u subotu.",
+      "Idemo na plažu u subotu"
+    ],
+    "accepted_answers_ja": [
+      "土曜日にビーチへ行きます。",
+      "土曜日にビーチへ行きます"
+    ]
+  },
+  {
+    "id": "s_sea_011",
+    "scene": "sea",
+    "level": 2,
+    "ja": "7月にクロアチアへ行きます。",
+    "hr": "Idem u Hrvatsku u srpnju.",
+    "pronunciation_ja": "イデム ウ フルヴァツク ウ スルプニュ",
+    "tags": [
+      "month",
+      "travel"
+    ],
+    "tokens": [
+      {
+        "hr": "Idem",
+        "pronunciation_ja": "イデム",
+        "meaning_ja": "私は行きます"
+      },
+      {
+        "hr": "u Hrvatsku",
+        "pronunciation_ja": "ウ フルヴァツク",
+        "meaning_ja": "クロアチアへ"
+      },
+      {
+        "hr": "u srpnju",
+        "pronunciation_ja": "ウ スルプニュ",
+        "meaning_ja": "7月に"
+      }
+    ],
+    "grammar": {
+      "title": "月の表現",
+      "explanation_ja": "月を言うときは多くの場合 u + 月名の場所格を使います。",
+      "tables": [
+        {
+          "title_ja": "文の構造",
+          "headers": [
+            "part",
+            "hr",
+            "pronunciation_ja",
+            "meaning_ja",
+            "grammar_ja"
+          ],
+          "header_labels": {
+            "part": "部分",
+            "hr": "クロアチア語",
+            "pronunciation_ja": "カタカナ",
+            "meaning_ja": "意味",
+            "grammar_ja": "文法"
+          },
+          "rows": [
+            {
+              "part": "方向",
+              "hr": "u Hrvatsku",
+              "pronunciation_ja": "ウ フルヴァツク",
+              "meaning_ja": "クロアチアへ",
+              "grammar_ja": "u + 対格"
+            },
+            {
+              "part": "月",
+              "hr": "u srpnju",
+              "pronunciation_ja": "ウ スルプニュ",
+              "meaning_ja": "7月に",
+              "grammar_ja": "u + 場所格"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    "accepted_answers_hr": [
+      "Idem u Hrvatsku u srpnju.",
+      "Idem u Hrvatsku u srpnju"
+    ],
+    "accepted_answers_ja": [
+      "7月にクロアチアへ行きます。",
+      "7月にクロアチアへ行きます"
+    ]
+  },
+  {
+    "id": "s_fish_010",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "600グラムください。",
+    "hr": "Šeststo grama, molim.",
+    "pronunciation_ja": "シェストスト グラマ モリム",
+    "tags": [
+      "fish",
+      "quantity"
+    ],
+    "tokens": [
+      {
+        "hr": "Šeststo",
+        "pronunciation_ja": "シェストスト",
+        "meaning_ja": "600"
+      },
+      {
+        "hr": "grama",
+        "pronunciation_ja": "グラマ",
+        "meaning_ja": "グラム"
+      },
+      {
+        "hr": "molim",
+        "pronunciation_ja": "モリム",
+        "meaning_ja": "お願いします"
+      }
+    ],
+    "grammar": {
+      "title": "数量 + grama",
+      "explanation_ja": "100g, 200g, 600g などは数字 + grama で量り売りに使えます。",
+      "tables": [
+        {
+          "title_ja": "文の構造",
+          "headers": [
+            "part",
+            "hr",
+            "pronunciation_ja",
+            "meaning_ja",
+            "grammar_ja"
+          ],
+          "header_labels": {
+            "part": "部分",
+            "hr": "クロアチア語",
+            "pronunciation_ja": "カタカナ",
+            "meaning_ja": "意味",
+            "grammar_ja": "文法"
+          },
+          "rows": [
+            {
+              "part": "数量",
+              "hr": "šeststo grama",
+              "pronunciation_ja": "シェストスト グラマ",
+              "meaning_ja": "600グラム",
+              "grammar_ja": "数字 + grama"
+            },
+            {
+              "part": "丁寧表現",
+              "hr": "molim",
+              "pronunciation_ja": "モリム",
+              "meaning_ja": "お願いします",
+              "grammar_ja": "依頼表現"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    "accepted_answers_hr": [
+      "Šeststo grama, molim.",
+      "Šeststo grama, molim"
+    ],
+    "accepted_answers_ja": [
+      "600グラムください。",
+      "600グラムください"
+    ]
+  },
+  {
+    "id": "s_fish_011",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "1キロと半分ください。",
+    "hr": "Kilogram i pol, molim.",
+    "pronunciation_ja": "キログラム イ ポル モリム",
+    "tags": [
+      "fish",
+      "quantity"
+    ],
+    "tokens": [
+      {
+        "hr": "Kilogram",
+        "pronunciation_ja": "キログラム",
+        "meaning_ja": "1キロ"
+      },
+      {
+        "hr": "i pol",
+        "pronunciation_ja": "イ ポル",
+        "meaning_ja": "半分と"
+      },
+      {
+        "hr": "molim",
+        "pronunciation_ja": "モリム",
+        "meaning_ja": "お願いします"
+      }
+    ],
+    "grammar": {
+      "title": "半分の言い方",
+      "explanation_ja": "日常会話では kilogram i pol で「1キロ半」を表せます。",
+      "tables": [
+        {
+          "title_ja": "文の構造",
+          "headers": [
+            "part",
+            "hr",
+            "pronunciation_ja",
+            "meaning_ja",
+            "grammar_ja"
+          ],
+          "header_labels": {
+            "part": "部分",
+            "hr": "クロアチア語",
+            "pronunciation_ja": "カタカナ",
+            "meaning_ja": "意味",
+            "grammar_ja": "文法"
+          },
+          "rows": [
+            {
+              "part": "量",
+              "hr": "kilogram i pol",
+              "pronunciation_ja": "キログラム イ ポル",
+              "meaning_ja": "1キロ半",
+              "grammar_ja": "名詞 + i pol"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    "accepted_answers_hr": [
+      "Kilogram i pol, molim.",
+      "Kilogram i pol, molim"
+    ],
+    "accepted_answers_ja": [
+      "1キロと半分ください。",
+      "1キロと半分ください"
+    ]
+  },
+  {
+    "id": "s_tourism_010",
+    "scene": "tourism",
+    "level": 1,
+    "ja": "博物館は月曜日に開いていますか？",
+    "hr": "Je li muzej otvoren ponedjeljkom?",
+    "pronunciation_ja": "イェ リ ムゼイ オトヴォレン ポネジェリコム",
+    "tags": [
+      "tourism",
+      "weekday"
+    ],
+    "tokens": [
+      {
+        "hr": "Je li",
+        "pronunciation_ja": "イェ リ",
+        "meaning_ja": "〜ですか"
+      },
+      {
+        "hr": "muzej",
+        "pronunciation_ja": "ムゼイ",
+        "meaning_ja": "博物館"
+      },
+      {
+        "hr": "otvoren",
+        "pronunciation_ja": "オトヴォレン",
+        "meaning_ja": "開いている"
+      },
+      {
+        "hr": "ponedjeljkom",
+        "pronunciation_ja": "ポネジェリコム",
+        "meaning_ja": "月曜日に・毎週月曜"
+      }
+    ],
+    "grammar": {
+      "title": "Je li + 形容詞",
+      "explanation_ja": "施設が開いているか聞く表現です。曜日に -om が付くと「毎週その曜日に」の意味になります。",
+      "tables": [
+        {
+          "title_ja": "文の構造",
+          "headers": [
+            "part",
+            "hr",
+            "pronunciation_ja",
+            "meaning_ja",
+            "grammar_ja"
+          ],
+          "header_labels": {
+            "part": "部分",
+            "hr": "クロアチア語",
+            "pronunciation_ja": "カタカナ",
+            "meaning_ja": "意味",
+            "grammar_ja": "文法"
+          },
+          "rows": [
+            {
+              "part": "疑問",
+              "hr": "Je li",
+              "pronunciation_ja": "イェ リ",
+              "meaning_ja": "〜ですか",
+              "grammar_ja": "基本疑問文"
+            },
+            {
+              "part": "状態",
+              "hr": "otvoren",
+              "pronunciation_ja": "オトヴォレン",
+              "meaning_ja": "開いている",
+              "grammar_ja": "形容詞・男性単数"
+            },
+            {
+              "part": "曜日",
+              "hr": "ponedjeljkom",
+              "pronunciation_ja": "ポネジェリコム",
+              "meaning_ja": "月曜日に",
+              "grammar_ja": "曜日の副詞的用法"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    "accepted_answers_hr": [
+      "Je li muzej otvoren ponedjeljkom?",
+      "Je li muzej otvoren ponedjeljkom?"
+    ],
+    "accepted_answers_ja": [
+      "博物館は月曜日に開いていますか？",
+      "博物館は月曜日に開いていますか？"
+    ]
+  },
+  {
+    "id": "s_tourism_011",
+    "scene": "tourism",
+    "level": 1,
+    "ja": "写真を撮ってもいいですか？",
+    "hr": "Smijem li fotografirati ovdje?",
+    "pronunciation_ja": "スミイェム リ フォトグラフィラティ オヴジェ",
+    "tags": [
+      "tourism",
+      "permission"
+    ],
+    "tokens": [
+      {
+        "hr": "Smijem li",
+        "pronunciation_ja": "スミイェム リ",
+        "meaning_ja": "〜してもいいですか"
+      },
+      {
+        "hr": "fotografirati",
+        "pronunciation_ja": "フォトグラフィラティ",
+        "meaning_ja": "写真を撮る"
+      },
+      {
+        "hr": "ovdje",
+        "pronunciation_ja": "オヴジェ",
+        "meaning_ja": "ここで"
+      }
+    ],
+    "grammar": {
+      "title": "Smijem li...?",
+      "explanation_ja": "許可を求めるときの丁寧な表現です。",
+      "tables": [
+        {
+          "title_ja": "文の構造",
+          "headers": [
+            "part",
+            "hr",
+            "pronunciation_ja",
+            "meaning_ja",
+            "grammar_ja"
+          ],
+          "header_labels": {
+            "part": "部分",
+            "hr": "クロアチア語",
+            "pronunciation_ja": "カタカナ",
+            "meaning_ja": "意味",
+            "grammar_ja": "文法"
+          },
+          "rows": [
+            {
+              "part": "許可",
+              "hr": "Smijem li",
+              "pronunciation_ja": "スミイェム リ",
+              "meaning_ja": "〜してもいいですか",
+              "grammar_ja": "smjeti の一人称単数 + li"
+            },
+            {
+              "part": "動詞",
+              "hr": "fotografirati",
+              "pronunciation_ja": "フォトグラフィラティ",
+              "meaning_ja": "写真を撮る",
+              "grammar_ja": "不定詞"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    "accepted_answers_hr": [
+      "Smijem li fotografirati ovdje?",
+      "Smijem li fotografirati ovdje?"
+    ],
+    "accepted_answers_ja": [
+      "写真を撮ってもいいですか？",
+      "写真を撮ってもいいですか？"
+    ]
+  },
+  {
+    "id": "s_urchin_010",
+    "scene": "sea_urchin",
+    "level": 2,
+    "ja": "ここでウニを採ってもいいですか？",
+    "hr": "Smije li se ovdje sakupljati morske ježince?",
+    "pronunciation_ja": "スミイェ リ セ オヴジェ サクプリャティ モルスケ イェジンツェ",
+    "tags": [
+      "sea_urchin",
+      "permission"
+    ],
+    "tokens": [
+      {
+        "hr": "Smije li se",
+        "pronunciation_ja": "スミイェ リ セ",
+        "meaning_ja": "〜してもよいですか"
+      },
+      {
+        "hr": "ovdje",
+        "pronunciation_ja": "オヴジェ",
+        "meaning_ja": "ここで"
+      },
+      {
+        "hr": "sakupljati",
+        "pronunciation_ja": "サクプリャティ",
+        "meaning_ja": "採集する"
+      },
+      {
+        "hr": "morske ježince",
+        "pronunciation_ja": "モルスケ イェジンツェ",
+        "meaning_ja": "ウニを"
+      }
+    ],
+    "grammar": {
+      "title": "非人称の許可表現",
+      "explanation_ja": "Smije li se...? は「一般的にここで〜してよいか」を尋ねる表現です。規則確認に向いています。",
+      "tables": [
+        {
+          "title_ja": "文の構造",
+          "headers": [
+            "part",
+            "hr",
+            "pronunciation_ja",
+            "meaning_ja",
+            "grammar_ja"
+          ],
+          "header_labels": {
+            "part": "部分",
+            "hr": "クロアチア語",
+            "pronunciation_ja": "カタカナ",
+            "meaning_ja": "意味",
+            "grammar_ja": "文法"
+          },
+          "rows": [
+            {
+              "part": "許可",
+              "hr": "Smije li se",
+              "pronunciation_ja": "スミイェ リ セ",
+              "meaning_ja": "〜してもよいですか",
+              "grammar_ja": "非人称表現"
+            },
+            {
+              "part": "目的語",
+              "hr": "morske ježince",
+              "pronunciation_ja": "モルスケ イェジンツェ",
+              "meaning_ja": "ウニを",
+              "grammar_ja": "複数対格"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    "accepted_answers_hr": [
+      "Smije li se ovdje sakupljati morske ježince?",
+      "Smije li se ovdje sakupljati morske ježince?"
+    ],
+    "accepted_answers_ja": [
+      "ここでウニを採ってもいいですか？",
+      "ここでウニを採ってもいいですか？"
+    ]
   }
 ]

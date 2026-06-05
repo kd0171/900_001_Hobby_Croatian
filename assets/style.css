@@ -230,3 +230,87 @@ body {
 .small-table td, .reference-table td {
   vertical-align: top;
 }
+
+/* Subtle Croatia flag inspired theme */
+body {
+  background: linear-gradient(180deg, #fff7f7 0%, #f7fbff 44%, #f6f8fb 100%);
+}
+.header {
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgba(23, 78, 166, 0.08);
+}
+.header::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto 0;
+  height: 8px;
+  background: linear-gradient(90deg, #f4f4f4 0 33%, #d8212f 33% 66%, #174ea6 66% 100%);
+}
+.app-title {
+  color: #174ea6;
+}
+.app-title::after {
+  content: "";
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  margin-left: 10px;
+  vertical-align: middle;
+  border-radius: 4px;
+  background:
+    linear-gradient(45deg, #d8212f 25%, transparent 25% 50%, #d8212f 50% 75%, transparent 75%),
+    linear-gradient(45deg, transparent 25%, #ffffff 25% 50%, transparent 50% 75%, #ffffff 75%);
+  background-size: 9px 9px;
+  border: 1px solid #d8212f;
+}
+.sidebar, .main-card {
+  border-top: 4px solid rgba(216, 33, 47, 0.76);
+}
+.btn-primary, .btn-success {
+  background-color: #174ea6;
+  border-color: #174ea6;
+}
+.btn-primary:hover, .btn-success:hover {
+  background-color: #123f86;
+  border-color: #123f86;
+}
+.btn-outline-primary {
+  color: #174ea6;
+  border-color: #174ea6;
+}
+.btn-outline-primary:hover {
+  background-color: #174ea6;
+  border-color: #174ea6;
+}
+.native-details > summary {
+  color: #174ea6;
+}
+.list-title-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 12px;
+  margin-bottom: 6px;
+}
+.page-controls {
+  white-space: nowrap;
+  padding-top: 4px;
+}
+.dialogue-selector-note {
+  color: #667085;
+  font-size: 0.9rem;
+  margin-top: 6px;
+}
+@media (max-width: 768px) {
+  .list-title-row {
+    flex-direction: column;
+  }
+}
+
+.page-controls-top {
+  justify-content: flex-end;
+  align-items: center;
+  gap: 0.25rem;
+  margin-bottom: 0.6rem;
+}

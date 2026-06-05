@@ -218,10 +218,11 @@ def render_paginated_list(title: str, subtitle: str, items: List[Dict[str, Any]]
     end = start + ITEMS_PER_PAGE
     visible_items = items[start:end]
     return dbc.Card(dbc.CardBody([
-        card_header(title, subtitle),
+        html.Div([
+            card_header(title, subtitle),
+        ], className="list-title-row"),
         html.Div(f"{len(items)}件中 {start + 1}〜{min(end, len(items))}件を表示 / ページ {page + 1}/{total_pages}", className="muted mb-3"),
         html.Div([renderer(item) for item in visible_items], className="list-stack scrollable-list"),
-        html.Div("左側の「次へ / 次ページ」で次の20件を表示できます。", className="muted mt-3"),
     ]), className="main-card")
 
 
@@ -386,10 +387,19 @@ app.layout = dbc.Container([
                     dbc.Label("参考カテゴリ"),
                     dcc.Dropdown(id="reference-select", options=REFERENCE_OPTIONS, value="numbers", clearable=False),
                 ]),
-                dbc.Button("次へ / 次ページ", id="next-button", color="success", className="mt-3 w-100"),
+                html.Div(id="dialogue-selector-wrap", children=[
+                    html.Hr(),
+                    dbc.Label("対話タイトル"),
+                    dcc.Dropdown(id="dialogue-select", options=[], value=None, clearable=False),
+                ]),
+                dbc.Button("次の問題 / 次の対話", id="next-button", color="success", className="mt-3 w-100"),
             ]), className="sidebar")
         ], md=4, lg=3),
         dbc.Col([
+            html.Div([
+                dbc.Button("前へ", id="page-prev", color="outline-primary", size="sm", className="me-2"),
+                dbc.Button("次へ", id="page-next", color="primary", size="sm"),
+            ], id="page-controls-wrap", className="page-controls-top"),
             html.Div(id="main-content"),
         ], md=8, lg=9),
     ])
@@ -399,25 +409,53 @@ app.layout = dbc.Container([
 @app.callback(
     Output("reference-selector-wrap", "style"),
     Output("pos-filter-wrap", "style"),
+    Output("dialogue-selector-wrap", "style"),
+    Output("next-button", "style"),
+    Output("page-controls-wrap", "style"),
     Input("mode", "value")
 )
 def show_mode_specific_controls(mode):
     return (
         {"display":"block"} if mode == "reference" else {"display":"none"},
         {"display":"block"} if mode == "vocab" else {"display":"none"},
+        {"display":"block"} if mode == "dialogue" else {"display":"none"},
+        {"display":"block"} if mode in ["multiple_choice", "input_quiz", "dialogue"] else {"display":"none"},
+        {"display":"flex"} if mode in ["vocab", "sentences"] else {"display":"none"},
     )
 
 
 @app.callback(
     Output("current-index", "data"),
     Input("next-button", "n_clicks"),
+    Input("page-next", "n_clicks"),
+    Input("page-prev", "n_clicks"),
     State("current-index", "data"),
     prevent_initial_call=False,
 )
-def next_index(n_clicks, current):
-    if not n_clicks:
+def change_index(next_clicks, page_next_clicks, page_prev_clicks, current):
+    if not dash.callback_context.triggered:
         return 0
-    return int(current or 0) + 1
+    triggered = dash.callback_context.triggered_id
+    if triggered in ["next-button", "page-next"]:
+        return int(current or 0) + 1
+    if triggered == "page-prev":
+        return int(current or 0) - 1
+    return int(current or 0)
+
+
+@app.callback(
+    Output("dialogue-select", "options"),
+    Output("dialogue-select", "value"),
+    Input("scene-checklist", "value"),
+    Input("level", "value"),
+    State("dialogue-select", "value"),
+)
+def update_dialogue_selector(scenes, level, current_value):
+    pool = filter_by_scene_and_level(DATA["dialogues"], scenes, level)
+    options = [{"label": f"{d.get('title_ja', '')} / {d.get('title_hr', '')}", "value": d.get("id")} for d in pool]
+    values = {o["value"] for o in options}
+    value = current_value if current_value in values else (options[0]["value"] if options else None)
+    return options, value
 
 
 @app.callback(
@@ -430,9 +468,10 @@ def next_index(n_clicks, current):
     Input("level", "value"),
     Input("direction", "value"),
     Input("reference-select", "value"),
+    Input("dialogue-select", "value"),
     Input("current-index", "data"),
 )
-def update_main(mode, scenes, pos_filter, level, direction, reference_id, idx):
+def update_main(mode, scenes, pos_filter, level, direction, reference_id, dialogue_id, idx):
     idx = int(idx or 0)
     if mode == "reference":
         return render_reference(reference_id), None, False
@@ -473,7 +512,7 @@ def update_main(mode, scenes, pos_filter, level, direction, reference_id, idx):
         pool = filter_by_scene_and_level(DATA["dialogues"], scenes, level)
         if not pool:
             return dbc.Alert("該当する対話文がありません。シーンまたは難易度を変更してください。", color="warning"), None, False
-        item = pool[idx % len(pool)]
+        item = next((d for d in pool if d.get("id") == dialogue_id), None) or pool[idx % len(pool)]
         return render_dialogue_card(item), item, False
 
     return dbc.Alert("未対応のモードです。", color="danger"), None, False
