@@ -1,0 +1,48 @@
+{
+  "id": "weekdays",
+  "title_ja": "曜日",
+  "title_hr": "Dani u tjednu",
+  "sections": [
+    {
+      "id": "weekdays",
+      "title_ja": "曜日",
+      "items": [
+        {
+          "ja": "月曜日",
+          "hr": "ponedjeljak",
+          "pronunciation_ja": "ポネジェリャク"
+        },
+        {
+          "ja": "火曜日",
+          "hr": "utorak",
+          "pronunciation_ja": "ウトラク"
+        },
+        {
+          "ja": "水曜日",
+          "hr": "srijeda",
+          "pronunciation_ja": "スリイェダ"
+        },
+        {
+          "ja": "木曜日",
+          "hr": "četvrtak",
+          "pronunciation_ja": "チェトヴルタク"
+        },
+        {
+          "ja": "金曜日",
+          "hr": "petak",
+          "pronunciation_ja": "ペタク"
+        },
+        {
+          "ja": "土曜日",
+          "hr": "subota",
+          "pronunciation_ja": "スボタ"
+        },
+        {
+          "ja": "日曜日",
+          "hr": "nedjelja",
+          "pronunciation_ja": "ネジェリャ"
+        }
+      ]
+    }
+  ]
+}

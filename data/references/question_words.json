@@ -1,0 +1,43 @@
+{
+  "id": "question_words",
+  "title_ja": "疑問詞",
+  "title_hr": "Upitne riječi",
+  "sections": [
+    {
+      "id": "question_words",
+      "title_ja": "基本疑問詞",
+      "items": [
+        {
+          "ja": "どこ",
+          "hr": "gdje",
+          "pronunciation_ja": "グデ"
+        },
+        {
+          "ja": "どこへ",
+          "hr": "kamo",
+          "pronunciation_ja": "カモ"
+        },
+        {
+          "ja": "いつ",
+          "hr": "kada",
+          "pronunciation_ja": "カダ"
+        },
+        {
+          "ja": "いくら／どれくらい",
+          "hr": "koliko",
+          "pronunciation_ja": "コリコ"
+        },
+        {
+          "ja": "何",
+          "hr": "što",
+          "pronunciation_ja": "シュト"
+        },
+        {
+          "ja": "誰",
+          "hr": "tko",
+          "pronunciation_ja": "トコ"
+        }
+      ]
+    }
+  ]
+}

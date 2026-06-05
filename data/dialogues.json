@@ -1,0 +1,59 @@
+[
+  {
+    "id":"d_fish_001","scene":"fish_market","level":2,"title_ja":"魚市場で魚を買う","title_hr":"Na ribarnici",
+    "related_vocab_ids":["v_fish_fish","v_fish_fresh","v_fish_clean"],
+    "related_sentence_ids":["s_fish_001","s_fish_002","s_fish_003"],
+    "dialogue":[
+      {"speaker":"A","hr":"Dobar dan. Je li ova riba svježa?","pronunciation_ja":"ドバル ダン イェ リ オヴァ リバ スヴィェジャ","ja":"こんにちは。この魚は新鮮ですか？"},
+      {"speaker":"B","hr":"Da, ulovljena je jutros.","pronunciation_ja":"ダ ウロヴリェナ イェ ユトロス","ja":"はい、今朝獲れたものです。"},
+      {"speaker":"A","hr":"Petsto grama, molim. Možete li je očistiti?","pronunciation_ja":"ペトスト グラマ モリム モジェテ リ イェ オチスティティ","ja":"500グラムください。捌いてもらえますか？"},
+      {"speaker":"B","hr":"Naravno.","pronunciation_ja":"ナラヴノ","ja":"もちろんです。"}
+    ],
+    "questions":[
+      {"id":"d_fish_q1","type":"multiple_choice","question_ja":"Aさんは最初に何を確認していますか？","choices_ja":["魚が新鮮かどうか","船の出発時間","ビーチの場所","水の値段"],"answer":"魚が新鮮かどうか"},
+      {"id":"d_fish_q2","type":"input","question_ja":"『500グラムください』にあたるクロアチア語を書いてください。","answer_hr":"Petsto grama, molim.","accepted_answers_hr":["Petsto grama, molim.","Petsto grama molim"]}
+    ],
+    "grammar_notes":[
+      {"title_ja":"Je li...?","explanation_ja":"Je li...? は『〜ですか？』の基本的な疑問文です。"},
+      {"title_ja":"Možete li...?","explanation_ja":"丁寧に依頼するときの『〜していただけますか？』に近い表現です。"}
+    ]
+  },
+  {
+    "id":"d_boat_001","scene":"boat","level":1,"title_ja":"船のチケットを買う","title_hr":"Kupnja karte za brod",
+    "related_vocab_ids":["v_boat_boat","v_boat_ticket","v_boat_island"],
+    "related_sentence_ids":["s_boat_001","s_boat_002"],
+    "dialogue":[
+      {"speaker":"A","hr":"Dobar dan. Jednu kartu za otok, molim.","pronunciation_ja":"ドバル ダン イェドヌ カルトゥ ザ オトク モリム","ja":"こんにちは。島へのチケットを1枚ください。"},
+      {"speaker":"B","hr":"Naravno. Brod polazi u deset sati.","pronunciation_ja":"ナラヴノ ブロド ポラジ ウ デセット サティ","ja":"もちろんです。船は10時に出発します。"},
+      {"speaker":"A","hr":"Kada je povratni brod?","pronunciation_ja":"カダ イェ ポヴラトニ ブロド","ja":"帰りの船はいつですか？"},
+      {"speaker":"B","hr":"U šest sati navečer.","pronunciation_ja":"ウ シェスト サティ ナヴェチェル","ja":"夕方6時です。"}
+    ],
+    "questions":[
+      {"id":"d_boat_q1","type":"multiple_choice","question_ja":"船は何時に出発しますか？","choices_ja":["10時","6時","12時","9時"],"answer":"10時"},
+      {"id":"d_boat_q2","type":"input","question_ja":"『チケットを一枚ください』にあたるクロアチア語を書いてください。","answer_hr":"Jednu kartu, molim.","accepted_answers_hr":["Jednu kartu, molim.","Jednu kartu molim"]}
+    ],
+    "grammar_notes":[
+      {"title_ja":"za + 対象","explanation_ja":"za otok は『島への／島用の』という意味です。"},
+      {"title_ja":"u deset sati","explanation_ja":"時刻を言うときに u + 数字 + sati を使います。"}
+    ]
+  },
+  {
+    "id":"d_super_001","scene":"supermarket","level":1,"title_ja":"スーパーで支払う","title_hr":"U supermarketu",
+    "related_vocab_ids":["v_supermarket_bag","v_supermarket_card","v_supermarket_pay"],
+    "related_sentence_ids":["s_super_001","s_super_002"],
+    "dialogue":[
+      {"speaker":"A","hr":"Dobar dan. Koliko ovo košta?","pronunciation_ja":"ドバル ダン コリコ オヴォ コシュタ","ja":"こんにちは。これはいくらですか？"},
+      {"speaker":"B","hr":"Tri eura.","pronunciation_ja":"トリ エウラ","ja":"3ユーロです。"},
+      {"speaker":"A","hr":"Mogu li platiti karticom?","pronunciation_ja":"モグ リ プラティティ カルティツォム","ja":"カードで払えますか？"},
+      {"speaker":"B","hr":"Da. Želite li vrećicu?","pronunciation_ja":"ダ ジェリテ リ ヴレチツゥ","ja":"はい。袋はいりますか？"}
+    ],
+    "questions":[
+      {"id":"d_super_q1","type":"multiple_choice","question_ja":"商品はいくらですか？","choices_ja":["3ユーロ","10ユーロ","500グラム","1キロ"],"answer":"3ユーロ"},
+      {"id":"d_super_q2","type":"input","question_ja":"『カードで払えますか？』にあたるクロアチア語を書いてください。","answer_hr":"Mogu li platiti karticom?","accepted_answers_hr":["Mogu li platiti karticom?","Mogu li platiti karticom"]}
+    ],
+    "grammar_notes":[
+      {"title_ja":"Koliko ovo košta?","explanation_ja":"買い物で使う『これはいくらですか？』です。"},
+      {"title_ja":"Želite li...?","explanation_ja":"『〜が欲しいですか？』という丁寧な質問です。"}
+    ]
+  }
+]

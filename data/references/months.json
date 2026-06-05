@@ -1,0 +1,73 @@
+{
+  "id": "months",
+  "title_ja": "月",
+  "title_hr": "Mjeseci",
+  "sections": [
+    {
+      "id": "months",
+      "title_ja": "月",
+      "items": [
+        {
+          "ja": "1月",
+          "hr": "siječanj",
+          "pronunciation_ja": "シイェチャニ"
+        },
+        {
+          "ja": "2月",
+          "hr": "veljača",
+          "pronunciation_ja": "ヴェリャチャ"
+        },
+        {
+          "ja": "3月",
+          "hr": "ožujak",
+          "pronunciation_ja": "オジュヤク"
+        },
+        {
+          "ja": "4月",
+          "hr": "travanj",
+          "pronunciation_ja": "トラヴァニ"
+        },
+        {
+          "ja": "5月",
+          "hr": "svibanj",
+          "pronunciation_ja": "スヴィバニ"
+        },
+        {
+          "ja": "6月",
+          "hr": "lipanj",
+          "pronunciation_ja": "リパニ"
+        },
+        {
+          "ja": "7月",
+          "hr": "srpanj",
+          "pronunciation_ja": "スルパニ"
+        },
+        {
+          "ja": "8月",
+          "hr": "kolovoz",
+          "pronunciation_ja": "コロヴォズ"
+        },
+        {
+          "ja": "9月",
+          "hr": "rujan",
+          "pronunciation_ja": "ルヤン"
+        },
+        {
+          "ja": "10月",
+          "hr": "listopad",
+          "pronunciation_ja": "リストパド"
+        },
+        {
+          "ja": "11月",
+          "hr": "studeni",
+          "pronunciation_ja": "ストゥデニ"
+        },
+        {
+          "ja": "12月",
+          "hr": "prosinac",
+          "pronunciation_ja": "プロシナツ"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2481 @@
+[
+  {
+    "id": "v_basic_hello",
+    "scene": "basic",
+    "level": 1,
+    "hr": "Dobar dan",
+    "ja": "こんにちは",
+    "pronunciation_ja": "ドバル ダン",
+    "part_of_speech": "phrase",
+    "tags": [
+      "greeting"
+    ],
+    "examples": [
+      {
+        "hr": "Dobar dan.",
+        "pronunciation_ja": "ドバル ダン",
+        "ja": "こんにちは。"
+      }
+    ],
+    "grammar": {}
+  },
+  {
+    "id": "v_basic_thanks",
+    "scene": "basic",
+    "level": 1,
+    "hr": "Hvala",
+    "ja": "ありがとう",
+    "pronunciation_ja": "フヴァラ",
+    "part_of_speech": "phrase",
+    "tags": [
+      "greeting"
+    ],
+    "examples": [
+      {
+        "hr": "Hvala lijepa.",
+        "pronunciation_ja": "フヴァラ リイェパ",
+        "ja": "どうもありがとうございます。"
+      }
+    ],
+    "grammar": {}
+  },
+  {
+    "id": "v_basic_sorry",
+    "scene": "basic",
+    "level": 1,
+    "hr": "Oprostite",
+    "ja": "すみません",
+    "pronunciation_ja": "オプロスティテ",
+    "part_of_speech": "phrase",
+    "tags": [
+      "polite"
+    ],
+    "examples": [
+      {
+        "hr": "Oprostite, gdje je plaža?",
+        "pronunciation_ja": "オプロスティテ グデ イェ プラジャ",
+        "ja": "すみません、ビーチはどこですか？"
+      }
+    ],
+    "grammar": {}
+  },
+  {
+    "id": "v_basic_molim",
+    "scene": "basic",
+    "level": 1,
+    "hr": "molim",
+    "ja": "お願いします／どうぞ",
+    "pronunciation_ja": "モリム",
+    "part_of_speech": "phrase",
+    "tags": [
+      "polite"
+    ],
+    "examples": [
+      {
+        "hr": "Račun, molim.",
+        "pronunciation_ja": "ラチュン モリム",
+        "ja": "レシートをください。"
+      }
+    ],
+    "grammar": {}
+  },
+  {
+    "id": "v_basic_da",
+    "scene": "basic",
+    "level": 1,
+    "hr": "da",
+    "ja": "はい",
+    "pronunciation_ja": "ダ",
+    "part_of_speech": "adverb",
+    "tags": [
+      "basic"
+    ],
+    "examples": [
+      {
+        "hr": "Da, hvala.",
+        "pronunciation_ja": "ダ フヴァラ",
+        "ja": "はい、ありがとう。"
+      }
+    ],
+    "grammar": {}
+  },
+  {
+    "id": "v_basic_ne",
+    "scene": "basic",
+    "level": 1,
+    "hr": "ne",
+    "ja": "いいえ／〜ない",
+    "pronunciation_ja": "ネ",
+    "part_of_speech": "adverb",
+    "tags": [
+      "basic"
+    ],
+    "examples": [
+      {
+        "hr": "Ne, hvala.",
+        "pronunciation_ja": "ネ フヴァラ",
+        "ja": "いいえ、結構です。"
+      }
+    ],
+    "grammar": {}
+  },
+  {
+    "id": "v_q_gdje",
+    "scene": "basic",
+    "level": 1,
+    "hr": "gdje",
+    "ja": "どこ",
+    "pronunciation_ja": "グデ",
+    "part_of_speech": "question_word",
+    "tags": [
+      "question"
+    ],
+    "examples": [
+      {
+        "hr": "Gdje je voda?",
+        "pronunciation_ja": "グデ イェ ヴォダ",
+        "ja": "水はどこですか？"
+      }
+    ],
+    "grammar": {}
+  },
+  {
+    "id": "v_q_kamo",
+    "scene": "boat",
+    "level": 1,
+    "hr": "kamo",
+    "ja": "どこへ",
+    "pronunciation_ja": "カモ",
+    "part_of_speech": "question_word",
+    "tags": [
+      "question"
+    ],
+    "examples": [
+      {
+        "hr": "Kamo ide ovaj brod?",
+        "pronunciation_ja": "カモ イデ オヴァイ ブロド",
+        "ja": "この船はどこへ行きますか？"
+      }
+    ],
+    "grammar": {}
+  },
+  {
+    "id": "v_q_kada",
+    "scene": "boat",
+    "level": 1,
+    "hr": "kada",
+    "ja": "いつ",
+    "pronunciation_ja": "カダ",
+    "part_of_speech": "question_word",
+    "tags": [
+      "question"
+    ],
+    "examples": [
+      {
+        "hr": "Kada polazi brod?",
+        "pronunciation_ja": "カダ ポラジ ブロド",
+        "ja": "船はいつ出発しますか？"
+      }
+    ],
+    "grammar": {}
+  },
+  {
+    "id": "v_q_koliko",
+    "scene": "supermarket",
+    "level": 1,
+    "hr": "koliko",
+    "ja": "いくら／どれくらい",
+    "pronunciation_ja": "コリコ",
+    "part_of_speech": "question_word",
+    "tags": [
+      "question"
+    ],
+    "examples": [
+      {
+        "hr": "Koliko ovo košta?",
+        "pronunciation_ja": "コリコ オヴォ コシュタ",
+        "ja": "これはいくらですか？"
+      }
+    ],
+    "grammar": {}
+  },
+  {
+    "id": "v_sea_more",
+    "scene": "sea",
+    "level": 1,
+    "hr": "more",
+    "ja": "海",
+    "pronunciation_ja": "モレ",
+    "part_of_speech": "noun",
+    "gender": "neuter",
+    "tags": [
+      "sea"
+    ],
+    "examples": [
+      {
+        "hr": "Želim ići na more.",
+        "pronunciation_ja": "ジェリム イチ ナ モレ",
+        "ja": "海に行きたいです。"
+      }
+    ],
+    "grammar": {
+      "note_ja": "初級ではまず主格と、旅行表現でよく出る目的語・前置詞後の形を確認します。",
+      "declension": [
+        {
+          "case": "主格",
+          "singular": "more",
+          "plural": "",
+          "note": "「〜は」に近い基本形"
+        },
+        {
+          "case": "対格",
+          "singular": "more",
+          "plural": "",
+          "note": "「〜を」に近い形"
+        },
+        {
+          "case": "属格",
+          "singular": "mora",
+          "plural": "",
+          "note": "数量・否定・所有などで出やすい"
+        },
+        {
+          "case": "造格",
+          "singular": "morem",
+          "plural": "",
+          "note": "「〜で」と道具を表す時など"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_sea_plaza",
+    "scene": "sea",
+    "level": 1,
+    "hr": "plaža",
+    "ja": "ビーチ",
+    "pronunciation_ja": "プラジャ",
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "tags": [
+      "sea"
+    ],
+    "examples": [
+      {
+        "hr": "Gdje je plaža?",
+        "pronunciation_ja": "グデ イェ プラジャ",
+        "ja": "ビーチはどこですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "初級ではまず主格と、旅行表現でよく出る目的語・前置詞後の形を確認します。",
+      "declension": [
+        {
+          "case": "主格",
+          "singular": "plaža",
+          "plural": "plaže",
+          "note": "「〜は」に近い基本形"
+        },
+        {
+          "case": "対格",
+          "singular": "plažu",
+          "plural": "",
+          "note": "「〜を」に近い形"
+        },
+        {
+          "case": "属格",
+          "singular": "plaže",
+          "plural": "",
+          "note": "数量・否定・所有などで出やすい"
+        },
+        {
+          "case": "造格",
+          "singular": "plažom",
+          "plural": "",
+          "note": "「〜で」と道具を表す時など"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_sea_voda",
+    "scene": "sea",
+    "level": 1,
+    "hr": "voda",
+    "ja": "水",
+    "pronunciation_ja": "ヴォダ",
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "tags": [
+      "sea",
+      "shopping"
+    ],
+    "examples": [
+      {
+        "hr": "Je li voda hladna?",
+        "pronunciation_ja": "イェ リ ヴォダ フラドナ",
+        "ja": "水は冷たいですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "初級ではまず主格と、旅行表現でよく出る目的語・前置詞後の形を確認します。",
+      "declension": [
+        {
+          "case": "主格",
+          "singular": "voda",
+          "plural": "vode",
+          "note": "「〜は」に近い基本形"
+        },
+        {
+          "case": "対格",
+          "singular": "vodu",
+          "plural": "",
+          "note": "「〜を」に近い形"
+        },
+        {
+          "case": "属格",
+          "singular": "vode",
+          "plural": "",
+          "note": "数量・否定・所有などで出やすい"
+        },
+        {
+          "case": "造格",
+          "singular": "vodom",
+          "plural": "",
+          "note": "「〜で」と道具を表す時など"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_sea_hlad",
+    "scene": "sea",
+    "level": 2,
+    "hr": "hlad",
+    "ja": "日陰",
+    "pronunciation_ja": "フラド",
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "tags": [
+      "sea"
+    ],
+    "examples": [
+      {
+        "hr": "Ima li hlada?",
+        "pronunciation_ja": "イマ リ フラダ",
+        "ja": "日陰はありますか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "Ima li ...? の後では属格 hlada がよく出ます。",
+      "declension": [
+        {
+          "case": "主格",
+          "singular": "hlad",
+          "plural": "",
+          "note": "「〜は」に近い基本形"
+        },
+        {
+          "case": "対格",
+          "singular": "hlad",
+          "plural": "",
+          "note": "「〜を」に近い形"
+        },
+        {
+          "case": "属格",
+          "singular": "hlada",
+          "plural": "",
+          "note": "数量・否定・所有などで出やすい"
+        },
+        {
+          "case": "造格",
+          "singular": "hladom",
+          "plural": "",
+          "note": "「〜で」と道具を表す時など"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_sea_kamen",
+    "scene": "sea",
+    "level": 2,
+    "hr": "kamen",
+    "ja": "石／岩",
+    "pronunciation_ja": "カメン",
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "tags": [
+      "sea"
+    ],
+    "examples": [
+      {
+        "hr": "Pazite, kamen je sklizak.",
+        "pronunciation_ja": "パジテ カメン イェ スクリザク",
+        "ja": "気をつけて、岩が滑ります。"
+      }
+    ],
+    "grammar": {
+      "note_ja": "初級ではまず主格と、旅行表現でよく出る目的語・前置詞後の形を確認します。",
+      "declension": [
+        {
+          "case": "主格",
+          "singular": "kamen",
+          "plural": "kamenje",
+          "note": "「〜は」に近い基本形"
+        },
+        {
+          "case": "対格",
+          "singular": "kamen",
+          "plural": "",
+          "note": "「〜を」に近い形"
+        },
+        {
+          "case": "属格",
+          "singular": "kamena",
+          "plural": "",
+          "note": "数量・否定・所有などで出やすい"
+        },
+        {
+          "case": "造格",
+          "singular": "kamenom",
+          "plural": "",
+          "note": "「〜で」と道具を表す時など"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_boat_brod",
+    "scene": "boat",
+    "level": 1,
+    "hr": "brod",
+    "ja": "船",
+    "pronunciation_ja": "ブロド",
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "tags": [
+      "boat"
+    ],
+    "examples": [
+      {
+        "hr": "Kada polazi brod?",
+        "pronunciation_ja": "カダ ポラジ ブロド",
+        "ja": "船はいつ出発しますか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "初級ではまず主格と、旅行表現でよく出る目的語・前置詞後の形を確認します。",
+      "declension": [
+        {
+          "case": "主格",
+          "singular": "brod",
+          "plural": "brodovi",
+          "note": "「〜は」に近い基本形"
+        },
+        {
+          "case": "対格",
+          "singular": "brod",
+          "plural": "",
+          "note": "「〜を」に近い形"
+        },
+        {
+          "case": "属格",
+          "singular": "broda",
+          "plural": "",
+          "note": "数量・否定・所有などで出やすい"
+        },
+        {
+          "case": "造格",
+          "singular": "brodom",
+          "plural": "",
+          "note": "「〜で」と道具を表す時など"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_boat_karta",
+    "scene": "boat",
+    "level": 1,
+    "hr": "karta",
+    "ja": "チケット",
+    "pronunciation_ja": "カルタ",
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "tags": [
+      "boat"
+    ],
+    "examples": [
+      {
+        "hr": "Jednu kartu, molim.",
+        "pronunciation_ja": "イェドヌ カルトゥ モリム",
+        "ja": "チケットを一枚ください。"
+      }
+    ],
+    "grammar": {
+      "note_ja": "初級ではまず主格と、旅行表現でよく出る目的語・前置詞後の形を確認します。",
+      "declension": [
+        {
+          "case": "主格",
+          "singular": "karta",
+          "plural": "karte",
+          "note": "「〜は」に近い基本形"
+        },
+        {
+          "case": "対格",
+          "singular": "kartu",
+          "plural": "",
+          "note": "「〜を」に近い形"
+        },
+        {
+          "case": "属格",
+          "singular": "karte",
+          "plural": "",
+          "note": "数量・否定・所有などで出やすい"
+        },
+        {
+          "case": "造格",
+          "singular": "kartom",
+          "plural": "",
+          "note": "「〜で」と道具を表す時など"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_boat_otok",
+    "scene": "boat",
+    "level": 1,
+    "hr": "otok",
+    "ja": "島",
+    "pronunciation_ja": "オトク",
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "tags": [
+      "boat",
+      "tourism"
+    ],
+    "examples": [
+      {
+        "hr": "Želim ići na otok.",
+        "pronunciation_ja": "ジェリム イチ ナ オトク",
+        "ja": "島へ行きたいです。"
+      }
+    ],
+    "grammar": {
+      "note_ja": "初級ではまず主格と、旅行表現でよく出る目的語・前置詞後の形を確認します。",
+      "declension": [
+        {
+          "case": "主格",
+          "singular": "otok",
+          "plural": "otoci",
+          "note": "「〜は」に近い基本形"
+        },
+        {
+          "case": "対格",
+          "singular": "otok",
+          "plural": "",
+          "note": "「〜を」に近い形"
+        },
+        {
+          "case": "属格",
+          "singular": "otoka",
+          "plural": "",
+          "note": "数量・否定・所有などで出やすい"
+        },
+        {
+          "case": "造格",
+          "singular": "otokom",
+          "plural": "",
+          "note": "「〜で」と道具を表す時など"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_boat_povratni",
+    "scene": "boat",
+    "level": 2,
+    "hr": "povratni",
+    "ja": "帰りの",
+    "pronunciation_ja": "ポヴラトニ",
+    "part_of_speech": "adjective",
+    "tags": [
+      "boat"
+    ],
+    "examples": [
+      {
+        "hr": "Kada je povratni brod?",
+        "pronunciation_ja": "カダ イェ ポヴラトニ ブロド",
+        "ja": "帰りの船は何時ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "形容詞は名詞の性に合わせて形が変わります。",
+      "forms": [
+        {
+          "label": "男性",
+          "form": "povratni",
+          "note": "brod など"
+        },
+        {
+          "label": "女性",
+          "form": "povratna",
+          "note": "karta など"
+        },
+        {
+          "label": "中性",
+          "form": "povratno",
+          "note": "more など"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_shop_trgovina",
+    "scene": "supermarket",
+    "level": 1,
+    "hr": "trgovina",
+    "ja": "店／スーパー",
+    "pronunciation_ja": "トルゴヴィナ",
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "tags": [
+      "shopping"
+    ],
+    "examples": [
+      {
+        "hr": "Gdje je trgovina?",
+        "pronunciation_ja": "グデ イェ トルゴヴィナ",
+        "ja": "お店はどこですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "初級ではまず主格と、旅行表現でよく出る目的語・前置詞後の形を確認します。",
+      "declension": [
+        {
+          "case": "主格",
+          "singular": "trgovina",
+          "plural": "trgovine",
+          "note": "「〜は」に近い基本形"
+        },
+        {
+          "case": "対格",
+          "singular": "trgovinu",
+          "plural": "",
+          "note": "「〜を」に近い形"
+        },
+        {
+          "case": "属格",
+          "singular": "trgovine",
+          "plural": "",
+          "note": "数量・否定・所有などで出やすい"
+        },
+        {
+          "case": "造格",
+          "singular": "trgovinom",
+          "plural": "",
+          "note": "「〜で」と道具を表す時など"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_shop_kruh",
+    "scene": "supermarket",
+    "level": 1,
+    "hr": "kruh",
+    "ja": "パン",
+    "pronunciation_ja": "クルフ",
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "tags": [
+      "food"
+    ],
+    "examples": [
+      {
+        "hr": "Gdje je kruh?",
+        "pronunciation_ja": "グデ イェ クルフ",
+        "ja": "パンはどこですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "初級ではまず主格と、旅行表現でよく出る目的語・前置詞後の形を確認します。",
+      "declension": [
+        {
+          "case": "主格",
+          "singular": "kruh",
+          "plural": "kruhovi",
+          "note": "「〜は」に近い基本形"
+        },
+        {
+          "case": "対格",
+          "singular": "kruh",
+          "plural": "",
+          "note": "「〜を」に近い形"
+        },
+        {
+          "case": "属格",
+          "singular": "kruha",
+          "plural": "",
+          "note": "数量・否定・所有などで出やすい"
+        },
+        {
+          "case": "造格",
+          "singular": "kruhom",
+          "plural": "",
+          "note": "「〜で」と道具を表す時など"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_shop_sir",
+    "scene": "supermarket",
+    "level": 1,
+    "hr": "sir",
+    "ja": "チーズ",
+    "pronunciation_ja": "シル",
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "tags": [
+      "food"
+    ],
+    "examples": [
+      {
+        "hr": "Želim kupiti sir.",
+        "pronunciation_ja": "ジェリム クピティ シル",
+        "ja": "チーズを買いたいです。"
+      }
+    ],
+    "grammar": {
+      "note_ja": "初級ではまず主格と、旅行表現でよく出る目的語・前置詞後の形を確認します。",
+      "declension": [
+        {
+          "case": "主格",
+          "singular": "sir",
+          "plural": "sirevi",
+          "note": "「〜は」に近い基本形"
+        },
+        {
+          "case": "対格",
+          "singular": "sir",
+          "plural": "",
+          "note": "「〜を」に近い形"
+        },
+        {
+          "case": "属格",
+          "singular": "sira",
+          "plural": "",
+          "note": "数量・否定・所有などで出やすい"
+        },
+        {
+          "case": "造格",
+          "singular": "sirom",
+          "plural": "",
+          "note": "「〜で」と道具を表す時など"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_shop_vrecica",
+    "scene": "supermarket",
+    "level": 1,
+    "hr": "vrećica",
+    "ja": "袋",
+    "pronunciation_ja": "ヴレチツァ",
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "tags": [
+      "shopping"
+    ],
+    "examples": [
+      {
+        "hr": "Vrećicu, molim.",
+        "pronunciation_ja": "ヴレチツゥ モリム",
+        "ja": "袋をください。"
+      }
+    ],
+    "grammar": {
+      "note_ja": "初級ではまず主格と、旅行表現でよく出る目的語・前置詞後の形を確認します。",
+      "declension": [
+        {
+          "case": "主格",
+          "singular": "vrećica",
+          "plural": "vrećice",
+          "note": "「〜は」に近い基本形"
+        },
+        {
+          "case": "対格",
+          "singular": "vrećicu",
+          "plural": "",
+          "note": "「〜を」に近い形"
+        },
+        {
+          "case": "属格",
+          "singular": "vrećice",
+          "plural": "",
+          "note": "数量・否定・所有などで出やすい"
+        },
+        {
+          "case": "造格",
+          "singular": "vrećicom",
+          "plural": "",
+          "note": "「〜で」と道具を表す時など"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_shop_racun",
+    "scene": "supermarket",
+    "level": 1,
+    "hr": "račun",
+    "ja": "レシート／会計",
+    "pronunciation_ja": "ラチュン",
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "tags": [
+      "shopping"
+    ],
+    "examples": [
+      {
+        "hr": "Račun, molim.",
+        "pronunciation_ja": "ラチュン モリム",
+        "ja": "レシートをください。"
+      }
+    ],
+    "grammar": {
+      "note_ja": "初級ではまず主格と、旅行表現でよく出る目的語・前置詞後の形を確認します。",
+      "declension": [
+        {
+          "case": "主格",
+          "singular": "račun",
+          "plural": "računi",
+          "note": "「〜は」に近い基本形"
+        },
+        {
+          "case": "対格",
+          "singular": "račun",
+          "plural": "",
+          "note": "「〜を」に近い形"
+        },
+        {
+          "case": "属格",
+          "singular": "računa",
+          "plural": "",
+          "note": "数量・否定・所有などで出やすい"
+        },
+        {
+          "case": "造格",
+          "singular": "računom",
+          "plural": "",
+          "note": "「〜で」と道具を表す時など"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_shop_kartica",
+    "scene": "supermarket",
+    "level": 1,
+    "hr": "kartica",
+    "ja": "カード",
+    "pronunciation_ja": "カルティツァ",
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "tags": [
+      "payment"
+    ],
+    "examples": [
+      {
+        "hr": "Mogu li platiti karticom?",
+        "pronunciation_ja": "モグ リ プラティティ カルティツォム",
+        "ja": "カードで払えますか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "「カードで」は造格 karticom を使います。",
+      "declension": [
+        {
+          "case": "主格",
+          "singular": "kartica",
+          "plural": "kartice",
+          "note": "「〜は」に近い基本形"
+        },
+        {
+          "case": "対格",
+          "singular": "karticu",
+          "plural": "",
+          "note": "「〜を」に近い形"
+        },
+        {
+          "case": "属格",
+          "singular": "kartice",
+          "plural": "",
+          "note": "数量・否定・所有などで出やすい"
+        },
+        {
+          "case": "造格",
+          "singular": "karticom",
+          "plural": "",
+          "note": "「〜で」と道具を表す時など"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_shop_euro",
+    "scene": "supermarket",
+    "level": 1,
+    "hr": "euro",
+    "ja": "ユーロ",
+    "pronunciation_ja": "エウロ",
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "tags": [
+      "payment"
+    ],
+    "examples": [
+      {
+        "hr": "Koliko eura?",
+        "pronunciation_ja": "コリコ エウラ",
+        "ja": "何ユーロですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "初級ではまず主格と、旅行表現でよく出る目的語・前置詞後の形を確認します。",
+      "declension": [
+        {
+          "case": "主格",
+          "singular": "euro",
+          "plural": "euri",
+          "note": "「〜は」に近い基本形"
+        },
+        {
+          "case": "対格",
+          "singular": "euro",
+          "plural": "",
+          "note": "「〜を」に近い形"
+        },
+        {
+          "case": "属格",
+          "singular": "eura",
+          "plural": "",
+          "note": "数量・否定・所有などで出やすい"
+        },
+        {
+          "case": "造格",
+          "singular": "eurom",
+          "plural": "",
+          "note": "「〜で」と道具を表す時など"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_fish_riba",
+    "scene": "fish_market",
+    "level": 1,
+    "hr": "riba",
+    "ja": "魚",
+    "pronunciation_ja": "リバ",
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "tags": [
+      "fish"
+    ],
+    "examples": [
+      {
+        "hr": "Je li ova riba svježa?",
+        "pronunciation_ja": "イェ リ オヴァ リバ スヴィェジャ",
+        "ja": "この魚は新鮮ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "初級ではまず主格と、旅行表現でよく出る目的語・前置詞後の形を確認します。",
+      "declension": [
+        {
+          "case": "主格",
+          "singular": "riba",
+          "plural": "ribe",
+          "note": "「〜は」に近い基本形"
+        },
+        {
+          "case": "対格",
+          "singular": "ribu",
+          "plural": "",
+          "note": "「〜を」に近い形"
+        },
+        {
+          "case": "属格",
+          "singular": "ribe",
+          "plural": "",
+          "note": "数量・否定・所有などで出やすい"
+        },
+        {
+          "case": "造格",
+          "singular": "ribom",
+          "plural": "",
+          "note": "「〜で」と道具を表す時など"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_fish_ribarnica",
+    "scene": "fish_market",
+    "level": 1,
+    "hr": "ribarnica",
+    "ja": "魚市場／魚屋",
+    "pronunciation_ja": "リバルニツァ",
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "tags": [
+      "fish_market"
+    ],
+    "examples": [
+      {
+        "hr": "Gdje je ribarnica?",
+        "pronunciation_ja": "グデ イェ リバルニツァ",
+        "ja": "魚市場はどこですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "初級ではまず主格と、旅行表現でよく出る目的語・前置詞後の形を確認します。",
+      "declension": [
+        {
+          "case": "主格",
+          "singular": "ribarnica",
+          "plural": "ribarnice",
+          "note": "「〜は」に近い基本形"
+        },
+        {
+          "case": "対格",
+          "singular": "ribarnicu",
+          "plural": "",
+          "note": "「〜を」に近い形"
+        },
+        {
+          "case": "属格",
+          "singular": "ribarnice",
+          "plural": "",
+          "note": "数量・否定・所有などで出やすい"
+        },
+        {
+          "case": "造格",
+          "singular": "ribarnicom",
+          "plural": "",
+          "note": "「〜で」と道具を表す時など"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_fish_gram",
+    "scene": "fish_market",
+    "level": 1,
+    "hr": "gram",
+    "ja": "グラム",
+    "pronunciation_ja": "グラム",
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "tags": [
+      "quantity"
+    ],
+    "examples": [
+      {
+        "hr": "Petsto grama, molim.",
+        "pronunciation_ja": "ペトスト グラマ モリム",
+        "ja": "500グラムください。"
+      }
+    ],
+    "grammar": {
+      "note_ja": "数量では grama の形がよく出ます。",
+      "declension": [
+        {
+          "case": "主格",
+          "singular": "gram",
+          "plural": "grami",
+          "note": "「〜は」に近い基本形"
+        },
+        {
+          "case": "対格",
+          "singular": "gram",
+          "plural": "",
+          "note": "「〜を」に近い形"
+        },
+        {
+          "case": "属格",
+          "singular": "grama",
+          "plural": "",
+          "note": "数量・否定・所有などで出やすい"
+        },
+        {
+          "case": "造格",
+          "singular": "gramom",
+          "plural": "",
+          "note": "「〜で」と道具を表す時など"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_fish_kilogram",
+    "scene": "fish_market",
+    "level": 1,
+    "hr": "kilogram",
+    "ja": "キログラム",
+    "pronunciation_ja": "キログラム",
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "tags": [
+      "quantity"
+    ],
+    "examples": [
+      {
+        "hr": "Jedan kilogram, molim.",
+        "pronunciation_ja": "イェダン キログラム モリム",
+        "ja": "1キロください。"
+      }
+    ],
+    "grammar": {
+      "note_ja": "初級ではまず主格と、旅行表現でよく出る目的語・前置詞後の形を確認します。",
+      "declension": [
+        {
+          "case": "主格",
+          "singular": "kilogram",
+          "plural": "kilogrami",
+          "note": "「〜は」に近い基本形"
+        },
+        {
+          "case": "対格",
+          "singular": "kilogram",
+          "plural": "",
+          "note": "「〜を」に近い形"
+        },
+        {
+          "case": "属格",
+          "singular": "kilograma",
+          "plural": "",
+          "note": "数量・否定・所有などで出やすい"
+        },
+        {
+          "case": "造格",
+          "singular": "kilogramom",
+          "plural": "",
+          "note": "「〜で」と道具を表す時など"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_fish_svjez",
+    "scene": "fish_market",
+    "level": 1,
+    "hr": "svjež",
+    "ja": "新鮮な",
+    "pronunciation_ja": "スヴィェジュ",
+    "part_of_speech": "adjective",
+    "tags": [
+      "adjective",
+      "fish"
+    ],
+    "examples": [
+      {
+        "hr": "Je li riba svježa?",
+        "pronunciation_ja": "イェ リ リバ スヴィェジャ",
+        "ja": "魚は新鮮ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "形容詞は名詞の性に合わせて形が変わります。",
+      "forms": [
+        {
+          "label": "男性",
+          "form": "svjež",
+          "note": "svjež brod など"
+        },
+        {
+          "label": "女性",
+          "form": "svježa",
+          "note": "svježa riba"
+        },
+        {
+          "label": "中性",
+          "form": "svježe",
+          "note": "svježe voće"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_fish_sirov",
+    "scene": "fish_market",
+    "level": 2,
+    "hr": "sirov",
+    "ja": "生の",
+    "pronunciation_ja": "シロヴ",
+    "part_of_speech": "adjective",
+    "tags": [
+      "food"
+    ],
+    "examples": [
+      {
+        "hr": "Može li se jesti sirovo?",
+        "pronunciation_ja": "モジェ リ セ イェスティ シロヴォ",
+        "ja": "生で食べられますか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "形容詞は名詞の性に合わせて形が変わります。",
+      "forms": [
+        {
+          "label": "男性",
+          "form": "sirov",
+          "note": "sirov sir など"
+        },
+        {
+          "label": "女性",
+          "form": "sirova",
+          "note": "sirova riba"
+        },
+        {
+          "label": "中性／副詞的",
+          "form": "sirovo",
+          "note": "jesti sirovo"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_urchin_jezinac",
+    "scene": "sea_urchin",
+    "level": 2,
+    "hr": "morski ježinac",
+    "ja": "ウニ",
+    "pronunciation_ja": "モルスキ イェジナツ",
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "tags": [
+      "sea_urchin"
+    ],
+    "examples": [
+      {
+        "hr": "Smije li se ovdje sakupljati morske ježince?",
+        "pronunciation_ja": "スミイェ リ セ オヴディエ サクプリャティ モルスケ イェジンツェ",
+        "ja": "ここでウニを採ってもよいですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "初級ではまず主格と、旅行表現でよく出る目的語・前置詞後の形を確認します。",
+      "declension": [
+        {
+          "case": "主格",
+          "singular": "morski ježinac",
+          "plural": "morski ježinci",
+          "note": "「〜は」に近い基本形"
+        },
+        {
+          "case": "対格",
+          "singular": "morskog ježinca",
+          "plural": "",
+          "note": "「〜を」に近い形"
+        },
+        {
+          "case": "属格",
+          "singular": "morskog ježinca",
+          "plural": "",
+          "note": "数量・否定・所有などで出やすい"
+        },
+        {
+          "case": "造格",
+          "singular": "morskim ježincem",
+          "plural": "",
+          "note": "「〜で」と道具を表す時など"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_urchin_bodlja",
+    "scene": "sea_urchin",
+    "level": 2,
+    "hr": "bodlja",
+    "ja": "トゲ",
+    "pronunciation_ja": "ボドリャ",
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "tags": [
+      "sea_urchin",
+      "safety"
+    ],
+    "examples": [
+      {
+        "hr": "Ubola me je bodlja.",
+        "pronunciation_ja": "ウボラ メ イェ ボドリャ",
+        "ja": "トゲが刺さりました。"
+      }
+    ],
+    "grammar": {
+      "note_ja": "初級ではまず主格と、旅行表現でよく出る目的語・前置詞後の形を確認します。",
+      "declension": [
+        {
+          "case": "主格",
+          "singular": "bodlja",
+          "plural": "bodlje",
+          "note": "「〜は」に近い基本形"
+        },
+        {
+          "case": "対格",
+          "singular": "bodlju",
+          "plural": "",
+          "note": "「〜を」に近い形"
+        },
+        {
+          "case": "属格",
+          "singular": "bodlje",
+          "plural": "",
+          "note": "数量・否定・所有などで出やすい"
+        },
+        {
+          "case": "造格",
+          "singular": "bodljom",
+          "plural": "",
+          "note": "「〜で」と道具を表す時など"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_urchin_opasno",
+    "scene": "sea_urchin",
+    "level": 1,
+    "hr": "opasno",
+    "ja": "危険な／危険に",
+    "pronunciation_ja": "オパスノ",
+    "part_of_speech": "adjective",
+    "tags": [
+      "safety"
+    ],
+    "examples": [
+      {
+        "hr": "Je li opasno?",
+        "pronunciation_ja": "イェ リ オパスノ",
+        "ja": "危険ですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "形容詞は名詞の性に合わせて形が変わります。",
+      "forms": [
+        {
+          "label": "男性",
+          "form": "opasan",
+          "note": "opasan kamen"
+        },
+        {
+          "label": "女性",
+          "form": "opasna",
+          "note": "opasna životinja"
+        },
+        {
+          "label": "中性／副詞的",
+          "form": "opasno",
+          "note": "Je li opasno?"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_tour_grad",
+    "scene": "tourism",
+    "level": 1,
+    "hr": "grad",
+    "ja": "町／都市",
+    "pronunciation_ja": "グラド",
+    "part_of_speech": "noun",
+    "gender": "masculine",
+    "tags": [
+      "tourism"
+    ],
+    "examples": [
+      {
+        "hr": "Gdje je stari grad?",
+        "pronunciation_ja": "グデ イェ スタリ グラド",
+        "ja": "旧市街はどこですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "初級ではまず主格と、旅行表現でよく出る目的語・前置詞後の形を確認します。",
+      "declension": [
+        {
+          "case": "主格",
+          "singular": "grad",
+          "plural": "gradovi",
+          "note": "「〜は」に近い基本形"
+        },
+        {
+          "case": "対格",
+          "singular": "grad",
+          "plural": "",
+          "note": "「〜を」に近い形"
+        },
+        {
+          "case": "属格",
+          "singular": "grada",
+          "plural": "",
+          "note": "数量・否定・所有などで出やすい"
+        },
+        {
+          "case": "造格",
+          "singular": "gradom",
+          "plural": "",
+          "note": "「〜で」と道具を表す時など"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_tour_stanica",
+    "scene": "tourism",
+    "level": 1,
+    "hr": "stanica",
+    "ja": "駅／停留所",
+    "pronunciation_ja": "スタニツァ",
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "tags": [
+      "transport"
+    ],
+    "examples": [
+      {
+        "hr": "Gdje je autobusna stanica?",
+        "pronunciation_ja": "グデ イェ アウトブスナ スタニツァ",
+        "ja": "バス停はどこですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "初級ではまず主格と、旅行表現でよく出る目的語・前置詞後の形を確認します。",
+      "declension": [
+        {
+          "case": "主格",
+          "singular": "stanica",
+          "plural": "stanice",
+          "note": "「〜は」に近い基本形"
+        },
+        {
+          "case": "対格",
+          "singular": "stanicu",
+          "plural": "",
+          "note": "「〜を」に近い形"
+        },
+        {
+          "case": "属格",
+          "singular": "stanice",
+          "plural": "",
+          "note": "数量・否定・所有などで出やすい"
+        },
+        {
+          "case": "造格",
+          "singular": "stanicom",
+          "plural": "",
+          "note": "「〜で」と道具を表す時など"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_tour_preporuka",
+    "scene": "tourism",
+    "level": 2,
+    "hr": "preporuka",
+    "ja": "おすすめ",
+    "pronunciation_ja": "プレポルカ",
+    "part_of_speech": "noun",
+    "gender": "feminine",
+    "tags": [
+      "tourism"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li preporuku?",
+        "pronunciation_ja": "イマテ リ プレポルク",
+        "ja": "おすすめはありますか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "初級ではまず主格と、旅行表現でよく出る目的語・前置詞後の形を確認します。",
+      "declension": [
+        {
+          "case": "主格",
+          "singular": "preporuka",
+          "plural": "preporuke",
+          "note": "「〜は」に近い基本形"
+        },
+        {
+          "case": "対格",
+          "singular": "preporuku",
+          "plural": "",
+          "note": "「〜を」に近い形"
+        },
+        {
+          "case": "属格",
+          "singular": "preporuke",
+          "plural": "",
+          "note": "数量・否定・所有などで出やすい"
+        },
+        {
+          "case": "造格",
+          "singular": "preporukom",
+          "plural": "",
+          "note": "「〜で」と道具を表す時など"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_tour_fotografirati",
+    "scene": "tourism",
+    "level": 1,
+    "hr": "fotografirati",
+    "ja": "写真を撮る",
+    "pronunciation_ja": "フォトグラフィラティ",
+    "part_of_speech": "verb",
+    "tags": [
+      "tourism"
+    ],
+    "examples": [
+      {
+        "hr": "Smijem li fotografirati?",
+        "pronunciation_ja": "スミイェム リ フォトグラフィラティ",
+        "ja": "写真を撮ってもいいですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "現在形の基本形です。旅行用にはまず1人称単数と丁寧な2人称複数を優先します。",
+      "conjugation": [
+        {
+          "person": "ja",
+          "form": "fotografiram",
+          "ja": "私は写真を撮ります"
+        },
+        {
+          "person": "ti",
+          "form": "fotografiraš",
+          "ja": "君は写真を撮ります"
+        },
+        {
+          "person": "on/ona",
+          "form": "fotografira",
+          "ja": "彼/彼女は写真を撮ります"
+        },
+        {
+          "person": "mi",
+          "form": "fotografiramo",
+          "ja": "私たちは写真を撮ります"
+        },
+        {
+          "person": "vi",
+          "form": "fotografirate",
+          "ja": "あなた/あなたたちは写真を撮ります"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_verb_zeljeti",
+    "scene": "basic",
+    "level": 1,
+    "hr": "željeti",
+    "ja": "〜したい",
+    "pronunciation_ja": "ジェリェティ",
+    "part_of_speech": "verb",
+    "tags": [
+      "verb"
+    ],
+    "examples": [
+      {
+        "hr": "Želim ići na more.",
+        "pronunciation_ja": "ジェリム イチ ナ モレ",
+        "ja": "海に行きたいです。"
+      }
+    ],
+    "grammar": {
+      "note_ja": "現在形の基本形です。旅行用にはまず1人称単数と丁寧な2人称複数を優先します。",
+      "conjugation": [
+        {
+          "person": "ja",
+          "form": "želim",
+          "ja": "私は〜したい"
+        },
+        {
+          "person": "ti",
+          "form": "želiš",
+          "ja": "君は〜したい"
+        },
+        {
+          "person": "on/ona",
+          "form": "želi",
+          "ja": "彼/彼女は〜したい"
+        },
+        {
+          "person": "mi",
+          "form": "želimo",
+          "ja": "私たちは〜したい"
+        },
+        {
+          "person": "vi",
+          "form": "želite",
+          "ja": "あなた/あなたたちは〜したい"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_verb_ici",
+    "scene": "basic",
+    "level": 1,
+    "hr": "ići",
+    "ja": "行く",
+    "pronunciation_ja": "イチ",
+    "part_of_speech": "verb",
+    "tags": [
+      "verb"
+    ],
+    "examples": [
+      {
+        "hr": "Želim ići na otok.",
+        "pronunciation_ja": "ジェリム イチ ナ オトク",
+        "ja": "島へ行きたいです。"
+      }
+    ],
+    "grammar": {
+      "note_ja": "現在形の基本形です。旅行用にはまず1人称単数と丁寧な2人称複数を優先します。",
+      "conjugation": [
+        {
+          "person": "ja",
+          "form": "idem",
+          "ja": "私は行きます"
+        },
+        {
+          "person": "ti",
+          "form": "ideš",
+          "ja": "君は行きます"
+        },
+        {
+          "person": "on/ona",
+          "form": "ide",
+          "ja": "彼/彼女は行きます"
+        },
+        {
+          "person": "mi",
+          "form": "idemo",
+          "ja": "私たちは行きます"
+        },
+        {
+          "person": "vi",
+          "form": "idete",
+          "ja": "あなた/あなたたちは行きます"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_verb_kupiti",
+    "scene": "supermarket",
+    "level": 1,
+    "hr": "kupiti",
+    "ja": "買う",
+    "pronunciation_ja": "クピティ",
+    "part_of_speech": "verb",
+    "tags": [
+      "verb",
+      "shopping"
+    ],
+    "examples": [
+      {
+        "hr": "Želim kupiti vodu.",
+        "pronunciation_ja": "ジェリム クピティ ヴォドゥ",
+        "ja": "水を買いたいです。"
+      }
+    ],
+    "grammar": {
+      "note_ja": "現在形の基本形です。旅行用にはまず1人称単数と丁寧な2人称複数を優先します。",
+      "conjugation": [
+        {
+          "person": "ja",
+          "form": "kupim",
+          "ja": "私は買います"
+        },
+        {
+          "person": "ti",
+          "form": "kupiš",
+          "ja": "君は買います"
+        },
+        {
+          "person": "on/ona",
+          "form": "kupi",
+          "ja": "彼/彼女は買います"
+        },
+        {
+          "person": "mi",
+          "form": "kupimo",
+          "ja": "私たちは買います"
+        },
+        {
+          "person": "vi",
+          "form": "kupite",
+          "ja": "あなた/あなたたちは買います"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_verb_platiti",
+    "scene": "supermarket",
+    "level": 1,
+    "hr": "platiti",
+    "ja": "支払う",
+    "pronunciation_ja": "プラティティ",
+    "part_of_speech": "verb",
+    "tags": [
+      "verb",
+      "payment"
+    ],
+    "examples": [
+      {
+        "hr": "Mogu li platiti karticom?",
+        "pronunciation_ja": "モグ リ プラティティ カルティツォム",
+        "ja": "カードで払えますか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "現在形の基本形です。旅行用にはまず1人称単数と丁寧な2人称複数を優先します。",
+      "conjugation": [
+        {
+          "person": "ja",
+          "form": "platim",
+          "ja": "私は支払います"
+        },
+        {
+          "person": "ti",
+          "form": "platiš",
+          "ja": "君は支払います"
+        },
+        {
+          "person": "on/ona",
+          "form": "plati",
+          "ja": "彼/彼女は支払います"
+        },
+        {
+          "person": "mi",
+          "form": "platimo",
+          "ja": "私たちは支払います"
+        },
+        {
+          "person": "vi",
+          "form": "platite",
+          "ja": "あなた/あなたたちは支払います"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_verb_moci",
+    "scene": "basic",
+    "level": 1,
+    "hr": "moći",
+    "ja": "できる",
+    "pronunciation_ja": "モチ",
+    "part_of_speech": "verb",
+    "tags": [
+      "verb",
+      "modal"
+    ],
+    "examples": [
+      {
+        "hr": "Mogu li platiti karticom?",
+        "pronunciation_ja": "モグ リ プラティティ カルティツォム",
+        "ja": "カードで払えますか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "現在形の基本形です。旅行用にはまず1人称単数と丁寧な2人称複数を優先します。",
+      "conjugation": [
+        {
+          "person": "ja",
+          "form": "mogu",
+          "ja": "私はできます"
+        },
+        {
+          "person": "ti",
+          "form": "možeš",
+          "ja": "君はできます"
+        },
+        {
+          "person": "on/ona",
+          "form": "može",
+          "ja": "彼/彼女はできます"
+        },
+        {
+          "person": "mi",
+          "form": "možemo",
+          "ja": "私たちはできます"
+        },
+        {
+          "person": "vi",
+          "form": "možete",
+          "ja": "あなた/あなたたちはできます"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_verb_smjeti",
+    "scene": "sea",
+    "level": 1,
+    "hr": "smjeti",
+    "ja": "〜してよい",
+    "pronunciation_ja": "スミェティ",
+    "part_of_speech": "verb",
+    "tags": [
+      "verb",
+      "permission"
+    ],
+    "examples": [
+      {
+        "hr": "Smijem li ovdje plivati?",
+        "pronunciation_ja": "スミイェム リ オヴディエ プリヴァティ",
+        "ja": "ここで泳いでもよいですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "現在形の基本形です。旅行用にはまず1人称単数と丁寧な2人称複数を優先します。",
+      "conjugation": [
+        {
+          "person": "ja",
+          "form": "smijem",
+          "ja": "私は〜してよい"
+        },
+        {
+          "person": "ti",
+          "form": "smiješ",
+          "ja": "君は〜してよい"
+        },
+        {
+          "person": "on/ona",
+          "form": "smije",
+          "ja": "彼/彼女は〜してよい"
+        },
+        {
+          "person": "mi",
+          "form": "smijemo",
+          "ja": "私たちは〜してよい"
+        },
+        {
+          "person": "vi",
+          "form": "smijete",
+          "ja": "あなた/あなたたちは〜してよい"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_verb_plivati",
+    "scene": "sea",
+    "level": 1,
+    "hr": "plivati",
+    "ja": "泳ぐ",
+    "pronunciation_ja": "プリヴァティ",
+    "part_of_speech": "verb",
+    "tags": [
+      "verb",
+      "sea"
+    ],
+    "examples": [
+      {
+        "hr": "Smijem li ovdje plivati?",
+        "pronunciation_ja": "スミイェム リ オヴディエ プリヴァティ",
+        "ja": "ここで泳いでもよいですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "現在形の基本形です。旅行用にはまず1人称単数と丁寧な2人称複数を優先します。",
+      "conjugation": [
+        {
+          "person": "ja",
+          "form": "plivam",
+          "ja": "私は泳ぎます"
+        },
+        {
+          "person": "ti",
+          "form": "plivaš",
+          "ja": "君は泳ぎます"
+        },
+        {
+          "person": "on/ona",
+          "form": "pliva",
+          "ja": "彼/彼女は泳ぎます"
+        },
+        {
+          "person": "mi",
+          "form": "plivamo",
+          "ja": "私たちは泳ぎます"
+        },
+        {
+          "person": "vi",
+          "form": "plivate",
+          "ja": "あなた/あなたたちは泳ぎます"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_verb_jesti",
+    "scene": "fish_market",
+    "level": 1,
+    "hr": "jesti",
+    "ja": "食べる",
+    "pronunciation_ja": "イェスティ",
+    "part_of_speech": "verb",
+    "tags": [
+      "verb",
+      "food"
+    ],
+    "examples": [
+      {
+        "hr": "Može li se jesti sirovo?",
+        "pronunciation_ja": "モジェ リ セ イェスティ シロヴォ",
+        "ja": "生で食べられますか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "現在形の基本形です。旅行用にはまず1人称単数と丁寧な2人称複数を優先します。",
+      "conjugation": [
+        {
+          "person": "ja",
+          "form": "jedem",
+          "ja": "私は食べます"
+        },
+        {
+          "person": "ti",
+          "form": "jedeš",
+          "ja": "君は食べます"
+        },
+        {
+          "person": "on/ona",
+          "form": "jede",
+          "ja": "彼/彼女は食べます"
+        },
+        {
+          "person": "mi",
+          "form": "jedemo",
+          "ja": "私たちは食べます"
+        },
+        {
+          "person": "vi",
+          "form": "jedete",
+          "ja": "あなた/あなたたちは食べます"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_verb_ocistiti",
+    "scene": "fish_market",
+    "level": 2,
+    "hr": "očistiti",
+    "ja": "きれいにする／魚を捌く",
+    "pronunciation_ja": "オチスティティ",
+    "part_of_speech": "verb",
+    "tags": [
+      "verb",
+      "fish_market"
+    ],
+    "examples": [
+      {
+        "hr": "Možete li je očistiti?",
+        "pronunciation_ja": "モジェテ リ イェ オチスティティ",
+        "ja": "それを捌いてもらえますか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "現在形の基本形です。旅行用にはまず1人称単数と丁寧な2人称複数を優先します。",
+      "conjugation": [
+        {
+          "person": "ja",
+          "form": "očistim",
+          "ja": "私はきれいにします"
+        },
+        {
+          "person": "ti",
+          "form": "očistiš",
+          "ja": "君はきれいにします"
+        },
+        {
+          "person": "on/ona",
+          "form": "očisti",
+          "ja": "彼/彼女はきれいにします"
+        },
+        {
+          "person": "mi",
+          "form": "očistimo",
+          "ja": "私たちはきれいにします"
+        },
+        {
+          "person": "vi",
+          "form": "očistite",
+          "ja": "あなた/あなたたちはきれいにします"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_verb_sakupljati",
+    "scene": "sea_urchin",
+    "level": 2,
+    "hr": "sakupljati",
+    "ja": "集める／採集する",
+    "pronunciation_ja": "サクプリャティ",
+    "part_of_speech": "verb",
+    "tags": [
+      "verb",
+      "sea_urchin"
+    ],
+    "examples": [
+      {
+        "hr": "Smije li se ovdje sakupljati morske ježince?",
+        "pronunciation_ja": "スミイェ リ セ オヴディエ サクプリャティ モルスケ イェジンツェ",
+        "ja": "ここでウニを採ってもよいですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "現在形の基本形です。旅行用にはまず1人称単数と丁寧な2人称複数を優先します。",
+      "conjugation": [
+        {
+          "person": "ja",
+          "form": "sakupljam",
+          "ja": "私は集めます"
+        },
+        {
+          "person": "ti",
+          "form": "sakupljaš",
+          "ja": "君は集めます"
+        },
+        {
+          "person": "on/ona",
+          "form": "sakuplja",
+          "ja": "彼/彼女は集めます"
+        },
+        {
+          "person": "mi",
+          "form": "sakupljamo",
+          "ja": "私たちは集めます"
+        },
+        {
+          "person": "vi",
+          "form": "sakupljate",
+          "ja": "あなた/あなたたちは集めます"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_verb_pomoci",
+    "scene": "sea_urchin",
+    "level": 1,
+    "hr": "pomoći",
+    "ja": "助ける",
+    "pronunciation_ja": "ポモチ",
+    "part_of_speech": "verb",
+    "tags": [
+      "verb",
+      "safety"
+    ],
+    "examples": [
+      {
+        "hr": "Pomozite, molim.",
+        "pronunciation_ja": "ポモジテ モリム",
+        "ja": "助けてください。"
+      }
+    ],
+    "grammar": {
+      "note_ja": "現在形の基本形です。旅行用にはまず1人称単数と丁寧な2人称複数を優先します。",
+      "conjugation": [
+        {
+          "person": "ja",
+          "form": "pomognem",
+          "ja": "私は助けます"
+        },
+        {
+          "person": "ti",
+          "form": "pomogneš",
+          "ja": "君は助けます"
+        },
+        {
+          "person": "on/ona",
+          "form": "pomogne",
+          "ja": "彼/彼女は助けます"
+        },
+        {
+          "person": "mi",
+          "form": "pomognemo",
+          "ja": "私たちは助けます"
+        },
+        {
+          "person": "vi",
+          "form": "pomognete",
+          "ja": "あなた/あなたたちは助けます"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_verb_imati",
+    "scene": "basic",
+    "level": 1,
+    "hr": "imati",
+    "ja": "持っている／ある",
+    "pronunciation_ja": "イマティ",
+    "part_of_speech": "verb",
+    "tags": [
+      "verb"
+    ],
+    "examples": [
+      {
+        "hr": "Imate li preporuku?",
+        "pronunciation_ja": "イマテ リ プレポルク",
+        "ja": "おすすめはありますか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "現在形の基本形です。旅行用にはまず1人称単数と丁寧な2人称複数を優先します。",
+      "conjugation": [
+        {
+          "person": "ja",
+          "form": "imam",
+          "ja": "私は持っています"
+        },
+        {
+          "person": "ti",
+          "form": "imaš",
+          "ja": "君は持っています"
+        },
+        {
+          "person": "on/ona",
+          "form": "ima",
+          "ja": "彼/彼女は持っています"
+        },
+        {
+          "person": "mi",
+          "form": "imamo",
+          "ja": "私たちは持っています"
+        },
+        {
+          "person": "vi",
+          "form": "imate",
+          "ja": "あなた/あなたたちは持っています"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_adj_hladan",
+    "scene": "sea",
+    "level": 1,
+    "hr": "hladan",
+    "ja": "冷たい",
+    "pronunciation_ja": "フラダン",
+    "part_of_speech": "adjective",
+    "tags": [
+      "adjective"
+    ],
+    "examples": [
+      {
+        "hr": "Je li voda hladna?",
+        "pronunciation_ja": "イェ リ ヴォダ フラドナ",
+        "ja": "水は冷たいですか？"
+      }
+    ],
+    "grammar": {
+      "note_ja": "形容詞は名詞の性に合わせて形が変わります。",
+      "forms": [
+        {
+          "label": "男性",
+          "form": "hladan",
+          "note": "hladan dan"
+        },
+        {
+          "label": "女性",
+          "form": "hladna",
+          "note": "hladna voda"
+        },
+        {
+          "label": "中性",
+          "form": "hladno",
+          "note": "hladno more"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_adj_vruc",
+    "scene": "sea",
+    "level": 1,
+    "hr": "vruć",
+    "ja": "暑い／熱い",
+    "pronunciation_ja": "ヴルチ",
+    "part_of_speech": "adjective",
+    "tags": [
+      "adjective"
+    ],
+    "examples": [
+      {
+        "hr": "Danas je vruće.",
+        "pronunciation_ja": "ダナス イェ ヴルチェ",
+        "ja": "今日は暑いです。"
+      }
+    ],
+    "grammar": {
+      "note_ja": "形容詞は名詞の性に合わせて形が変わります。",
+      "forms": [
+        {
+          "label": "男性",
+          "form": "vruć",
+          "note": "vruć dan"
+        },
+        {
+          "label": "女性",
+          "form": "vruća",
+          "note": "vruća voda"
+        },
+        {
+          "label": "中性／副詞的",
+          "form": "vruće",
+          "note": "Danas je vruće"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_adj_dalek",
+    "scene": "tourism",
+    "level": 1,
+    "hr": "daleko",
+    "ja": "遠い／遠くに",
+    "pronunciation_ja": "ダレコ",
+    "part_of_speech": "adverb",
+    "tags": [
+      "tourism"
+    ],
+    "examples": [
+      {
+        "hr": "Je li daleko odavde?",
+        "pronunciation_ja": "イェ リ ダレコ オダヴデ",
+        "ja": "ここから遠いですか？"
+      }
+    ],
+    "grammar": {}
+  },
+  {
+    "id": "v_adv_ovdje",
+    "scene": "sea",
+    "level": 1,
+    "hr": "ovdje",
+    "ja": "ここで／ここに",
+    "pronunciation_ja": "オヴディエ",
+    "part_of_speech": "adverb",
+    "tags": [
+      "location"
+    ],
+    "examples": [
+      {
+        "hr": "Smijem li ovdje plivati?",
+        "pronunciation_ja": "スミイェム リ オヴディエ プリヴァティ",
+        "ja": "ここで泳いでもよいですか？"
+      }
+    ],
+    "grammar": {}
+  },
+  {
+    "id": "v_adv_danas",
+    "scene": "basic",
+    "level": 1,
+    "hr": "danas",
+    "ja": "今日",
+    "pronunciation_ja": "ダナス",
+    "part_of_speech": "adverb",
+    "tags": [
+      "time"
+    ],
+    "examples": [
+      {
+        "hr": "Je li riba ulovljena danas?",
+        "pronunciation_ja": "イェ リ リバ ウロヴリェナ ダナス",
+        "ja": "今日獲れた魚ですか？"
+      }
+    ],
+    "grammar": {}
+  },
+  {
+    "id": "v_adv_jutros",
+    "scene": "fish_market",
+    "level": 2,
+    "hr": "jutros",
+    "ja": "今朝",
+    "pronunciation_ja": "ユトロス",
+    "part_of_speech": "adverb",
+    "tags": [
+      "time"
+    ],
+    "examples": [
+      {
+        "hr": "Ulovljena je jutros.",
+        "pronunciation_ja": "ウロヴリェナ イェ ユトロス",
+        "ja": "今朝獲れたものです。"
+      }
+    ],
+    "grammar": {}
+  },
+  {
+    "id": "v_adv_sutra",
+    "scene": "boat",
+    "level": 1,
+    "hr": "sutra",
+    "ja": "明日",
+    "pronunciation_ja": "ストラ",
+    "part_of_speech": "adverb",
+    "tags": [
+      "time"
+    ],
+    "examples": [
+      {
+        "hr": "Ide li brod sutra?",
+        "pronunciation_ja": "イデ リ ブロド ストラ",
+        "ja": "明日、船は出ますか？"
+      }
+    ],
+    "grammar": {}
+  },
+  {
+    "id": "v_num_jedan",
+    "scene": "fish_market",
+    "level": 1,
+    "hr": "jedan",
+    "ja": "1つの",
+    "pronunciation_ja": "イェダン",
+    "part_of_speech": "number",
+    "tags": [
+      "number"
+    ],
+    "examples": [
+      {
+        "hr": "Jedan kilogram, molim.",
+        "pronunciation_ja": "イェダン キログラム モリム",
+        "ja": "1キロください。"
+      }
+    ],
+    "grammar": {
+      "note_ja": "1は名詞の性に合わせて形が変わります。",
+      "forms": [
+        {
+          "label": "男性",
+          "form": "jedan",
+          "note": "jedan kilogram"
+        },
+        {
+          "label": "女性",
+          "form": "jedna",
+          "note": "jedna karta"
+        },
+        {
+          "label": "中性",
+          "form": "jedno",
+          "note": "jedno more"
+        }
+      ]
+    }
+  },
+  {
+    "id": "v_num_dva",
+    "scene": "fish_market",
+    "level": 1,
+    "hr": "dva",
+    "ja": "2つの",
+    "pronunciation_ja": "ドヴァ",
+    "part_of_speech": "number",
+    "tags": [
+      "number"
+    ],
+    "examples": [
+      {
+        "hr": "Dva kilograma, molim.",
+        "pronunciation_ja": "ドヴァ キログラマ モリム",
+        "ja": "2キロください。"
+      }
+    ],
+    "grammar": {}
+  },
+  {
+    "id": "v_num_petsto",
+    "scene": "fish_market",
+    "level": 1,
+    "hr": "petsto",
+    "ja": "500",
+    "pronunciation_ja": "ペトスト",
+    "part_of_speech": "number",
+    "tags": [
+      "number"
+    ],
+    "examples": [
+      {
+        "hr": "Petsto grama, molim.",
+        "pronunciation_ja": "ペトスト グラマ モリム",
+        "ja": "500グラムください。"
+      }
+    ],
+    "grammar": {}
+  },
+  {
+    "id": "v_prep_na",
+    "scene": "basic",
+    "level": 1,
+    "hr": "na",
+    "ja": "〜へ／〜で",
+    "pronunciation_ja": "ナ",
+    "part_of_speech": "preposition",
+    "tags": [
+      "preposition"
+    ],
+    "examples": [
+      {
+        "hr": "Idem na plažu.",
+        "pronunciation_ja": "イデム ナ プラジュ",
+        "ja": "ビーチへ行きます。"
+      }
+    ],
+    "grammar": {}
+  },
+  {
+    "id": "v_prep_u",
+    "scene": "basic",
+    "level": 1,
+    "hr": "u",
+    "ja": "〜の中へ／〜で",
+    "pronunciation_ja": "ウ",
+    "part_of_speech": "preposition",
+    "tags": [
+      "preposition"
+    ],
+    "examples": [
+      {
+        "hr": "Idem u trgovinu.",
+        "pronunciation_ja": "イデム ウ トルゴヴィヌ",
+        "ja": "店へ行きます。"
+      }
+    ],
+    "grammar": {}
+  }
+]

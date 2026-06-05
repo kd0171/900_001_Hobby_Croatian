@@ -1,0 +1,43 @@
+{
+  "id": "units",
+  "title_ja": "量・単位",
+  "title_hr": "Mjere i jedinice",
+  "sections": [
+    {
+      "id": "units",
+      "title_ja": "買い物で使う単位",
+      "items": [
+        {
+          "ja": "グラム",
+          "hr": "gram",
+          "pronunciation_ja": "グラム"
+        },
+        {
+          "ja": "キログラム",
+          "hr": "kilogram",
+          "pronunciation_ja": "キログラム"
+        },
+        {
+          "ja": "リットル",
+          "hr": "litra",
+          "pronunciation_ja": "リトラ"
+        },
+        {
+          "ja": "半分",
+          "hr": "pola",
+          "pronunciation_ja": "ポラ"
+        },
+        {
+          "ja": "少し",
+          "hr": "malo",
+          "pronunciation_ja": "マロ"
+        },
+        {
+          "ja": "たくさん",
+          "hr": "puno",
+          "pronunciation_ja": "プノ"
+        }
+      ]
+    }
+  ]
+}

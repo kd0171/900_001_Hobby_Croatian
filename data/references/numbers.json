@@ -1,0 +1,432 @@
+{
+  "id": "numbers",
+  "title_ja": "数字",
+  "title_hr": "Brojevi",
+  "sections": [
+    {
+      "id": "basic_1_20",
+      "title_ja": "基本数字 1〜20",
+      "items": [
+        {
+          "value": 1,
+          "ja": "1",
+          "hr": "jedan",
+          "pronunciation_ja": "イェダン"
+        },
+        {
+          "value": 2,
+          "ja": "2",
+          "hr": "dva",
+          "pronunciation_ja": "ドヴァ"
+        },
+        {
+          "value": 3,
+          "ja": "3",
+          "hr": "tri",
+          "pronunciation_ja": "トリ"
+        },
+        {
+          "value": 4,
+          "ja": "4",
+          "hr": "četiri",
+          "pronunciation_ja": "チェティリ"
+        },
+        {
+          "value": 5,
+          "ja": "5",
+          "hr": "pet",
+          "pronunciation_ja": "ペト"
+        },
+        {
+          "value": 6,
+          "ja": "6",
+          "hr": "šest",
+          "pronunciation_ja": "シェスト"
+        },
+        {
+          "value": 7,
+          "ja": "7",
+          "hr": "sedam",
+          "pronunciation_ja": "セダム"
+        },
+        {
+          "value": 8,
+          "ja": "8",
+          "hr": "osam",
+          "pronunciation_ja": "オサム"
+        },
+        {
+          "value": 9,
+          "ja": "9",
+          "hr": "devet",
+          "pronunciation_ja": "デヴェト"
+        },
+        {
+          "value": 10,
+          "ja": "10",
+          "hr": "deset",
+          "pronunciation_ja": "デセット"
+        },
+        {
+          "value": 11,
+          "ja": "11",
+          "hr": "jedanaest",
+          "pronunciation_ja": "イェダナエスト"
+        },
+        {
+          "value": 12,
+          "ja": "12",
+          "hr": "dvanaest",
+          "pronunciation_ja": "ドヴァナエスト"
+        },
+        {
+          "value": 13,
+          "ja": "13",
+          "hr": "trinaest",
+          "pronunciation_ja": "トリナエスト"
+        },
+        {
+          "value": 14,
+          "ja": "14",
+          "hr": "četrnaest",
+          "pronunciation_ja": "チェトルナエスト"
+        },
+        {
+          "value": 15,
+          "ja": "15",
+          "hr": "petnaest",
+          "pronunciation_ja": "ペトナエスト"
+        },
+        {
+          "value": 16,
+          "ja": "16",
+          "hr": "šesnaest",
+          "pronunciation_ja": "シェスナエスト"
+        },
+        {
+          "value": 17,
+          "ja": "17",
+          "hr": "sedamnaest",
+          "pronunciation_ja": "セダムナエスト"
+        },
+        {
+          "value": 18,
+          "ja": "18",
+          "hr": "osamnaest",
+          "pronunciation_ja": "オサムナエスト"
+        },
+        {
+          "value": 19,
+          "ja": "19",
+          "hr": "devetnaest",
+          "pronunciation_ja": "デヴェトナエスト"
+        },
+        {
+          "value": 20,
+          "ja": "20",
+          "hr": "dvadeset",
+          "pronunciation_ja": "ドヴァデセット"
+        }
+      ]
+    },
+    {
+      "id": "tens",
+      "title_ja": "十の位 10〜90",
+      "items": [
+        {
+          "value": 10,
+          "ja": "10",
+          "hr": "deset",
+          "pronunciation_ja": "デセット"
+        },
+        {
+          "value": 20,
+          "ja": "20",
+          "hr": "dvadeset",
+          "pronunciation_ja": "ドヴァデセット"
+        },
+        {
+          "value": 30,
+          "ja": "30",
+          "hr": "trideset",
+          "pronunciation_ja": "トリデセット"
+        },
+        {
+          "value": 40,
+          "ja": "40",
+          "hr": "četrdeset",
+          "pronunciation_ja": "チェトルデセット"
+        },
+        {
+          "value": 50,
+          "ja": "50",
+          "hr": "pedeset",
+          "pronunciation_ja": "ペデセット"
+        },
+        {
+          "value": 60,
+          "ja": "60",
+          "hr": "šezdeset",
+          "pronunciation_ja": "シェズデセット"
+        },
+        {
+          "value": 70,
+          "ja": "70",
+          "hr": "sedamdeset",
+          "pronunciation_ja": "セダムデセット"
+        },
+        {
+          "value": 80,
+          "ja": "80",
+          "hr": "osamdeset",
+          "pronunciation_ja": "オサムデセット"
+        },
+        {
+          "value": 90,
+          "ja": "90",
+          "hr": "devedeset",
+          "pronunciation_ja": "デヴェデセット"
+        }
+      ]
+    },
+    {
+      "id": "hundreds",
+      "title_ja": "百の位 100〜900",
+      "items": [
+        {
+          "value": 100,
+          "ja": "100",
+          "hr": "sto",
+          "pronunciation_ja": "スト"
+        },
+        {
+          "value": 200,
+          "ja": "200",
+          "hr": "dvjesto",
+          "pronunciation_ja": "ドヴィエスト"
+        },
+        {
+          "value": 300,
+          "ja": "300",
+          "hr": "tristo",
+          "pronunciation_ja": "トリスト"
+        },
+        {
+          "value": 400,
+          "ja": "400",
+          "hr": "četiristo",
+          "pronunciation_ja": "チェティリスト"
+        },
+        {
+          "value": 500,
+          "ja": "500",
+          "hr": "petsto",
+          "pronunciation_ja": "ペトスト"
+        },
+        {
+          "value": 600,
+          "ja": "600",
+          "hr": "šeststo",
+          "pronunciation_ja": "シェストスト"
+        },
+        {
+          "value": 700,
+          "ja": "700",
+          "hr": "sedamsto",
+          "pronunciation_ja": "セダムスト"
+        },
+        {
+          "value": 800,
+          "ja": "800",
+          "hr": "osamsto",
+          "pronunciation_ja": "オサムスト"
+        },
+        {
+          "value": 900,
+          "ja": "900",
+          "hr": "devetsto",
+          "pronunciation_ja": "デヴェトスト"
+        }
+      ]
+    },
+    {
+      "id": "thousands",
+      "title_ja": "千の位 1000〜9000",
+      "items": [
+        {
+          "value": 1000,
+          "ja": "1000",
+          "hr": "tisuću",
+          "pronunciation_ja": "ティスチュ",
+          "note_ja": "単独の1000では tisuću を使います。"
+        },
+        {
+          "value": 2000,
+          "ja": "2000",
+          "hr": "dvije tisuće",
+          "pronunciation_ja": "ドヴィイェ ティスチェ",
+          "note_ja": "2000〜4000では tisuće を使います。"
+        },
+        {
+          "value": 3000,
+          "ja": "3000",
+          "hr": "tri tisuće",
+          "pronunciation_ja": "トリ ティスチェ",
+          "note_ja": "2000〜4000では tisuće を使います。"
+        },
+        {
+          "value": 4000,
+          "ja": "4000",
+          "hr": "četiri tisuće",
+          "pronunciation_ja": "チェティリ ティスチェ",
+          "note_ja": "2000〜4000では tisuće を使います。"
+        },
+        {
+          "value": 5000,
+          "ja": "5000",
+          "hr": "pet tisuća",
+          "pronunciation_ja": "ペト ティスチャ",
+          "note_ja": "5000以上では tisuća を使います。"
+        },
+        {
+          "value": 6000,
+          "ja": "6000",
+          "hr": "šest tisuća",
+          "pronunciation_ja": "シェスト ティスチャ",
+          "note_ja": "5000以上では tisuća を使います。"
+        },
+        {
+          "value": 7000,
+          "ja": "7000",
+          "hr": "sedam tisuća",
+          "pronunciation_ja": "セダム ティスチャ",
+          "note_ja": "5000以上では tisuća を使います。"
+        },
+        {
+          "value": 8000,
+          "ja": "8000",
+          "hr": "osam tisuća",
+          "pronunciation_ja": "オサム ティスチャ",
+          "note_ja": "5000以上では tisuća を使います。"
+        },
+        {
+          "value": 9000,
+          "ja": "9000",
+          "hr": "devet tisuća",
+          "pronunciation_ja": "デヴェト ティスチャ",
+          "note_ja": "5000以上では tisuća を使います。"
+        }
+      ]
+    },
+    {
+      "id": "examples",
+      "title_ja": "組み合わせ例",
+      "items": [
+        {
+          "value": 21,
+          "ja": "21",
+          "hr": "dvadeset jedan",
+          "pronunciation_ja": "ドヴァデセット イェダン",
+          "note_ja": "20 + 1"
+        },
+        {
+          "value": 35,
+          "ja": "35",
+          "hr": "trideset pet",
+          "pronunciation_ja": "トリデセット ペト",
+          "note_ja": "30 + 5"
+        },
+        {
+          "value": 48,
+          "ja": "48",
+          "hr": "četrdeset osam",
+          "pronunciation_ja": "チェトルデセット オサム",
+          "note_ja": "40 + 8"
+        },
+        {
+          "value": 99,
+          "ja": "99",
+          "hr": "devedeset devet",
+          "pronunciation_ja": "デヴェデセット デヴェト",
+          "note_ja": "90 + 9"
+        },
+        {
+          "value": 120,
+          "ja": "120",
+          "hr": "sto dvadeset",
+          "pronunciation_ja": "スト ドヴァデセット",
+          "note_ja": "100 + 20"
+        },
+        {
+          "value": 250,
+          "ja": "250",
+          "hr": "dvjesto pedeset",
+          "pronunciation_ja": "ドヴィエスト ペデセット",
+          "note_ja": "200 + 50"
+        },
+        {
+          "value": 654,
+          "ja": "654",
+          "hr": "šeststo pedeset četiri",
+          "pronunciation_ja": "シェストスト ペデセット チェティリ",
+          "note_ja": "600 + 50 + 4"
+        },
+        {
+          "value": 999,
+          "ja": "999",
+          "hr": "devetsto devedeset devet",
+          "pronunciation_ja": "デヴェトスト デヴェデセット デヴェト",
+          "note_ja": "900 + 90 + 9"
+        },
+        {
+          "value": 2026,
+          "ja": "2026",
+          "hr": "dvije tisuće dvadeset šest",
+          "pronunciation_ja": "ドヴィイェ ティスチェ ドヴァデセット シェスト",
+          "note_ja": "2000 + 20 + 6"
+        }
+      ]
+    },
+    {
+      "id": "quantity",
+      "title_ja": "買い物・魚市場で使う数量表現",
+      "items": [
+        {
+          "ja": "100グラムください",
+          "hr": "Sto grama, molim.",
+          "pronunciation_ja": "スト グラマ モリム"
+        },
+        {
+          "ja": "200グラムください",
+          "hr": "Dvjesto grama, molim.",
+          "pronunciation_ja": "ドヴィエスト グラマ モリム"
+        },
+        {
+          "ja": "500グラムください",
+          "hr": "Petsto grama, molim.",
+          "pronunciation_ja": "ペトスト グラマ モリム"
+        },
+        {
+          "ja": "半キロください",
+          "hr": "Pola kilograma, molim.",
+          "pronunciation_ja": "ポラ キログラマ モリム"
+        },
+        {
+          "ja": "1キロください",
+          "hr": "Jedan kilogram, molim.",
+          "pronunciation_ja": "イェダン キログラム モリム"
+        },
+        {
+          "ja": "2キロください",
+          "hr": "Dva kilograma, molim.",
+          "pronunciation_ja": "ドヴァ キログラマ モリム"
+        },
+        {
+          "ja": "3キロください",
+          "hr": "Tri kilograma, molim.",
+          "pronunciation_ja": "トリ キログラマ モリム"
+        }
+      ]
+    }
+  ]
+}

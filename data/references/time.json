@@ -1,0 +1,64 @@
+{
+  "id": "time",
+  "title_ja": "時間表現",
+  "title_hr": "Vrijeme",
+  "sections": [
+    {
+      "id": "time_words",
+      "title_ja": "基本の時間表現",
+      "items": [
+        {
+          "ja": "今日",
+          "hr": "danas",
+          "pronunciation_ja": "ダナス"
+        },
+        {
+          "ja": "明日",
+          "hr": "sutra",
+          "pronunciation_ja": "ストラ"
+        },
+        {
+          "ja": "昨日",
+          "hr": "jučer",
+          "pronunciation_ja": "ユチェル"
+        },
+        {
+          "ja": "朝",
+          "hr": "jutro",
+          "pronunciation_ja": "ユトロ"
+        },
+        {
+          "ja": "昼",
+          "hr": "podne",
+          "pronunciation_ja": "ポドネ"
+        },
+        {
+          "ja": "夕方／夜",
+          "hr": "večer",
+          "pronunciation_ja": "ヴェチェル"
+        }
+      ]
+    },
+    {
+      "id": "time_sentences",
+      "title_ja": "旅行で使う時間の文",
+      "items": [
+        {
+          "ja": "今何時ですか？",
+          "hr": "Koliko je sati?",
+          "pronunciation_ja": "コリコ イェ サティ"
+        },
+        {
+          "ja": "何時に出発しますか？",
+          "hr": "Kada polazi?",
+          "pronunciation_ja": "カダ ポラジ"
+        },
+        {
+          "ja": "10時に",
+          "hr": "u deset sati",
+          "pronunciation_ja": "ウ デセット サティ"
+        }
+      ]
+    }
+  ]
+}
