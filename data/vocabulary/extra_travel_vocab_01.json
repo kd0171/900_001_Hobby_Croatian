@@ -1,0 +1,4574 @@
+{
+  "items": [
+    {
+      "id": "vocab_luka",
+      "scene": "boat",
+      "level": 1,
+      "hr": "luka",
+      "ja": "港",
+      "pronunciation_ja": "ルカ",
+      "part_of_speech": "noun",
+      "gender": "feminine",
+      "tags": [
+        "boat",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Idemo u luku.",
+          "pronunciation_ja": "イデモ ウ ルク",
+          "ja": "港へ行きます。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "luka",
+            "plural": "luke",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "luke",
+            "plural": "luka",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "luki",
+            "plural": "lukama",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "luku",
+            "plural": "luke",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "luko",
+            "plural": "luke",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "luki",
+            "plural": "lukama",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "lukom",
+            "plural": "lukama",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "u luka",
+            "pronunciation_ja": "",
+            "meaning_ja": "港で／港へ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_otok",
+      "scene": "boat",
+      "level": 1,
+      "hr": "otok",
+      "ja": "島",
+      "pronunciation_ja": "オトク",
+      "part_of_speech": "noun",
+      "gender": "masculine",
+      "tags": [
+        "boat",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Brod ide na otok.",
+          "pronunciation_ja": "ブロド イデ ナ オトク",
+          "ja": "船は島へ行きます。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "otok",
+            "plural": "otoci",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "otoka",
+            "plural": "otoka",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "otoku",
+            "plural": "otocima",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "otok",
+            "plural": "otoke",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "otoče",
+            "plural": "otoci",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "otoku",
+            "plural": "otocima",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "otokom",
+            "plural": "otocima",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "u otok",
+            "pronunciation_ja": "",
+            "meaning_ja": "島で／島へ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_karta",
+      "scene": "boat",
+      "level": 1,
+      "hr": "karta",
+      "ja": "チケット",
+      "pronunciation_ja": "カルタ",
+      "part_of_speech": "noun",
+      "gender": "feminine",
+      "tags": [
+        "boat",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Trebam jednu kartu.",
+          "pronunciation_ja": "トレバム イェドヌ カルトゥ",
+          "ja": "チケットが1枚必要です。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "karta",
+            "plural": "karte",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "karte",
+            "plural": "karta",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "karti",
+            "plural": "kartama",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "kartu",
+            "plural": "karte",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "karto",
+            "plural": "karte",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "karti",
+            "plural": "kartama",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "kartom",
+            "plural": "kartama",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "u karta",
+            "pronunciation_ja": "",
+            "meaning_ja": "チケットで／チケットへ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_povratak",
+      "scene": "boat",
+      "level": 2,
+      "hr": "povratak",
+      "ja": "帰り",
+      "pronunciation_ja": "ポヴラタク",
+      "part_of_speech": "noun",
+      "gender": "masculine",
+      "tags": [
+        "boat",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Kada je povratak?",
+          "pronunciation_ja": "カダ イェ ポヴラタク",
+          "ja": "帰りはいつですか？"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "povratak",
+            "plural": "povrataki",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "povrataka",
+            "plural": "povrataka",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "povrataku",
+            "plural": "povratakima",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "povratak",
+            "plural": "povratake",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "povratake",
+            "plural": "povrataki",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "povrataku",
+            "plural": "povratakima",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "povratakom",
+            "plural": "povratakima",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "u povratak",
+            "pronunciation_ja": "",
+            "meaning_ja": "帰りで／帰りへ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_vozní_red",
+      "scene": "boat",
+      "level": 2,
+      "hr": "vozni red",
+      "ja": "時刻表",
+      "pronunciation_ja": "ヴォズニ レド",
+      "part_of_speech": "noun",
+      "gender": "masculine",
+      "tags": [
+        "boat",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Gdje je vozni red?",
+          "pronunciation_ja": "グデ イェ ヴォズニ レド",
+          "ja": "時刻表はどこですか？"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "vozni red",
+            "plural": "vozni redi",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "vozni reda",
+            "plural": "vozni reda",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "vozni redu",
+            "plural": "vozni redima",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "vozni red",
+            "plural": "vozni rede",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "vozni rede",
+            "plural": "vozni redi",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "vozni redu",
+            "plural": "vozni redima",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "vozni redom",
+            "plural": "vozni redima",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "u vozni red",
+            "pronunciation_ja": "",
+            "meaning_ja": "時刻表で／時刻表へ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_trgovina",
+      "scene": "supermarket",
+      "level": 1,
+      "hr": "trgovina",
+      "ja": "店、商店",
+      "pronunciation_ja": "トルゴヴィナ",
+      "part_of_speech": "noun",
+      "gender": "feminine",
+      "tags": [
+        "supermarket",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Trgovina je otvorena.",
+          "pronunciation_ja": "トルゴヴィナ イェ オトヴォレナ",
+          "ja": "店は開いています。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "trgovina",
+            "plural": "trgovine",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "trgovine",
+            "plural": "trgovina",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "trgovini",
+            "plural": "trgovinama",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "trgovinu",
+            "plural": "trgovine",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "trgovino",
+            "plural": "trgovine",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "trgovini",
+            "plural": "trgovinama",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "trgovinom",
+            "plural": "trgovinama",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "u trgovina",
+            "pronunciation_ja": "",
+            "meaning_ja": "店、商店で／店、商店へ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_blagajna",
+      "scene": "supermarket",
+      "level": 1,
+      "hr": "blagajna",
+      "ja": "レジ",
+      "pronunciation_ja": "ブラガイナ",
+      "part_of_speech": "noun",
+      "gender": "feminine",
+      "tags": [
+        "supermarket",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Gdje je blagajna?",
+          "pronunciation_ja": "グデ イェ ブラガイナ",
+          "ja": "レジはどこですか？"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "blagajna",
+            "plural": "blagajne",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "blagajne",
+            "plural": "blagajna",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "blagajni",
+            "plural": "blagajnama",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "blagajnu",
+            "plural": "blagajne",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "blagajno",
+            "plural": "blagajne",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "blagajni",
+            "plural": "blagajnama",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "blagajnom",
+            "plural": "blagajnama",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "u blagajna",
+            "pronunciation_ja": "",
+            "meaning_ja": "レジで／レジへ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_racun",
+      "scene": "supermarket",
+      "level": 1,
+      "hr": "račun",
+      "ja": "レシート、会計",
+      "pronunciation_ja": "ラチュン",
+      "part_of_speech": "noun",
+      "gender": "masculine",
+      "tags": [
+        "supermarket",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Račun, molim.",
+          "pronunciation_ja": "ラチュン モリム",
+          "ja": "レシートをください。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "račun",
+            "plural": "računi",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "računa",
+            "plural": "računa",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "računu",
+            "plural": "računima",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "račun",
+            "plural": "račune",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "račune",
+            "plural": "računi",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "računu",
+            "plural": "računima",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "računom",
+            "plural": "računima",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "u račun",
+            "pronunciation_ja": "",
+            "meaning_ja": "レシート、会計で／レシート、会計へ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_vrecica",
+      "scene": "supermarket",
+      "level": 1,
+      "hr": "vrećica",
+      "ja": "袋",
+      "pronunciation_ja": "ヴレチツァ",
+      "part_of_speech": "noun",
+      "gender": "feminine",
+      "tags": [
+        "supermarket",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Vrećicu, molim.",
+          "pronunciation_ja": "ヴレチツ モリム",
+          "ja": "袋をください。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "vrećica",
+            "plural": "vrećice",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "vrećice",
+            "plural": "vrećica",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "vrećici",
+            "plural": "vrećicama",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "vrećicu",
+            "plural": "vrećice",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "vrećico",
+            "plural": "vrećice",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "vrećici",
+            "plural": "vrećicama",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "vrećicom",
+            "plural": "vrećicama",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "u vrećica",
+            "pronunciation_ja": "",
+            "meaning_ja": "袋で／袋へ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_boca",
+      "scene": "supermarket",
+      "level": 1,
+      "hr": "boca",
+      "ja": "ボトル",
+      "pronunciation_ja": "ボツァ",
+      "part_of_speech": "noun",
+      "gender": "feminine",
+      "tags": [
+        "supermarket",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Trebam bocu vode.",
+          "pronunciation_ja": "トレバム ボツ ウォデ",
+          "ja": "水のボトルが必要です。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "boca",
+            "plural": "boce",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "boce",
+            "plural": "boca",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "boci",
+            "plural": "bocama",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "bocu",
+            "plural": "boce",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "boco",
+            "plural": "boce",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "boci",
+            "plural": "bocama",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "bocom",
+            "plural": "bocama",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "u boca",
+            "pronunciation_ja": "",
+            "meaning_ja": "ボトルで／ボトルへ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_kruh",
+      "scene": "supermarket",
+      "level": 1,
+      "hr": "kruh",
+      "ja": "パン",
+      "pronunciation_ja": "クルフ",
+      "part_of_speech": "noun",
+      "gender": "masculine",
+      "tags": [
+        "supermarket",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Kupujem kruh.",
+          "pronunciation_ja": "クプイェム クルフ",
+          "ja": "パンを買います。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "kruh",
+            "plural": "kruhovi",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "kruha",
+            "plural": "kruhova",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "kruhu",
+            "plural": "kruhovima",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "kruh",
+            "plural": "kruhove",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "kruše",
+            "plural": "kruhovi",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "kruhu",
+            "plural": "kruhovima",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "kruhom",
+            "plural": "kruhovima",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "u kruh",
+            "pronunciation_ja": "",
+            "meaning_ja": "パンで／パンへ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_sir",
+      "scene": "supermarket",
+      "level": 1,
+      "hr": "sir",
+      "ja": "チーズ",
+      "pronunciation_ja": "シル",
+      "part_of_speech": "noun",
+      "gender": "masculine",
+      "tags": [
+        "supermarket",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Gdje je sir?",
+          "pronunciation_ja": "グデ イェ シル",
+          "ja": "チーズはどこですか？"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "sir",
+            "plural": "sirevi",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "sira",
+            "plural": "sireva",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "siru",
+            "plural": "sirevima",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "sir",
+            "plural": "sireve",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "sire",
+            "plural": "sirevi",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "siru",
+            "plural": "sirevima",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "sirom",
+            "plural": "sirevima",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "u sir",
+            "pronunciation_ja": "",
+            "meaning_ja": "チーズで／チーズへ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_vino",
+      "scene": "supermarket",
+      "level": 1,
+      "hr": "vino",
+      "ja": "ワイン",
+      "pronunciation_ja": "ヴィノ",
+      "part_of_speech": "noun",
+      "gender": "neuter",
+      "tags": [
+        "supermarket",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Ovo vino je dobro.",
+          "pronunciation_ja": "オヴォ ヴィノ イェ ドブロ",
+          "ja": "このワインは良いです。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "vino",
+            "plural": "vina",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "vina",
+            "plural": "vina",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "vinu",
+            "plural": "vinima",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "vino",
+            "plural": "vina",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "vino",
+            "plural": "vina",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "vinu",
+            "plural": "vinima",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "vinom",
+            "plural": "vinima",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "u vino",
+            "pronunciation_ja": "",
+            "meaning_ja": "ワインで／ワインへ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_ulje",
+      "scene": "supermarket",
+      "level": 1,
+      "hr": "maslinovo ulje",
+      "ja": "オリーブオイル",
+      "pronunciation_ja": "マスリノヴォ ウリェ",
+      "part_of_speech": "noun",
+      "gender": "neuter",
+      "tags": [
+        "supermarket",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Tražim maslinovo ulje.",
+          "pronunciation_ja": "トラジム マスリノヴォ ウリェ",
+          "ja": "オリーブオイルを探しています。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "maslinovo ulje",
+            "plural": "maslinovo ulja",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "maslinovo ulja",
+            "plural": "maslinovo ulja",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "maslinovo ulju",
+            "plural": "maslinovo uljima",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "maslinovo ulje",
+            "plural": "maslinovo ulja",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "maslinovo ulje",
+            "plural": "maslinovo ulja",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "maslinovo ulju",
+            "plural": "maslinovo uljima",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "maslinovo uljom",
+            "plural": "maslinovo uljima",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "u maslinovo ulje",
+            "pronunciation_ja": "",
+            "meaning_ja": "オリーブオイルで／オリーブオイルへ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_rajcica",
+      "scene": "supermarket",
+      "level": 1,
+      "hr": "rajčica",
+      "ja": "トマト",
+      "pronunciation_ja": "ライチツァ",
+      "part_of_speech": "noun",
+      "gender": "feminine",
+      "tags": [
+        "supermarket",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Rajčice su svježe.",
+          "pronunciation_ja": "ライチツェ ス スヴィェジェ",
+          "ja": "トマトは新鮮です。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "rajčica",
+            "plural": "rajčice",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "rajčice",
+            "plural": "rajčica",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "rajčici",
+            "plural": "rajčicama",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "rajčicu",
+            "plural": "rajčice",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "rajčico",
+            "plural": "rajčice",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "rajčici",
+            "plural": "rajčicama",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "rajčicom",
+            "plural": "rajčicama",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "u rajčica",
+            "pronunciation_ja": "",
+            "meaning_ja": "トマトで／トマトへ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_ribarnica",
+      "scene": "fish_market",
+      "level": 1,
+      "hr": "ribarnica",
+      "ja": "魚市場、魚屋",
+      "pronunciation_ja": "リバルニツァ",
+      "part_of_speech": "noun",
+      "gender": "feminine",
+      "tags": [
+        "fish_market",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Idem u ribarnicu.",
+          "pronunciation_ja": "イデム ウ リバルニツ",
+          "ja": "魚屋へ行きます。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "ribarnica",
+            "plural": "ribarnice",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "ribarnice",
+            "plural": "ribarnica",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "ribarnici",
+            "plural": "ribarnicama",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "ribarnicu",
+            "plural": "ribarnice",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "ribarnico",
+            "plural": "ribarnice",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "ribarnici",
+            "plural": "ribarnicama",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "ribarnicom",
+            "plural": "ribarnicama",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "u ribarnica",
+            "pronunciation_ja": "",
+            "meaning_ja": "魚市場、魚屋で／魚市場、魚屋へ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_skampi",
+      "scene": "fish_market",
+      "level": 2,
+      "hr": "škampi",
+      "ja": "手長エビ、スキャンピ",
+      "pronunciation_ja": "シュカンピ",
+      "part_of_speech": "noun",
+      "gender": "plural",
+      "tags": [
+        "fish_market",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Imate li škampe?",
+          "pronunciation_ja": "イマテ リ シュカンペ",
+          "ja": "スキャンピはありますか？"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "škampi",
+            "plural": "škampi",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "škampi",
+            "plural": "škampi",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "škampi",
+            "plural": "škampi",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "škampi",
+            "plural": "škampi",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "škampi",
+            "plural": "škampi",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "škampi",
+            "plural": "škampi",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "škampi",
+            "plural": "škampi",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "u škampi",
+            "pronunciation_ja": "",
+            "meaning_ja": "手長エビ、スキャンピで／手長エビ、スキャンピへ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_lignja",
+      "scene": "fish_market",
+      "level": 2,
+      "hr": "lignja",
+      "ja": "イカ",
+      "pronunciation_ja": "リグニャ",
+      "part_of_speech": "noun",
+      "gender": "feminine",
+      "tags": [
+        "fish_market",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Je li lignja svježa?",
+          "pronunciation_ja": "イェ リ リグニャ スヴィェジャ",
+          "ja": "イカは新鮮ですか？"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "lignja",
+            "plural": "lignje",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "lignje",
+            "plural": "lignja",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "lignji",
+            "plural": "lignjama",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "lignju",
+            "plural": "lignje",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "lignjo",
+            "plural": "lignje",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "lignji",
+            "plural": "lignjama",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "lignjom",
+            "plural": "lignjama",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "u lignja",
+            "pronunciation_ja": "",
+            "meaning_ja": "イカで／イカへ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_file",
+      "scene": "fish_market",
+      "level": 2,
+      "hr": "file",
+      "ja": "切り身",
+      "pronunciation_ja": "フィレ",
+      "part_of_speech": "noun",
+      "gender": "masculine",
+      "tags": [
+        "fish_market",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Želim file ribe.",
+          "pronunciation_ja": "ジェリム フィレ リベ",
+          "ja": "魚の切り身が欲しいです。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "file",
+            "plural": "filei",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "filea",
+            "plural": "filea",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "fileu",
+            "plural": "fileima",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "file",
+            "plural": "filee",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "filee",
+            "plural": "filei",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "fileu",
+            "plural": "fileima",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "fileom",
+            "plural": "fileima",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "u file",
+            "pronunciation_ja": "",
+            "meaning_ja": "切り身で／切り身へ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_led",
+      "scene": "fish_market",
+      "level": 1,
+      "hr": "led",
+      "ja": "氷",
+      "pronunciation_ja": "レド",
+      "part_of_speech": "noun",
+      "gender": "masculine",
+      "tags": [
+        "fish_market",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Možete li dodati led?",
+          "pronunciation_ja": "モジェテ リ ドダティ レド",
+          "ja": "氷を入れてもらえますか？"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "led",
+            "plural": "ledovi",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "leda",
+            "plural": "ledova",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "ledu",
+            "plural": "ledovima",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "led",
+            "plural": "ledove",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "lede",
+            "plural": "ledovi",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "ledu",
+            "plural": "ledovima",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "ledom",
+            "plural": "ledovima",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "u led",
+            "pronunciation_ja": "",
+            "meaning_ja": "氷で／氷へ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_noz",
+      "scene": "fish_market",
+      "level": 2,
+      "hr": "nož",
+      "ja": "包丁、ナイフ",
+      "pronunciation_ja": "ノジュ",
+      "part_of_speech": "noun",
+      "gender": "masculine",
+      "tags": [
+        "fish_market",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Nož je oštar.",
+          "pronunciation_ja": "ノジュ イェ オシュタル",
+          "ja": "包丁は鋭いです。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "nož",
+            "plural": "noževi",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "noža",
+            "plural": "noževa",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "nožu",
+            "plural": "noževima",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "nož",
+            "plural": "noževe",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "nožu",
+            "plural": "noževi",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "nožu",
+            "plural": "noževima",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "nožem",
+            "plural": "noževima",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "u nož",
+            "pronunciation_ja": "",
+            "meaning_ja": "包丁、ナイフで／包丁、ナイフへ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_more",
+      "scene": "sea",
+      "level": 1,
+      "hr": "more",
+      "ja": "海",
+      "pronunciation_ja": "モレ",
+      "part_of_speech": "noun",
+      "gender": "neuter",
+      "tags": [
+        "sea",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "More je mirno.",
+          "pronunciation_ja": "モレ イェ ミルノ",
+          "ja": "海は穏やかです。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "more",
+            "plural": "mora",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "mora",
+            "plural": "mora",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "moru",
+            "plural": "morima",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "more",
+            "plural": "mora",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "more",
+            "plural": "mora",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "moru",
+            "plural": "morima",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "morem",
+            "plural": "morima",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "na more",
+            "pronunciation_ja": "",
+            "meaning_ja": "海で／海へ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_obala",
+      "scene": "sea",
+      "level": 1,
+      "hr": "obala",
+      "ja": "海岸",
+      "pronunciation_ja": "オバラ",
+      "part_of_speech": "noun",
+      "gender": "feminine",
+      "tags": [
+        "sea",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Šetamo uz obalu.",
+          "pronunciation_ja": "シェタモ ウズ オバル",
+          "ja": "海岸沿いを散歩します。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "obala",
+            "plural": "obale",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "obale",
+            "plural": "obala",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "obali",
+            "plural": "obalama",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "obalu",
+            "plural": "obale",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "obalo",
+            "plural": "obale",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "obali",
+            "plural": "obalama",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "obalom",
+            "plural": "obalama",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "na obala",
+            "pronunciation_ja": "",
+            "meaning_ja": "海岸で／海岸へ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_val",
+      "scene": "sea",
+      "level": 1,
+      "hr": "val",
+      "ja": "波",
+      "pronunciation_ja": "ヴァル",
+      "part_of_speech": "noun",
+      "gender": "masculine",
+      "tags": [
+        "sea",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Valovi su veliki.",
+          "pronunciation_ja": "ヴァロヴィ ス ヴェリキ",
+          "ja": "波が大きいです。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "val",
+            "plural": "vali",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "vala",
+            "plural": "vala",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "valu",
+            "plural": "valima",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "val",
+            "plural": "vale",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "vale",
+            "plural": "vali",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "valu",
+            "plural": "valima",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "valom",
+            "plural": "valima",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "na val",
+            "pronunciation_ja": "",
+            "meaning_ja": "波で／波へ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_kamen",
+      "scene": "sea",
+      "level": 1,
+      "hr": "kamen",
+      "ja": "石、岩",
+      "pronunciation_ja": "カメン",
+      "part_of_speech": "noun",
+      "gender": "masculine",
+      "tags": [
+        "sea",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Pazite na kamenje.",
+          "pronunciation_ja": "パジテ ナ カメニェ",
+          "ja": "岩に気をつけてください。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "kamen",
+            "plural": "kamenje",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "kamena",
+            "plural": "kamenja",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "kamenu",
+            "plural": "kamenju",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "kamen",
+            "plural": "kamenje",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "kamene",
+            "plural": "kamenje",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "kamenu",
+            "plural": "kamenju",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "kamenom",
+            "plural": "kamenjem",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "na kamen",
+            "pronunciation_ja": "",
+            "meaning_ja": "石、岩で／石、岩へ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_sjena",
+      "scene": "sea",
+      "level": 1,
+      "hr": "sjena",
+      "ja": "日陰",
+      "pronunciation_ja": "シェナ",
+      "part_of_speech": "noun",
+      "gender": "feminine",
+      "tags": [
+        "sea",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Ima li sjene?",
+          "pronunciation_ja": "イマ リ シェネ",
+          "ja": "日陰はありますか？"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "sjena",
+            "plural": "sjene",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "sjene",
+            "plural": "sjena",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "sjeni",
+            "plural": "sjenama",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "sjenu",
+            "plural": "sjene",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "sjeno",
+            "plural": "sjene",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "sjeni",
+            "plural": "sjenama",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "sjenom",
+            "plural": "sjenama",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "na sjena",
+            "pronunciation_ja": "",
+            "meaning_ja": "日陰で／日陰へ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_suncobran",
+      "scene": "sea",
+      "level": 1,
+      "hr": "suncobran",
+      "ja": "パラソル",
+      "pronunciation_ja": "スンツォブラン",
+      "part_of_speech": "noun",
+      "gender": "masculine",
+      "tags": [
+        "sea",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Trebam suncobran.",
+          "pronunciation_ja": "トレバム スンツォブラン",
+          "ja": "パラソルが必要です。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "suncobran",
+            "plural": "suncobrani",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "suncobrana",
+            "plural": "suncobrana",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "suncobranu",
+            "plural": "suncobranima",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "suncobran",
+            "plural": "suncobrane",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "suncobrane",
+            "plural": "suncobrani",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "suncobranu",
+            "plural": "suncobranima",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "suncobranom",
+            "plural": "suncobranima",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "na suncobran",
+            "pronunciation_ja": "",
+            "meaning_ja": "パラソルで／パラソルへ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_jezinac",
+      "scene": "sea_urchin",
+      "level": 2,
+      "hr": "morski ježinac",
+      "ja": "ウニ",
+      "pronunciation_ja": "モルスキ イェジナツ",
+      "part_of_speech": "noun",
+      "gender": "masculine",
+      "tags": [
+        "sea_urchin",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Smije li se sakupljati morske ježince?",
+          "pronunciation_ja": "スミイェ リ セ サクプリャティ モルスケ イェジンツェ",
+          "ja": "ウニを採ってもよいですか？"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "morski ježinac",
+            "plural": "morski ježinaci",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "morski ježinaca",
+            "plural": "morski ježinaca",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "morski ježinacu",
+            "plural": "morski ježinacima",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "morski ježinac",
+            "plural": "morski ježinace",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "morski ježinace",
+            "plural": "morski ježinaci",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "morski ježinacu",
+            "plural": "morski ježinacima",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "morski ježinacom",
+            "plural": "morski ježinacima",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "na morski ježinac",
+            "pronunciation_ja": "",
+            "meaning_ja": "ウニで／ウニへ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_bodlja",
+      "scene": "sea_urchin",
+      "level": 2,
+      "hr": "bodlja",
+      "ja": "トゲ",
+      "pronunciation_ja": "ボドリャ",
+      "part_of_speech": "noun",
+      "gender": "feminine",
+      "tags": [
+        "sea_urchin",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Ubola me bodlja.",
+          "pronunciation_ja": "ウボラ メ ボドリャ",
+          "ja": "トゲが刺さりました。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "bodlja",
+            "plural": "bodlje",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "bodlje",
+            "plural": "bodlja",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "bodlji",
+            "plural": "bodljama",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "bodlju",
+            "plural": "bodlje",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "bodljo",
+            "plural": "bodlje",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "bodlji",
+            "plural": "bodljama",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "bodljom",
+            "plural": "bodljama",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "na bodlja",
+            "pronunciation_ja": "",
+            "meaning_ja": "トゲで／トゲへ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_maska",
+      "scene": "sea_urchin",
+      "level": 1,
+      "hr": "maska",
+      "ja": "マスク",
+      "pronunciation_ja": "マスカ",
+      "part_of_speech": "noun",
+      "gender": "feminine",
+      "tags": [
+        "sea_urchin",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Trebam masku za ronjenje.",
+          "pronunciation_ja": "トレバム マスク ザ ロニェニェ",
+          "ja": "潜水用マスクが必要です。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "maska",
+            "plural": "maske",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "maske",
+            "plural": "maska",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "maski",
+            "plural": "maskama",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "masku",
+            "plural": "maske",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "masko",
+            "plural": "maske",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "maski",
+            "plural": "maskama",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "maskom",
+            "plural": "maskama",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "na maska",
+            "pronunciation_ja": "",
+            "meaning_ja": "マスクで／マスクへ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_peraje",
+      "scene": "sea_urchin",
+      "level": 1,
+      "hr": "peraje",
+      "ja": "フィン",
+      "pronunciation_ja": "ペライェ",
+      "part_of_speech": "noun",
+      "gender": "plural",
+      "tags": [
+        "sea_urchin",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Imate li peraje?",
+          "pronunciation_ja": "イマテ リ ペライェ",
+          "ja": "フィンはありますか？"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "peraje",
+            "plural": "peraje",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "peraje",
+            "plural": "peraje",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "peraje",
+            "plural": "peraje",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "peraje",
+            "plural": "peraje",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "peraje",
+            "plural": "peraje",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "peraje",
+            "plural": "peraje",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "peraje",
+            "plural": "peraje",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "na peraje",
+            "pronunciation_ja": "",
+            "meaning_ja": "フィンで／フィンへ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_dozvola",
+      "scene": "sea_urchin",
+      "level": 2,
+      "hr": "dozvola",
+      "ja": "許可、許可証",
+      "pronunciation_ja": "ドズヴォラ",
+      "part_of_speech": "noun",
+      "gender": "feminine",
+      "tags": [
+        "sea_urchin",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Trebam li dozvolu?",
+          "pronunciation_ja": "トレバム リ ドズヴォル",
+          "ja": "許可証が必要ですか？"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "dozvola",
+            "plural": "dozvole",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "dozvole",
+            "plural": "dozvola",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "dozvoli",
+            "plural": "dozvolama",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "dozvolu",
+            "plural": "dozvole",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "dozvolo",
+            "plural": "dozvole",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "dozvoli",
+            "plural": "dozvolama",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "dozvolom",
+            "plural": "dozvolama",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "na dozvola",
+            "pronunciation_ja": "",
+            "meaning_ja": "許可、許可証で／許可、許可証へ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_muzej",
+      "scene": "tourism",
+      "level": 1,
+      "hr": "muzej",
+      "ja": "博物館",
+      "pronunciation_ja": "ムゼイ",
+      "part_of_speech": "noun",
+      "gender": "masculine",
+      "tags": [
+        "tourism",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Muzej je otvoren danas.",
+          "pronunciation_ja": "ムゼイ イェ オトヴォレン ダナス",
+          "ja": "博物館は今日開いています。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "muzej",
+            "plural": "muzeji",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "muzeja",
+            "plural": "muzeja",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "muzeju",
+            "plural": "muzejima",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "muzej",
+            "plural": "muzeje",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "muzeju",
+            "plural": "muzeji",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "muzeju",
+            "plural": "muzejima",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "muzejom",
+            "plural": "muzejima",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "u muzej",
+            "pronunciation_ja": "",
+            "meaning_ja": "博物館で／博物館へ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_crkva",
+      "scene": "tourism",
+      "level": 1,
+      "hr": "crkva",
+      "ja": "教会",
+      "pronunciation_ja": "ツルクヴァ",
+      "part_of_speech": "noun",
+      "gender": "feminine",
+      "tags": [
+        "tourism",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Gdje je stara crkva?",
+          "pronunciation_ja": "グデ イェ スタラ ツルクヴァ",
+          "ja": "古い教会はどこですか？"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "crkva",
+            "plural": "crkve",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "crkve",
+            "plural": "crkva",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "crkvi",
+            "plural": "crkvama",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "crkvu",
+            "plural": "crkve",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "crkvo",
+            "plural": "crkve",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "crkvi",
+            "plural": "crkvama",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "crkvom",
+            "plural": "crkvama",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "u crkva",
+            "pronunciation_ja": "",
+            "meaning_ja": "教会で／教会へ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_ulaznica",
+      "scene": "tourism",
+      "level": 1,
+      "hr": "ulaznica",
+      "ja": "入場券",
+      "pronunciation_ja": "ウラズニツァ",
+      "part_of_speech": "noun",
+      "gender": "feminine",
+      "tags": [
+        "tourism",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Koliko košta ulaznica?",
+          "pronunciation_ja": "コリコ コシュタ ウラズニツァ",
+          "ja": "入場券はいくらですか？"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "ulaznica",
+            "plural": "ulaznice",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "ulaznice",
+            "plural": "ulaznica",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "ulaznici",
+            "plural": "ulaznicama",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "ulaznicu",
+            "plural": "ulaznice",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "ulaznico",
+            "plural": "ulaznice",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "ulaznici",
+            "plural": "ulaznicama",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "ulaznicom",
+            "plural": "ulaznicama",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "u ulaznica",
+            "pronunciation_ja": "",
+            "meaning_ja": "入場券で／入場券へ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_karta_map",
+      "scene": "tourism",
+      "level": 1,
+      "hr": "karta grada",
+      "ja": "街の地図",
+      "pronunciation_ja": "カルタ グラダ",
+      "part_of_speech": "noun",
+      "gender": "feminine",
+      "tags": [
+        "tourism",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Imate li kartu grada?",
+          "pronunciation_ja": "イマテ リ カルトゥ グラダ",
+          "ja": "街の地図はありますか？"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "karta grada",
+            "plural": "karta grade",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "karta grade",
+            "plural": "karta grada",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "karta gradi",
+            "plural": "karta gradama",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "karta gradu",
+            "plural": "karta grade",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "karta grado",
+            "plural": "karta grade",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "karta gradi",
+            "plural": "karta gradama",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "karta gradom",
+            "plural": "karta gradama",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "u karta grada",
+            "pronunciation_ja": "",
+            "meaning_ja": "街の地図で／街の地図へ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_autobus",
+      "scene": "tourism",
+      "level": 1,
+      "hr": "autobus",
+      "ja": "バス",
+      "pronunciation_ja": "アウトブス",
+      "part_of_speech": "noun",
+      "gender": "masculine",
+      "tags": [
+        "tourism",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Gdje je autobus?",
+          "pronunciation_ja": "グデ イェ アウトブス",
+          "ja": "バスはどこですか？"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "autobus",
+            "plural": "autobusi",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "autobusa",
+            "plural": "autobusa",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "autobusu",
+            "plural": "autobusima",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "autobus",
+            "plural": "autobuse",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "autobuse",
+            "plural": "autobusi",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "autobusu",
+            "plural": "autobusima",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "autobusom",
+            "plural": "autobusima",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "u autobus",
+            "pronunciation_ja": "",
+            "meaning_ja": "バスで／バスへ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_stanica",
+      "scene": "tourism",
+      "level": 1,
+      "hr": "stanica",
+      "ja": "駅、停留所",
+      "pronunciation_ja": "スタニツァ",
+      "part_of_speech": "noun",
+      "gender": "feminine",
+      "tags": [
+        "tourism",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Autobusna stanica je blizu.",
+          "pronunciation_ja": "アウトブスナ スタニツァ イェ ブリズ",
+          "ja": "バス停は近いです。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "stanica",
+            "plural": "stanice",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "stanice",
+            "plural": "stanica",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "stanici",
+            "plural": "stanicama",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "stanicu",
+            "plural": "stanice",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "stanico",
+            "plural": "stanice",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "stanici",
+            "plural": "stanicama",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "stanicom",
+            "plural": "stanicama",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "u stanica",
+            "pronunciation_ja": "",
+            "meaning_ja": "駅、停留所で／駅、停留所へ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_ljekarna",
+      "scene": "basic",
+      "level": 1,
+      "hr": "ljekarna",
+      "ja": "薬局",
+      "pronunciation_ja": "リェカルナ",
+      "part_of_speech": "noun",
+      "gender": "feminine",
+      "tags": [
+        "basic",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Gdje je ljekarna?",
+          "pronunciation_ja": "グデ イェ リェカルナ",
+          "ja": "薬局はどこですか？"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "ljekarna",
+            "plural": "ljekarne",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "ljekarne",
+            "plural": "ljekarna",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "ljekarni",
+            "plural": "ljekarnama",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "ljekarnu",
+            "plural": "ljekarne",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "ljekarno",
+            "plural": "ljekarne",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "ljekarni",
+            "plural": "ljekarnama",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "ljekarnom",
+            "plural": "ljekarnama",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "na ljekarna",
+            "pronunciation_ja": "",
+            "meaning_ja": "薬局で／薬局へ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_pomoc",
+      "scene": "basic",
+      "level": 1,
+      "hr": "pomoć",
+      "ja": "助け",
+      "pronunciation_ja": "ポモチ",
+      "part_of_speech": "noun",
+      "gender": "feminine",
+      "tags": [
+        "basic",
+        "noun"
+      ],
+      "examples": [
+        {
+          "hr": "Trebam pomoć.",
+          "pronunciation_ja": "トレバム ポモチ",
+          "ja": "助けが必要です。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "基本的な全7格の確認表です。旅行表現では、特に対格（〜を／〜へ）と処格（〜で）がよく出ます。",
+        "declension": [
+          {
+            "case_ja": "主格",
+            "case_hr": "nominativ",
+            "singular": "pomoć",
+            "plural": "pomoći",
+            "main_use_ja": "主語・見出し形"
+          },
+          {
+            "case_ja": "属格",
+            "case_hr": "genitiv",
+            "singular": "pomoći",
+            "plural": "pomoći",
+            "main_use_ja": "〜の、数量の後"
+          },
+          {
+            "case_ja": "与格",
+            "case_hr": "dativ",
+            "singular": "pomoći",
+            "plural": "pomoćima",
+            "main_use_ja": "〜へ、〜に"
+          },
+          {
+            "case_ja": "対格",
+            "case_hr": "akuzativ",
+            "singular": "pomoć",
+            "plural": "pomoći",
+            "main_use_ja": "目的語、移動先"
+          },
+          {
+            "case_ja": "呼格",
+            "case_hr": "vokativ",
+            "singular": "pomoći",
+            "plural": "pomoći",
+            "main_use_ja": "呼びかけ"
+          },
+          {
+            "case_ja": "処格",
+            "case_hr": "lokativ",
+            "singular": "pomoći",
+            "plural": "pomoćima",
+            "main_use_ja": "場所、前置詞の後"
+          },
+          {
+            "case_ja": "具格",
+            "case_hr": "instrumental",
+            "singular": "pomoći",
+            "plural": "pomoćima",
+            "main_use_ja": "〜で、〜と一緒に"
+          }
+        ],
+        "prepositional_examples": [
+          {
+            "phrase_hr": "na pomoć",
+            "pronunciation_ja": "",
+            "meaning_ja": "助けで／助けへ（文脈による）",
+            "note_ja": "前置詞 u/na は場所・方向で格が変わることがあります。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_kupiti",
+      "scene": "supermarket",
+      "level": 1,
+      "hr": "kupiti",
+      "ja": "買う",
+      "pronunciation_ja": "クピティ",
+      "part_of_speech": "verb",
+      "gender": null,
+      "tags": [
+        "supermarket",
+        "verb"
+      ],
+      "examples": [
+        {
+          "hr": "Želim kupiti vodu.",
+          "pronunciation_ja": "ジェリム クピティ ヴォドゥ",
+          "ja": "水を買いたいです。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "旅行用の実用語彙です。変化表は、今後ファイルを追加してより詳しく差し替えできます。",
+        "conjugation": [
+          {
+            "person": "ja",
+            "form": "kupim",
+            "pronunciation_ja": "",
+            "ja": "私は 買う"
+          },
+          {
+            "person": "ti",
+            "form": "kupiš",
+            "pronunciation_ja": "",
+            "ja": "君は 買う"
+          },
+          {
+            "person": "on/ona/ono",
+            "form": "kupi",
+            "pronunciation_ja": "",
+            "ja": "彼/彼女は 買う"
+          },
+          {
+            "person": "mi",
+            "form": "kupimo",
+            "pronunciation_ja": "",
+            "ja": "私たちは 買う"
+          },
+          {
+            "person": "vi",
+            "form": "kupite",
+            "pronunciation_ja": "",
+            "ja": "あなた/あなたたちは 買う"
+          },
+          {
+            "person": "oni/one/ona",
+            "form": "kupe",
+            "pronunciation_ja": "",
+            "ja": "彼らは 買う"
+          }
+        ],
+        "imperative": [
+          {
+            "label": "丁寧な依頼",
+            "form": "Možete li + 不定詞?",
+            "pronunciation_ja": "モジェテ リ",
+            "ja": "〜していただけますか？"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_traziti",
+      "scene": "supermarket",
+      "level": 1,
+      "hr": "tražiti",
+      "ja": "探す、求める",
+      "pronunciation_ja": "トラジティ",
+      "part_of_speech": "verb",
+      "gender": null,
+      "tags": [
+        "supermarket",
+        "verb"
+      ],
+      "examples": [
+        {
+          "hr": "Tražim kruh.",
+          "pronunciation_ja": "トラジム クルフ",
+          "ja": "パンを探しています。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "旅行用の実用語彙です。変化表は、今後ファイルを追加してより詳しく差し替えできます。",
+        "conjugation": [
+          {
+            "person": "ja",
+            "form": "tražim",
+            "pronunciation_ja": "",
+            "ja": "私は 探す、求める"
+          },
+          {
+            "person": "ti",
+            "form": "tražiš",
+            "pronunciation_ja": "",
+            "ja": "君は 探す、求める"
+          },
+          {
+            "person": "on/ona/ono",
+            "form": "traži",
+            "pronunciation_ja": "",
+            "ja": "彼/彼女は 探す、求める"
+          },
+          {
+            "person": "mi",
+            "form": "tražimo",
+            "pronunciation_ja": "",
+            "ja": "私たちは 探す、求める"
+          },
+          {
+            "person": "vi",
+            "form": "tražite",
+            "pronunciation_ja": "",
+            "ja": "あなた/あなたたちは 探す、求める"
+          },
+          {
+            "person": "oni/one/ona",
+            "form": "traže",
+            "pronunciation_ja": "",
+            "ja": "彼らは 探す、求める"
+          }
+        ],
+        "imperative": [
+          {
+            "label": "丁寧な依頼",
+            "form": "Možete li + 不定詞?",
+            "pronunciation_ja": "モジェテ リ",
+            "ja": "〜していただけますか？"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_platiti",
+      "scene": "supermarket",
+      "level": 1,
+      "hr": "platiti",
+      "ja": "支払う",
+      "pronunciation_ja": "プラティティ",
+      "part_of_speech": "verb",
+      "gender": null,
+      "tags": [
+        "supermarket",
+        "verb"
+      ],
+      "examples": [
+        {
+          "hr": "Mogu li platiti karticom?",
+          "pronunciation_ja": "モグ リ プラティティ カルティツォム",
+          "ja": "カードで払えますか？"
+        }
+      ],
+      "grammar": {
+        "note_ja": "旅行用の実用語彙です。変化表は、今後ファイルを追加してより詳しく差し替えできます。",
+        "conjugation": [
+          {
+            "person": "ja",
+            "form": "platim",
+            "pronunciation_ja": "",
+            "ja": "私は 支払う"
+          },
+          {
+            "person": "ti",
+            "form": "platiš",
+            "pronunciation_ja": "",
+            "ja": "君は 支払う"
+          },
+          {
+            "person": "on/ona/ono",
+            "form": "plati",
+            "pronunciation_ja": "",
+            "ja": "彼/彼女は 支払う"
+          },
+          {
+            "person": "mi",
+            "form": "platimo",
+            "pronunciation_ja": "",
+            "ja": "私たちは 支払う"
+          },
+          {
+            "person": "vi",
+            "form": "platite",
+            "pronunciation_ja": "",
+            "ja": "あなた/あなたたちは 支払う"
+          },
+          {
+            "person": "oni/one/ona",
+            "form": "plate",
+            "pronunciation_ja": "",
+            "ja": "彼らは 支払う"
+          }
+        ],
+        "imperative": [
+          {
+            "label": "丁寧な依頼",
+            "form": "Možete li + 不定詞?",
+            "pronunciation_ja": "モジェテ リ",
+            "ja": "〜していただけますか？"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_ocistiti",
+      "scene": "fish_market",
+      "level": 1,
+      "hr": "očistiti",
+      "ja": "きれいにする、魚を捌く",
+      "pronunciation_ja": "オチスティティ",
+      "part_of_speech": "verb",
+      "gender": null,
+      "tags": [
+        "fish_market",
+        "verb"
+      ],
+      "examples": [
+        {
+          "hr": "Možete li je očistiti?",
+          "pronunciation_ja": "モジェテ リ イェ オチスティティ",
+          "ja": "それを捌いてもらえますか？"
+        }
+      ],
+      "grammar": {
+        "note_ja": "旅行用の実用語彙です。変化表は、今後ファイルを追加してより詳しく差し替えできます。",
+        "conjugation": [
+          {
+            "person": "ja",
+            "form": "očistim",
+            "pronunciation_ja": "",
+            "ja": "私は きれいにする、魚を捌く"
+          },
+          {
+            "person": "ti",
+            "form": "očistiš",
+            "pronunciation_ja": "",
+            "ja": "君は きれいにする、魚を捌く"
+          },
+          {
+            "person": "on/ona/ono",
+            "form": "očisti",
+            "pronunciation_ja": "",
+            "ja": "彼/彼女は きれいにする、魚を捌く"
+          },
+          {
+            "person": "mi",
+            "form": "očistimo",
+            "pronunciation_ja": "",
+            "ja": "私たちは きれいにする、魚を捌く"
+          },
+          {
+            "person": "vi",
+            "form": "očistite",
+            "pronunciation_ja": "",
+            "ja": "あなた/あなたたちは きれいにする、魚を捌く"
+          },
+          {
+            "person": "oni/one/ona",
+            "form": "očiste",
+            "pronunciation_ja": "",
+            "ja": "彼らは きれいにする、魚を捌く"
+          }
+        ],
+        "imperative": [
+          {
+            "label": "丁寧な依頼",
+            "form": "Možete li + 不定詞?",
+            "pronunciation_ja": "モジェテ リ",
+            "ja": "〜していただけますか？"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_dodati",
+      "scene": "fish_market",
+      "level": 1,
+      "hr": "dodati",
+      "ja": "加える、入れる",
+      "pronunciation_ja": "ドダティ",
+      "part_of_speech": "verb",
+      "gender": null,
+      "tags": [
+        "fish_market",
+        "verb"
+      ],
+      "examples": [
+        {
+          "hr": "Možete li dodati led?",
+          "pronunciation_ja": "モジェテ リ ドダティ レド",
+          "ja": "氷を入れてもらえますか？"
+        }
+      ],
+      "grammar": {
+        "note_ja": "旅行用の実用語彙です。変化表は、今後ファイルを追加してより詳しく差し替えできます。",
+        "conjugation": [
+          {
+            "person": "ja",
+            "form": "dodam",
+            "pronunciation_ja": "",
+            "ja": "私は 加える、入れる"
+          },
+          {
+            "person": "ti",
+            "form": "dodaš",
+            "pronunciation_ja": "",
+            "ja": "君は 加える、入れる"
+          },
+          {
+            "person": "on/ona/ono",
+            "form": "doda",
+            "pronunciation_ja": "",
+            "ja": "彼/彼女は 加える、入れる"
+          },
+          {
+            "person": "mi",
+            "form": "dodamo",
+            "pronunciation_ja": "",
+            "ja": "私たちは 加える、入れる"
+          },
+          {
+            "person": "vi",
+            "form": "dodate",
+            "pronunciation_ja": "",
+            "ja": "あなた/あなたたちは 加える、入れる"
+          },
+          {
+            "person": "oni/one/ona",
+            "form": "dodaju",
+            "pronunciation_ja": "",
+            "ja": "彼らは 加える、入れる"
+          }
+        ],
+        "imperative": [
+          {
+            "label": "丁寧な依頼",
+            "form": "Možete li + 不定詞?",
+            "pronunciation_ja": "モジェテ リ",
+            "ja": "〜していただけますか？"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_plivati",
+      "scene": "sea",
+      "level": 1,
+      "hr": "plivati",
+      "ja": "泳ぐ",
+      "pronunciation_ja": "プリヴァティ",
+      "part_of_speech": "verb",
+      "gender": null,
+      "tags": [
+        "sea",
+        "verb"
+      ],
+      "examples": [
+        {
+          "hr": "Smijem li ovdje plivati?",
+          "pronunciation_ja": "スミイェム リ オヴディエ プリヴァティ",
+          "ja": "ここで泳いでもいいですか？"
+        }
+      ],
+      "grammar": {
+        "note_ja": "旅行用の実用語彙です。変化表は、今後ファイルを追加してより詳しく差し替えできます。",
+        "conjugation": [
+          {
+            "person": "ja",
+            "form": "plivam",
+            "pronunciation_ja": "",
+            "ja": "私は 泳ぐ"
+          },
+          {
+            "person": "ti",
+            "form": "plivaš",
+            "pronunciation_ja": "",
+            "ja": "君は 泳ぐ"
+          },
+          {
+            "person": "on/ona/ono",
+            "form": "pliva",
+            "pronunciation_ja": "",
+            "ja": "彼/彼女は 泳ぐ"
+          },
+          {
+            "person": "mi",
+            "form": "plivamo",
+            "pronunciation_ja": "",
+            "ja": "私たちは 泳ぐ"
+          },
+          {
+            "person": "vi",
+            "form": "plivate",
+            "pronunciation_ja": "",
+            "ja": "あなた/あなたたちは 泳ぐ"
+          },
+          {
+            "person": "oni/one/ona",
+            "form": "plivaju",
+            "pronunciation_ja": "",
+            "ja": "彼らは 泳ぐ"
+          }
+        ],
+        "imperative": [
+          {
+            "label": "丁寧な依頼",
+            "form": "Možete li + 不定詞?",
+            "pronunciation_ja": "モジェテ リ",
+            "ja": "〜していただけますか？"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_roniti",
+      "scene": "sea_urchin",
+      "level": 2,
+      "hr": "roniti",
+      "ja": "潜る",
+      "pronunciation_ja": "ロニティ",
+      "part_of_speech": "verb",
+      "gender": null,
+      "tags": [
+        "sea_urchin",
+        "verb"
+      ],
+      "examples": [
+        {
+          "hr": "Volim roniti.",
+          "pronunciation_ja": "ヴォリム ロニティ",
+          "ja": "潜るのが好きです。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "旅行用の実用語彙です。変化表は、今後ファイルを追加してより詳しく差し替えできます。",
+        "conjugation": [
+          {
+            "person": "ja",
+            "form": "ronim",
+            "pronunciation_ja": "",
+            "ja": "私は 潜る"
+          },
+          {
+            "person": "ti",
+            "form": "roniš",
+            "pronunciation_ja": "",
+            "ja": "君は 潜る"
+          },
+          {
+            "person": "on/ona/ono",
+            "form": "roni",
+            "pronunciation_ja": "",
+            "ja": "彼/彼女は 潜る"
+          },
+          {
+            "person": "mi",
+            "form": "ronimo",
+            "pronunciation_ja": "",
+            "ja": "私たちは 潜る"
+          },
+          {
+            "person": "vi",
+            "form": "ronite",
+            "pronunciation_ja": "",
+            "ja": "あなた/あなたたちは 潜る"
+          },
+          {
+            "person": "oni/one/ona",
+            "form": "rone",
+            "pronunciation_ja": "",
+            "ja": "彼らは 潜る"
+          }
+        ],
+        "imperative": [
+          {
+            "label": "丁寧な依頼",
+            "form": "Možete li + 不定詞?",
+            "pronunciation_ja": "モジェテ リ",
+            "ja": "〜していただけますか？"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_sakupljati",
+      "scene": "sea_urchin",
+      "level": 2,
+      "hr": "sakupljati",
+      "ja": "集める、採る",
+      "pronunciation_ja": "サクプリャティ",
+      "part_of_speech": "verb",
+      "gender": null,
+      "tags": [
+        "sea_urchin",
+        "verb"
+      ],
+      "examples": [
+        {
+          "hr": "Smije li se sakupljati ovdje?",
+          "pronunciation_ja": "スミイェ リ セ サクプリャティ オヴディエ",
+          "ja": "ここで採ってもよいですか？"
+        }
+      ],
+      "grammar": {
+        "note_ja": "旅行用の実用語彙です。変化表は、今後ファイルを追加してより詳しく差し替えできます。",
+        "conjugation": [
+          {
+            "person": "ja",
+            "form": "sakupljam",
+            "pronunciation_ja": "",
+            "ja": "私は 集める、採る"
+          },
+          {
+            "person": "ti",
+            "form": "sakupljaš",
+            "pronunciation_ja": "",
+            "ja": "君は 集める、採る"
+          },
+          {
+            "person": "on/ona/ono",
+            "form": "sakuplja",
+            "pronunciation_ja": "",
+            "ja": "彼/彼女は 集める、採る"
+          },
+          {
+            "person": "mi",
+            "form": "sakupljamo",
+            "pronunciation_ja": "",
+            "ja": "私たちは 集める、採る"
+          },
+          {
+            "person": "vi",
+            "form": "sakupljate",
+            "pronunciation_ja": "",
+            "ja": "あなた/あなたたちは 集める、採る"
+          },
+          {
+            "person": "oni/one/ona",
+            "form": "sakupljaju",
+            "pronunciation_ja": "",
+            "ja": "彼らは 集める、採る"
+          }
+        ],
+        "imperative": [
+          {
+            "label": "丁寧な依頼",
+            "form": "Možete li + 不定詞?",
+            "pronunciation_ja": "モジェテ リ",
+            "ja": "〜していただけますか？"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_pitati",
+      "scene": "basic",
+      "level": 1,
+      "hr": "pitati",
+      "ja": "尋ねる",
+      "pronunciation_ja": "ピタティ",
+      "part_of_speech": "verb",
+      "gender": null,
+      "tags": [
+        "basic",
+        "verb"
+      ],
+      "examples": [
+        {
+          "hr": "Želim pitati nešto.",
+          "pronunciation_ja": "ジェリム ピタティ ネシュト",
+          "ja": "少し聞きたいです。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "旅行用の実用語彙です。変化表は、今後ファイルを追加してより詳しく差し替えできます。",
+        "conjugation": [
+          {
+            "person": "ja",
+            "form": "pitam",
+            "pronunciation_ja": "",
+            "ja": "私は 尋ねる"
+          },
+          {
+            "person": "ti",
+            "form": "pitaš",
+            "pronunciation_ja": "",
+            "ja": "君は 尋ねる"
+          },
+          {
+            "person": "on/ona/ono",
+            "form": "pita",
+            "pronunciation_ja": "",
+            "ja": "彼/彼女は 尋ねる"
+          },
+          {
+            "person": "mi",
+            "form": "pitamo",
+            "pronunciation_ja": "",
+            "ja": "私たちは 尋ねる"
+          },
+          {
+            "person": "vi",
+            "form": "pitate",
+            "pronunciation_ja": "",
+            "ja": "あなた/あなたたちは 尋ねる"
+          },
+          {
+            "person": "oni/one/ona",
+            "form": "pitaju",
+            "pronunciation_ja": "",
+            "ja": "彼らは 尋ねる"
+          }
+        ],
+        "imperative": [
+          {
+            "label": "丁寧な依頼",
+            "form": "Možete li + 不定詞?",
+            "pronunciation_ja": "モジェテ リ",
+            "ja": "〜していただけますか？"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_otvoriti",
+      "scene": "tourism",
+      "level": 1,
+      "hr": "otvoriti",
+      "ja": "開ける",
+      "pronunciation_ja": "オトヴォリティ",
+      "part_of_speech": "verb",
+      "gender": null,
+      "tags": [
+        "tourism",
+        "verb"
+      ],
+      "examples": [
+        {
+          "hr": "Kada se otvara muzej?",
+          "pronunciation_ja": "カダ セ オトヴァラ ムゼイ",
+          "ja": "博物館はいつ開きますか？"
+        }
+      ],
+      "grammar": {
+        "note_ja": "旅行用の実用語彙です。変化表は、今後ファイルを追加してより詳しく差し替えできます。",
+        "conjugation": [
+          {
+            "person": "ja",
+            "form": "otvorim",
+            "pronunciation_ja": "",
+            "ja": "私は 開ける"
+          },
+          {
+            "person": "ti",
+            "form": "otvoriš",
+            "pronunciation_ja": "",
+            "ja": "君は 開ける"
+          },
+          {
+            "person": "on/ona/ono",
+            "form": "otvori",
+            "pronunciation_ja": "",
+            "ja": "彼/彼女は 開ける"
+          },
+          {
+            "person": "mi",
+            "form": "otvorimo",
+            "pronunciation_ja": "",
+            "ja": "私たちは 開ける"
+          },
+          {
+            "person": "vi",
+            "form": "otvorite",
+            "pronunciation_ja": "",
+            "ja": "あなた/あなたたちは 開ける"
+          },
+          {
+            "person": "oni/one/ona",
+            "form": "otvore",
+            "pronunciation_ja": "",
+            "ja": "彼らは 開ける"
+          }
+        ],
+        "imperative": [
+          {
+            "label": "丁寧な依頼",
+            "form": "Možete li + 不定詞?",
+            "pronunciation_ja": "モジェテ リ",
+            "ja": "〜していただけますか？"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_zatvoriti",
+      "scene": "tourism",
+      "level": 1,
+      "hr": "zatvoriti",
+      "ja": "閉める",
+      "pronunciation_ja": "ザトヴォリティ",
+      "part_of_speech": "verb",
+      "gender": null,
+      "tags": [
+        "tourism",
+        "verb"
+      ],
+      "examples": [
+        {
+          "hr": "Kada se zatvara?",
+          "pronunciation_ja": "カダ セ ザトヴァラ",
+          "ja": "いつ閉まりますか？"
+        }
+      ],
+      "grammar": {
+        "note_ja": "旅行用の実用語彙です。変化表は、今後ファイルを追加してより詳しく差し替えできます。",
+        "conjugation": [
+          {
+            "person": "ja",
+            "form": "zatvorim",
+            "pronunciation_ja": "",
+            "ja": "私は 閉める"
+          },
+          {
+            "person": "ti",
+            "form": "zatvoriš",
+            "pronunciation_ja": "",
+            "ja": "君は 閉める"
+          },
+          {
+            "person": "on/ona/ono",
+            "form": "zatvori",
+            "pronunciation_ja": "",
+            "ja": "彼/彼女は 閉める"
+          },
+          {
+            "person": "mi",
+            "form": "zatvorimo",
+            "pronunciation_ja": "",
+            "ja": "私たちは 閉める"
+          },
+          {
+            "person": "vi",
+            "form": "zatvorite",
+            "pronunciation_ja": "",
+            "ja": "あなた/あなたたちは 閉める"
+          },
+          {
+            "person": "oni/one/ona",
+            "form": "zatvore",
+            "pronunciation_ja": "",
+            "ja": "彼らは 閉める"
+          }
+        ],
+        "imperative": [
+          {
+            "label": "丁寧な依頼",
+            "form": "Možete li + 不定詞?",
+            "pronunciation_ja": "モジェテ リ",
+            "ja": "〜していただけますか？"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_polaziti",
+      "scene": "boat",
+      "level": 1,
+      "hr": "polaziti",
+      "ja": "出発する",
+      "pronunciation_ja": "ポラジティ",
+      "part_of_speech": "verb",
+      "gender": null,
+      "tags": [
+        "boat",
+        "verb"
+      ],
+      "examples": [
+        {
+          "hr": "Brod polazi u deset.",
+          "pronunciation_ja": "ブロド ポラジ ウ デセット",
+          "ja": "船は10時に出発します。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "旅行用の実用語彙です。変化表は、今後ファイルを追加してより詳しく差し替えできます。",
+        "conjugation": [
+          {
+            "person": "ja",
+            "form": "polazim",
+            "pronunciation_ja": "",
+            "ja": "私は 出発する"
+          },
+          {
+            "person": "ti",
+            "form": "polaziš",
+            "pronunciation_ja": "",
+            "ja": "君は 出発する"
+          },
+          {
+            "person": "on/ona/ono",
+            "form": "polazi",
+            "pronunciation_ja": "",
+            "ja": "彼/彼女は 出発する"
+          },
+          {
+            "person": "mi",
+            "form": "polazimo",
+            "pronunciation_ja": "",
+            "ja": "私たちは 出発する"
+          },
+          {
+            "person": "vi",
+            "form": "polazite",
+            "pronunciation_ja": "",
+            "ja": "あなた/あなたたちは 出発する"
+          },
+          {
+            "person": "oni/one/ona",
+            "form": "polaze",
+            "pronunciation_ja": "",
+            "ja": "彼らは 出発する"
+          }
+        ],
+        "imperative": [
+          {
+            "label": "丁寧な依頼",
+            "form": "Možete li + 不定詞?",
+            "pronunciation_ja": "モジェテ リ",
+            "ja": "〜していただけますか？"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_vratiti",
+      "scene": "boat",
+      "level": 2,
+      "hr": "vratiti se",
+      "ja": "戻る、帰る",
+      "pronunciation_ja": "ヴラティティ セ",
+      "part_of_speech": "verb",
+      "gender": null,
+      "tags": [
+        "boat",
+        "verb"
+      ],
+      "examples": [
+        {
+          "hr": "Kada se vraća brod?",
+          "pronunciation_ja": "カダ セ ヴラチャ ブロド",
+          "ja": "船はいつ戻りますか？"
+        }
+      ],
+      "grammar": {
+        "note_ja": "旅行用の実用語彙です。変化表は、今後ファイルを追加してより詳しく差し替えできます。",
+        "conjugation": [
+          {
+            "person": "ja",
+            "form": "vratim se",
+            "pronunciation_ja": "",
+            "ja": "私は 戻る、帰る"
+          },
+          {
+            "person": "ti",
+            "form": "vratiš se",
+            "pronunciation_ja": "",
+            "ja": "君は 戻る、帰る"
+          },
+          {
+            "person": "on/ona/ono",
+            "form": "vrati se",
+            "pronunciation_ja": "",
+            "ja": "彼/彼女は 戻る、帰る"
+          },
+          {
+            "person": "mi",
+            "form": "vratimo se",
+            "pronunciation_ja": "",
+            "ja": "私たちは 戻る、帰る"
+          },
+          {
+            "person": "vi",
+            "form": "vratite se",
+            "pronunciation_ja": "",
+            "ja": "あなた/あなたたちは 戻る、帰る"
+          },
+          {
+            "person": "oni/one/ona",
+            "form": "vrate se",
+            "pronunciation_ja": "",
+            "ja": "彼らは 戻る、帰る"
+          }
+        ],
+        "imperative": [
+          {
+            "label": "丁寧な依頼",
+            "form": "Možete li + 不定詞?",
+            "pronunciation_ja": "モジェテ リ",
+            "ja": "〜していただけますか？"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_svjez",
+      "scene": "fish_market",
+      "level": 1,
+      "hr": "svjež",
+      "ja": "新鮮な",
+      "pronunciation_ja": "スヴィェジュ",
+      "part_of_speech": "adjective",
+      "gender": null,
+      "tags": [
+        "fish_market",
+        "adjective"
+      ],
+      "examples": [
+        {
+          "hr": "Riba je svježa.",
+          "pronunciation_ja": "リバ イェ スヴィェジャ",
+          "ja": "魚は新鮮です。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "旅行用の実用語彙です。変化表は、今後ファイルを追加してより詳しく差し替えできます。",
+        "forms": [
+          {
+            "label": "男性",
+            "form": "svjež",
+            "pronunciation_ja": "スヴィェジュ",
+            "note": "男性名詞につく形"
+          },
+          {
+            "label": "女性",
+            "form": "（女性形）",
+            "pronunciation_ja": "",
+            "note": "riba, voda など"
+          },
+          {
+            "label": "中性",
+            "form": "（中性形）",
+            "pronunciation_ja": "",
+            "note": "more, vino など"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_sirov",
+      "scene": "fish_market",
+      "level": 2,
+      "hr": "sirov",
+      "ja": "生の",
+      "pronunciation_ja": "シロヴ",
+      "part_of_speech": "adjective",
+      "gender": null,
+      "tags": [
+        "fish_market",
+        "adjective"
+      ],
+      "examples": [
+        {
+          "hr": "Može li se jesti sirovo?",
+          "pronunciation_ja": "モジェ リ セ イェスティ シロヴォ",
+          "ja": "生で食べられますか？"
+        }
+      ],
+      "grammar": {
+        "note_ja": "旅行用の実用語彙です。変化表は、今後ファイルを追加してより詳しく差し替えできます。",
+        "forms": [
+          {
+            "label": "男性",
+            "form": "sirov",
+            "pronunciation_ja": "シロヴ",
+            "note": "男性名詞につく形"
+          },
+          {
+            "label": "女性",
+            "form": "（女性形）",
+            "pronunciation_ja": "",
+            "note": "riba, voda など"
+          },
+          {
+            "label": "中性",
+            "form": "（中性形）",
+            "pronunciation_ja": "",
+            "note": "more, vino など"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_hladan",
+      "scene": "sea",
+      "level": 1,
+      "hr": "hladan",
+      "ja": "冷たい",
+      "pronunciation_ja": "フラダン",
+      "part_of_speech": "adjective",
+      "gender": null,
+      "tags": [
+        "sea",
+        "adjective"
+      ],
+      "examples": [
+        {
+          "hr": "Voda je hladna.",
+          "pronunciation_ja": "ヴォダ イェ フラドナ",
+          "ja": "水は冷たいです。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "旅行用の実用語彙です。変化表は、今後ファイルを追加してより詳しく差し替えできます。",
+        "forms": [
+          {
+            "label": "男性",
+            "form": "hladan",
+            "pronunciation_ja": "フラダン",
+            "note": "男性名詞につく形"
+          },
+          {
+            "label": "女性",
+            "form": "（女性形）",
+            "pronunciation_ja": "",
+            "note": "riba, voda など"
+          },
+          {
+            "label": "中性",
+            "form": "（中性形）",
+            "pronunciation_ja": "",
+            "note": "more, vino など"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_topao",
+      "scene": "sea",
+      "level": 1,
+      "hr": "topao",
+      "ja": "暖かい",
+      "pronunciation_ja": "トパオ",
+      "part_of_speech": "adjective",
+      "gender": null,
+      "tags": [
+        "sea",
+        "adjective"
+      ],
+      "examples": [
+        {
+          "hr": "More je toplo.",
+          "pronunciation_ja": "モレ イェ トプロ",
+          "ja": "海は暖かいです。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "旅行用の実用語彙です。変化表は、今後ファイルを追加してより詳しく差し替えできます。",
+        "forms": [
+          {
+            "label": "男性",
+            "form": "topao",
+            "pronunciation_ja": "トパオ",
+            "note": "男性名詞につく形"
+          },
+          {
+            "label": "女性",
+            "form": "（女性形）",
+            "pronunciation_ja": "",
+            "note": "riba, voda など"
+          },
+          {
+            "label": "中性",
+            "form": "（中性形）",
+            "pronunciation_ja": "",
+            "note": "more, vino など"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_opasan",
+      "scene": "sea_urchin",
+      "level": 2,
+      "hr": "opasan",
+      "ja": "危険な",
+      "pronunciation_ja": "オパサン",
+      "part_of_speech": "adjective",
+      "gender": null,
+      "tags": [
+        "sea_urchin",
+        "adjective"
+      ],
+      "examples": [
+        {
+          "hr": "Je li opasno?",
+          "pronunciation_ja": "イェ リ オパスノ",
+          "ja": "危険ですか？"
+        }
+      ],
+      "grammar": {
+        "note_ja": "旅行用の実用語彙です。変化表は、今後ファイルを追加してより詳しく差し替えできます。",
+        "forms": [
+          {
+            "label": "男性",
+            "form": "opasan",
+            "pronunciation_ja": "オパサン",
+            "note": "男性名詞につく形"
+          },
+          {
+            "label": "女性",
+            "form": "（女性形）",
+            "pronunciation_ja": "",
+            "note": "riba, voda など"
+          },
+          {
+            "label": "中性",
+            "form": "（中性形）",
+            "pronunciation_ja": "",
+            "note": "more, vino など"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vocab_blizu",
+      "scene": "tourism",
+      "level": 1,
+      "hr": "blizu",
+      "ja": "近い、近くに",
+      "pronunciation_ja": "ブリズ",
+      "part_of_speech": "adverb",
+      "gender": null,
+      "tags": [
+        "tourism",
+        "adverb"
+      ],
+      "examples": [
+        {
+          "hr": "Stanica je blizu.",
+          "pronunciation_ja": "スタニツァ イェ ブリズ",
+          "ja": "停留所は近いです。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "旅行用の実用語彙です。変化表は、今後ファイルを追加してより詳しく差し替えできます。"
+      }
+    },
+    {
+      "id": "vocab_daleko",
+      "scene": "tourism",
+      "level": 1,
+      "hr": "daleko",
+      "ja": "遠い",
+      "pronunciation_ja": "ダレコ",
+      "part_of_speech": "adverb",
+      "gender": null,
+      "tags": [
+        "tourism",
+        "adverb"
+      ],
+      "examples": [
+        {
+          "hr": "Je li daleko?",
+          "pronunciation_ja": "イェ リ ダレコ",
+          "ja": "遠いですか？"
+        }
+      ],
+      "grammar": {
+        "note_ja": "旅行用の実用語彙です。変化表は、今後ファイルを追加してより詳しく差し替えできます。"
+      }
+    },
+    {
+      "id": "vocab_danas",
+      "scene": "basic",
+      "level": 1,
+      "hr": "danas",
+      "ja": "今日",
+      "pronunciation_ja": "ダナス",
+      "part_of_speech": "adverb",
+      "gender": null,
+      "tags": [
+        "basic",
+        "adverb"
+      ],
+      "examples": [
+        {
+          "hr": "Danas idem na plažu.",
+          "pronunciation_ja": "ダナス イデム ナ プラジュ",
+          "ja": "今日はビーチへ行きます。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "旅行用の実用語彙です。変化表は、今後ファイルを追加してより詳しく差し替えできます。"
+      }
+    },
+    {
+      "id": "vocab_sutra",
+      "scene": "basic",
+      "level": 1,
+      "hr": "sutra",
+      "ja": "明日",
+      "pronunciation_ja": "ストラ",
+      "part_of_speech": "adverb",
+      "gender": null,
+      "tags": [
+        "basic",
+        "adverb"
+      ],
+      "examples": [
+        {
+          "hr": "Sutra idemo na otok.",
+          "pronunciation_ja": "ストラ イデモ ナ オトク",
+          "ja": "明日、島へ行きます。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "旅行用の実用語彙です。変化表は、今後ファイルを追加してより詳しく差し替えできます。"
+      }
+    },
+    {
+      "id": "vocab_jucer",
+      "scene": "basic",
+      "level": 1,
+      "hr": "jučer",
+      "ja": "昨日",
+      "pronunciation_ja": "ユチェル",
+      "part_of_speech": "adverb",
+      "gender": null,
+      "tags": [
+        "basic",
+        "adverb"
+      ],
+      "examples": [
+        {
+          "hr": "Jučer je bilo vruće.",
+          "pronunciation_ja": "ユチェル イェ ビロ ヴルチェ",
+          "ja": "昨日は暑かったです。"
+        }
+      ],
+      "grammar": {
+        "note_ja": "旅行用の実用語彙です。変化表は、今後ファイルを追加してより詳しく差し替えできます。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,5144 @@
+{
+  "items": [
+    {
+      "id": "extra_sent_001",
+      "scene": "boat",
+      "level": 1,
+      "ja": "船は何時に出発しますか？",
+      "hr": "Kada polazi brod?",
+      "pronunciation_ja": "カダ ポラジ ブロド",
+      "tags": [
+        "boat",
+        "question_time"
+      ],
+      "tokens": [
+        {
+          "hr": "Kada",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "polazi",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "brod",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Kada polazi brod?",
+        "Kada polazi brod"
+      ],
+      "accepted_answers_ja": [
+        "船は何時に出発しますか？",
+        "船は何時に出発しますか"
+      ],
+      "grammar": {
+        "title": "旅行会話でよく使う文型",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_002",
+      "scene": "boat",
+      "level": 1,
+      "ja": "この船は島へ行きますか？",
+      "hr": "Ide li ovaj brod na otok?",
+      "pronunciation_ja": "イデ リ オヴァイ ブロド ナ オトク",
+      "tags": [
+        "boat",
+        "yes_no"
+      ],
+      "tokens": [
+        {
+          "hr": "Ide",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "li",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "ovaj",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "brod",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "na",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "otok",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Ide li ovaj brod na otok?",
+        "Ide li ovaj brod na otok"
+      ],
+      "accepted_answers_ja": [
+        "この船は島へ行きますか？",
+        "この船は島へ行きますか"
+      ],
+      "grammar": {
+        "title": "旅行会話でよく使う文型",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_003",
+      "scene": "boat",
+      "level": 1,
+      "ja": "帰りのチケットも欲しいです。",
+      "hr": "Želim i povratnu kartu.",
+      "pronunciation_ja": "ジェリム イ ポヴラトヌ カルトゥ",
+      "tags": [
+        "boat",
+        "want"
+      ],
+      "tokens": [
+        {
+          "hr": "Želim",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "i",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "povratnu",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "kartu",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Želim i povratnu kartu.",
+        "Želim i povratnu kartu"
+      ],
+      "accepted_answers_ja": [
+        "帰りのチケットも欲しいです。",
+        "帰りのチケットも欲しいです"
+      ],
+      "grammar": {
+        "title": "旅行会話でよく使う文型",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_004",
+      "scene": "boat",
+      "level": 2,
+      "ja": "帰りの船は午後6時です。",
+      "hr": "Povratni brod je u šest popodne.",
+      "pronunciation_ja": "ポヴラトニ ブロド イェ ウ シェスト ポポドネ",
+      "tags": [
+        "boat",
+        "time"
+      ],
+      "tokens": [
+        {
+          "hr": "Povratni",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "brod",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "je",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "u",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "šest",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "popodne",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Povratni brod je u šest popodne.",
+        "Povratni brod je u šest popodne"
+      ],
+      "accepted_answers_ja": [
+        "帰りの船は午後6時です。",
+        "帰りの船は午後6時です"
+      ],
+      "grammar": {
+        "title": "時刻表現",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_005",
+      "scene": "boat",
+      "level": 1,
+      "ja": "港はどこですか？",
+      "hr": "Gdje je luka?",
+      "pronunciation_ja": "グデ イェ ルカ",
+      "tags": [
+        "boat",
+        "where"
+      ],
+      "tokens": [
+        {
+          "hr": "Gdje",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "je",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "luka",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Gdje je luka?",
+        "Gdje je luka"
+      ],
+      "accepted_answers_ja": [
+        "港はどこですか？",
+        "港はどこですか"
+      ],
+      "grammar": {
+        "title": "場所を聞く表現",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_006",
+      "scene": "boat",
+      "level": 2,
+      "ja": "時刻表を見せてもらえますか？",
+      "hr": "Možete li mi pokazati vozni red?",
+      "pronunciation_ja": "モジェテ リ ミ ポカザティ ヴォズニ レド",
+      "tags": [
+        "boat",
+        "polite_request"
+      ],
+      "tokens": [
+        {
+          "hr": "Možete",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "li",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "mi",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "pokazati",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "vozni",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "red",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Možete li mi pokazati vozni red?",
+        "Možete li mi pokazati vozni red"
+      ],
+      "accepted_answers_ja": [
+        "時刻表を見せてもらえますか？",
+        "時刻表を見せてもらえますか"
+      ],
+      "grammar": {
+        "title": "丁寧な依頼表現",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_007",
+      "scene": "supermarket",
+      "level": 1,
+      "ja": "水のボトルを2本ください。",
+      "hr": "Dvije boce vode, molim.",
+      "pronunciation_ja": "ドヴィイェ ボツェ ヴォデ モリム",
+      "tags": [
+        "supermarket",
+        "quantity"
+      ],
+      "tokens": [
+        {
+          "hr": "Dvije",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "boce",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "vode",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "molim",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Dvije boce vode, molim.",
+        "Dvije boce vode, molim"
+      ],
+      "accepted_answers_ja": [
+        "水のボトルを2本ください。",
+        "水のボトルを2本ください"
+      ],
+      "grammar": {
+        "title": "数量表現",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_008",
+      "scene": "supermarket",
+      "level": 1,
+      "ja": "袋は必要ありません。",
+      "hr": "Ne trebam vrećicu.",
+      "pronunciation_ja": "ネ トレバム ヴレチツ",
+      "tags": [
+        "supermarket",
+        "negative"
+      ],
+      "tokens": [
+        {
+          "hr": "Ne",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "trebam",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "vrećicu",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Ne trebam vrećicu.",
+        "Ne trebam vrećicu"
+      ],
+      "accepted_answers_ja": [
+        "袋は必要ありません。",
+        "袋は必要ありません"
+      ],
+      "grammar": {
+        "title": "旅行会話でよく使う文型",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_009",
+      "scene": "supermarket",
+      "level": 1,
+      "ja": "カードで支払えますか？",
+      "hr": "Mogu li platiti karticom?",
+      "pronunciation_ja": "モグ リ プラティティ カルティツォム",
+      "tags": [
+        "supermarket",
+        "can"
+      ],
+      "tokens": [
+        {
+          "hr": "Mogu",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "li",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "platiti",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "karticom",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Mogu li platiti karticom?",
+        "Mogu li platiti karticom"
+      ],
+      "accepted_answers_ja": [
+        "カードで支払えますか？",
+        "カードで支払えますか"
+      ],
+      "grammar": {
+        "title": "旅行会話でよく使う文型",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_010",
+      "scene": "supermarket",
+      "level": 1,
+      "ja": "レシートをください。",
+      "hr": "Račun, molim.",
+      "pronunciation_ja": "ラチュン モリム",
+      "tags": [
+        "supermarket",
+        "request"
+      ],
+      "tokens": [
+        {
+          "hr": "Račun",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "molim",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Račun, molim.",
+        "Račun, molim"
+      ],
+      "accepted_answers_ja": [
+        "レシートをください。",
+        "レシートをください"
+      ],
+      "grammar": {
+        "title": "旅行会話でよく使う文型",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_011",
+      "scene": "supermarket",
+      "level": 1,
+      "ja": "このチーズはいくらですか？",
+      "hr": "Koliko košta ovaj sir?",
+      "pronunciation_ja": "コリコ コシュタ オヴァイ シル",
+      "tags": [
+        "supermarket",
+        "price"
+      ],
+      "tokens": [
+        {
+          "hr": "Koliko",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "košta",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "ovaj",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "sir",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Koliko košta ovaj sir?",
+        "Koliko košta ovaj sir"
+      ],
+      "accepted_answers_ja": [
+        "このチーズはいくらですか？",
+        "このチーズはいくらですか"
+      ],
+      "grammar": {
+        "title": "値段を聞く表現",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_012",
+      "scene": "supermarket",
+      "level": 2,
+      "ja": "オリーブオイルを探しています。",
+      "hr": "Tražim maslinovo ulje.",
+      "pronunciation_ja": "トラジム マスリノヴォ ウリェ",
+      "tags": [
+        "supermarket",
+        "search"
+      ],
+      "tokens": [
+        {
+          "hr": "Tražim",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "maslinovo",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "ulje",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Tražim maslinovo ulje.",
+        "Tražim maslinovo ulje"
+      ],
+      "accepted_answers_ja": [
+        "オリーブオイルを探しています。",
+        "オリーブオイルを探しています"
+      ],
+      "grammar": {
+        "title": "旅行会話でよく使う文型",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_013",
+      "scene": "supermarket",
+      "level": 2,
+      "ja": "今日は店は何時まで開いていますか？",
+      "hr": "Do kada je trgovina otvorena danas?",
+      "pronunciation_ja": "ド カダ イェ トルゴヴィナ オトヴォレナ ダナス",
+      "tags": [
+        "supermarket",
+        "opening_hours"
+      ],
+      "tokens": [
+        {
+          "hr": "Do",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "kada",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "je",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "trgovina",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "otvorena",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "danas",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Do kada je trgovina otvorena danas?",
+        "Do kada je trgovina otvorena danas"
+      ],
+      "accepted_answers_ja": [
+        "今日は店は何時まで開いていますか？",
+        "今日は店は何時まで開いていますか"
+      ],
+      "grammar": {
+        "title": "旅行会話でよく使う文型",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_014",
+      "scene": "fish_market",
+      "level": 1,
+      "ja": "500グラムください。",
+      "hr": "Petsto grama, molim.",
+      "pronunciation_ja": "ペトスト グラマ モリム",
+      "tags": [
+        "fish_market",
+        "quantity"
+      ],
+      "tokens": [
+        {
+          "hr": "Petsto",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "grama",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "molim",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Petsto grama, molim.",
+        "Petsto grama, molim"
+      ],
+      "accepted_answers_ja": [
+        "500グラムください。",
+        "500グラムください"
+      ],
+      "grammar": {
+        "title": "数量表現",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_015",
+      "scene": "fish_market",
+      "level": 1,
+      "ja": "この魚は今日獲れたものですか？",
+      "hr": "Je li ova riba ulovljena danas?",
+      "pronunciation_ja": "イェ リ オヴァ リバ ウロヴリェナ ダナス",
+      "tags": [
+        "fish_market",
+        "freshness"
+      ],
+      "tokens": [
+        {
+          "hr": "Je",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "li",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "ova",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "riba",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "ulovljena",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "danas",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Je li ova riba ulovljena danas?",
+        "Je li ova riba ulovljena danas"
+      ],
+      "accepted_answers_ja": [
+        "この魚は今日獲れたものですか？",
+        "この魚は今日獲れたものですか"
+      ],
+      "grammar": {
+        "title": "旅行会話でよく使う文型",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_016",
+      "scene": "fish_market",
+      "level": 1,
+      "ja": "魚を捌いてもらえますか？",
+      "hr": "Možete li očistiti ribu?",
+      "pronunciation_ja": "モジェテ リ オチスティティ リブ",
+      "tags": [
+        "fish_market",
+        "polite_request"
+      ],
+      "tokens": [
+        {
+          "hr": "Možete",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "li",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "očistiti",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "ribu",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Možete li očistiti ribu?",
+        "Možete li očistiti ribu"
+      ],
+      "accepted_answers_ja": [
+        "魚を捌いてもらえますか？",
+        "魚を捌いてもらえますか"
+      ],
+      "grammar": {
+        "title": "丁寧な依頼表現",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_017",
+      "scene": "fish_market",
+      "level": 2,
+      "ja": "生で食べられますか？",
+      "hr": "Može li se jesti sirovo?",
+      "pronunciation_ja": "モジェ リ セ イェスティ シロヴォ",
+      "tags": [
+        "fish_market",
+        "safety"
+      ],
+      "tokens": [
+        {
+          "hr": "Može",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "li",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "se",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "jesti",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "sirovo",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Može li se jesti sirovo?",
+        "Može li se jesti sirovo"
+      ],
+      "accepted_answers_ja": [
+        "生で食べられますか？",
+        "生で食べられますか"
+      ],
+      "grammar": {
+        "title": "安全確認表現",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_018",
+      "scene": "fish_market",
+      "level": 2,
+      "ja": "氷を少し入れてもらえますか？",
+      "hr": "Možete li dodati malo leda?",
+      "pronunciation_ja": "モジェテ リ ドダティ マロ レダ",
+      "tags": [
+        "fish_market",
+        "polite_request"
+      ],
+      "tokens": [
+        {
+          "hr": "Možete",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "li",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "dodati",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "malo",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "leda",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Možete li dodati malo leda?",
+        "Možete li dodati malo leda"
+      ],
+      "accepted_answers_ja": [
+        "氷を少し入れてもらえますか？",
+        "氷を少し入れてもらえますか"
+      ],
+      "grammar": {
+        "title": "丁寧な依頼表現",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_019",
+      "scene": "fish_market",
+      "level": 2,
+      "ja": "このイカは新鮮ですか？",
+      "hr": "Je li ova lignja svježa?",
+      "pronunciation_ja": "イェ リ オヴァ リグニャ スヴィェジャ",
+      "tags": [
+        "fish_market",
+        "freshness"
+      ],
+      "tokens": [
+        {
+          "hr": "Je",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "li",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "ova",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "lignja",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "svježa",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Je li ova lignja svježa?",
+        "Je li ova lignja svježa"
+      ],
+      "accepted_answers_ja": [
+        "このイカは新鮮ですか？",
+        "このイカは新鮮ですか"
+      ],
+      "grammar": {
+        "title": "旅行会話でよく使う文型",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_020",
+      "scene": "fish_market",
+      "level": 2,
+      "ja": "スキャンピはありますか？",
+      "hr": "Imate li škampe?",
+      "pronunciation_ja": "イマテ リ シュカンペ",
+      "tags": [
+        "fish_market",
+        "availability"
+      ],
+      "tokens": [
+        {
+          "hr": "Imate",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "li",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "škampe",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Imate li škampe?",
+        "Imate li škampe"
+      ],
+      "accepted_answers_ja": [
+        "スキャンピはありますか？",
+        "スキャンピはありますか"
+      ],
+      "grammar": {
+        "title": "旅行会話でよく使う文型",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_021",
+      "scene": "sea",
+      "level": 1,
+      "ja": "今日はビーチへ行きます。",
+      "hr": "Danas idem na plažu.",
+      "pronunciation_ja": "ダナス イデム ナ プラジュ",
+      "tags": [
+        "sea",
+        "today"
+      ],
+      "tokens": [
+        {
+          "hr": "Danas",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "idem",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "na",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "plažu",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Danas idem na plažu.",
+        "Danas idem na plažu"
+      ],
+      "accepted_answers_ja": [
+        "今日はビーチへ行きます。",
+        "今日はビーチへ行きます"
+      ],
+      "grammar": {
+        "title": "旅行会話でよく使う文型",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_022",
+      "scene": "sea",
+      "level": 1,
+      "ja": "ここで泳いでもいいですか？",
+      "hr": "Smijem li ovdje plivati?",
+      "pronunciation_ja": "スミイェム リ オヴディエ プリヴァティ",
+      "tags": [
+        "sea",
+        "permission"
+      ],
+      "tokens": [
+        {
+          "hr": "Smijem",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "li",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "ovdje",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "plivati",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Smijem li ovdje plivati?",
+        "Smijem li ovdje plivati"
+      ],
+      "accepted_answers_ja": [
+        "ここで泳いでもいいですか？",
+        "ここで泳いでもいいですか"
+      ],
+      "grammar": {
+        "title": "許可を求める表現",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_023",
+      "scene": "sea",
+      "level": 1,
+      "ja": "水は冷たいですか？",
+      "hr": "Je li voda hladna?",
+      "pronunciation_ja": "イェ リ ヴォダ フラドナ",
+      "tags": [
+        "sea",
+        "adjective"
+      ],
+      "tokens": [
+        {
+          "hr": "Je",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "li",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "voda",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "hladna",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Je li voda hladna?",
+        "Je li voda hladna"
+      ],
+      "accepted_answers_ja": [
+        "水は冷たいですか？",
+        "水は冷たいですか"
+      ],
+      "grammar": {
+        "title": "旅行会話でよく使う文型",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_024",
+      "scene": "sea",
+      "level": 1,
+      "ja": "日陰はありますか？",
+      "hr": "Ima li sjene?",
+      "pronunciation_ja": "イマ リ シェネ",
+      "tags": [
+        "sea",
+        "availability"
+      ],
+      "tokens": [
+        {
+          "hr": "Ima",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "li",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "sjene",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Ima li sjene?",
+        "Ima li sjene"
+      ],
+      "accepted_answers_ja": [
+        "日陰はありますか？",
+        "日陰はありますか"
+      ],
+      "grammar": {
+        "title": "旅行会話でよく使う文型",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_025",
+      "scene": "sea",
+      "level": 2,
+      "ja": "明日は風が強いですか？",
+      "hr": "Je li sutra jak vjetar?",
+      "pronunciation_ja": "イェ リ ストラ ヤク ヴィェタル",
+      "tags": [
+        "sea",
+        "weather"
+      ],
+      "tokens": [
+        {
+          "hr": "Je",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "li",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "sutra",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "jak",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "vjetar",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Je li sutra jak vjetar?",
+        "Je li sutra jak vjetar"
+      ],
+      "accepted_answers_ja": [
+        "明日は風が強いですか？",
+        "明日は風が強いですか"
+      ],
+      "grammar": {
+        "title": "旅行会話でよく使う文型",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_026",
+      "scene": "sea",
+      "level": 2,
+      "ja": "岩に気をつけてください。",
+      "hr": "Pazite na kamenje.",
+      "pronunciation_ja": "パジテ ナ カメニェ",
+      "tags": [
+        "sea",
+        "warning"
+      ],
+      "tokens": [
+        {
+          "hr": "Pazite",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "na",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "kamenje",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Pazite na kamenje.",
+        "Pazite na kamenje"
+      ],
+      "accepted_answers_ja": [
+        "岩に気をつけてください。",
+        "岩に気をつけてください"
+      ],
+      "grammar": {
+        "title": "旅行会話でよく使う文型",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_027",
+      "scene": "sea",
+      "level": 2,
+      "ja": "パラソルを借りたいです。",
+      "hr": "Želim iznajmiti suncobran.",
+      "pronunciation_ja": "ジェリム イズナイミティ スンツォブラン",
+      "tags": [
+        "sea",
+        "want"
+      ],
+      "tokens": [
+        {
+          "hr": "Želim",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "iznajmiti",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "suncobran",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Želim iznajmiti suncobran.",
+        "Želim iznajmiti suncobran"
+      ],
+      "accepted_answers_ja": [
+        "パラソルを借りたいです。",
+        "パラソルを借りたいです"
+      ],
+      "grammar": {
+        "title": "旅行会話でよく使う文型",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_028",
+      "scene": "sea_urchin",
+      "level": 2,
+      "ja": "ここでウニを採ってもよいですか？",
+      "hr": "Smije li se ovdje sakupljati morske ježince?",
+      "pronunciation_ja": "スミイェ リ セ オヴディエ サクプリャティ モルスケ イェジンツェ",
+      "tags": [
+        "sea_urchin",
+        "permission"
+      ],
+      "tokens": [
+        {
+          "hr": "Smije",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "li",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "se",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "ovdje",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "sakupljati",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "morske",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "ježince",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Smije li se ovdje sakupljati morske ježince?",
+        "Smije li se ovdje sakupljati morske ježince"
+      ],
+      "accepted_answers_ja": [
+        "ここでウニを採ってもよいですか？",
+        "ここでウニを採ってもよいですか"
+      ],
+      "grammar": {
+        "title": "許可を求める表現",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_029",
+      "scene": "sea_urchin",
+      "level": 2,
+      "ja": "許可証が必要ですか？",
+      "hr": "Trebam li dozvolu?",
+      "pronunciation_ja": "トレバム リ ドズヴォル",
+      "tags": [
+        "sea_urchin",
+        "permission"
+      ],
+      "tokens": [
+        {
+          "hr": "Trebam",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "li",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "dozvolu",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Trebam li dozvolu?",
+        "Trebam li dozvolu"
+      ],
+      "accepted_answers_ja": [
+        "許可証が必要ですか？",
+        "許可証が必要ですか"
+      ],
+      "grammar": {
+        "title": "許可を求める表現",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_030",
+      "scene": "sea_urchin",
+      "level": 2,
+      "ja": "これは危険ですか？",
+      "hr": "Je li ovo opasno?",
+      "pronunciation_ja": "イェ リ オヴォ オパスノ",
+      "tags": [
+        "sea_urchin",
+        "safety"
+      ],
+      "tokens": [
+        {
+          "hr": "Je",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "li",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "ovo",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "opasno",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Je li ovo opasno?",
+        "Je li ovo opasno"
+      ],
+      "accepted_answers_ja": [
+        "これは危険ですか？",
+        "これは危険ですか"
+      ],
+      "grammar": {
+        "title": "安全確認表現",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_031",
+      "scene": "sea_urchin",
+      "level": 2,
+      "ja": "トゲが刺さりました。",
+      "hr": "Ubola me bodlja.",
+      "pronunciation_ja": "ウボラ メ ボドリャ",
+      "tags": [
+        "sea_urchin",
+        "emergency"
+      ],
+      "tokens": [
+        {
+          "hr": "Ubola",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "me",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "bodlja",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Ubola me bodlja.",
+        "Ubola me bodlja"
+      ],
+      "accepted_answers_ja": [
+        "トゲが刺さりました。",
+        "トゲが刺さりました"
+      ],
+      "grammar": {
+        "title": "旅行会話でよく使う文型",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_032",
+      "scene": "sea_urchin",
+      "level": 2,
+      "ja": "助けが必要です。",
+      "hr": "Trebam pomoć.",
+      "pronunciation_ja": "トレバム ポモチ",
+      "tags": [
+        "sea_urchin",
+        "emergency"
+      ],
+      "tokens": [
+        {
+          "hr": "Trebam",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "pomoć",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Trebam pomoć.",
+        "Trebam pomoć"
+      ],
+      "accepted_answers_ja": [
+        "助けが必要です。",
+        "助けが必要です"
+      ],
+      "grammar": {
+        "title": "旅行会話でよく使う文型",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_033",
+      "scene": "tourism",
+      "level": 1,
+      "ja": "博物館は今日開いていますか？",
+      "hr": "Je li muzej otvoren danas?",
+      "pronunciation_ja": "イェ リ ムゼイ オトヴォレン ダナス",
+      "tags": [
+        "tourism",
+        "opening_hours"
+      ],
+      "tokens": [
+        {
+          "hr": "Je",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "li",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "muzej",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "otvoren",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "danas",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Je li muzej otvoren danas?",
+        "Je li muzej otvoren danas"
+      ],
+      "accepted_answers_ja": [
+        "博物館は今日開いていますか？",
+        "博物館は今日開いていますか"
+      ],
+      "grammar": {
+        "title": "旅行会話でよく使う文型",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_034",
+      "scene": "tourism",
+      "level": 1,
+      "ja": "入場券はいくらですか？",
+      "hr": "Koliko košta ulaznica?",
+      "pronunciation_ja": "コリコ コシュタ ウラズニツァ",
+      "tags": [
+        "tourism",
+        "price"
+      ],
+      "tokens": [
+        {
+          "hr": "Koliko",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "košta",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "ulaznica",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Koliko košta ulaznica?",
+        "Koliko košta ulaznica"
+      ],
+      "accepted_answers_ja": [
+        "入場券はいくらですか？",
+        "入場券はいくらですか"
+      ],
+      "grammar": {
+        "title": "値段を聞く表現",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_035",
+      "scene": "tourism",
+      "level": 1,
+      "ja": "旧市街はどこですか？",
+      "hr": "Gdje je stari grad?",
+      "pronunciation_ja": "グデ イェ スタリ グラド",
+      "tags": [
+        "tourism",
+        "where"
+      ],
+      "tokens": [
+        {
+          "hr": "Gdje",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "je",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "stari",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "grad",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Gdje je stari grad?",
+        "Gdje je stari grad"
+      ],
+      "accepted_answers_ja": [
+        "旧市街はどこですか？",
+        "旧市街はどこですか"
+      ],
+      "grammar": {
+        "title": "場所を聞く表現",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_036",
+      "scene": "tourism",
+      "level": 1,
+      "ja": "写真を撮ってもいいですか？",
+      "hr": "Smijem li fotografirati?",
+      "pronunciation_ja": "スミイェム リ フォトグラフィラティ",
+      "tags": [
+        "tourism",
+        "permission"
+      ],
+      "tokens": [
+        {
+          "hr": "Smijem",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "li",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "fotografirati",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Smijem li fotografirati?",
+        "Smijem li fotografirati"
+      ],
+      "accepted_answers_ja": [
+        "写真を撮ってもいいですか？",
+        "写真を撮ってもいいですか"
+      ],
+      "grammar": {
+        "title": "許可を求める表現",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_037",
+      "scene": "tourism",
+      "level": 2,
+      "ja": "バス停はここから遠いですか？",
+      "hr": "Je li autobusna stanica daleko odavde?",
+      "pronunciation_ja": "イェ リ アウトブスナ スタニツァ ダレコ オダヴデ",
+      "tags": [
+        "tourism",
+        "distance"
+      ],
+      "tokens": [
+        {
+          "hr": "Je",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "li",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "autobusna",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "stanica",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "daleko",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "odavde",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Je li autobusna stanica daleko odavde?",
+        "Je li autobusna stanica daleko odavde"
+      ],
+      "accepted_answers_ja": [
+        "バス停はここから遠いですか？",
+        "バス停はここから遠いですか"
+      ],
+      "grammar": {
+        "title": "旅行会話でよく使う文型",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_038",
+      "scene": "tourism",
+      "level": 2,
+      "ja": "街の地図はありますか？",
+      "hr": "Imate li kartu grada?",
+      "pronunciation_ja": "イマテ リ カルトゥ グラダ",
+      "tags": [
+        "tourism",
+        "availability"
+      ],
+      "tokens": [
+        {
+          "hr": "Imate",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "li",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "kartu",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "grada",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Imate li kartu grada?",
+        "Imate li kartu grada"
+      ],
+      "accepted_answers_ja": [
+        "街の地図はありますか？",
+        "街の地図はありますか"
+      ],
+      "grammar": {
+        "title": "旅行会話でよく使う文型",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_039",
+      "scene": "basic",
+      "level": 1,
+      "ja": "すみません、少し聞いてもいいですか？",
+      "hr": "Oprostite, mogu li pitati nešto?",
+      "pronunciation_ja": "オプロスティテ モグ リ ピタティ ネシュト",
+      "tags": [
+        "basic",
+        "polite_request"
+      ],
+      "tokens": [
+        {
+          "hr": "Oprostite",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "mogu",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "li",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "pitati",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "nešto",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Oprostite, mogu li pitati nešto?",
+        "Oprostite, mogu li pitati nešto"
+      ],
+      "accepted_answers_ja": [
+        "すみません、少し聞いてもいいですか？",
+        "すみません、少し聞いてもいいですか"
+      ],
+      "grammar": {
+        "title": "丁寧な依頼表現",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_040",
+      "scene": "basic",
+      "level": 1,
+      "ja": "クロアチア語は少しだけ話せます。",
+      "hr": "Govorim malo hrvatski.",
+      "pronunciation_ja": "ゴヴォリム マロ フルヴァツキ",
+      "tags": [
+        "basic",
+        "self_intro"
+      ],
+      "tokens": [
+        {
+          "hr": "Govorim",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "malo",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "hrvatski",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Govorim malo hrvatski.",
+        "Govorim malo hrvatski"
+      ],
+      "accepted_answers_ja": [
+        "クロアチア語は少しだけ話せます。",
+        "クロアチア語は少しだけ話せます"
+      ],
+      "grammar": {
+        "title": "旅行会話でよく使う文型",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_041",
+      "scene": "basic",
+      "level": 1,
+      "ja": "英語を話せますか？",
+      "hr": "Govorite li engleski?",
+      "pronunciation_ja": "ゴヴォリテ リ エングレスキ",
+      "tags": [
+        "basic",
+        "language"
+      ],
+      "tokens": [
+        {
+          "hr": "Govorite",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "li",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "engleski",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Govorite li engleski?",
+        "Govorite li engleski"
+      ],
+      "accepted_answers_ja": [
+        "英語を話せますか？",
+        "英語を話せますか"
+      ],
+      "grammar": {
+        "title": "旅行会話でよく使う文型",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_042",
+      "scene": "basic",
+      "level": 1,
+      "ja": "もう一度お願いします。",
+      "hr": "Još jednom, molim.",
+      "pronunciation_ja": "ヨシュ イェドノム モリム",
+      "tags": [
+        "basic",
+        "request"
+      ],
+      "tokens": [
+        {
+          "hr": "Još",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "jednom",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "molim",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Još jednom, molim.",
+        "Još jednom, molim"
+      ],
+      "accepted_answers_ja": [
+        "もう一度お願いします。",
+        "もう一度お願いします"
+      ],
+      "grammar": {
+        "title": "旅行会話でよく使う文型",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_043",
+      "scene": "basic",
+      "level": 1,
+      "ja": "ゆっくり話してください。",
+      "hr": "Govorite polako, molim.",
+      "pronunciation_ja": "ゴヴォリテ ポラコ モリム",
+      "tags": [
+        "basic",
+        "request"
+      ],
+      "tokens": [
+        {
+          "hr": "Govorite",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "polako",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "molim",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Govorite polako, molim.",
+        "Govorite polako, molim"
+      ],
+      "accepted_answers_ja": [
+        "ゆっくり話してください。",
+        "ゆっくり話してください"
+      ],
+      "grammar": {
+        "title": "旅行会話でよく使う文型",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_044",
+      "scene": "basic",
+      "level": 2,
+      "ja": "薬局はどこですか？",
+      "hr": "Gdje je ljekarna?",
+      "pronunciation_ja": "グデ イェ リェカルナ",
+      "tags": [
+        "basic",
+        "where"
+      ],
+      "tokens": [
+        {
+          "hr": "Gdje",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "je",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "ljekarna",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Gdje je ljekarna?",
+        "Gdje je ljekarna"
+      ],
+      "accepted_answers_ja": [
+        "薬局はどこですか？",
+        "薬局はどこですか"
+      ],
+      "grammar": {
+        "title": "場所を聞く表現",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_045",
+      "scene": "basic",
+      "level": 2,
+      "ja": "今日は6月5日です。",
+      "hr": "Danas je peti lipnja.",
+      "pronunciation_ja": "ダナス イェ ペティ リプニャ",
+      "tags": [
+        "basic",
+        "date"
+      ],
+      "tokens": [
+        {
+          "hr": "Danas",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "je",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "peti",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "lipnja",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Danas je peti lipnja.",
+        "Danas je peti lipnja"
+      ],
+      "accepted_answers_ja": [
+        "今日は6月5日です。",
+        "今日は6月5日です"
+      ],
+      "grammar": {
+        "title": "日付表現",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_046",
+      "scene": "basic",
+      "level": 2,
+      "ja": "私は7月にクロアチアへ行きます。",
+      "hr": "Idem u Hrvatsku u srpnju.",
+      "pronunciation_ja": "イデム ウ フルヴァツク ウ スルプニュ",
+      "tags": [
+        "basic",
+        "month"
+      ],
+      "tokens": [
+        {
+          "hr": "Idem",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "u",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "Hrvatsku",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "u",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "srpnju",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Idem u Hrvatsku u srpnju.",
+        "Idem u Hrvatsku u srpnju"
+      ],
+      "accepted_answers_ja": [
+        "私は7月にクロアチアへ行きます。",
+        "私は7月にクロアチアへ行きます"
+      ],
+      "grammar": {
+        "title": "月の表現",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_047",
+      "scene": "basic",
+      "level": 2,
+      "ja": "8月はとても暑いです。",
+      "hr": "U kolovozu je jako vruće.",
+      "pronunciation_ja": "ウ コロヴォズ イェ ヤコ ヴルチェ",
+      "tags": [
+        "basic",
+        "month"
+      ],
+      "tokens": [
+        {
+          "hr": "U",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "kolovozu",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "je",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "jako",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "vruće",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "U kolovozu je jako vruće.",
+        "U kolovozu je jako vruće"
+      ],
+      "accepted_answers_ja": [
+        "8月はとても暑いです。",
+        "8月はとても暑いです"
+      ],
+      "grammar": {
+        "title": "月の表現",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_048",
+      "scene": "boat",
+      "level": 2,
+      "ja": "船は月曜日から金曜日まで運航します。",
+      "hr": "Brod vozi od ponedjeljka do petka.",
+      "pronunciation_ja": "ブロド ヴォジ オド ポネジェリカ ド ペトカ",
+      "tags": [
+        "boat",
+        "weekday"
+      ],
+      "tokens": [
+        {
+          "hr": "Brod",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "vozi",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "od",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "ponedjeljka",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "do",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "petka",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Brod vozi od ponedjeljka do petka.",
+        "Brod vozi od ponedjeljka do petka"
+      ],
+      "accepted_answers_ja": [
+        "船は月曜日から金曜日まで運航します。",
+        "船は月曜日から金曜日まで運航します"
+      ],
+      "grammar": {
+        "title": "曜日表現",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_049",
+      "scene": "supermarket",
+      "level": 2,
+      "ja": "レジは午後9時まで開いています。",
+      "hr": "Blagajna je otvorena do devet navečer.",
+      "pronunciation_ja": "ブラガイナ イェ オトヴォレナ ド デヴェト ナヴェチェル",
+      "tags": [
+        "supermarket",
+        "time"
+      ],
+      "tokens": [
+        {
+          "hr": "Blagajna",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "je",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "otvorena",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "do",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "devet",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "navečer",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Blagajna je otvorena do devet navečer.",
+        "Blagajna je otvorena do devet navečer"
+      ],
+      "accepted_answers_ja": [
+        "レジは午後9時まで開いています。",
+        "レジは午後9時まで開いています"
+      ],
+      "grammar": {
+        "title": "時刻表現",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    },
+    {
+      "id": "extra_sent_050",
+      "scene": "fish_market",
+      "level": 2,
+      "ja": "654グラムでも大丈夫です。",
+      "hr": "Šeststo pedeset četiri grama je u redu.",
+      "pronunciation_ja": "シェストスト ペデセット チェティリ グラマ イェ ウ レドゥ",
+      "tags": [
+        "fish_market",
+        "number"
+      ],
+      "tokens": [
+        {
+          "hr": "Šeststo",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "pedeset",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "četiri",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "grama",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "je",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "u",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        },
+        {
+          "hr": "redu",
+          "pronunciation_ja": "",
+          "meaning_ja": "文中の語"
+        }
+      ],
+      "accepted_answers_hr": [
+        "Šeststo pedeset četiri grama je u redu.",
+        "Šeststo pedeset četiri grama je u redu"
+      ],
+      "accepted_answers_ja": [
+        "654グラムでも大丈夫です。",
+        "654グラムでも大丈夫です"
+      ],
+      "grammar": {
+        "title": "旅行会話でよく使う文型",
+        "explanation_ja": "この例文は、旅行中にそのまま使える定型表現として覚えます。単語を入れ替えると同じ型で別の場面にも応用できます。",
+        "tables": [
+          {
+            "title_ja": "文の骨格",
+            "headers": [
+              "part",
+              "hr",
+              "ja"
+            ],
+            "header_labels": {
+              "part": "要素",
+              "hr": "クロアチア語",
+              "ja": "意味"
+            },
+            "rows": [
+              {
+                "part": "主要パターン",
+                "hr": "疑問詞 / 助動詞 + 動詞 + 名詞",
+                "ja": "何を聞くか・頼むかを作る"
+              },
+              {
+                "part": "丁寧さ",
+                "hr": "molim / Možete li...?",
+                "ja": "お願いします／〜していただけますか"
+              }
+            ]
+          },
+          {
+            "title_ja": "応用例",
+            "headers": [
+              "replace",
+              "example",
+              "meaning"
+            ],
+            "header_labels": {
+              "replace": "入れ替え",
+              "example": "例",
+              "meaning": "意味"
+            },
+            "rows": [
+              {
+                "replace": "場所",
+                "example": "plaža / luka / ribarnica",
+                "meaning": "ビーチ／港／魚市場"
+              },
+              {
+                "replace": "数量",
+                "example": "sto grama / jedan kilogram",
+                "meaning": "100グラム／1キロ"
+              }
+            ]
+          }
+        ],
+        "notes": [
+          "カタカナ発音は日本語話者向けの近似です。",
+          "入力クイズでは大文字小文字と句読点はゆるく判定されます。"
+        ]
+      }
+    }
+  ]
+}

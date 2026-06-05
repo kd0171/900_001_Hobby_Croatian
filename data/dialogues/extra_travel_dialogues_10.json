@@ -1,0 +1,644 @@
+{
+  "items": [
+    {
+      "id": "extra_dialogue_boat_weather",
+      "scene": "boat",
+      "level": 2,
+      "title_ja": "風が強い日の船の確認",
+      "title_hr": "Provjera broda kad puše vjetar",
+      "related_vocab_ids": [],
+      "related_sentence_ids": [],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "hr": "Dobar dan. Ide li brod danas na otok?",
+          "ja": "こんにちは。今日は船は島へ行きますか？",
+          "pronunciation_ja": "ドバル ダン イデ リ ブロド ダナス ナ オトク"
+        },
+        {
+          "speaker": "B",
+          "hr": "Da, ali more je malo nemirno.",
+          "ja": "はい、でも海は少し荒れています。",
+          "pronunciation_ja": "ダ アリ モレ イェ マロ ネミルノ"
+        },
+        {
+          "speaker": "A",
+          "hr": "Kada je povratni brod?",
+          "ja": "帰りの船は何時ですか？",
+          "pronunciation_ja": "カダ イェ ポヴラトニ ブロド"
+        },
+        {
+          "speaker": "B",
+          "hr": "U šest popodne.",
+          "ja": "午後6時です。",
+          "pronunciation_ja": "ウ シェスト ポポドネ"
+        }
+      ],
+      "questions": [
+        {
+          "id": "extra_dialogue_boat_weather_q1",
+          "type": "multiple_choice",
+          "question_ja": "この対話の主な場面は何ですか？",
+          "choices_ja": [
+            "船・移動の確認",
+            "買い物・市場",
+            "観光・道案内",
+            "安全確認"
+          ],
+          "answer": "船・移動の確認"
+        },
+        {
+          "id": "extra_dialogue_boat_weather_q2",
+          "type": "input",
+          "question_ja": "対話に出てくる短いクロアチア語表現を1つ入力してください。例：Hvala / Molim など。",
+          "answer_hr": "Dobar dan",
+          "accepted_answers_hr": [
+            "Dobar dan"
+          ]
+        }
+      ],
+      "grammar_notes": [
+        {
+          "title_ja": "対話読解のポイント",
+          "explanation_ja": "先に学んだ単語・例文が、実際の旅行会話の中でどのように使われるかを確認します。必要に応じて日本語訳を開いて確認してください。"
+        }
+      ]
+    },
+    {
+      "id": "extra_dialogue_supermarket_evening",
+      "scene": "supermarket",
+      "level": 2,
+      "title_ja": "夜のスーパーで買い物",
+      "title_hr": "Kupovina navečer",
+      "related_vocab_ids": [],
+      "related_sentence_ids": [],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "hr": "Oprostite, do kada je trgovina otvorena?",
+          "ja": "すみません、店は何時まで開いていますか？",
+          "pronunciation_ja": "オプロスティテ ド カダ イェ トルゴヴィナ オトヴォレナ"
+        },
+        {
+          "speaker": "B",
+          "hr": "Do devet navečer.",
+          "ja": "夜9時までです。",
+          "pronunciation_ja": "ド デヴェト ナヴェチェル"
+        },
+        {
+          "speaker": "A",
+          "hr": "Trebam vodu i kruh.",
+          "ja": "水とパンが必要です。",
+          "pronunciation_ja": "トレバム ヴォドゥ イ クルフ"
+        },
+        {
+          "speaker": "B",
+          "hr": "Voda je desno, kruh je lijevo.",
+          "ja": "水は右、パンは左です。",
+          "pronunciation_ja": "ヴォダ イェ デスノ クルフ イェ リイェヴォ"
+        }
+      ],
+      "questions": [
+        {
+          "id": "extra_dialogue_supermarket_evening_q1",
+          "type": "multiple_choice",
+          "question_ja": "この対話の主な場面は何ですか？",
+          "choices_ja": [
+            "船・移動の確認",
+            "買い物・市場",
+            "観光・道案内",
+            "安全確認"
+          ],
+          "answer": "買い物・市場"
+        },
+        {
+          "id": "extra_dialogue_supermarket_evening_q2",
+          "type": "input",
+          "question_ja": "対話に出てくる短いクロアチア語表現を1つ入力してください。例：Hvala / Molim など。",
+          "answer_hr": "Oprostite, do kada je trgovina otvorena?",
+          "accepted_answers_hr": [
+            "Oprostite, do kada je trgovina otvorena?"
+          ]
+        }
+      ],
+      "grammar_notes": [
+        {
+          "title_ja": "対話読解のポイント",
+          "explanation_ja": "先に学んだ単語・例文が、実際の旅行会話の中でどのように使われるかを確認します。必要に応じて日本語訳を開いて確認してください。"
+        }
+      ]
+    },
+    {
+      "id": "extra_dialogue_fish_ice",
+      "scene": "fish_market",
+      "level": 2,
+      "title_ja": "魚市場で氷を頼む",
+      "title_hr": "Led na ribarnici",
+      "related_vocab_ids": [],
+      "related_sentence_ids": [],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "hr": "Petsto grama ove ribe, molim.",
+          "ja": "この魚を500グラムください。",
+          "pronunciation_ja": "ペトスト グラマ オヴェ リベ モリム"
+        },
+        {
+          "speaker": "B",
+          "hr": "Može. Želite li da je očistim?",
+          "ja": "できます。捌きましょうか？",
+          "pronunciation_ja": "モジェ ジェリテ リ ダ イェ オチスティム"
+        },
+        {
+          "speaker": "A",
+          "hr": "Da, molim. Možete li dodati malo leda?",
+          "ja": "はい、お願いします。氷を少し入れてもらえますか？",
+          "pronunciation_ja": "ダ モリム モジェテ リ ドダティ マロ レダ"
+        },
+        {
+          "speaker": "B",
+          "hr": "Naravno.",
+          "ja": "もちろんです。",
+          "pronunciation_ja": "ナラヴノ"
+        }
+      ],
+      "questions": [
+        {
+          "id": "extra_dialogue_fish_ice_q1",
+          "type": "multiple_choice",
+          "question_ja": "この対話の主な場面は何ですか？",
+          "choices_ja": [
+            "船・移動の確認",
+            "買い物・市場",
+            "観光・道案内",
+            "安全確認"
+          ],
+          "answer": "買い物・市場"
+        },
+        {
+          "id": "extra_dialogue_fish_ice_q2",
+          "type": "input",
+          "question_ja": "対話に出てくる短いクロアチア語表現を1つ入力してください。例：Hvala / Molim など。",
+          "answer_hr": "Petsto grama ove ribe, molim",
+          "accepted_answers_hr": [
+            "Petsto grama ove ribe, molim"
+          ]
+        }
+      ],
+      "grammar_notes": [
+        {
+          "title_ja": "対話読解のポイント",
+          "explanation_ja": "先に学んだ単語・例文が、実際の旅行会話の中でどのように使われるかを確認します。必要に応じて日本語訳を開いて確認してください。"
+        }
+      ]
+    },
+    {
+      "id": "extra_dialogue_beach_safety",
+      "scene": "sea",
+      "level": 2,
+      "title_ja": "岩場のビーチで確認",
+      "title_hr": "Na kamenitoj plaži",
+      "related_vocab_ids": [],
+      "related_sentence_ids": [],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "hr": "Smijem li ovdje plivati?",
+          "ja": "ここで泳いでもいいですか？",
+          "pronunciation_ja": "スミイェム リ オヴディエ プリヴァティ"
+        },
+        {
+          "speaker": "B",
+          "hr": "Da, ali pazite na kamenje.",
+          "ja": "はい、でも岩に気をつけてください。",
+          "pronunciation_ja": "ダ アリ パジテ ナ カメニェ"
+        },
+        {
+          "speaker": "A",
+          "hr": "Ima li sjene?",
+          "ja": "日陰はありますか？",
+          "pronunciation_ja": "イマ リ シェネ"
+        },
+        {
+          "speaker": "B",
+          "hr": "Da, tamo ispod borova.",
+          "ja": "はい、あそこの松の下にあります。",
+          "pronunciation_ja": "ダ タモ イス ポド ボロヴァ"
+        }
+      ],
+      "questions": [
+        {
+          "id": "extra_dialogue_beach_safety_q1",
+          "type": "multiple_choice",
+          "question_ja": "この対話の主な場面は何ですか？",
+          "choices_ja": [
+            "船・移動の確認",
+            "買い物・市場",
+            "観光・道案内",
+            "安全確認"
+          ],
+          "answer": "観光・道案内"
+        },
+        {
+          "id": "extra_dialogue_beach_safety_q2",
+          "type": "input",
+          "question_ja": "対話に出てくる短いクロアチア語表現を1つ入力してください。例：Hvala / Molim など。",
+          "answer_hr": "Smijem li ovdje plivati?",
+          "accepted_answers_hr": [
+            "Smijem li ovdje plivati?"
+          ]
+        }
+      ],
+      "grammar_notes": [
+        {
+          "title_ja": "対話読解のポイント",
+          "explanation_ja": "先に学んだ単語・例文が、実際の旅行会話の中でどのように使われるかを確認します。必要に応じて日本語訳を開いて確認してください。"
+        }
+      ]
+    },
+    {
+      "id": "extra_dialogue_urchin_permission",
+      "scene": "sea_urchin",
+      "level": 2,
+      "title_ja": "ウニ採りの許可を確認する",
+      "title_hr": "Dozvola za morske ježince",
+      "related_vocab_ids": [],
+      "related_sentence_ids": [],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "hr": "Oprostite, smije li se ovdje sakupljati morske ježince?",
+          "ja": "すみません、ここでウニを採ってもよいですか？",
+          "pronunciation_ja": "オプロスティテ スミイェ リ セ オヴディエ サクプリャティ モルスケ イェジンツェ"
+        },
+        {
+          "speaker": "B",
+          "hr": "Nisam siguran. Trebate pitati lokalnu službu.",
+          "ja": "確かではありません。地元の担当機関に聞く必要があります。",
+          "pronunciation_ja": "ニサム シグラン トレバテ ピタティ ロカルヌ スルジュブ"
+        },
+        {
+          "speaker": "A",
+          "hr": "Trebam li dozvolu?",
+          "ja": "許可証が必要ですか？",
+          "pronunciation_ja": "トレバム リ ドズヴォル"
+        },
+        {
+          "speaker": "B",
+          "hr": "Moguće je. Bolje je provjeriti.",
+          "ja": "その可能性があります。確認した方がよいです。",
+          "pronunciation_ja": "モグチェ イェ ボリェ イェ プロヴイェリティ"
+        }
+      ],
+      "questions": [
+        {
+          "id": "extra_dialogue_urchin_permission_q1",
+          "type": "multiple_choice",
+          "question_ja": "この対話の主な場面は何ですか？",
+          "choices_ja": [
+            "船・移動の確認",
+            "買い物・市場",
+            "観光・道案内",
+            "安全確認"
+          ],
+          "answer": "安全確認"
+        },
+        {
+          "id": "extra_dialogue_urchin_permission_q2",
+          "type": "input",
+          "question_ja": "対話に出てくる短いクロアチア語表現を1つ入力してください。例：Hvala / Molim など。",
+          "answer_hr": "Oprostite, smije li se ovdje sakupljati morske ježince?",
+          "accepted_answers_hr": [
+            "Oprostite, smije li se ovdje sakupljati morske ježince?"
+          ]
+        }
+      ],
+      "grammar_notes": [
+        {
+          "title_ja": "対話読解のポイント",
+          "explanation_ja": "先に学んだ単語・例文が、実際の旅行会話の中でどのように使われるかを確認します。必要に応じて日本語訳を開いて確認してください。"
+        }
+      ]
+    },
+    {
+      "id": "extra_dialogue_tourism_museum",
+      "scene": "tourism",
+      "level": 2,
+      "title_ja": "博物館の開館時間を聞く",
+      "title_hr": "Radno vrijeme muzeja",
+      "related_vocab_ids": [],
+      "related_sentence_ids": [],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "hr": "Je li muzej otvoren danas?",
+          "ja": "博物館は今日開いていますか？",
+          "pronunciation_ja": "イェ リ ムゼイ オトヴォレン ダナス"
+        },
+        {
+          "speaker": "B",
+          "hr": "Da, otvoren je do pet.",
+          "ja": "はい、5時まで開いています。",
+          "pronunciation_ja": "ダ オトヴォレン イェ ド ペト"
+        },
+        {
+          "speaker": "A",
+          "hr": "Koliko košta ulaznica?",
+          "ja": "入場券はいくらですか？",
+          "pronunciation_ja": "コリコ コシュタ ウラズニツァ"
+        },
+        {
+          "speaker": "B",
+          "hr": "Osam eura.",
+          "ja": "8ユーロです。",
+          "pronunciation_ja": "オサム エウラ"
+        }
+      ],
+      "questions": [
+        {
+          "id": "extra_dialogue_tourism_museum_q1",
+          "type": "multiple_choice",
+          "question_ja": "この対話の主な場面は何ですか？",
+          "choices_ja": [
+            "船・移動の確認",
+            "買い物・市場",
+            "観光・道案内",
+            "安全確認"
+          ],
+          "answer": "観光・道案内"
+        },
+        {
+          "id": "extra_dialogue_tourism_museum_q2",
+          "type": "input",
+          "question_ja": "対話に出てくる短いクロアチア語表現を1つ入力してください。例：Hvala / Molim など。",
+          "answer_hr": "Je li muzej otvoren danas?",
+          "accepted_answers_hr": [
+            "Je li muzej otvoren danas?"
+          ]
+        }
+      ],
+      "grammar_notes": [
+        {
+          "title_ja": "対話読解のポイント",
+          "explanation_ja": "先に学んだ単語・例文が、実際の旅行会話の中でどのように使われるかを確認します。必要に応じて日本語訳を開いて確認してください。"
+        }
+      ]
+    },
+    {
+      "id": "extra_dialogue_bus_station",
+      "scene": "tourism",
+      "level": 2,
+      "title_ja": "バス停までの行き方",
+      "title_hr": "Put do autobusne stanice",
+      "related_vocab_ids": [],
+      "related_sentence_ids": [],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "hr": "Gdje je autobusna stanica?",
+          "ja": "バス停はどこですか？",
+          "pronunciation_ja": "グデ イェ アウトブスナ スタニツァ"
+        },
+        {
+          "speaker": "B",
+          "hr": "Ravno pa lijevo. Nije daleko.",
+          "ja": "まっすぐ行って左です。遠くありません。",
+          "pronunciation_ja": "ラヴノ パ リイェヴォ ニイェ ダレコ"
+        },
+        {
+          "speaker": "A",
+          "hr": "Hvala. Koliko minuta pješice?",
+          "ja": "ありがとう。徒歩で何分ですか？",
+          "pronunciation_ja": "フヴァラ コリコ ミヌタ ピェシツェ"
+        },
+        {
+          "speaker": "B",
+          "hr": "Oko deset minuta.",
+          "ja": "約10分です。",
+          "pronunciation_ja": "オコ デセット ミヌタ"
+        }
+      ],
+      "questions": [
+        {
+          "id": "extra_dialogue_bus_station_q1",
+          "type": "multiple_choice",
+          "question_ja": "この対話の主な場面は何ですか？",
+          "choices_ja": [
+            "船・移動の確認",
+            "買い物・市場",
+            "観光・道案内",
+            "安全確認"
+          ],
+          "answer": "観光・道案内"
+        },
+        {
+          "id": "extra_dialogue_bus_station_q2",
+          "type": "input",
+          "question_ja": "対話に出てくる短いクロアチア語表現を1つ入力してください。例：Hvala / Molim など。",
+          "answer_hr": "Gdje je autobusna stanica?",
+          "accepted_answers_hr": [
+            "Gdje je autobusna stanica?"
+          ]
+        }
+      ],
+      "grammar_notes": [
+        {
+          "title_ja": "対話読解のポイント",
+          "explanation_ja": "先に学んだ単語・例文が、実際の旅行会話の中でどのように使われるかを確認します。必要に応じて日本語訳を開いて確認してください。"
+        }
+      ]
+    },
+    {
+      "id": "extra_dialogue_date_plan",
+      "scene": "basic",
+      "level": 2,
+      "title_ja": "日付を確認して予定を立てる",
+      "title_hr": "Dogovor za datum",
+      "related_vocab_ids": [],
+      "related_sentence_ids": [],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "hr": "Koji je danas datum?",
+          "ja": "今日は何日ですか？",
+          "pronunciation_ja": "コイ イェ ダナス ダトゥム"
+        },
+        {
+          "speaker": "B",
+          "hr": "Danas je peti lipnja.",
+          "ja": "今日は6月5日です。",
+          "pronunciation_ja": "ダナス イェ ペティ リプニャ"
+        },
+        {
+          "speaker": "A",
+          "hr": "Idemo li na plažu u subotu?",
+          "ja": "土曜日にビーチへ行きますか？",
+          "pronunciation_ja": "イデモ リ ナ プラジュ ウ スボトゥ"
+        },
+        {
+          "speaker": "B",
+          "hr": "Da, ako bude lijepo vrijeme.",
+          "ja": "はい、天気がよければ。",
+          "pronunciation_ja": "ダ アコ ブデ リイェポ ヴリイェメ"
+        }
+      ],
+      "questions": [
+        {
+          "id": "extra_dialogue_date_plan_q1",
+          "type": "multiple_choice",
+          "question_ja": "この対話の主な場面は何ですか？",
+          "choices_ja": [
+            "船・移動の確認",
+            "買い物・市場",
+            "観光・道案内",
+            "安全確認"
+          ],
+          "answer": "観光・道案内"
+        },
+        {
+          "id": "extra_dialogue_date_plan_q2",
+          "type": "input",
+          "question_ja": "対話に出てくる短いクロアチア語表現を1つ入力してください。例：Hvala / Molim など。",
+          "answer_hr": "Koji je danas datum?",
+          "accepted_answers_hr": [
+            "Koji je danas datum?"
+          ]
+        }
+      ],
+      "grammar_notes": [
+        {
+          "title_ja": "対話読解のポイント",
+          "explanation_ja": "先に学んだ単語・例文が、実際の旅行会話の中でどのように使われるかを確認します。必要に応じて日本語訳を開いて確認してください。"
+        }
+      ]
+    },
+    {
+      "id": "extra_dialogue_pharmacy",
+      "scene": "basic",
+      "level": 2,
+      "title_ja": "薬局を探す",
+      "title_hr": "Traženje ljekarne",
+      "related_vocab_ids": [],
+      "related_sentence_ids": [],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "hr": "Oprostite, gdje je ljekarna?",
+          "ja": "すみません、薬局はどこですか？",
+          "pronunciation_ja": "オプロスティテ グデ イェ リェカルナ"
+        },
+        {
+          "speaker": "B",
+          "hr": "Ljekarna je blizu trga.",
+          "ja": "薬局は広場の近くです。",
+          "pronunciation_ja": "リェカルナ イェ ブリズ トルガ"
+        },
+        {
+          "speaker": "A",
+          "hr": "Je li otvorena danas?",
+          "ja": "今日は開いていますか？",
+          "pronunciation_ja": "イェ リ オトヴォレナ ダナス"
+        },
+        {
+          "speaker": "B",
+          "hr": "Da, do sedam navečer.",
+          "ja": "はい、夜7時までです。",
+          "pronunciation_ja": "ダ ド セダム ナヴェチェル"
+        }
+      ],
+      "questions": [
+        {
+          "id": "extra_dialogue_pharmacy_q1",
+          "type": "multiple_choice",
+          "question_ja": "この対話の主な場面は何ですか？",
+          "choices_ja": [
+            "船・移動の確認",
+            "買い物・市場",
+            "観光・道案内",
+            "安全確認"
+          ],
+          "answer": "観光・道案内"
+        },
+        {
+          "id": "extra_dialogue_pharmacy_q2",
+          "type": "input",
+          "question_ja": "対話に出てくる短いクロアチア語表現を1つ入力してください。例：Hvala / Molim など。",
+          "answer_hr": "Oprostite, gdje je ljekarna?",
+          "accepted_answers_hr": [
+            "Oprostite, gdje je ljekarna?"
+          ]
+        }
+      ],
+      "grammar_notes": [
+        {
+          "title_ja": "対話読解のポイント",
+          "explanation_ja": "先に学んだ単語・例文が、実際の旅行会話の中でどのように使われるかを確認します。必要に応じて日本語訳を開いて確認してください。"
+        }
+      ]
+    },
+    {
+      "id": "extra_dialogue_market_numbers",
+      "scene": "fish_market",
+      "level": 2,
+      "title_ja": "654グラムの魚を買う",
+      "title_hr": "Kupnja šeststo pedeset četiri grama ribe",
+      "related_vocab_ids": [],
+      "related_sentence_ids": [],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "hr": "Može li šeststo pedeset četiri grama?",
+          "ja": "654グラムでも大丈夫ですか？",
+          "pronunciation_ja": "モジェ リ シェストスト ペデセット チェティリ グラマ"
+        },
+        {
+          "speaker": "B",
+          "hr": "Da, to je u redu.",
+          "ja": "はい、それで大丈夫です。",
+          "pronunciation_ja": "ダ ト イェ ウ レドゥ"
+        },
+        {
+          "speaker": "A",
+          "hr": "Koliko košta?",
+          "ja": "いくらですか？",
+          "pronunciation_ja": "コリコ コシュタ"
+        },
+        {
+          "speaker": "B",
+          "hr": "Dvanaest eura.",
+          "ja": "12ユーロです。",
+          "pronunciation_ja": "ドヴァナエスト エウラ"
+        }
+      ],
+      "questions": [
+        {
+          "id": "extra_dialogue_market_numbers_q1",
+          "type": "multiple_choice",
+          "question_ja": "この対話の主な場面は何ですか？",
+          "choices_ja": [
+            "船・移動の確認",
+            "買い物・市場",
+            "観光・道案内",
+            "安全確認"
+          ],
+          "answer": "買い物・市場"
+        },
+        {
+          "id": "extra_dialogue_market_numbers_q2",
+          "type": "input",
+          "question_ja": "対話に出てくる短いクロアチア語表現を1つ入力してください。例：Hvala / Molim など。",
+          "answer_hr": "Može li šeststo pedeset četiri grama?",
+          "accepted_answers_hr": [
+            "Može li šeststo pedeset četiri grama?"
+          ]
+        }
+      ],
+      "grammar_notes": [
+        {
+          "title_ja": "対話読解のポイント",
+          "explanation_ja": "先に学んだ単語・例文が、実際の旅行会話の中でどのように使われるかを確認します。必要に応じて日本語訳を開いて確認してください。"
+        }
+      ]
+    }
+  ]
+}

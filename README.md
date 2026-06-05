@@ -33,13 +33,39 @@ http://127.0.0.1:8050
 
 ## データ追加
 
-教材は以下のJSONを編集・追加することで拡張できます。
+教材は、アプリ本体を変更せずに追加できます。以下のフォルダに新しいJSONファイルを置いて、アプリを再起動してください。
+
+```text
+data/vocabulary/*.json
+data/sentences/*.json
+data/dialogues/*.json
+data/references/*.json
+```
+
+既存の単体ファイルも読み込まれます。
 
 ```text
 data/vocabulary.json
 data/sentences.json
 data/dialogues.json
-data/references/*.json
 ```
 
+詳しいJSON形式は `docs/ADDING_CONTENT.md` を見てください。
+プロンプトで教材だけを増やす場合は `docs/CONTENT_GENERATION_PROMPT.md` を使えます。
+
 学習履歴保存は実装していません。
+
+
+## 今回追加した教材
+
+- `data/vocabulary/extra_travel_vocab_01.json`: 63語追加
+- `data/sentences/extra_travel_sentences_50.json`: 50文追加
+- `data/dialogues/extra_travel_dialogues_10.json`: 10対話追加
+
+合計読み込み件数は、既存教材を含めておおよそ以下です。
+
+```text
+単語: 126件
+例文: 113件
+対話: 19件
+```
