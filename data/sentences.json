@@ -10,8 +10,8 @@
     "tokens": [
       {
         "hr": "Dobar",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "ドバル ダン",
+        "meaning_ja": "こんにちは"
       },
       {
         "hr": "dan",
@@ -29,7 +29,9 @@
     ],
     "grammar": {
       "title": "文法・表現メモ",
-      "explanation_ja": "Dobar dan は日中の丁寧なあいさつです。"
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [],
+      "notes": []
     }
   },
   {
@@ -43,8 +45,8 @@
     "tokens": [
       {
         "hr": "Hvala",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "フヴァラ",
+        "meaning_ja": "ありがとう"
       }
     ],
     "accepted_answers_hr": [
@@ -57,7 +59,9 @@
     ],
     "grammar": {
       "title": "文法・表現メモ",
-      "explanation_ja": "短くよく使う感謝表現です。"
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [],
+      "notes": []
     }
   },
   {
@@ -71,23 +75,23 @@
     "tokens": [
       {
         "hr": "Oprostite",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "オプロスティテ",
+        "meaning_ja": "すみません"
       },
       {
         "hr": "gdje",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "グデ",
+        "meaning_ja": "どこ"
       },
       {
         "hr": "je",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "イェ",
+        "meaning_ja": "〜です／ある"
       },
       {
         "hr": "plaža",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "プラジャ",
+        "meaning_ja": "ビーチ"
       }
     ],
     "accepted_answers_hr": [
@@ -100,7 +104,9 @@
     ],
     "grammar": {
       "title": "文法・表現メモ",
-      "explanation_ja": "Oprostite は丁寧な呼びかけにも使えます。"
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [],
+      "notes": []
     }
   },
   {
@@ -138,7 +144,9 @@
     ],
     "grammar": {
       "title": "文法・表現メモ",
-      "explanation_ja": "Govorim は「私は話します」です。"
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [],
+      "notes": []
     }
   },
   {
@@ -157,8 +165,8 @@
       },
       {
         "hr": "li",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "リ",
+        "meaning_ja": "疑問文を作る語"
       },
       {
         "hr": "engleski",
@@ -176,7 +184,9 @@
     ],
     "grammar": {
       "title": "文法・表現メモ",
-      "explanation_ja": "li を使って疑問文を作ります。"
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [],
+      "notes": []
     }
   },
   {
@@ -190,8 +200,8 @@
     "tokens": [
       {
         "hr": "Molim",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "モリム",
+        "meaning_ja": "お願いします／どうぞ"
       }
     ],
     "accepted_answers_hr": [
@@ -204,7 +214,9 @@
     ],
     "grammar": {
       "title": "文法・表現メモ",
-      "explanation_ja": "注文や依頼の最後に使えます。"
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [],
+      "notes": []
     }
   },
   {
@@ -223,18 +235,18 @@
       },
       {
         "hr": "ići",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "イチ",
+        "meaning_ja": "行く"
       },
       {
         "hr": "na",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "ナ",
+        "meaning_ja": "〜へ／〜で"
       },
       {
         "hr": "more",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "モレ",
+        "meaning_ja": "海"
       }
     ],
     "accepted_answers_hr": [
@@ -246,8 +258,31 @@
       "海に行きたいです"
     ],
     "grammar": {
-      "title": "文法・表現メモ",
-      "explanation_ja": "želim + 不定詞で「〜したい」です。"
+      "title": "Želim + 不定詞",
+      "explanation_ja": "Želim は「私は〜したい」です。後ろに ići, kupiti などの不定形を置きます。",
+      "tables": [
+        {
+          "title_ja": "したいことを言う",
+          "headers": [
+            "part",
+            "hr",
+            "ja"
+          ],
+          "rows": [
+            {
+              "part": "主語を含む動詞",
+              "hr": "Želim",
+              "ja": "私は〜したい"
+            },
+            {
+              "part": "不定詞",
+              "hr": "ići / kupiti / jesti",
+              "ja": "行く／買う／食べる"
+            }
+          ]
+        }
+      ],
+      "notes": []
     }
   },
   {
@@ -261,18 +296,18 @@
     "tokens": [
       {
         "hr": "Gdje",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "グデ",
+        "meaning_ja": "どこ"
       },
       {
         "hr": "je",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "イェ",
+        "meaning_ja": "〜です／ある"
       },
       {
         "hr": "plaža",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "プラジャ",
+        "meaning_ja": "ビーチ"
       }
     ],
     "accepted_answers_hr": [
@@ -285,7 +320,40 @@
     ],
     "grammar": {
       "title": "文法・表現メモ",
-      "explanation_ja": "gdje は「どこ」です。"
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [
+        {
+          "title_ja": "疑問詞",
+          "headers": [
+            "word",
+            "pronunciation_ja",
+            "meaning"
+          ],
+          "rows": [
+            {
+              "word": "Gdje",
+              "pronunciation_ja": "グデ",
+              "meaning": "どこ"
+            },
+            {
+              "word": "Kamo",
+              "pronunciation_ja": "カモ",
+              "meaning": "どこへ"
+            },
+            {
+              "word": "Kada",
+              "pronunciation_ja": "カダ",
+              "meaning": "いつ"
+            },
+            {
+              "word": "Koliko",
+              "pronunciation_ja": "コリコ",
+              "meaning": "いくら／どのくらい"
+            }
+          ]
+        }
+      ],
+      "notes": []
     }
   },
   {
@@ -304,18 +372,18 @@
       },
       {
         "hr": "li",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "リ",
+        "meaning_ja": "疑問文を作る語"
       },
       {
         "hr": "ovdje",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "オヴディエ",
+        "meaning_ja": "ここで／ここに"
       },
       {
         "hr": "plivati",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "プリヴァティ",
+        "meaning_ja": "泳ぐ"
       }
     ],
     "accepted_answers_hr": [
@@ -327,8 +395,31 @@
       "ここで泳いでもいいですか"
     ],
     "grammar": {
-      "title": "文法・表現メモ",
-      "explanation_ja": "smijem li は許可を尋ねる表現です。"
+      "title": "許可を聞く表現",
+      "explanation_ja": "Smijem li...? は「私は〜してもよいですか？」、Smije li se...? は一般的に「ここで〜してよいですか？」と聞く表現です。",
+      "tables": [
+        {
+          "title_ja": "許可表現",
+          "headers": [
+            "pattern",
+            "example",
+            "meaning"
+          ],
+          "rows": [
+            {
+              "pattern": "Smijem li + 不定詞",
+              "example": "Smijem li ovdje plivati?",
+              "meaning": "ここで泳いでもいいですか？"
+            },
+            {
+              "pattern": "Smije li se + 不定詞",
+              "example": "Smije li se ovdje sakupljati...?",
+              "meaning": "ここで採集してもよいですか？"
+            }
+          ]
+        }
+      ],
+      "notes": []
     }
   },
   {
@@ -342,18 +433,18 @@
     "tokens": [
       {
         "hr": "Je",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "イェ",
+        "meaning_ja": "〜です／ある"
       },
       {
         "hr": "li",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "リ",
+        "meaning_ja": "疑問文を作る語"
       },
       {
         "hr": "voda",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "ヴォダ",
+        "meaning_ja": "水"
       },
       {
         "hr": "hladna",
@@ -370,8 +461,41 @@
       "水は冷たいですか"
     ],
     "grammar": {
-      "title": "文法・表現メモ",
-      "explanation_ja": "voda は女性名詞なので hladna になります。"
+      "title": "Je li...? の疑問文",
+      "explanation_ja": "Je li...? は「〜ですか？」を作る基本パターンです。li は疑問を作る小さな語です。",
+      "tables": [
+        {
+          "title_ja": "疑問文の構造",
+          "headers": [
+            "part",
+            "hr",
+            "ja"
+          ],
+          "header_labels": {
+            "part": "部分",
+            "hr": "クロアチア語",
+            "ja": "意味"
+          },
+          "rows": [
+            {
+              "part": "Je li",
+              "hr": "Je li",
+              "ja": "〜ですか？"
+            },
+            {
+              "part": "主語/名詞句",
+              "hr": "ova riba / voda",
+              "ja": "この魚／水"
+            },
+            {
+              "part": "形容詞",
+              "hr": "svježa / hladna",
+              "ja": "新鮮な／冷たい"
+            }
+          ]
+        }
+      ],
+      "notes": []
     }
   },
   {
@@ -390,8 +514,8 @@
       },
       {
         "hr": "li",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "リ",
+        "meaning_ja": "疑問文を作る語"
       },
       {
         "hr": "hlada",
@@ -409,7 +533,9 @@
     ],
     "grammar": {
       "title": "文法・表現メモ",
-      "explanation_ja": "ima li は「ありますか」です。"
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [],
+      "notes": []
     }
   },
   {
@@ -423,13 +549,13 @@
     "tokens": [
       {
         "hr": "Danas",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "ダナス",
+        "meaning_ja": "今日"
       },
       {
         "hr": "je",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "イェ",
+        "meaning_ja": "〜です／ある"
       },
       {
         "hr": "vruće",
@@ -447,7 +573,9 @@
     ],
     "grammar": {
       "title": "文法・表現メモ",
-      "explanation_ja": "天気・体感には中性形/副詞的な形がよく出ます。"
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [],
+      "notes": []
     }
   },
   {
@@ -471,8 +599,8 @@
       },
       {
         "hr": "molim",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "モリム",
+        "meaning_ja": "お願いします／どうぞ"
       }
     ],
     "accepted_answers_hr": [
@@ -485,7 +613,9 @@
     ],
     "grammar": {
       "title": "文法・表現メモ",
-      "explanation_ja": "karta は女性名詞なので jednu kartu です。"
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [],
+      "notes": []
     }
   },
   {
@@ -499,8 +629,8 @@
     "tokens": [
       {
         "hr": "Kamo",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "カモ",
+        "meaning_ja": "どこへ"
       },
       {
         "hr": "ide",
@@ -509,13 +639,13 @@
       },
       {
         "hr": "ovaj",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "オヴァイ",
+        "meaning_ja": "この（男性）"
       },
       {
         "hr": "brod",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "ブロド",
+        "meaning_ja": "船"
       }
     ],
     "accepted_answers_hr": [
@@ -528,7 +658,40 @@
     ],
     "grammar": {
       "title": "文法・表現メモ",
-      "explanation_ja": "kamo は移動先「どこへ」です。"
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [
+        {
+          "title_ja": "疑問詞",
+          "headers": [
+            "word",
+            "pronunciation_ja",
+            "meaning"
+          ],
+          "rows": [
+            {
+              "word": "Gdje",
+              "pronunciation_ja": "グデ",
+              "meaning": "どこ"
+            },
+            {
+              "word": "Kamo",
+              "pronunciation_ja": "カモ",
+              "meaning": "どこへ"
+            },
+            {
+              "word": "Kada",
+              "pronunciation_ja": "カダ",
+              "meaning": "いつ"
+            },
+            {
+              "word": "Koliko",
+              "pronunciation_ja": "コリコ",
+              "meaning": "いくら／どのくらい"
+            }
+          ]
+        }
+      ],
+      "notes": []
     }
   },
   {
@@ -542,13 +705,13 @@
     "tokens": [
       {
         "hr": "Kada",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "カダ",
+        "meaning_ja": "いつ"
       },
       {
         "hr": "polazi",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "ポラジ",
+        "meaning_ja": "出発します"
       }
     ],
     "accepted_answers_hr": [
@@ -561,7 +724,40 @@
     ],
     "grammar": {
       "title": "文法・表現メモ",
-      "explanation_ja": "kada は「いつ」です。"
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [
+        {
+          "title_ja": "疑問詞",
+          "headers": [
+            "word",
+            "pronunciation_ja",
+            "meaning"
+          ],
+          "rows": [
+            {
+              "word": "Gdje",
+              "pronunciation_ja": "グデ",
+              "meaning": "どこ"
+            },
+            {
+              "word": "Kamo",
+              "pronunciation_ja": "カモ",
+              "meaning": "どこへ"
+            },
+            {
+              "word": "Kada",
+              "pronunciation_ja": "カダ",
+              "meaning": "いつ"
+            },
+            {
+              "word": "Koliko",
+              "pronunciation_ja": "コリコ",
+              "meaning": "いくら／どのくらい"
+            }
+          ]
+        }
+      ],
+      "notes": []
     }
   },
   {
@@ -575,23 +771,23 @@
     "tokens": [
       {
         "hr": "Kada",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "カダ",
+        "meaning_ja": "いつ"
       },
       {
         "hr": "je",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "イェ",
+        "meaning_ja": "〜です／ある"
       },
       {
         "hr": "povratni",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "ポヴラトニ",
+        "meaning_ja": "帰りの"
       },
       {
         "hr": "brod",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "ブロド",
+        "meaning_ja": "船"
       }
     ],
     "accepted_answers_hr": [
@@ -604,7 +800,40 @@
     ],
     "grammar": {
       "title": "文法・表現メモ",
-      "explanation_ja": "povratni は「帰りの」です。"
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [
+        {
+          "title_ja": "疑問詞",
+          "headers": [
+            "word",
+            "pronunciation_ja",
+            "meaning"
+          ],
+          "rows": [
+            {
+              "word": "Gdje",
+              "pronunciation_ja": "グデ",
+              "meaning": "どこ"
+            },
+            {
+              "word": "Kamo",
+              "pronunciation_ja": "カモ",
+              "meaning": "どこへ"
+            },
+            {
+              "word": "Kada",
+              "pronunciation_ja": "カダ",
+              "meaning": "いつ"
+            },
+            {
+              "word": "Koliko",
+              "pronunciation_ja": "コリコ",
+              "meaning": "いくら／どのくらい"
+            }
+          ]
+        }
+      ],
+      "notes": []
     }
   },
   {
@@ -623,18 +852,18 @@
       },
       {
         "hr": "ići",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "イチ",
+        "meaning_ja": "行く"
       },
       {
         "hr": "na",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "ナ",
+        "meaning_ja": "〜へ／〜で"
       },
       {
         "hr": "otok",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "オトク",
+        "meaning_ja": "島"
       }
     ],
     "accepted_answers_hr": [
@@ -646,8 +875,31 @@
       "島へ行きたいです"
     ],
     "grammar": {
-      "title": "文法・表現メモ",
-      "explanation_ja": "na otok で「島へ」です。"
+      "title": "Želim + 不定詞",
+      "explanation_ja": "Želim は「私は〜したい」です。後ろに ići, kupiti などの不定形を置きます。",
+      "tables": [
+        {
+          "title_ja": "したいことを言う",
+          "headers": [
+            "part",
+            "hr",
+            "ja"
+          ],
+          "rows": [
+            {
+              "part": "主語を含む動詞",
+              "hr": "Želim",
+              "ja": "私は〜したい"
+            },
+            {
+              "part": "不定詞",
+              "hr": "ići / kupiti / jesti",
+              "ja": "行く／買う／食べる"
+            }
+          ]
+        }
+      ],
+      "notes": []
     }
   },
   {
@@ -666,18 +918,18 @@
       },
       {
         "hr": "li",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "リ",
+        "meaning_ja": "疑問文を作る語"
       },
       {
         "hr": "brod",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "ブロド",
+        "meaning_ja": "船"
       },
       {
         "hr": "sutra",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "ストラ",
+        "meaning_ja": "明日"
       }
     ],
     "accepted_answers_hr": [
@@ -690,7 +942,37 @@
     ],
     "grammar": {
       "title": "文法・表現メモ",
-      "explanation_ja": "sutra は「明日」です。"
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [
+        {
+          "title_ja": "時間・日付表現",
+          "headers": [
+            "expression",
+            "meaning",
+            "note"
+          ],
+          "rows": [
+            {
+              "expression": "u + 月の処格",
+              "meaning": "〜月に",
+              "note": "u srpnju = 7月に"
+            },
+            {
+              "expression": "u + 曜日の対格",
+              "meaning": "〜曜日に",
+              "note": "u subotu = 土曜日に"
+            },
+            {
+              "expression": "u + 数字 + sati",
+              "meaning": "〜時に",
+              "note": "u deset sati = 10時に"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "月・曜日・時刻は参考ページにもまとめています。"
+      ]
     }
   },
   {
@@ -704,13 +986,13 @@
     "tokens": [
       {
         "hr": "Koliko",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "コリコ",
+        "meaning_ja": "いくら／どれくらい"
       },
       {
         "hr": "ovo",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "オヴォ",
+        "meaning_ja": "これ／この（中性）"
       },
       {
         "hr": "košta",
@@ -728,7 +1010,40 @@
     ],
     "grammar": {
       "title": "文法・表現メモ",
-      "explanation_ja": "koliko は値段を尋ねる時にも使えます。"
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [
+        {
+          "title_ja": "疑問詞",
+          "headers": [
+            "word",
+            "pronunciation_ja",
+            "meaning"
+          ],
+          "rows": [
+            {
+              "word": "Gdje",
+              "pronunciation_ja": "グデ",
+              "meaning": "どこ"
+            },
+            {
+              "word": "Kamo",
+              "pronunciation_ja": "カモ",
+              "meaning": "どこへ"
+            },
+            {
+              "word": "Kada",
+              "pronunciation_ja": "カダ",
+              "meaning": "いつ"
+            },
+            {
+              "word": "Koliko",
+              "pronunciation_ja": "コリコ",
+              "meaning": "いくら／どのくらい"
+            }
+          ]
+        }
+      ],
+      "notes": []
     }
   },
   {
@@ -747,8 +1062,8 @@
       },
       {
         "hr": "molim",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "モリム",
+        "meaning_ja": "お願いします／どうぞ"
       }
     ],
     "accepted_answers_hr": [
@@ -761,7 +1076,9 @@
     ],
     "grammar": {
       "title": "文法・表現メモ",
-      "explanation_ja": "目的語なので vrećica が vrećicu になります。"
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [],
+      "notes": []
     }
   },
   {
@@ -775,18 +1092,18 @@
     "tokens": [
       {
         "hr": "Gdje",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "グデ",
+        "meaning_ja": "どこ"
       },
       {
         "hr": "je",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "イェ",
+        "meaning_ja": "〜です／ある"
       },
       {
         "hr": "voda",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "ヴォダ",
+        "meaning_ja": "水"
       }
     ],
     "accepted_answers_hr": [
@@ -799,7 +1116,40 @@
     ],
     "grammar": {
       "title": "文法・表現メモ",
-      "explanation_ja": "基本的な場所の聞き方です。"
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [
+        {
+          "title_ja": "疑問詞",
+          "headers": [
+            "word",
+            "pronunciation_ja",
+            "meaning"
+          ],
+          "rows": [
+            {
+              "word": "Gdje",
+              "pronunciation_ja": "グデ",
+              "meaning": "どこ"
+            },
+            {
+              "word": "Kamo",
+              "pronunciation_ja": "カモ",
+              "meaning": "どこへ"
+            },
+            {
+              "word": "Kada",
+              "pronunciation_ja": "カダ",
+              "meaning": "いつ"
+            },
+            {
+              "word": "Koliko",
+              "pronunciation_ja": "コリコ",
+              "meaning": "いくら／どのくらい"
+            }
+          ]
+        }
+      ],
+      "notes": []
     }
   },
   {
@@ -818,13 +1168,13 @@
       },
       {
         "hr": "li",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "リ",
+        "meaning_ja": "疑問文を作る語"
       },
       {
         "hr": "platiti",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "プラティティ",
+        "meaning_ja": "支払う"
       },
       {
         "hr": "karticom",
@@ -841,8 +1191,36 @@
       "カードで払えますか"
     ],
     "grammar": {
-      "title": "文法・表現メモ",
-      "explanation_ja": "karticom は「カードで」です。"
+      "title": "Mogu li...? / Možete li...?",
+      "explanation_ja": "Mogu li...? は「私は〜できますか？」、Možete li...? は丁寧な「〜していただけますか？」です。後ろに動詞の不定形を置きます。",
+      "tables": [
+        {
+          "title_ja": "助動詞 + 不定詞",
+          "headers": [
+            "pattern",
+            "example",
+            "meaning"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "example": "例",
+            "meaning": "意味"
+          },
+          "rows": [
+            {
+              "pattern": "Mogu li + 不定詞",
+              "example": "Mogu li platiti?",
+              "meaning": "支払えますか？"
+            },
+            {
+              "pattern": "Možete li + 不定詞",
+              "example": "Možete li je očistiti?",
+              "meaning": "それを処理してもらえますか？"
+            }
+          ]
+        }
+      ],
+      "notes": []
     }
   },
   {
@@ -856,13 +1234,13 @@
     "tokens": [
       {
         "hr": "Račun",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "ラチュン",
+        "meaning_ja": "レシート／会計"
       },
       {
         "hr": "molim",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "モリム",
+        "meaning_ja": "お願いします／どうぞ"
       }
     ],
     "accepted_answers_hr": [
@@ -875,7 +1253,9 @@
     ],
     "grammar": {
       "title": "文法・表現メモ",
-      "explanation_ja": "会計後に使える短い表現です。"
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [],
+      "notes": []
     }
   },
   {
@@ -894,13 +1274,13 @@
       },
       {
         "hr": "kupiti",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "クピティ",
+        "meaning_ja": "買う"
       },
       {
         "hr": "kruh",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "クルフ",
+        "meaning_ja": "パン"
       }
     ],
     "accepted_answers_hr": [
@@ -912,8 +1292,31 @@
       "パンを買いたいです"
     ],
     "grammar": {
-      "title": "文法・表現メモ",
-      "explanation_ja": "kupiti は「買う」です。"
+      "title": "Želim + 不定詞",
+      "explanation_ja": "Želim は「私は〜したい」です。後ろに ići, kupiti などの不定形を置きます。",
+      "tables": [
+        {
+          "title_ja": "したいことを言う",
+          "headers": [
+            "part",
+            "hr",
+            "ja"
+          ],
+          "rows": [
+            {
+              "part": "主語を含む動詞",
+              "hr": "Želim",
+              "ja": "私は〜したい"
+            },
+            {
+              "part": "不定詞",
+              "hr": "ići / kupiti / jesti",
+              "ja": "行く／買う／食べる"
+            }
+          ]
+        }
+      ],
+      "notes": []
     }
   },
   {
@@ -927,8 +1330,8 @@
     "tokens": [
       {
         "hr": "Dva",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "ドヴァ",
+        "meaning_ja": "2つの"
       },
       {
         "hr": "eura",
@@ -946,7 +1349,9 @@
     ],
     "grammar": {
       "title": "文法・表現メモ",
-      "explanation_ja": "数量の後で eura の形が出ます。"
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [],
+      "notes": []
     }
   },
   {
@@ -960,23 +1365,23 @@
     "tokens": [
       {
         "hr": "Je",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "イェ",
+        "meaning_ja": "〜です／ある"
       },
       {
         "hr": "li",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "リ",
+        "meaning_ja": "疑問文を作る語"
       },
       {
         "hr": "ova",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "オヴァ",
+        "meaning_ja": "この（女性）"
       },
       {
         "hr": "riba",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "リバ",
+        "meaning_ja": "魚"
       },
       {
         "hr": "svježa",
@@ -993,8 +1398,41 @@
       "この魚は新鮮ですか"
     ],
     "grammar": {
-      "title": "文法・表現メモ",
-      "explanation_ja": "riba は女性名詞なので ova / svježa です。"
+      "title": "Je li...? の疑問文",
+      "explanation_ja": "Je li...? は「〜ですか？」を作る基本パターンです。li は疑問を作る小さな語です。",
+      "tables": [
+        {
+          "title_ja": "疑問文の構造",
+          "headers": [
+            "part",
+            "hr",
+            "ja"
+          ],
+          "header_labels": {
+            "part": "部分",
+            "hr": "クロアチア語",
+            "ja": "意味"
+          },
+          "rows": [
+            {
+              "part": "Je li",
+              "hr": "Je li",
+              "ja": "〜ですか？"
+            },
+            {
+              "part": "主語/名詞句",
+              "hr": "ova riba / voda",
+              "ja": "この魚／水"
+            },
+            {
+              "part": "形容詞",
+              "hr": "svježa / hladna",
+              "ja": "新鮮な／冷たい"
+            }
+          ]
+        }
+      ],
+      "notes": []
     }
   },
   {
@@ -1008,8 +1446,8 @@
     "tokens": [
       {
         "hr": "Petsto",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "ペトスト",
+        "meaning_ja": "500"
       },
       {
         "hr": "grama",
@@ -1018,8 +1456,8 @@
       },
       {
         "hr": "molim",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "モリム",
+        "meaning_ja": "お願いします／どうぞ"
       }
     ],
     "accepted_answers_hr": [
@@ -1032,7 +1470,35 @@
     ],
     "grammar": {
       "title": "文法・表現メモ",
-      "explanation_ja": "gram は数量表現で grama がよく出ます。"
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [
+        {
+          "title_ja": "数量表現",
+          "headers": [
+            "expression",
+            "meaning",
+            "note"
+          ],
+          "rows": [
+            {
+              "expression": "sto / petsto grama",
+              "meaning": "100 / 500グラム",
+              "note": "数量の後に grama がよく出る"
+            },
+            {
+              "expression": "jedan kilogram",
+              "meaning": "1キロ",
+              "note": "1では単数"
+            },
+            {
+              "expression": "dva kilograma",
+              "meaning": "2キロ",
+              "note": "2〜4では kilograma"
+            }
+          ]
+        }
+      ],
+      "notes": []
     }
   },
   {
@@ -1051,18 +1517,18 @@
       },
       {
         "hr": "li",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "リ",
+        "meaning_ja": "疑問文を作る語"
       },
       {
         "hr": "je",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "イェ",
+        "meaning_ja": "〜です／ある"
       },
       {
         "hr": "očistiti",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "オチスティティ",
+        "meaning_ja": "きれいにする／魚を捌く"
       }
     ],
     "accepted_answers_hr": [
@@ -1074,8 +1540,36 @@
       "それを捌いてもらえますか"
     ],
     "grammar": {
-      "title": "文法・表現メモ",
-      "explanation_ja": "Možete li...? は丁寧な依頼表現です。"
+      "title": "Mogu li...? / Možete li...?",
+      "explanation_ja": "Mogu li...? は「私は〜できますか？」、Možete li...? は丁寧な「〜していただけますか？」です。後ろに動詞の不定形を置きます。",
+      "tables": [
+        {
+          "title_ja": "助動詞 + 不定詞",
+          "headers": [
+            "pattern",
+            "example",
+            "meaning"
+          ],
+          "header_labels": {
+            "pattern": "型",
+            "example": "例",
+            "meaning": "意味"
+          },
+          "rows": [
+            {
+              "pattern": "Mogu li + 不定詞",
+              "example": "Mogu li platiti?",
+              "meaning": "支払えますか？"
+            },
+            {
+              "pattern": "Možete li + 不定詞",
+              "example": "Možete li je očistiti?",
+              "meaning": "それを処理してもらえますか？"
+            }
+          ]
+        }
+      ],
+      "notes": []
     }
   },
   {
@@ -1094,8 +1588,8 @@
       },
       {
         "hr": "li",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "リ",
+        "meaning_ja": "疑問文を作る語"
       },
       {
         "hr": "se",
@@ -1104,8 +1598,8 @@
       },
       {
         "hr": "jesti",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "イェスティ",
+        "meaning_ja": "食べる"
       },
       {
         "hr": "sirovo",
@@ -1123,7 +1617,9 @@
     ],
     "grammar": {
       "title": "文法・表現メモ",
-      "explanation_ja": "se を使った一般的な言い方です。"
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [],
+      "notes": []
     }
   },
   {
@@ -1137,28 +1633,28 @@
     "tokens": [
       {
         "hr": "Je",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "イェ",
+        "meaning_ja": "〜です／ある"
       },
       {
         "hr": "li",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "リ",
+        "meaning_ja": "疑問文を作る語"
       },
       {
         "hr": "riba",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "リバ",
+        "meaning_ja": "魚"
       },
       {
         "hr": "ulovljena",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "ウロヴリェナ",
+        "meaning_ja": "獲られた"
       },
       {
         "hr": "danas",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "ダナス",
+        "meaning_ja": "今日"
       }
     ],
     "accepted_answers_hr": [
@@ -1170,8 +1666,68 @@
       "今日獲れた魚ですか"
     ],
     "grammar": {
-      "title": "文法・表現メモ",
-      "explanation_ja": "danas は「今日」です。"
+      "title": "Je li...? の疑問文",
+      "explanation_ja": "Je li...? は「〜ですか？」を作る基本パターンです。li は疑問を作る小さな語です。",
+      "tables": [
+        {
+          "title_ja": "疑問文の構造",
+          "headers": [
+            "part",
+            "hr",
+            "ja"
+          ],
+          "header_labels": {
+            "part": "部分",
+            "hr": "クロアチア語",
+            "ja": "意味"
+          },
+          "rows": [
+            {
+              "part": "Je li",
+              "hr": "Je li",
+              "ja": "〜ですか？"
+            },
+            {
+              "part": "主語/名詞句",
+              "hr": "ova riba / voda",
+              "ja": "この魚／水"
+            },
+            {
+              "part": "形容詞",
+              "hr": "svježa / hladna",
+              "ja": "新鮮な／冷たい"
+            }
+          ]
+        },
+        {
+          "title_ja": "時間・日付表現",
+          "headers": [
+            "expression",
+            "meaning",
+            "note"
+          ],
+          "rows": [
+            {
+              "expression": "u + 月の処格",
+              "meaning": "〜月に",
+              "note": "u srpnju = 7月に"
+            },
+            {
+              "expression": "u + 曜日の対格",
+              "meaning": "〜曜日に",
+              "note": "u subotu = 土曜日に"
+            },
+            {
+              "expression": "u + 数字 + sati",
+              "meaning": "〜時に",
+              "note": "u deset sati = 10時に"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "月・曜日・時刻は参考ページにもまとめています。"
+      ]
     }
   },
   {
@@ -1185,18 +1741,18 @@
     "tokens": [
       {
         "hr": "Jedan",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "イェダン",
+        "meaning_ja": "1つの"
       },
       {
         "hr": "kilogram",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "キログラム",
+        "meaning_ja": "キログラム"
       },
       {
         "hr": "molim",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "モリム",
+        "meaning_ja": "お願いします／どうぞ"
       }
     ],
     "accepted_answers_hr": [
@@ -1209,7 +1765,35 @@
     ],
     "grammar": {
       "title": "文法・表現メモ",
-      "explanation_ja": "jedan は男性名詞 kilogram に合います。"
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [
+        {
+          "title_ja": "数量表現",
+          "headers": [
+            "expression",
+            "meaning",
+            "note"
+          ],
+          "rows": [
+            {
+              "expression": "sto / petsto grama",
+              "meaning": "100 / 500グラム",
+              "note": "数量の後に grama がよく出る"
+            },
+            {
+              "expression": "jedan kilogram",
+              "meaning": "1キロ",
+              "note": "1では単数"
+            },
+            {
+              "expression": "dva kilograma",
+              "meaning": "2キロ",
+              "note": "2〜4では kilograma"
+            }
+          ]
+        }
+      ],
+      "notes": []
     }
   },
   {
@@ -1233,8 +1817,8 @@
       },
       {
         "hr": "molim",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "モリム",
+        "meaning_ja": "お願いします／どうぞ"
       }
     ],
     "accepted_answers_hr": [
@@ -1247,7 +1831,35 @@
     ],
     "grammar": {
       "title": "文法・表現メモ",
-      "explanation_ja": "pola は「半分」です。"
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [
+        {
+          "title_ja": "数量表現",
+          "headers": [
+            "expression",
+            "meaning",
+            "note"
+          ],
+          "rows": [
+            {
+              "expression": "sto / petsto grama",
+              "meaning": "100 / 500グラム",
+              "note": "数量の後に grama がよく出る"
+            },
+            {
+              "expression": "jedan kilogram",
+              "meaning": "1キロ",
+              "note": "1では単数"
+            },
+            {
+              "expression": "dva kilograma",
+              "meaning": "2キロ",
+              "note": "2〜4では kilograma"
+            }
+          ]
+        }
+      ],
+      "notes": []
     }
   },
   {
@@ -1266,8 +1878,8 @@
       },
       {
         "hr": "li",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "リ",
+        "meaning_ja": "疑問文を作る語"
       },
       {
         "hr": "se",
@@ -1276,13 +1888,13 @@
       },
       {
         "hr": "ovdje",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "オヴディエ",
+        "meaning_ja": "ここで／ここに"
       },
       {
         "hr": "sakupljati",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "サクプリャティ",
+        "meaning_ja": "集める／採集する"
       },
       {
         "hr": "morske",
@@ -1304,8 +1916,31 @@
       "ここでウニを採ってもいいですか"
     ],
     "grammar": {
-      "title": "文法・表現メモ",
-      "explanation_ja": "smije li se は「一般に〜してよいか」です。"
+      "title": "許可を聞く表現",
+      "explanation_ja": "Smijem li...? は「私は〜してもよいですか？」、Smije li se...? は一般的に「ここで〜してよいですか？」と聞く表現です。",
+      "tables": [
+        {
+          "title_ja": "許可表現",
+          "headers": [
+            "pattern",
+            "example",
+            "meaning"
+          ],
+          "rows": [
+            {
+              "pattern": "Smijem li + 不定詞",
+              "example": "Smijem li ovdje plivati?",
+              "meaning": "ここで泳いでもいいですか？"
+            },
+            {
+              "pattern": "Smije li se + 不定詞",
+              "example": "Smije li se ovdje sakupljati...?",
+              "meaning": "ここで採集してもよいですか？"
+            }
+          ]
+        }
+      ],
+      "notes": []
     }
   },
   {
@@ -1324,8 +1959,8 @@
       },
       {
         "hr": "li",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "リ",
+        "meaning_ja": "疑問文を作る語"
       },
       {
         "hr": "se",
@@ -1334,13 +1969,13 @@
       },
       {
         "hr": "ovo",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "オヴォ",
+        "meaning_ja": "これ／この（中性）"
       },
       {
         "hr": "jesti",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "イェスティ",
+        "meaning_ja": "食べる"
       }
     ],
     "accepted_answers_hr": [
@@ -1353,7 +1988,9 @@
     ],
     "grammar": {
       "title": "文法・表現メモ",
-      "explanation_ja": "ovo は「これ」です。"
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [],
+      "notes": []
     }
   },
   {
@@ -1367,18 +2004,18 @@
     "tokens": [
       {
         "hr": "Je",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "イェ",
+        "meaning_ja": "〜です／ある"
       },
       {
         "hr": "li",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "リ",
+        "meaning_ja": "疑問文を作る語"
       },
       {
         "hr": "opasno",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "オパスノ",
+        "meaning_ja": "危険な／危険に"
       }
     ],
     "accepted_answers_hr": [
@@ -1390,8 +2027,41 @@
       "危険ですか"
     ],
     "grammar": {
-      "title": "文法・表現メモ",
-      "explanation_ja": "短く安全確認できます。"
+      "title": "Je li...? の疑問文",
+      "explanation_ja": "Je li...? は「〜ですか？」を作る基本パターンです。li は疑問を作る小さな語です。",
+      "tables": [
+        {
+          "title_ja": "疑問文の構造",
+          "headers": [
+            "part",
+            "hr",
+            "ja"
+          ],
+          "header_labels": {
+            "part": "部分",
+            "hr": "クロアチア語",
+            "ja": "意味"
+          },
+          "rows": [
+            {
+              "part": "Je li",
+              "hr": "Je li",
+              "ja": "〜ですか？"
+            },
+            {
+              "part": "主語/名詞句",
+              "hr": "ova riba / voda",
+              "ja": "この魚／水"
+            },
+            {
+              "part": "形容詞",
+              "hr": "svježa / hladna",
+              "ja": "新鮮な／冷たい"
+            }
+          ]
+        }
+      ],
+      "notes": []
     }
   },
   {
@@ -1415,13 +2085,13 @@
       },
       {
         "hr": "je",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "イェ",
+        "meaning_ja": "〜です／ある"
       },
       {
         "hr": "bodlja",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "ボドリャ",
+        "meaning_ja": "トゲ"
       }
     ],
     "accepted_answers_hr": [
@@ -1434,7 +2104,9 @@
     ],
     "grammar": {
       "title": "文法・表現メモ",
-      "explanation_ja": "bodlja は「トゲ」です。"
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [],
+      "notes": []
     }
   },
   {
@@ -1453,8 +2125,8 @@
       },
       {
         "hr": "molim",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "モリム",
+        "meaning_ja": "お願いします／どうぞ"
       }
     ],
     "accepted_answers_hr": [
@@ -1467,7 +2139,9 @@
     ],
     "grammar": {
       "title": "文法・表現メモ",
-      "explanation_ja": "緊急時の基本表現です。"
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [],
+      "notes": []
     }
   },
   {
@@ -1481,13 +2155,13 @@
     "tokens": [
       {
         "hr": "Gdje",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "グデ",
+        "meaning_ja": "どこ"
       },
       {
         "hr": "je",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "イェ",
+        "meaning_ja": "〜です／ある"
       },
       {
         "hr": "stari",
@@ -1496,8 +2170,8 @@
       },
       {
         "hr": "grad",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "グラド",
+        "meaning_ja": "町／都市"
       }
     ],
     "accepted_answers_hr": [
@@ -1510,7 +2184,40 @@
     ],
     "grammar": {
       "title": "文法・表現メモ",
-      "explanation_ja": "stari grad は「旧市街」です。"
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [
+        {
+          "title_ja": "疑問詞",
+          "headers": [
+            "word",
+            "pronunciation_ja",
+            "meaning"
+          ],
+          "rows": [
+            {
+              "word": "Gdje",
+              "pronunciation_ja": "グデ",
+              "meaning": "どこ"
+            },
+            {
+              "word": "Kamo",
+              "pronunciation_ja": "カモ",
+              "meaning": "どこへ"
+            },
+            {
+              "word": "Kada",
+              "pronunciation_ja": "カダ",
+              "meaning": "いつ"
+            },
+            {
+              "word": "Koliko",
+              "pronunciation_ja": "コリコ",
+              "meaning": "いくら／どのくらい"
+            }
+          ]
+        }
+      ],
+      "notes": []
     }
   },
   {
@@ -1529,13 +2236,13 @@
       },
       {
         "hr": "li",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "リ",
+        "meaning_ja": "疑問文を作る語"
       },
       {
         "hr": "fotografirati",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "フォトグラフィラティ",
+        "meaning_ja": "写真を撮る"
       }
     ],
     "accepted_answers_hr": [
@@ -1547,8 +2254,31 @@
       "写真を撮ってもいいですか"
     ],
     "grammar": {
-      "title": "文法・表現メモ",
-      "explanation_ja": "許可を尋ねる表現です。"
+      "title": "許可を聞く表現",
+      "explanation_ja": "Smijem li...? は「私は〜してもよいですか？」、Smije li se...? は一般的に「ここで〜してよいですか？」と聞く表現です。",
+      "tables": [
+        {
+          "title_ja": "許可表現",
+          "headers": [
+            "pattern",
+            "example",
+            "meaning"
+          ],
+          "rows": [
+            {
+              "pattern": "Smijem li + 不定詞",
+              "example": "Smijem li ovdje plivati?",
+              "meaning": "ここで泳いでもいいですか？"
+            },
+            {
+              "pattern": "Smije li se + 不定詞",
+              "example": "Smije li se ovdje sakupljati...?",
+              "meaning": "ここで採集してもよいですか？"
+            }
+          ]
+        }
+      ],
+      "notes": []
     }
   },
   {
@@ -1567,8 +2297,8 @@
       },
       {
         "hr": "li",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "リ",
+        "meaning_ja": "疑問文を作る語"
       },
       {
         "hr": "preporuku",
@@ -1586,7 +2316,9 @@
     ],
     "grammar": {
       "title": "文法・表現メモ",
-      "explanation_ja": "Imate li...? は「ありますか/持っていますか」です。"
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [],
+      "notes": []
     }
   },
   {
@@ -1600,18 +2332,18 @@
     "tokens": [
       {
         "hr": "Je",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "イェ",
+        "meaning_ja": "〜です／ある"
       },
       {
         "hr": "li",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "リ",
+        "meaning_ja": "疑問文を作る語"
       },
       {
         "hr": "daleko",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "ダレコ",
+        "meaning_ja": "遠い／遠くに"
       },
       {
         "hr": "odavde",
@@ -1628,8 +2360,41 @@
       "ここから遠いですか"
     ],
     "grammar": {
-      "title": "文法・表現メモ",
-      "explanation_ja": "odavde は「ここから」です。"
+      "title": "Je li...? の疑問文",
+      "explanation_ja": "Je li...? は「〜ですか？」を作る基本パターンです。li は疑問を作る小さな語です。",
+      "tables": [
+        {
+          "title_ja": "疑問文の構造",
+          "headers": [
+            "part",
+            "hr",
+            "ja"
+          ],
+          "header_labels": {
+            "part": "部分",
+            "hr": "クロアチア語",
+            "ja": "意味"
+          },
+          "rows": [
+            {
+              "part": "Je li",
+              "hr": "Je li",
+              "ja": "〜ですか？"
+            },
+            {
+              "part": "主語/名詞句",
+              "hr": "ova riba / voda",
+              "ja": "この魚／水"
+            },
+            {
+              "part": "形容詞",
+              "hr": "svježa / hladna",
+              "ja": "新鮮な／冷たい"
+            }
+          ]
+        }
+      ],
+      "notes": []
     }
   },
   {
@@ -1643,13 +2408,13 @@
     "tokens": [
       {
         "hr": "Gdje",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "グデ",
+        "meaning_ja": "どこ"
       },
       {
         "hr": "je",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "イェ",
+        "meaning_ja": "〜です／ある"
       },
       {
         "hr": "autobusna",
@@ -1658,8 +2423,8 @@
       },
       {
         "hr": "stanica",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "スタニツァ",
+        "meaning_ja": "駅／停留所"
       }
     ],
     "accepted_answers_hr": [
@@ -1672,7 +2437,40 @@
     ],
     "grammar": {
       "title": "文法・表現メモ",
-      "explanation_ja": "autobusna stanica は「バス停」です。"
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [
+        {
+          "title_ja": "疑問詞",
+          "headers": [
+            "word",
+            "pronunciation_ja",
+            "meaning"
+          ],
+          "rows": [
+            {
+              "word": "Gdje",
+              "pronunciation_ja": "グデ",
+              "meaning": "どこ"
+            },
+            {
+              "word": "Kamo",
+              "pronunciation_ja": "カモ",
+              "meaning": "どこへ"
+            },
+            {
+              "word": "Kada",
+              "pronunciation_ja": "カダ",
+              "meaning": "いつ"
+            },
+            {
+              "word": "Koliko",
+              "pronunciation_ja": "コリコ",
+              "meaning": "いくら／どのくらい"
+            }
+          ]
+        }
+      ],
+      "notes": []
     }
   },
   {
@@ -1691,8 +2489,8 @@
       },
       {
         "hr": "li",
-        "pronunciation_ja": "",
-        "meaning_ja": ""
+        "pronunciation_ja": "リ",
+        "meaning_ja": "疑問文を作る語"
       },
       {
         "hr": "kartu",
@@ -1710,7 +2508,656 @@
     ],
     "grammar": {
       "title": "文法・表現メモ",
-      "explanation_ja": "karta は「地図」または「チケット」です。"
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [],
+      "notes": []
     }
+  },
+  {
+    "id": "s_time_001",
+    "scene": "boat",
+    "level": 1,
+    "ja": "船は10時に出発します。",
+    "hr": "Brod polazi u deset sati.",
+    "pronunciation_ja": "ブロド ポラジ ウ デセット サティ",
+    "tags": [
+      "time",
+      "boat"
+    ],
+    "tokens": [
+      {
+        "hr": "Brod",
+        "pronunciation_ja": "ブロド",
+        "meaning_ja": "船"
+      },
+      {
+        "hr": "polazi",
+        "pronunciation_ja": "ポラジ",
+        "meaning_ja": "出発します"
+      },
+      {
+        "hr": "u",
+        "pronunciation_ja": "ウ",
+        "meaning_ja": "〜に／〜で"
+      },
+      {
+        "hr": "deset",
+        "pronunciation_ja": "デセット",
+        "meaning_ja": "10"
+      },
+      {
+        "hr": "sati",
+        "pronunciation_ja": "サティ",
+        "meaning_ja": "時"
+      }
+    ],
+    "grammar": {
+      "title": "文法・表現メモ",
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [
+        {
+          "title_ja": "時間・日付表現",
+          "headers": [
+            "expression",
+            "meaning",
+            "note"
+          ],
+          "rows": [
+            {
+              "expression": "u + 月の処格",
+              "meaning": "〜月に",
+              "note": "u srpnju = 7月に"
+            },
+            {
+              "expression": "u + 曜日の対格",
+              "meaning": "〜曜日に",
+              "note": "u subotu = 土曜日に"
+            },
+            {
+              "expression": "u + 数字 + sati",
+              "meaning": "〜時に",
+              "note": "u deset sati = 10時に"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "月・曜日・時刻は参考ページにもまとめています。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Brod polazi u deset sati.",
+      "Brod polazi u deset sati"
+    ],
+    "accepted_answers_ja": [
+      "船は10時に出発します。",
+      "船は10時に出発します"
+    ]
+  },
+  {
+    "id": "s_time_002",
+    "scene": "boat",
+    "level": 1,
+    "ja": "帰りの船は15時に出発します。",
+    "hr": "Povratni brod polazi u petnaest sati.",
+    "pronunciation_ja": "ポヴラトニ ブロド ポラジ ウ ペトナエスト サティ",
+    "tags": [
+      "time",
+      "boat"
+    ],
+    "tokens": [
+      {
+        "hr": "Povratni",
+        "pronunciation_ja": "ポヴラトニ",
+        "meaning_ja": "帰りの"
+      },
+      {
+        "hr": "brod",
+        "pronunciation_ja": "ブロド",
+        "meaning_ja": "船"
+      },
+      {
+        "hr": "polazi",
+        "pronunciation_ja": "ポラジ",
+        "meaning_ja": "出発します"
+      },
+      {
+        "hr": "u",
+        "pronunciation_ja": "ウ",
+        "meaning_ja": "〜に／〜で"
+      },
+      {
+        "hr": "petnaest",
+        "pronunciation_ja": "ペトナエスト",
+        "meaning_ja": "15"
+      },
+      {
+        "hr": "sati",
+        "pronunciation_ja": "サティ",
+        "meaning_ja": "時"
+      }
+    ],
+    "grammar": {
+      "title": "文法・表現メモ",
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [],
+      "notes": []
+    },
+    "accepted_answers_hr": [
+      "Povratni brod polazi u petnaest sati.",
+      "Povratni brod polazi u petnaest sati"
+    ],
+    "accepted_answers_ja": [
+      "帰りの船は15時に出発します。",
+      "帰りの船は15時に出発します"
+    ]
+  },
+  {
+    "id": "s_date_001",
+    "scene": "sea",
+    "level": 1,
+    "ja": "今日は月曜日です。",
+    "hr": "Danas je ponedjeljak.",
+    "pronunciation_ja": "ダナス イェ ポネジェリャク",
+    "tags": [
+      "date",
+      "weekday"
+    ],
+    "tokens": [
+      {
+        "hr": "Danas",
+        "pronunciation_ja": "ダナス",
+        "meaning_ja": "今日"
+      },
+      {
+        "hr": "je",
+        "pronunciation_ja": "イェ",
+        "meaning_ja": "〜です／ある"
+      },
+      {
+        "hr": "ponedjeljak",
+        "pronunciation_ja": "ポネジェリャク",
+        "meaning_ja": "月曜日"
+      }
+    ],
+    "grammar": {
+      "title": "文法・表現メモ",
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [],
+      "notes": []
+    },
+    "accepted_answers_hr": [
+      "Danas je ponedjeljak.",
+      "Danas je ponedjeljak"
+    ],
+    "accepted_answers_ja": [
+      "今日は月曜日です。",
+      "今日は月曜日です"
+    ]
+  },
+  {
+    "id": "s_date_002",
+    "scene": "sea",
+    "level": 1,
+    "ja": "土曜日にビーチへ行きます。",
+    "hr": "Idemo na plažu u subotu.",
+    "pronunciation_ja": "イデモ ナ プラジュ ウ スボトゥ",
+    "tags": [
+      "date",
+      "weekday",
+      "sea"
+    ],
+    "tokens": [
+      {
+        "hr": "Idemo",
+        "pronunciation_ja": "イデモ",
+        "meaning_ja": "私たちは行きます"
+      },
+      {
+        "hr": "na",
+        "pronunciation_ja": "ナ",
+        "meaning_ja": "〜へ／〜で"
+      },
+      {
+        "hr": "plažu",
+        "pronunciation_ja": "",
+        "meaning_ja": ""
+      },
+      {
+        "hr": "u",
+        "pronunciation_ja": "ウ",
+        "meaning_ja": "〜に／〜で"
+      },
+      {
+        "hr": "subotu",
+        "pronunciation_ja": "スボトゥ",
+        "meaning_ja": "土曜日に"
+      }
+    ],
+    "grammar": {
+      "title": "文法・表現メモ",
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [
+        {
+          "title_ja": "時間・日付表現",
+          "headers": [
+            "expression",
+            "meaning",
+            "note"
+          ],
+          "rows": [
+            {
+              "expression": "u + 月の処格",
+              "meaning": "〜月に",
+              "note": "u srpnju = 7月に"
+            },
+            {
+              "expression": "u + 曜日の対格",
+              "meaning": "〜曜日に",
+              "note": "u subotu = 土曜日に"
+            },
+            {
+              "expression": "u + 数字 + sati",
+              "meaning": "〜時に",
+              "note": "u deset sati = 10時に"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "月・曜日・時刻は参考ページにもまとめています。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Idemo na plažu u subotu.",
+      "Idemo na plažu u subotu"
+    ],
+    "accepted_answers_ja": [
+      "土曜日にビーチへ行きます。",
+      "土曜日にビーチへ行きます"
+    ]
+  },
+  {
+    "id": "s_month_001",
+    "scene": "tourism",
+    "level": 1,
+    "ja": "私は7月にクロアチアへ行きます。",
+    "hr": "Idem u Hrvatsku u srpnju.",
+    "pronunciation_ja": "イデム ウ フルヴァツク ウ スルプニュ",
+    "tags": [
+      "month",
+      "tourism"
+    ],
+    "tokens": [
+      {
+        "hr": "Idem",
+        "pronunciation_ja": "",
+        "meaning_ja": ""
+      },
+      {
+        "hr": "u",
+        "pronunciation_ja": "ウ",
+        "meaning_ja": "〜に／〜で"
+      },
+      {
+        "hr": "Hrvatsku",
+        "pronunciation_ja": "",
+        "meaning_ja": ""
+      },
+      {
+        "hr": "u",
+        "pronunciation_ja": "ウ",
+        "meaning_ja": "〜に／〜で"
+      },
+      {
+        "hr": "srpnju",
+        "pronunciation_ja": "スルプニュ",
+        "meaning_ja": "7月に"
+      }
+    ],
+    "grammar": {
+      "title": "文法・表現メモ",
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [
+        {
+          "title_ja": "時間・日付表現",
+          "headers": [
+            "expression",
+            "meaning",
+            "note"
+          ],
+          "rows": [
+            {
+              "expression": "u + 月の処格",
+              "meaning": "〜月に",
+              "note": "u srpnju = 7月に"
+            },
+            {
+              "expression": "u + 曜日の対格",
+              "meaning": "〜曜日に",
+              "note": "u subotu = 土曜日に"
+            },
+            {
+              "expression": "u + 数字 + sati",
+              "meaning": "〜時に",
+              "note": "u deset sati = 10時に"
+            }
+          ]
+        }
+      ],
+      "notes": [
+        "月・曜日・時刻は参考ページにもまとめています。"
+      ]
+    },
+    "accepted_answers_hr": [
+      "Idem u Hrvatsku u srpnju.",
+      "Idem u Hrvatsku u srpnju"
+    ],
+    "accepted_answers_ja": [
+      "私は7月にクロアチアへ行きます。",
+      "私は7月にクロアチアへ行きます"
+    ]
+  },
+  {
+    "id": "s_month_002",
+    "scene": "tourism",
+    "level": 2,
+    "ja": "8月はとても暑いです。",
+    "hr": "U kolovozu je jako vruće.",
+    "pronunciation_ja": "ウ コロヴォズ イェ ヤコ ヴルチェ",
+    "tags": [
+      "month",
+      "weather"
+    ],
+    "tokens": [
+      {
+        "hr": "U",
+        "pronunciation_ja": "ウ",
+        "meaning_ja": "〜に／〜で"
+      },
+      {
+        "hr": "kolovozu",
+        "pronunciation_ja": "コロヴォズ",
+        "meaning_ja": "8月に"
+      },
+      {
+        "hr": "je",
+        "pronunciation_ja": "イェ",
+        "meaning_ja": "〜です／ある"
+      },
+      {
+        "hr": "jako",
+        "pronunciation_ja": "",
+        "meaning_ja": ""
+      },
+      {
+        "hr": "vruće",
+        "pronunciation_ja": "",
+        "meaning_ja": ""
+      }
+    ],
+    "grammar": {
+      "title": "文法・表現メモ",
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [],
+      "notes": []
+    },
+    "accepted_answers_hr": [
+      "U kolovozu je jako vruće.",
+      "U kolovozu je jako vruće"
+    ],
+    "accepted_answers_ja": [
+      "8月はとても暑いです。",
+      "8月はとても暑いです"
+    ]
+  },
+  {
+    "id": "s_shop_time_001",
+    "scene": "supermarket",
+    "level": 1,
+    "ja": "店は20時まで開いています。",
+    "hr": "Trgovina je otvorena do dvadeset sati.",
+    "pronunciation_ja": "トルゴヴィナ イェ オトヴォレナ ド ドヴァデセット サティ",
+    "tags": [
+      "time",
+      "shopping"
+    ],
+    "tokens": [
+      {
+        "hr": "Trgovina",
+        "pronunciation_ja": "トルゴヴィナ",
+        "meaning_ja": "店／スーパー"
+      },
+      {
+        "hr": "je",
+        "pronunciation_ja": "イェ",
+        "meaning_ja": "〜です／ある"
+      },
+      {
+        "hr": "otvorena",
+        "pronunciation_ja": "",
+        "meaning_ja": ""
+      },
+      {
+        "hr": "do",
+        "pronunciation_ja": "ド",
+        "meaning_ja": "〜まで"
+      },
+      {
+        "hr": "dvadeset",
+        "pronunciation_ja": "ドヴァデセット",
+        "meaning_ja": "20"
+      },
+      {
+        "hr": "sati",
+        "pronunciation_ja": "サティ",
+        "meaning_ja": "時"
+      }
+    ],
+    "grammar": {
+      "title": "文法・表現メモ",
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [],
+      "notes": []
+    },
+    "accepted_answers_hr": [
+      "Trgovina je otvorena do dvadeset sati.",
+      "Trgovina je otvorena do dvadeset sati"
+    ],
+    "accepted_answers_ja": [
+      "店は20時まで開いています。",
+      "店は20時まで開いています"
+    ]
+  },
+  {
+    "id": "s_fish_date_001",
+    "scene": "fish_market",
+    "level": 2,
+    "ja": "この魚は今朝獲れました。",
+    "hr": "Ova riba je ulovljena jutros.",
+    "pronunciation_ja": "オヴァ リバ イェ ウロヴリェナ ユトロス",
+    "tags": [
+      "fish",
+      "time"
+    ],
+    "tokens": [
+      {
+        "hr": "Ova",
+        "pronunciation_ja": "オヴァ",
+        "meaning_ja": "この（女性）"
+      },
+      {
+        "hr": "riba",
+        "pronunciation_ja": "リバ",
+        "meaning_ja": "魚"
+      },
+      {
+        "hr": "je",
+        "pronunciation_ja": "イェ",
+        "meaning_ja": "〜です／ある"
+      },
+      {
+        "hr": "ulovljena",
+        "pronunciation_ja": "ウロヴリェナ",
+        "meaning_ja": "獲られた"
+      },
+      {
+        "hr": "jutros",
+        "pronunciation_ja": "ユトロス",
+        "meaning_ja": "今朝"
+      }
+    ],
+    "grammar": {
+      "title": "文法・表現メモ",
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [],
+      "notes": []
+    },
+    "accepted_answers_hr": [
+      "Ova riba je ulovljena jutros.",
+      "Ova riba je ulovljena jutros"
+    ],
+    "accepted_answers_ja": [
+      "この魚は今朝獲れました。",
+      "この魚は今朝獲れました"
+    ]
+  },
+  {
+    "id": "s_units_001",
+    "scene": "fish_market",
+    "level": 1,
+    "ja": "600グラムください。",
+    "hr": "Šeststo grama, molim.",
+    "pronunciation_ja": "シェストスト グラマ モリム",
+    "tags": [
+      "number",
+      "unit"
+    ],
+    "tokens": [
+      {
+        "hr": "Šeststo",
+        "pronunciation_ja": "",
+        "meaning_ja": ""
+      },
+      {
+        "hr": "grama",
+        "pronunciation_ja": "",
+        "meaning_ja": ""
+      },
+      {
+        "hr": "molim",
+        "pronunciation_ja": "モリム",
+        "meaning_ja": "お願いします／どうぞ"
+      }
+    ],
+    "grammar": {
+      "title": "文法・表現メモ",
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [
+        {
+          "title_ja": "数量表現",
+          "headers": [
+            "expression",
+            "meaning",
+            "note"
+          ],
+          "rows": [
+            {
+              "expression": "sto / petsto grama",
+              "meaning": "100 / 500グラム",
+              "note": "数量の後に grama がよく出る"
+            },
+            {
+              "expression": "jedan kilogram",
+              "meaning": "1キロ",
+              "note": "1では単数"
+            },
+            {
+              "expression": "dva kilograma",
+              "meaning": "2キロ",
+              "note": "2〜4では kilograma"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    "accepted_answers_hr": [
+      "Šeststo grama, molim.",
+      "Šeststo grama, molim"
+    ],
+    "accepted_answers_ja": [
+      "600グラムください。",
+      "600グラムください"
+    ]
+  },
+  {
+    "id": "s_units_002",
+    "scene": "fish_market",
+    "level": 1,
+    "ja": "2キロください。",
+    "hr": "Dva kilograma, molim.",
+    "pronunciation_ja": "ドヴァ キログラマ モリム",
+    "tags": [
+      "number",
+      "unit"
+    ],
+    "tokens": [
+      {
+        "hr": "Dva",
+        "pronunciation_ja": "ドヴァ",
+        "meaning_ja": "2つの"
+      },
+      {
+        "hr": "kilograma",
+        "pronunciation_ja": "",
+        "meaning_ja": ""
+      },
+      {
+        "hr": "molim",
+        "pronunciation_ja": "モリム",
+        "meaning_ja": "お願いします／どうぞ"
+      }
+    ],
+    "grammar": {
+      "title": "文法・表現メモ",
+      "explanation_ja": "この文で使う語順と重要表現を確認します。",
+      "tables": [
+        {
+          "title_ja": "数量表現",
+          "headers": [
+            "expression",
+            "meaning",
+            "note"
+          ],
+          "rows": [
+            {
+              "expression": "sto / petsto grama",
+              "meaning": "100 / 500グラム",
+              "note": "数量の後に grama がよく出る"
+            },
+            {
+              "expression": "jedan kilogram",
+              "meaning": "1キロ",
+              "note": "1では単数"
+            },
+            {
+              "expression": "dva kilograma",
+              "meaning": "2キロ",
+              "note": "2〜4では kilograma"
+            }
+          ]
+        }
+      ],
+      "notes": []
+    },
+    "accepted_answers_hr": [
+      "Dva kilograma, molim.",
+      "Dva kilograma, molim"
+    ],
+    "accepted_answers_ja": [
+      "2キロください。",
+      "2キロください"
+    ]
   }
 ]

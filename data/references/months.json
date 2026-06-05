@@ -5,67 +5,103 @@
   "sections": [
     {
       "id": "months",
-      "title_ja": "月",
+      "title_ja": "月：辞書形・「〜月に」・日付で使う形",
       "items": [
         {
           "ja": "1月",
           "hr": "siječanj",
-          "pronunciation_ja": "シイェチャニ"
+          "pronunciation_ja": "シイェチャニ",
+          "note_ja": "u siječnju = 〜月に / 日付では siječnja を使う"
         },
         {
           "ja": "2月",
           "hr": "veljača",
-          "pronunciation_ja": "ヴェリャチャ"
+          "pronunciation_ja": "ヴェリャチャ",
+          "note_ja": "u veljači = 〜月に / 日付では veljače を使う"
         },
         {
           "ja": "3月",
           "hr": "ožujak",
-          "pronunciation_ja": "オジュヤク"
+          "pronunciation_ja": "オジュヤク",
+          "note_ja": "u ožujku = 〜月に / 日付では ožujka を使う"
         },
         {
           "ja": "4月",
           "hr": "travanj",
-          "pronunciation_ja": "トラヴァニ"
+          "pronunciation_ja": "トラヴァニ",
+          "note_ja": "u travnju = 〜月に / 日付では travnja を使う"
         },
         {
           "ja": "5月",
           "hr": "svibanj",
-          "pronunciation_ja": "スヴィバニ"
+          "pronunciation_ja": "スヴィバニ",
+          "note_ja": "u svibnju = 〜月に / 日付では svibnja を使う"
         },
         {
           "ja": "6月",
           "hr": "lipanj",
-          "pronunciation_ja": "リパニ"
+          "pronunciation_ja": "リパニ",
+          "note_ja": "u lipnju = 〜月に / 日付では lipnja を使う"
         },
         {
           "ja": "7月",
           "hr": "srpanj",
-          "pronunciation_ja": "スルパニ"
+          "pronunciation_ja": "スルパニ",
+          "note_ja": "u srpnju = 〜月に / 日付では srpnja を使う"
         },
         {
           "ja": "8月",
           "hr": "kolovoz",
-          "pronunciation_ja": "コロヴォズ"
+          "pronunciation_ja": "コロヴォズ",
+          "note_ja": "u kolovozu = 〜月に / 日付では kolovoza を使う"
         },
         {
           "ja": "9月",
           "hr": "rujan",
-          "pronunciation_ja": "ルヤン"
+          "pronunciation_ja": "ルヤン",
+          "note_ja": "u rujnu = 〜月に / 日付では rujna を使う"
         },
         {
           "ja": "10月",
           "hr": "listopad",
-          "pronunciation_ja": "リストパド"
+          "pronunciation_ja": "リストパド",
+          "note_ja": "u listopadu = 〜月に / 日付では listopada を使う"
         },
         {
           "ja": "11月",
           "hr": "studeni",
-          "pronunciation_ja": "ストゥデニ"
+          "pronunciation_ja": "ストゥデニ",
+          "note_ja": "u studenom = 〜月に / 日付では studenoga を使う"
         },
         {
           "ja": "12月",
           "hr": "prosinac",
-          "pronunciation_ja": "プロシナツ"
+          "pronunciation_ja": "プロシナツ",
+          "note_ja": "u prosincu = 〜月に / 日付では prosinca を使う"
+        }
+      ]
+    },
+    {
+      "id": "month_examples",
+      "title_ja": "月を含む例文",
+      "items": [
+        {
+          "ja": "私は7月に行きます。",
+          "hr": "Idem u srpnju.",
+          "pronunciation_ja": "イデム ウ スルプニュ",
+          "note_ja": "u + 月の処格"
+        },
+        {
+          "ja": "8月は暑いです。",
+          "hr": "U kolovozu je vruće.",
+          "pronunciation_ja": "ウ コロヴォズ イェ ヴルチェ",
+          "note_ja": "月を文頭に置ける"
+        },
+        {
+          "ja": "6月5日",
+          "hr": "peti lipnja",
+          "pronunciation_ja": "ペティ リプニャ",
+          "note_ja": "日付では月が属格形"
         }
       ]
     }

@@ -1,0 +1,67 @@
+{
+  "id": "dates",
+  "title_ja": "日付表現",
+  "title_hr": "Datumi",
+  "sections": [
+    {
+      "id": "date_basic",
+      "title_ja": "日付の基本",
+      "items": [
+        {
+          "ja": "今日は何日ですか？",
+          "hr": "Koji je danas datum?",
+          "pronunciation_ja": "コイ イェ ダナス ダトゥム",
+          "note_ja": "日付を聞く表現"
+        },
+        {
+          "ja": "今日は6月5日です。",
+          "hr": "Danas je peti lipnja.",
+          "pronunciation_ja": "ダナス イェ ペティ リプニャ",
+          "note_ja": "「5番目の6月」= 6月5日。月は属格形になる"
+        },
+        {
+          "ja": "明日",
+          "hr": "sutra",
+          "pronunciation_ja": "ストラ",
+          "note_ja": "日にちではなく相対表現"
+        },
+        {
+          "ja": "来週",
+          "hr": "sljedeći tjedan",
+          "pronunciation_ja": "スリェデチ ティエダン",
+          "note_ja": "旅行予定で便利"
+        },
+        {
+          "ja": "今週末",
+          "hr": "ovaj vikend",
+          "pronunciation_ja": "オヴァイ ヴィケンド",
+          "note_ja": "週末の予定"
+        }
+      ]
+    },
+    {
+      "id": "date_examples",
+      "title_ja": "日付を含む例文",
+      "items": [
+        {
+          "ja": "土曜日に海へ行きます。",
+          "hr": "Idemo na more u subotu.",
+          "pronunciation_ja": "イデモ ナ モレ ウ スボトゥ",
+          "note_ja": "u + 曜日の対格"
+        },
+        {
+          "ja": "7月に旅行します。",
+          "hr": "Putujem u srpnju.",
+          "pronunciation_ja": "プトゥイェム ウ スルプニュ",
+          "note_ja": "u + 月の処格"
+        },
+        {
+          "ja": "船は6月5日に出発します。",
+          "hr": "Brod polazi petog lipnja.",
+          "pronunciation_ja": "ブロド ポラジ ペトグ リプニャ",
+          "note_ja": "日付では序数＋月の属格を使う"
+        }
+      ]
+    }
+  ]
+}

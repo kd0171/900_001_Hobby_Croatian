@@ -209,3 +209,24 @@ body {
   .list-card-head { flex-direction: column; }
   .list-target-text { font-size: 1.25rem; }
 }
+
+.scrollable-list {
+  max-height: 70vh;
+  overflow-y: auto;
+  padding-right: 8px;
+}
+.scrollable-card {
+  max-height: 78vh;
+  overflow-y: auto;
+}
+.reference-scroll {
+  max-height: 74vh;
+  overflow-y: auto;
+  padding-right: 8px;
+}
+.small-table th {
+  white-space: nowrap;
+}
+.small-table td, .reference-table td {
+  vertical-align: top;
+}

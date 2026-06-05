@@ -59,6 +59,66 @@
           "pronunciation_ja": "ウ デセット サティ"
         }
       ]
+    },
+    {
+      "id": "clock_time",
+      "title_ja": "時刻表現",
+      "items": [
+        {
+          "ja": "1時",
+          "hr": "jedan sat",
+          "pronunciation_ja": "イェダン サト",
+          "note_ja": "1時は単数 sat"
+        },
+        {
+          "ja": "2時",
+          "hr": "dva sata",
+          "pronunciation_ja": "ドヴァ サタ",
+          "note_ja": "2〜4は sata"
+        },
+        {
+          "ja": "5時",
+          "hr": "pet sati",
+          "pronunciation_ja": "ペト サティ",
+          "note_ja": "5以上は sati"
+        },
+        {
+          "ja": "10時に",
+          "hr": "u deset sati",
+          "pronunciation_ja": "ウ デセット サティ",
+          "note_ja": "u + 時刻"
+        },
+        {
+          "ja": "何時ですか？",
+          "hr": "Koliko je sati?",
+          "pronunciation_ja": "コリコ イェ サティ",
+          "note_ja": "時刻を尋ねる"
+        }
+      ]
+    },
+    {
+      "id": "time_examples",
+      "title_ja": "時間を含む例文",
+      "items": [
+        {
+          "ja": "船は10時に出発します。",
+          "hr": "Brod polazi u deset sati.",
+          "pronunciation_ja": "ブロド ポラジ ウ デセット サティ",
+          "note_ja": "polazi = 出発します"
+        },
+        {
+          "ja": "店は20時まで開いています。",
+          "hr": "Trgovina je otvorena do dvadeset sati.",
+          "pronunciation_ja": "トルゴヴィナ イェ オトヴォレナ ド ドヴァデセット サティ",
+          "note_ja": "do = 〜まで"
+        },
+        {
+          "ja": "明日の朝に行きます。",
+          "hr": "Idemo sutra ujutro.",
+          "pronunciation_ja": "イデモ ストラ ウユトロ",
+          "note_ja": "sutra = 明日"
+        }
+      ]
     }
   ]
 }

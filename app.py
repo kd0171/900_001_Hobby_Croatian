@@ -71,11 +71,12 @@ def card_header(title: str, subtitle: str | None = None):
     ])
 
 
-def render_key_value_table(rows: List[Dict[str, str]], headers: List[str] | None = None):
+def render_key_value_table(rows: List[Dict[str, str]], headers: List[str] | None = None, header_labels: Dict[str, str] | None = None):
     if not rows:
         return html.Div("未登録です。", className="muted")
     headers = headers or list(rows[0].keys())
-    table_rows = [html.Tr([html.Th(h) for h in headers])]
+    header_labels = header_labels or {}
+    table_rows = [html.Tr([html.Th(header_labels.get(h, h)) for h in headers])]
     for row in rows:
         table_rows.append(html.Tr([html.Td(row.get(h, "")) for h in headers]))
     return dbc.Table(table_rows, bordered=True, hover=True, responsive=True, className="small-table")
@@ -106,16 +107,38 @@ def render_inflection_block(item: Dict[str, Any]):
     if grammar.get("note_ja"):
         blocks.append(html.P(grammar["note_ja"], className="mb-2"))
     if grammar.get("declension"):
-        blocks.append(html.H6("格変化・形の確認"))
-        blocks.append(render_key_value_table(grammar["declension"], ["case", "singular", "plural", "note"]))
+        blocks.append(html.H6("格変化：単数・複数の全7格"))
+        blocks.append(render_key_value_table(
+            grammar["declension"],
+            ["case_ja", "case_hr", "singular", "plural", "main_use_ja"],
+            {"case_ja":"格", "case_hr":"クロアチア語名", "singular":"単数", "plural":"複数", "main_use_ja":"主な使い方"}
+        ))
+    if grammar.get("prepositional_examples"):
+        blocks.append(html.H6("代表的な前置詞との組み合わせ"))
+        blocks.append(render_key_value_table(
+            grammar["prepositional_examples"],
+            ["phrase_hr", "pronunciation_ja", "meaning_ja", "note_ja"],
+            {"phrase_hr":"前置詞句", "pronunciation_ja":"カタカナ", "meaning_ja":"意味", "note_ja":"メモ"}
+        ))
     if grammar.get("conjugation"):
-        blocks.append(html.H6("動詞変化の確認"))
-        blocks.append(render_key_value_table(grammar["conjugation"], ["person", "form", "ja"]))
+        blocks.append(html.H6("動詞変化：現在形"))
+        blocks.append(render_key_value_table(
+            grammar["conjugation"],
+            ["person", "form", "pronunciation_ja", "ja"],
+            {"person":"人称", "form":"形", "pronunciation_ja":"カタカナ", "ja":"意味"}
+        ))
+    if grammar.get("imperative"):
+        blocks.append(html.H6("命令・依頼でよく使う形"))
+        blocks.append(render_key_value_table(
+            grammar["imperative"],
+            ["label", "form", "pronunciation_ja", "ja"],
+            {"label":"形", "form":"クロアチア語", "pronunciation_ja":"カタカナ", "ja":"意味"}
+        ))
     if grammar.get("forms"):
         blocks.append(html.H6("語形の確認"))
-        blocks.append(render_key_value_table(grammar["forms"], ["label", "form", "note"]))
+        blocks.append(render_key_value_table(grammar["forms"], ["label", "form", "pronunciation_ja", "note"]))
     if not blocks:
-        blocks.append(html.Div("この単語の変化表はまだ未登録です。", className="muted"))
+        blocks.append(html.Div("この単語は、初級旅行表現では固定表現として扱います。変化表は必要に応じて後から追加できます。", className="muted"))
     return html.Div(blocks)
 
 
@@ -158,6 +181,18 @@ def render_vocab_item(item: Dict[str, Any]):
 
 def render_sentence_item(item: Dict[str, Any]):
     grammar = item.get("grammar", {})
+    grammar_blocks = [
+        html.H6(grammar.get("title", "文法解説")),
+        html.P(grammar.get("explanation_ja", "文法解説は未登録です。")),
+    ]
+    for table in grammar.get("tables", []):
+        grammar_blocks.append(html.H6(table.get("title_ja", "表")))
+        headers = table.get("headers") or (list(table.get("rows", [{}])[0].keys()) if table.get("rows") else [])
+        labels = table.get("header_labels", {})
+        grammar_blocks.append(render_key_value_table(table.get("rows", []), headers, labels))
+    if grammar.get("notes"):
+        grammar_blocks.append(html.H6("補足"))
+        grammar_blocks.append(html.Ul([html.Li(n) for n in grammar.get("notes", [])]))
     return dbc.Card(dbc.CardBody([
         html.Div(item.get("hr", ""), className="list-target-text"),
         html.Div(item.get("pronunciation_ja", ""), className="list-pronunciation"),
@@ -168,8 +203,7 @@ def render_sentence_item(item: Dict[str, Any]):
                 html.H6("単語ごとの意味"),
                 render_tokens(item.get("tokens")),
                 html.Hr(),
-                html.H6(grammar.get("title", "文法解説")),
-                html.P(grammar.get("explanation_ja", "文法解説は未登録です。")),
+                html.Div(grammar_blocks),
             ], className="details-box"),
         ], className="native-details"),
     ]), className="list-item-card")
@@ -186,7 +220,7 @@ def render_paginated_list(title: str, subtitle: str, items: List[Dict[str, Any]]
     return dbc.Card(dbc.CardBody([
         card_header(title, subtitle),
         html.Div(f"{len(items)}件中 {start + 1}〜{min(end, len(items))}件を表示 / ページ {page + 1}/{total_pages}", className="muted mb-3"),
-        html.Div([renderer(item) for item in visible_items], className="list-stack"),
+        html.Div([renderer(item) for item in visible_items], className="list-stack scrollable-list"),
         html.Div("左側の「次へ / 次ページ」で次の20件を表示できます。", className="muted mt-3"),
     ]), className="main-card")
 
@@ -294,7 +328,7 @@ def render_dialogue_card(item: Dict[str, Any]):
         html.Hr(),
         html.H4("読解問題"),
         html.Div(questions),
-    ]), className="main-card")
+    ]), className="main-card scrollable-card")
 
 
 def render_reference(ref_id: str):
@@ -315,7 +349,7 @@ def render_reference(ref_id: str):
         ], className="reference-section"))
     return dbc.Card(dbc.CardBody([
         card_header(f"参考ページ：{ref.get('title_ja', '')}", ref.get("title_hr", "")),
-        html.Div(section_cards)
+        html.Div(section_cards, className="reference-scroll")
     ]), className="main-card")
 
 
